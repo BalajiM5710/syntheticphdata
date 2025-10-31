@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AW-8971",
+      "invoice_date": "07/08/2025",
+      "seller": "VISHWA ELECTRONICS 30/20, Modi Zila, Tezpur-393409",
+      "client": "BHAVANI NADKARNI 19/50, Krishnan Chowk, Surat-103729",
+      "seller_tax_id": "09CQZKS3579C1ZH",
+      "client_tax_id": "22YCVGO6432Q1ZC",
+      "client_phone": "06511800158"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-618Z",
+        "item_qty": "2",
+        "item_net_price": "55,563.58",
+        "item_net_worth": "111,127.16",
+        "item_vat": "18%",
+        "item_gross_worth": "131,130.05"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-376A",
+        "item_qty": "2",
+        "item_net_price": "52,322.66",
+        "item_net_worth": "104,645.32",
+        "item_vat": "18%",
+        "item_gross_worth": "123,481.48"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-451H",
+        "item_qty": "1",
+        "item_net_price": "80,941.11",
+        "item_net_worth": "80,941.11",
+        "item_vat": "18%",
+        "item_gross_worth": "95,510.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,713.59",
+      "total_vat": "₹53,408.45",
+      "total_gross_worth": "₹350,122.04"
+    }
+  }
+}

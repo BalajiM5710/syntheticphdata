@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UH-7557",
+      "invoice_date": "09/03/2025",
+      "seller": "STAR ELECTRONICS 74, Deshpande, Bhiwani 911081",
+      "client": "KAI SANE 40/838, Sunder Circle, Bhalswa Jahangir Pur-412180",
+      "seller_tax_id": "37VFMLA1494P1Z6",
+      "client_tax_id": "25IIDTR4825E1ZZ",
+      "client_phone": "09015946721"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-772E",
+        "item_qty": "2",
+        "item_net_price": "183,950.05",
+        "item_net_worth": "367,900.10",
+        "item_vat": "18%",
+        "item_gross_worth": "434,122.12"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-871R",
+        "item_qty": "1",
+        "item_net_price": "87,153.36",
+        "item_net_worth": "87,153.36",
+        "item_vat": "18%",
+        "item_gross_worth": "102,840.96"
+      },
+      {
+        "item_desc": "Sony Camera SON-349O",
+        "item_qty": "1",
+        "item_net_price": "86,269.99",
+        "item_net_worth": "86,269.99",
+        "item_vat": "18%",
+        "item_gross_worth": "101,798.59"
+      },
+      {
+        "item_desc": "Sony Headphones SON-260P",
+        "item_qty": "2",
+        "item_net_price": "17,490.32",
+        "item_net_worth": "34,980.64",
+        "item_vat": "18%",
+        "item_gross_worth": "41,277.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹576,304.09",
+      "total_vat": "₹103,734.74",
+      "total_gross_worth": "₹680,038.83"
+    }
+  }
+}

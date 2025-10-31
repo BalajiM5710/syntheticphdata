@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XF-9380",
+      "invoice_date": "06/09/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 341, Luthra Zila, Mira-Bhayandar-655904",
+      "client": "LAKSHIT DEVI 00/97, Keer Circle, Etawah-086635",
+      "seller_tax_id": "37IWDDP4557C1ZA",
+      "client_tax_id": "12PUSZT7032L1ZK",
+      "client_phone": "06847974188"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-110M",
+        "item_qty": "1",
+        "item_net_price": "70,447.78",
+        "item_net_worth": "70,447.78",
+        "item_vat": "18%",
+        "item_gross_worth": "83,128.38"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-860S",
+        "item_qty": "2",
+        "item_net_price": "145,648.42",
+        "item_net_worth": "291,296.84",
+        "item_vat": "18%",
+        "item_gross_worth": "343,730.27"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-966Z",
+        "item_qty": "2",
+        "item_net_price": "80,824.66",
+        "item_net_worth": "161,649.32",
+        "item_vat": "18%",
+        "item_gross_worth": "190,746.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹523,393.94",
+      "total_vat": "₹94,210.91",
+      "total_gross_worth": "₹617,604.85"
+    }
+  }
+}

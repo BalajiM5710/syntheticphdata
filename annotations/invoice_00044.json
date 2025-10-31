@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SQ-4180",
+      "invoice_date": "04/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 07/30, Desai Circle, Katihar 366230",
+      "client": "BARKHA PANDIT H.No. 06, Balan Chowk, Lucknow 410385",
+      "seller_tax_id": "24ZSBUO3931X1Z8",
+      "client_tax_id": "10QOTBN9604U1ZT",
+      "client_phone": "09474596615"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-265F",
+        "item_qty": "2",
+        "item_net_price": "57,832.81",
+        "item_net_worth": "115,665.62",
+        "item_vat": "18%",
+        "item_gross_worth": "136,485.43"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-598B",
+        "item_qty": "2",
+        "item_net_price": "79,840.96",
+        "item_net_worth": "159,681.92",
+        "item_vat": "18%",
+        "item_gross_worth": "188,424.67"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-718F",
+        "item_qty": "1",
+        "item_net_price": "89,791.01",
+        "item_net_worth": "89,791.01",
+        "item_vat": "18%",
+        "item_gross_worth": "105,953.39"
+      },
+      {
+        "item_desc": "LG Television LG-296D",
+        "item_qty": "1",
+        "item_net_price": "146,584.54",
+        "item_net_worth": "146,584.54",
+        "item_vat": "18%",
+        "item_gross_worth": "172,969.76"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹511,723.09",
+      "total_vat": "₹92,110.16",
+      "total_gross_worth": "₹603,833.25"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UK-5361",
+      "invoice_date": "06/02/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 02, Tata Zila, Chandigarh-091397",
+      "client": "AGASTYA SETTY H.No. 34, Deshpande Marg, Kozhikode 471073",
+      "seller_tax_id": "11DWJXK8143G1Z5",
+      "client_tax_id": "31NIVTB1645O1Z6",
+      "client_phone": "4449572070"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-765P",
+        "item_qty": "1",
+        "item_net_price": "76,271.47",
+        "item_net_worth": "76,271.47",
+        "item_vat": "18%",
+        "item_gross_worth": "90,000.33"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-777W",
+        "item_qty": "1",
+        "item_net_price": "80,093.97",
+        "item_net_worth": "80,093.97",
+        "item_vat": "18%",
+        "item_gross_worth": "94,510.88"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-930H",
+        "item_qty": "2",
+        "item_net_price": "79,154.43",
+        "item_net_worth": "158,308.86",
+        "item_vat": "18%",
+        "item_gross_worth": "186,804.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹314,674.30",
+      "total_vat": "₹56,641.37",
+      "total_gross_worth": "₹371,315.67"
+    }
+  }
+}

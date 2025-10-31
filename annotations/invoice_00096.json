@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IR-6271",
+      "invoice_date": "03/07/2025",
+      "seller": "ELECTRONICS WORLD 82/366, Misra Circle, Udupi 930427",
+      "client": "EESHA JANI 938, Tiwari, Dewas-162950",
+      "seller_tax_id": "06RNTTC2213K1Z6",
+      "client_tax_id": "06XETKC5787I1ZH",
+      "client_phone": "04077780016"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-296X IMEI: 425864639755254",
+        "item_qty": "1",
+        "item_net_price": "40,890.01",
+        "item_net_worth": "40,890.01",
+        "item_vat": "18%",
+        "item_gross_worth": "48,250.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹40,890.01",
+      "total_vat": "₹7,360.20",
+      "total_gross_worth": "₹48,250.21"
+    }
+  }
+}

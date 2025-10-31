@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HI-2497",
+      "invoice_date": "17/10/2025",
+      "seller": "RAM ELECTRONICS H.No. 446, Barad Street, Cuttack 814422",
+      "client": "NAVEEN DEY 16, Nagar Zila, Mumbai-237400",
+      "seller_tax_id": "25FYUIX2375U1ZH",
+      "client_tax_id": "15WEQRK3079M1Z2",
+      "client_phone": "01179565620"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-101P",
+        "item_qty": "2",
+        "item_net_price": "50,121.74",
+        "item_net_worth": "100,243.48",
+        "item_vat": "18%",
+        "item_gross_worth": "118,287.31"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-883D",
+        "item_qty": "1",
+        "item_net_price": "75,508.40",
+        "item_net_worth": "75,508.40",
+        "item_vat": "18%",
+        "item_gross_worth": "89,099.91"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-195G",
+        "item_qty": "2",
+        "item_net_price": "70,285.21",
+        "item_net_worth": "140,570.42",
+        "item_vat": "18%",
+        "item_gross_worth": "165,873.10"
+      },
+      {
+        "item_desc": "Apple Tablets APP-108I",
+        "item_qty": "1",
+        "item_net_price": "22,402.14",
+        "item_net_worth": "22,402.14",
+        "item_vat": "18%",
+        "item_gross_worth": "26,434.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹338,724.44",
+      "total_vat": "₹60,970.40",
+      "total_gross_worth": "₹399,694.84"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SJ-9674",
+      "invoice_date": "10/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 488, Dube Circle, Secunderabad 394697",
+      "client": "MAX TRIPATHI 56/37, Amble Nagar, Bidhannagar-603017",
+      "seller_tax_id": "07MEJRL8047V1Z3",
+      "client_tax_id": "28DFXGM4320G1ZY",
+      "client_phone": "02637615262"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-566I",
+        "item_qty": "1",
+        "item_net_price": "45,811.64",
+        "item_net_worth": "45,811.64",
+        "item_vat": "18%",
+        "item_gross_worth": "54,057.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹45,811.64",
+      "total_vat": "₹8,246.10",
+      "total_gross_worth": "₹54,057.74"
+    }
+  }
+}

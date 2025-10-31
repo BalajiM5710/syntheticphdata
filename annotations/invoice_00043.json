@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KW-3961",
+      "invoice_date": "22/07/2025",
+      "seller": "SUPREME ELECTRONICS 33, Keer Zila, Secunderabad 180046",
+      "client": "YASHAWINI VALA H.No. 333, Nanda Ganj, Hubli–Dharwad 442854",
+      "seller_tax_id": "34HUZDL6234F1ZF",
+      "client_tax_id": "13WSTXU3175J1ZD",
+      "client_phone": "+914102554346"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-556Z",
+        "item_qty": "2",
+        "item_net_price": "14,777.71",
+        "item_net_worth": "29,555.42",
+        "item_vat": "18%",
+        "item_gross_worth": "34,875.40"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-653N",
+        "item_qty": "2",
+        "item_net_price": "55,280.75",
+        "item_net_worth": "110,561.50",
+        "item_vat": "18%",
+        "item_gross_worth": "130,462.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹140,116.92",
+      "total_vat": "₹25,221.05",
+      "total_gross_worth": "₹165,337.97"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SQ-3040",
+      "invoice_date": "15/10/2025",
+      "seller": "TECH BAZAAR 80/50, Master, Tirupati-030699",
+      "client": "AVI RAJAGOPAL 62/46, Banik Circle, Nandyal 785167",
+      "seller_tax_id": "06DSNEQ7396X1ZV",
+      "client_tax_id": "18NSLLG4720J1ZF",
+      "client_phone": "8033639813"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-280X",
+        "item_qty": "1",
+        "item_net_price": "54,898.38",
+        "item_net_worth": "54,898.38",
+        "item_vat": "18%",
+        "item_gross_worth": "64,780.09"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-108Y",
+        "item_qty": "2",
+        "item_net_price": "25,697.69",
+        "item_net_worth": "51,395.38",
+        "item_vat": "18%",
+        "item_gross_worth": "60,646.55"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-840F",
+        "item_qty": "1",
+        "item_net_price": "245,050.61",
+        "item_net_worth": "245,050.61",
+        "item_vat": "18%",
+        "item_gross_worth": "289,159.72"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-262H",
+        "item_qty": "1",
+        "item_net_price": "36,877.99",
+        "item_net_worth": "36,877.99",
+        "item_vat": "18%",
+        "item_gross_worth": "43,516.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹388,222.36",
+      "total_vat": "₹69,880.02",
+      "total_gross_worth": "₹458,102.38"
+    }
+  }
+}

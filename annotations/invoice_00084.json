@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DN-6672",
+      "invoice_date": "24/01/2025",
+      "seller": "SINGH ELECTRONICS 37/041, Bhalla Zila, Berhampur-597807",
+      "client": "ANMOL GADE 05/98, Char Road, Tadipatri 085950",
+      "seller_tax_id": "05CALJI8642K1Z8",
+      "client_tax_id": "01CLCRH1305I1Z4",
+      "client_phone": "+912684671523"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-911I",
+        "item_qty": "1",
+        "item_net_price": "61,779.87",
+        "item_net_worth": "61,779.87",
+        "item_vat": "18%",
+        "item_gross_worth": "72,900.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹61,779.87",
+      "total_vat": "₹11,120.38",
+      "total_gross_worth": "₹72,900.25"
+    }
+  }
+}

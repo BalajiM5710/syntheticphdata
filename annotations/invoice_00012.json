@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QW-7121",
+      "invoice_date": "06/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 16, Choudhary Path, South Dumdum-889460",
+      "client": "HARSH MANN 10, Om Ganj, Kadapa-292298",
+      "seller_tax_id": "04QHNCQ3370K1Z1",
+      "client_tax_id": "04TZGSY9478H1ZZ",
+      "client_phone": "3203073581"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-226Y",
+        "item_qty": "1",
+        "item_net_price": "104,224.09",
+        "item_net_worth": "104,224.09",
+        "item_vat": "18%",
+        "item_gross_worth": "122,984.43"
+      },
+      {
+        "item_desc": "Sony Camera SON-967H",
+        "item_qty": "1",
+        "item_net_price": "14,600.09",
+        "item_net_worth": "14,600.09",
+        "item_vat": "18%",
+        "item_gross_worth": "17,228.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹118,824.18",
+      "total_vat": "₹21,388.35",
+      "total_gross_worth": "₹140,212.53"
+    }
+  }
+}

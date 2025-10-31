@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RZ-6158",
+      "invoice_date": "05/05/2025",
+      "seller": "DIGITAL STORE 62, Peri Circle, Akola 370613",
+      "client": "BALENDRA VALA 349, Muni Circle, Mumbai-393793",
+      "seller_tax_id": "06QDUTS5107C1ZR",
+      "client_tax_id": "15UVMYX4606D1ZM",
+      "client_phone": "+914148052505"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-186O",
+        "item_qty": "1",
+        "item_net_price": "165,679.33",
+        "item_net_worth": "165,679.33",
+        "item_vat": "18%",
+        "item_gross_worth": "195,501.61"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-156S",
+        "item_qty": "1",
+        "item_net_price": "37,596.79",
+        "item_net_worth": "37,596.79",
+        "item_vat": "18%",
+        "item_gross_worth": "44,364.21"
+      },
+      {
+        "item_desc": "Apple Tablets APP-378F",
+        "item_qty": "1",
+        "item_net_price": "69,483.48",
+        "item_net_worth": "69,483.48",
+        "item_vat": "18%",
+        "item_gross_worth": "81,990.51"
+      },
+      {
+        "item_desc": "Canon Camera CAN-107R",
+        "item_qty": "1",
+        "item_net_price": "41,484.81",
+        "item_net_worth": "41,484.81",
+        "item_vat": "18%",
+        "item_gross_worth": "48,952.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹314,244.41",
+      "total_vat": "₹56,563.99",
+      "total_gross_worth": "₹370,808.40"
+    }
+  }
+}

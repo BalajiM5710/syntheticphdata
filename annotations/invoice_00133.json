@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MQ-2849",
+      "invoice_date": "04/01/2025",
+      "seller": "RAM ELECTRONICS 65/333, Agate Circle, Karimnagar 717617",
+      "client": "ORINDER TANDON 455, Saxena Street, Panvel 505823",
+      "seller_tax_id": "22TJAVU9960F1ZD",
+      "client_tax_id": "13QLVRL9947Q1ZV",
+      "client_phone": "6039544969"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-143Y",
+        "item_qty": "1",
+        "item_net_price": "33,958.79",
+        "item_net_worth": "33,958.79",
+        "item_vat": "18%",
+        "item_gross_worth": "40,071.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹33,958.79",
+      "total_vat": "₹6,112.58",
+      "total_gross_worth": "₹40,071.37"
+    }
+  }
+}

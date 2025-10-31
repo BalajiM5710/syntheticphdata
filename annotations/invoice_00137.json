@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FZ-9043",
+      "invoice_date": "27/07/2025",
+      "seller": "PATEL MOBILES H.No. 421, Boase Circle, Saharsa-904144",
+      "client": "CHATRESH DEOL 202, Date Marg, Surat-762541",
+      "seller_tax_id": "20EZFPC6856J1ZD",
+      "client_tax_id": "31RYHBP7465Y1Z3",
+      "client_phone": "05465884414"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-246M",
+        "item_qty": "1",
+        "item_net_price": "81,733.54",
+        "item_net_worth": "81,733.54",
+        "item_vat": "18%",
+        "item_gross_worth": "96,445.58"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-308E IMEI: 915793192598853",
+        "item_qty": "2",
+        "item_net_price": "87,839.67",
+        "item_net_worth": "175,679.34",
+        "item_vat": "18%",
+        "item_gross_worth": "207,301.62"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-388I",
+        "item_qty": "1",
+        "item_net_price": "84,846.14",
+        "item_net_worth": "84,846.14",
+        "item_vat": "18%",
+        "item_gross_worth": "100,118.45"
+      },
+      {
+        "item_desc": "Sony Headphones SON-978O",
+        "item_qty": "1",
+        "item_net_price": "29,711.73",
+        "item_net_worth": "29,711.73",
+        "item_vat": "18%",
+        "item_gross_worth": "35,059.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹371,970.75",
+      "total_vat": "₹66,954.74",
+      "total_gross_worth": "₹438,925.48"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FY-3369",
+      "invoice_date": "17/04/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 49, Bhardwaj Zila, Ongole-655135",
+      "client": "OM LANKA H.No. 648, Bansal Street, Ballia-069390",
+      "seller_tax_id": "31HOFVF1270Y1ZX",
+      "client_tax_id": "35KIJJH4732D1ZK",
+      "client_phone": "1377977895"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-223W",
+        "item_qty": "2",
+        "item_net_price": "111,997.61",
+        "item_net_worth": "223,995.22",
+        "item_vat": "18%",
+        "item_gross_worth": "264,314.36"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-322I",
+        "item_qty": "2",
+        "item_net_price": "168,008.25",
+        "item_net_worth": "336,016.50",
+        "item_vat": "18%",
+        "item_gross_worth": "396,499.47"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-402Q",
+        "item_qty": "1",
+        "item_net_price": "46,354.70",
+        "item_net_worth": "46,354.70",
+        "item_vat": "18%",
+        "item_gross_worth": "54,698.55"
+      },
+      {
+        "item_desc": "TVS Bike TVS-214U",
+        "item_qty": "2",
+        "item_net_price": "157,345.86",
+        "item_net_worth": "314,691.72",
+        "item_vat": "18%",
+        "item_gross_worth": "371,336.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹921,058.14",
+      "total_vat": "₹165,790.47",
+      "total_gross_worth": "₹1,086,848.61"
+    }
+  }
+}

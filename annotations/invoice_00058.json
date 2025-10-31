@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AA-1874",
+      "invoice_date": "28/10/2025",
+      "seller": "SINGH ELECTRONICS H.No. 33, Kohli Marg, Ahmedabad 241181",
+      "client": "CALEB RATTI 83/768, Ganesan Nagar, Saharanpur-282029",
+      "seller_tax_id": "06UXZJY2861H1ZN",
+      "client_tax_id": "31OYIPI7683Z1Z4",
+      "client_phone": "+912580711149"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-275J",
+        "item_qty": "2",
+        "item_net_price": "122,459.06",
+        "item_net_worth": "244,918.12",
+        "item_vat": "18%",
+        "item_gross_worth": "289,003.38"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-114O",
+        "item_qty": "1",
+        "item_net_price": "63,613.64",
+        "item_net_worth": "63,613.64",
+        "item_vat": "18%",
+        "item_gross_worth": "75,064.10"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-289B",
+        "item_qty": "1",
+        "item_net_price": "78,710.33",
+        "item_net_worth": "78,710.33",
+        "item_vat": "18%",
+        "item_gross_worth": "92,878.19"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-196E",
+        "item_qty": "1",
+        "item_net_price": "59,957.64",
+        "item_net_worth": "59,957.64",
+        "item_vat": "18%",
+        "item_gross_worth": "70,750.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹447,199.73",
+      "total_vat": "₹80,495.95",
+      "total_gross_worth": "₹527,695.68"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GA-9925",
+      "invoice_date": "13/04/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 262, Rau Marg, Ghaziabad 737044",
+      "client": "PARTH SAGAR 66/456, Varghese Street, Baranagar-448518",
+      "seller_tax_id": "05HCKDW1943T1Z0",
+      "client_tax_id": "19KTWOF2926H1ZY",
+      "client_phone": "+916810960388"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-318C",
+        "item_qty": "2",
+        "item_net_price": "80,331.47",
+        "item_net_worth": "160,662.94",
+        "item_vat": "18%",
+        "item_gross_worth": "189,582.27"
+      },
+      {
+        "item_desc": "Hero Bike HER-412P",
+        "item_qty": "2",
+        "item_net_price": "86,031.90",
+        "item_net_worth": "172,063.80",
+        "item_vat": "18%",
+        "item_gross_worth": "203,035.28"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-351T",
+        "item_qty": "2",
+        "item_net_price": "9,429.31",
+        "item_net_worth": "18,858.62",
+        "item_vat": "18%",
+        "item_gross_worth": "22,253.17"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-849J",
+        "item_qty": "1",
+        "item_net_price": "76,835.20",
+        "item_net_worth": "76,835.20",
+        "item_vat": "18%",
+        "item_gross_worth": "90,665.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹428,420.56",
+      "total_vat": "₹77,115.70",
+      "total_gross_worth": "₹505,536.26"
+    }
+  }
+}

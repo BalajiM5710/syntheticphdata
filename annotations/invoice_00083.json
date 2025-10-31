@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UQ-8769",
+      "invoice_date": "05/02/2025",
+      "seller": "STAR ELECTRONICS H.No. 852, Babu Street, Madurai-302492",
+      "client": "NITESH VISWANATHAN 28/06, Rai, Nagaon-239285",
+      "seller_tax_id": "09JVFLJ5673R1ZK",
+      "client_tax_id": "08ZXKNE5360P1ZA",
+      "client_phone": "9381848043"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-910M",
+        "item_qty": "1",
+        "item_net_price": "55,788.81",
+        "item_net_worth": "55,788.81",
+        "item_vat": "18%",
+        "item_gross_worth": "65,830.80"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-359G",
+        "item_qty": "2",
+        "item_net_price": "77,389.48",
+        "item_net_worth": "154,778.96",
+        "item_vat": "18%",
+        "item_gross_worth": "182,639.17"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-519Q",
+        "item_qty": "2",
+        "item_net_price": "133,541.12",
+        "item_net_worth": "267,082.24",
+        "item_vat": "18%",
+        "item_gross_worth": "315,157.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹477,650.01",
+      "total_vat": "₹85,977.00",
+      "total_gross_worth": "₹563,627.01"
+    }
+  }
+}

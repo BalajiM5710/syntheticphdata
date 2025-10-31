@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NS-4304",
+      "invoice_date": "02/03/2025",
+      "seller": "RAM ELECTRONICS 49, Bail Ganj, Vellore 538365",
+      "client": "PRANIT SARAF 86, Chad Marg, Phagwara 005506",
+      "seller_tax_id": "09HOVGJ9908F1Z7",
+      "client_tax_id": "15EUDQO1461X1ZZ",
+      "client_phone": "09144839922"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-937L",
+        "item_qty": "2",
+        "item_net_price": "27,983.02",
+        "item_net_worth": "55,966.04",
+        "item_vat": "18%",
+        "item_gross_worth": "66,039.93"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-416J",
+        "item_qty": "1",
+        "item_net_price": "93,112.96",
+        "item_net_worth": "93,112.96",
+        "item_vat": "18%",
+        "item_gross_worth": "109,873.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹149,079.00",
+      "total_vat": "₹26,834.22",
+      "total_gross_worth": "₹175,913.22"
+    }
+  }
+}

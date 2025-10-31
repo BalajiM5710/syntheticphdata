@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DS-5767",
+      "invoice_date": "16/04/2025",
+      "seller": "ROYAL MOBILES H.No. 73, Garde Zila, Pondicherry 294342",
+      "client": "XAVIER DESHPANDE H.No. 92, Rai Zila, Kalyan-Dombivli 100086",
+      "seller_tax_id": "28UEEXR9911O1ZC",
+      "client_tax_id": "19DZYZP4967F1ZB",
+      "client_phone": "+910941500386"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-181J",
+        "item_qty": "2",
+        "item_net_price": "118,947.77",
+        "item_net_worth": "237,895.54",
+        "item_vat": "18%",
+        "item_gross_worth": "280,716.74"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-537E",
+        "item_qty": "1",
+        "item_net_price": "244,342.68",
+        "item_net_worth": "244,342.68",
+        "item_vat": "18%",
+        "item_gross_worth": "288,324.36"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-491B",
+        "item_qty": "1",
+        "item_net_price": "97,856.93",
+        "item_net_worth": "97,856.93",
+        "item_vat": "18%",
+        "item_gross_worth": "115,471.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹580,095.15",
+      "total_vat": "₹104,417.13",
+      "total_gross_worth": "₹684,512.28"
+    }
+  }
+}

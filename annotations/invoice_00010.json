@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LI-1596",
+      "invoice_date": "13/06/2025",
+      "seller": "METRO TECH STORE 47, Sandhu Path, Belgaum 039424",
+      "client": "AMRITA SANI 45/70, Loyal Path, Chandrapur-000536",
+      "seller_tax_id": "35ZRESN4493R1Z1",
+      "client_tax_id": "31XOEFQ6984H1ZX",
+      "client_phone": "07336707100"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-232A",
+        "item_qty": "2",
+        "item_net_price": "53,225.40",
+        "item_net_worth": "106,450.80",
+        "item_vat": "18%",
+        "item_gross_worth": "125,611.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹106,450.80",
+      "total_vat": "₹19,161.14",
+      "total_gross_worth": "₹125,611.94"
+    }
+  }
+}

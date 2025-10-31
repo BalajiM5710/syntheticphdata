@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AX-5348",
+      "invoice_date": "20/07/2025",
+      "seller": "SINGH ELECTRONICS 98/002, Kuruvilla, Kollam-106139",
+      "client": "SUDIKSHA SINGH H.No. 58, Apte Marg, Pudukkottai 455576",
+      "seller_tax_id": "13HCRYF4840Y1ZH",
+      "client_tax_id": "27UIUFB9063R1ZE",
+      "client_phone": "+915813347511"
+    },
+    "items": [
+      {
+        "item_desc": "Motorola Smartphones MOT-736Y IMEI: 229664985191433",
+        "item_qty": "1",
+        "item_net_price": "31,104.85",
+        "item_net_worth": "31,104.85",
+        "item_vat": "18%",
+        "item_gross_worth": "36,703.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹31,104.85",
+      "total_vat": "₹5,598.87",
+      "total_gross_worth": "₹36,703.72"
+    }
+  }
+}

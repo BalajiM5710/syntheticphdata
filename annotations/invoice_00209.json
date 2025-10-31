@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NK-2506",
+      "invoice_date": "12/03/2025",
+      "seller": "PATEL MOBILES 206, Dyal Chowk, Suryapet 862203",
+      "client": "CHAITALY KHOSLA 57, Kibe Zila, Hubli–Dharwad-720379",
+      "seller_tax_id": "34AIAJD4816Z1ZH",
+      "client_tax_id": "32IMGLK2766U1Z9",
+      "client_phone": "+910439173707"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-646E",
+        "item_qty": "1",
+        "item_net_price": "45,778.38",
+        "item_net_worth": "45,778.38",
+        "item_vat": "18%",
+        "item_gross_worth": "54,018.49"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-882Y",
+        "item_qty": "2",
+        "item_net_price": "14,144.73",
+        "item_net_worth": "28,289.46",
+        "item_vat": "18%",
+        "item_gross_worth": "33,381.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,067.84",
+      "total_vat": "₹13,332.21",
+      "total_gross_worth": "₹87,400.05"
+    }
+  }
+}

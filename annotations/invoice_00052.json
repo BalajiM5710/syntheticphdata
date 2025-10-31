@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DS-6306",
+      "invoice_date": "26/04/2025",
+      "seller": "METRO TECH STORE 78, Sura Chowk, Pallavaram-551331",
+      "client": "ZAID DOCTOR 21/971, Deshmukh Ganj, Guntakal 026024",
+      "seller_tax_id": "07SQKQR5628B1ZS",
+      "client_tax_id": "07OGAJT7392G1ZM",
+      "client_phone": "7449506636"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-336M",
+        "item_qty": "1",
+        "item_net_price": "25,058.28",
+        "item_net_worth": "25,058.28",
+        "item_vat": "18%",
+        "item_gross_worth": "29,568.77"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-741R",
+        "item_qty": "1",
+        "item_net_price": "78,571.10",
+        "item_net_worth": "78,571.10",
+        "item_vat": "18%",
+        "item_gross_worth": "92,713.90"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-934T",
+        "item_qty": "1",
+        "item_net_price": "77,135.02",
+        "item_net_worth": "77,135.02",
+        "item_vat": "18%",
+        "item_gross_worth": "91,019.32"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-190H",
+        "item_qty": "1",
+        "item_net_price": "32,257.41",
+        "item_net_worth": "32,257.41",
+        "item_vat": "18%",
+        "item_gross_worth": "38,063.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹213,021.81",
+      "total_vat": "₹38,343.93",
+      "total_gross_worth": "₹251,365.74"
+    }
+  }
+}

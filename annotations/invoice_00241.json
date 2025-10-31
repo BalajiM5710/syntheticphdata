@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NL-7318",
+      "invoice_date": "11/04/2025",
+      "seller": "TECH BAZAAR 88/198, Shanker Marg, Pali 262632",
+      "client": "RANVEER SRINIVASAN H.No. 18, Parekh Nagar, Coimbatore 738437",
+      "seller_tax_id": "18NCOHX7511Y1Z3",
+      "client_tax_id": "37SLXGA7786C1ZY",
+      "client_phone": "01536714617"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-696C IMEI: 332468596034939",
+        "item_qty": "2",
+        "item_net_price": "67,636.83",
+        "item_net_worth": "135,273.66",
+        "item_vat": "18%",
+        "item_gross_worth": "159,622.92"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-317G",
+        "item_qty": "2",
+        "item_net_price": "33,026.49",
+        "item_net_worth": "66,052.98",
+        "item_vat": "18%",
+        "item_gross_worth": "77,942.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹201,326.64",
+      "total_vat": "₹36,238.80",
+      "total_gross_worth": "₹237,565.44"
+    }
+  }
+}

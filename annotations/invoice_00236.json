@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RL-1330",
+      "invoice_date": "04/02/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 69, Mishra Nagar, Darbhanga-172956",
+      "client": "CHAAYA TANDON 22/079, Buch, Madhyamgram-488645",
+      "seller_tax_id": "26CLBKG5908Z1Z9",
+      "client_tax_id": "32LRWHK4825M1ZP",
+      "client_phone": "5481898698"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-122Y",
+        "item_qty": "2",
+        "item_net_price": "15,559.00",
+        "item_net_worth": "31,118.00",
+        "item_vat": "18%",
+        "item_gross_worth": "36,719.24"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-237J",
+        "item_qty": "2",
+        "item_net_price": "146,814.81",
+        "item_net_worth": "293,629.62",
+        "item_vat": "18%",
+        "item_gross_worth": "346,482.95"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-406Y",
+        "item_qty": "2",
+        "item_net_price": "28,144.79",
+        "item_net_worth": "56,289.58",
+        "item_vat": "18%",
+        "item_gross_worth": "66,421.70"
+      },
+      {
+        "item_desc": "Apple Tablets APP-957B",
+        "item_qty": "1",
+        "item_net_price": "70,942.84",
+        "item_net_worth": "70,942.84",
+        "item_vat": "18%",
+        "item_gross_worth": "83,712.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹451,980.04",
+      "total_vat": "₹81,356.41",
+      "total_gross_worth": "₹533,336.45"
+    }
+  }
+}

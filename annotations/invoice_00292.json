@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DL-9267",
+      "invoice_date": "27/01/2025",
+      "seller": "SINGH ELECTRONICS 82/03, Sane, Nagercoil 797760",
+      "client": "SUHANI BORDE 02, Raj Street, Sasaram-294676",
+      "seller_tax_id": "28CVPIJ2645I1ZU",
+      "client_tax_id": "07BMAXA2796C1ZL",
+      "client_phone": "01990098485"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-494Y",
+        "item_qty": "2",
+        "item_net_price": "88,473.99",
+        "item_net_worth": "176,947.98",
+        "item_vat": "18%",
+        "item_gross_worth": "208,798.62"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-848T",
+        "item_qty": "2",
+        "item_net_price": "41,230.46",
+        "item_net_worth": "82,460.92",
+        "item_vat": "18%",
+        "item_gross_worth": "97,303.89"
+      },
+      {
+        "item_desc": "Hero Bike HER-729T",
+        "item_qty": "1",
+        "item_net_price": "109,124.77",
+        "item_net_worth": "109,124.77",
+        "item_vat": "18%",
+        "item_gross_worth": "128,767.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹368,533.67",
+      "total_vat": "₹66,336.06",
+      "total_gross_worth": "₹434,869.73"
+    }
+  }
+}

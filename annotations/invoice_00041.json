@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HW-4361",
+      "invoice_date": "04/06/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 27, Dhar Zila, Phagwara 982178",
+      "client": "CHASMUM PAL 64, Bajaj Ganj, Kavali 761748",
+      "seller_tax_id": "10HIPVV8100Z1ZU",
+      "client_tax_id": "06CMFYJ9166T1ZB",
+      "client_phone": "+914819905841"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-633D",
+        "item_qty": "2",
+        "item_net_price": "80,139.44",
+        "item_net_worth": "160,278.88",
+        "item_vat": "18%",
+        "item_gross_worth": "189,129.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹160,278.88",
+      "total_vat": "₹28,850.20",
+      "total_gross_worth": "₹189,129.08"
+    }
+  }
+}

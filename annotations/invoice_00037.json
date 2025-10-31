@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FM-8520",
+      "invoice_date": "15/10/2025",
+      "seller": "VISHWA ELECTRONICS 46, Puri Path, Jaunpur 793511",
+      "client": "ADYA ANDRA 93, Mutti Road, Surat 176811",
+      "seller_tax_id": "08XFZUX4189F1ZH",
+      "client_tax_id": "24TEGIP5407P1Z0",
+      "client_phone": "04045452200"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-990E",
+        "item_qty": "2",
+        "item_net_price": "29,143.76",
+        "item_net_worth": "58,287.52",
+        "item_vat": "18%",
+        "item_gross_worth": "68,779.27"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹58,287.52",
+      "total_vat": "₹10,491.75",
+      "total_gross_worth": "₹68,779.27"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QL-7180",
+      "invoice_date": "04/08/2025",
+      "seller": "STAR ELECTRONICS H.No. 62, Sha Ganj, Jammu 368119",
+      "client": "GUNBIR CHAKRABARTI H.No. 80, Saran, Lucknow-789534",
+      "seller_tax_id": "33KOWGF5081C1ZT",
+      "client_tax_id": "01HZKEI2805R1ZQ",
+      "client_phone": "+915480923616"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-116F IMEI: 262901767819257",
+        "item_qty": "2",
+        "item_net_price": "21,100.08",
+        "item_net_worth": "42,200.16",
+        "item_vat": "18%",
+        "item_gross_worth": "49,796.19"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-797W",
+        "item_qty": "1",
+        "item_net_price": "33,420.41",
+        "item_net_worth": "33,420.41",
+        "item_vat": "18%",
+        "item_gross_worth": "39,436.08"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-737C",
+        "item_qty": "1",
+        "item_net_price": "30,046.71",
+        "item_net_worth": "30,046.71",
+        "item_vat": "18%",
+        "item_gross_worth": "35,455.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹105,667.28",
+      "total_vat": "₹19,020.11",
+      "total_gross_worth": "₹124,687.39"
+    }
+  }
+}

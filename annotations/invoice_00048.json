@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RY-9083",
+      "invoice_date": "01/07/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 915, Khurana Chowk, Singrauli 302186",
+      "client": "RONITH SARRAF 95/923, Toor Chowk, Imphal 133816",
+      "seller_tax_id": "34QJNQA2362W1ZE",
+      "client_tax_id": "15VBNLT7459Q1ZS",
+      "client_phone": "02275208860"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-116H",
+        "item_qty": "2",
+        "item_net_price": "58,712.15",
+        "item_net_worth": "117,424.30",
+        "item_vat": "18%",
+        "item_gross_worth": "138,560.67"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-732Y",
+        "item_qty": "2",
+        "item_net_price": "68,596.69",
+        "item_net_worth": "137,193.38",
+        "item_vat": "18%",
+        "item_gross_worth": "161,888.19"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-315V IMEI: 380109170829635",
+        "item_qty": "2",
+        "item_net_price": "72,063.07",
+        "item_net_worth": "144,126.14",
+        "item_vat": "18%",
+        "item_gross_worth": "170,068.85"
+      },
+      {
+        "item_desc": "Canon Camera CAN-509W",
+        "item_qty": "1",
+        "item_net_price": "79,596.85",
+        "item_net_worth": "79,596.85",
+        "item_vat": "18%",
+        "item_gross_worth": "93,924.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹478,340.67",
+      "total_vat": "₹86,101.32",
+      "total_gross_worth": "₹564,441.99"
+    }
+  }
+}

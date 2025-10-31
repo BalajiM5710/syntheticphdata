@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DM-6169",
+      "invoice_date": "17/08/2025",
+      "seller": "ELECTRONICS WORLD 00/450, Ghose Nagar, New Delhi 363943",
+      "client": "YOSHITA RASTOGI H.No. 548, Ganesan Chowk, Singrauli-793397",
+      "seller_tax_id": "15HXRJV1778H1ZT",
+      "client_tax_id": "16HBLBB9869N1ZK",
+      "client_phone": "+913170526506"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-843G",
+        "item_qty": "1",
+        "item_net_price": "70,544.82",
+        "item_net_worth": "70,544.82",
+        "item_vat": "18%",
+        "item_gross_worth": "83,242.89"
+      },
+      {
+        "item_desc": "Canon Camera CAN-436N",
+        "item_qty": "1",
+        "item_net_price": "69,284.63",
+        "item_net_worth": "69,284.63",
+        "item_vat": "18%",
+        "item_gross_worth": "81,755.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹139,829.45",
+      "total_vat": "₹25,169.30",
+      "total_gross_worth": "₹164,998.75"
+    }
+  }
+}

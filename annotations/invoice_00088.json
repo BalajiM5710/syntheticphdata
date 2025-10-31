@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SB-2588",
+      "invoice_date": "04/07/2025",
+      "seller": "MOBILE POINT 62, Singh, Bhavnagar-458956",
+      "client": "AMRITA PANDYA 031, Kulkarni Street, Thanjavur-151263",
+      "seller_tax_id": "12GLZVS7732D1Z1",
+      "client_tax_id": "13LUHRW5204C1Z6",
+      "client_phone": "9395138656"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-136C",
+        "item_qty": "1",
+        "item_net_price": "9,334.56",
+        "item_net_worth": "9,334.56",
+        "item_vat": "18%",
+        "item_gross_worth": "11,014.78"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-588E",
+        "item_qty": "2",
+        "item_net_price": "36,074.37",
+        "item_net_worth": "72,148.74",
+        "item_vat": "18%",
+        "item_gross_worth": "85,135.51"
+      },
+      {
+        "item_desc": "Samsung Television SAM-759D",
+        "item_qty": "2",
+        "item_net_price": "95,768.82",
+        "item_net_worth": "191,537.64",
+        "item_vat": "18%",
+        "item_gross_worth": "226,014.42"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-143P IMEI: 446374289790336",
+        "item_qty": "2",
+        "item_net_price": "24,126.84",
+        "item_net_worth": "48,253.68",
+        "item_vat": "18%",
+        "item_gross_worth": "56,939.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹321,274.62",
+      "total_vat": "₹57,829.43",
+      "total_gross_worth": "₹379,104.05"
+    }
+  }
+}

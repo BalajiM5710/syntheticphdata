@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZF-3134",
+      "invoice_date": "08/03/2025",
+      "seller": "CITY ELECTRONICS 262, Chatterjee Chowk, Proddatur-174595",
+      "client": "VANYA BALI H.No. 22, Verma, Vasai-Virar 825790",
+      "seller_tax_id": "01XLZFE1339T1ZG",
+      "client_tax_id": "31SJHIX4690R1ZW",
+      "client_phone": "05363910419"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-170R",
+        "item_qty": "2",
+        "item_net_price": "75,936.78",
+        "item_net_worth": "151,873.56",
+        "item_vat": "18%",
+        "item_gross_worth": "179,210.80"
+      },
+      {
+        "item_desc": "Samsung Television SAM-469T",
+        "item_qty": "1",
+        "item_net_price": "111,944.46",
+        "item_net_worth": "111,944.46",
+        "item_vat": "18%",
+        "item_gross_worth": "132,094.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹263,818.02",
+      "total_vat": "₹47,487.24",
+      "total_gross_worth": "₹311,305.26"
+    }
+  }
+}

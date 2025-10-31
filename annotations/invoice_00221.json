@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YC-7206",
+      "invoice_date": "22/02/2025",
+      "seller": "ROYAL MOBILES 93/526, Hans Chowk, Morena-675403",
+      "client": "AMAIRA NARAIN 10/626, Nayar Road, Moradabad-147609",
+      "seller_tax_id": "02SFSRY1151G1Z1",
+      "client_tax_id": "15VXFIV2757B1Z0",
+      "client_phone": "08305837356"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-390D",
+        "item_qty": "1",
+        "item_net_price": "102,672.61",
+        "item_net_worth": "102,672.61",
+        "item_vat": "18%",
+        "item_gross_worth": "121,153.68"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-974O",
+        "item_qty": "1",
+        "item_net_price": "18,700.67",
+        "item_net_worth": "18,700.67",
+        "item_vat": "18%",
+        "item_gross_worth": "22,066.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹121,373.28",
+      "total_vat": "₹21,847.19",
+      "total_gross_worth": "₹143,220.47"
+    }
+  }
+}

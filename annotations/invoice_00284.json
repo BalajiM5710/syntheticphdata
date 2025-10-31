@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HV-3984",
+      "invoice_date": "09/05/2025",
+      "seller": "DIGITAL STORE H.No. 678, Apte Nagar, Kolkata 980382",
+      "client": "BALHAAR GABA 470, Banerjee Ganj, Gurgaon 739188",
+      "seller_tax_id": "03IWSLK0122L1Z2",
+      "client_tax_id": "25VZQFF5007G1ZS",
+      "client_phone": "+912603372899"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-705A",
+        "item_qty": "2",
+        "item_net_price": "93,546.89",
+        "item_net_worth": "187,093.78",
+        "item_vat": "18%",
+        "item_gross_worth": "220,770.66"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-741L",
+        "item_qty": "1",
+        "item_net_price": "25,602.57",
+        "item_net_worth": "25,602.57",
+        "item_vat": "18%",
+        "item_gross_worth": "30,211.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹212,696.35",
+      "total_vat": "₹38,285.34",
+      "total_gross_worth": "₹250,981.69"
+    }
+  }
+}

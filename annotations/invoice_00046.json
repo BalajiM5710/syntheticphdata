@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FP-4300",
+      "invoice_date": "17/04/2025",
+      "seller": "TECH BAZAAR 12/544, Lad Road, Tirunelveli-564683",
+      "client": "ARIN PATLA 87/68, Sane Street, Thanjavur-381419",
+      "seller_tax_id": "28HFVSX2632X1ZT",
+      "client_tax_id": "07OFQJZ8455D1ZD",
+      "client_phone": "02191026895"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-874I",
+        "item_qty": "1",
+        "item_net_price": "8,922.04",
+        "item_net_worth": "8,922.04",
+        "item_vat": "18%",
+        "item_gross_worth": "10,528.01"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-682D",
+        "item_qty": "2",
+        "item_net_price": "17,912.36",
+        "item_net_worth": "35,824.72",
+        "item_vat": "18%",
+        "item_gross_worth": "42,273.17"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-878R",
+        "item_qty": "1",
+        "item_net_price": "143,310.41",
+        "item_net_worth": "143,310.41",
+        "item_vat": "18%",
+        "item_gross_worth": "169,106.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹188,057.17",
+      "total_vat": "₹33,850.29",
+      "total_gross_worth": "₹221,907.46"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NX-9306",
+      "invoice_date": "27/10/2025",
+      "seller": "MOBILE POINT H.No. 260, Chahal Marg, Latur 216833",
+      "client": "VEDIKA CHATTERJEE 78, Dixit Marg, Tiruchirappalli 165710",
+      "seller_tax_id": "11KFHYA2595C1ZJ",
+      "client_tax_id": "11CIIYG7929C1ZV",
+      "client_phone": "03637158992"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-687N",
+        "item_qty": "1",
+        "item_net_price": "21,631.89",
+        "item_net_worth": "21,631.89",
+        "item_vat": "18%",
+        "item_gross_worth": "25,525.63"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-240C",
+        "item_qty": "2",
+        "item_net_price": "57,223.07",
+        "item_net_worth": "114,446.14",
+        "item_vat": "18%",
+        "item_gross_worth": "135,046.45"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-638J",
+        "item_qty": "1",
+        "item_net_price": "57,244.81",
+        "item_net_worth": "57,244.81",
+        "item_vat": "18%",
+        "item_gross_worth": "67,548.88"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-775R",
+        "item_qty": "1",
+        "item_net_price": "50,194.66",
+        "item_net_worth": "50,194.66",
+        "item_vat": "18%",
+        "item_gross_worth": "59,229.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹243,517.50",
+      "total_vat": "₹43,833.15",
+      "total_gross_worth": "₹287,350.65"
+    }
+  }
+}

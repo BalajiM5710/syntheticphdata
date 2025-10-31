@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OC-8692",
+      "invoice_date": "24/02/2025",
+      "seller": "CITY ELECTRONICS 243, Tank Nagar, Kochi 061768",
+      "client": "VIVAAN SANE 421, Joshi Marg, Bulandshahr-818643",
+      "seller_tax_id": "34KQKXL4327W1ZE",
+      "client_tax_id": "09NALIU3744Y1ZG",
+      "client_phone": "+914292055972"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-179D",
+        "item_qty": "1",
+        "item_net_price": "86,285.52",
+        "item_net_worth": "86,285.52",
+        "item_vat": "18%",
+        "item_gross_worth": "101,816.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹86,285.52",
+      "total_vat": "₹15,531.39",
+      "total_gross_worth": "₹101,816.91"
+    }
+  }
+}

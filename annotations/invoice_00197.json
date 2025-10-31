@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RF-2187",
+      "invoice_date": "12/08/2025",
+      "seller": "FUTURE TECH 818, Dixit Zila, Srikakulam 024155",
+      "client": "PRANAV KONDA H.No. 980, Bahri Ganj, Gopalpur 666011",
+      "seller_tax_id": "30YNUPP0613G1ZL",
+      "client_tax_id": "05IVDBS5075N1Z5",
+      "client_phone": "1620152645"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-190D",
+        "item_qty": "2",
+        "item_net_price": "83,001.79",
+        "item_net_worth": "166,003.58",
+        "item_vat": "18%",
+        "item_gross_worth": "195,884.22"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-725O",
+        "item_qty": "1",
+        "item_net_price": "71,246.12",
+        "item_net_worth": "71,246.12",
+        "item_vat": "18%",
+        "item_gross_worth": "84,070.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹237,249.70",
+      "total_vat": "₹42,704.95",
+      "total_gross_worth": "₹279,954.65"
+    }
+  }
+}

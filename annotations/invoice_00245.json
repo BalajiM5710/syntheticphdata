@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CC-8276",
+      "invoice_date": "26/01/2025",
+      "seller": "CITY ELECTRONICS 58, Talwar Path, Mango 233644",
+      "client": "PETER RAY 78, Bail Path, Raurkela Industrial Township-259437",
+      "seller_tax_id": "14MYKOB5803Z1Z9",
+      "client_tax_id": "28VEGDW9043E1ZL",
+      "client_phone": "2335947855"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-225I",
+        "item_qty": "1",
+        "item_net_price": "148,696.73",
+        "item_net_worth": "148,696.73",
+        "item_vat": "18%",
+        "item_gross_worth": "175,462.14"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-276D",
+        "item_qty": "2",
+        "item_net_price": "22,902.71",
+        "item_net_worth": "45,805.42",
+        "item_vat": "18%",
+        "item_gross_worth": "54,050.40"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-520D",
+        "item_qty": "1",
+        "item_net_price": "64,946.04",
+        "item_net_worth": "64,946.04",
+        "item_vat": "18%",
+        "item_gross_worth": "76,636.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹259,448.19",
+      "total_vat": "₹46,700.67",
+      "total_gross_worth": "₹306,148.86"
+    }
+  }
+}

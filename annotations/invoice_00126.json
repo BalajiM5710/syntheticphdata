@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LT-6383",
+      "invoice_date": "29/10/2025",
+      "seller": "GADGET GALAXY 960, Nagy Chowk, Srinagar-546914",
+      "client": "HEMANI KALA 26/93, Krishnan Road, Phagwara-919963",
+      "seller_tax_id": "34VKGWI3703U1ZV",
+      "client_tax_id": "01BKZAB7890G1ZR",
+      "client_phone": "+913881440770"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-143S",
+        "item_qty": "2",
+        "item_net_price": "102,921.69",
+        "item_net_worth": "205,843.38",
+        "item_vat": "18%",
+        "item_gross_worth": "242,895.19"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-167T",
+        "item_qty": "1",
+        "item_net_price": "135,105.98",
+        "item_net_worth": "135,105.98",
+        "item_vat": "18%",
+        "item_gross_worth": "159,425.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹340,949.36",
+      "total_vat": "₹61,370.88",
+      "total_gross_worth": "₹402,320.24"
+    }
+  }
+}

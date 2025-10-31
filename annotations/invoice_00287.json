@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SB-2133",
+      "invoice_date": "05/09/2025",
+      "seller": "RAM ELECTRONICS 790, Om Zila, Nangloi Jat 349986",
+      "client": "UPADHRITI SACHAR 909, Sibal, Pudukkottai 474631",
+      "seller_tax_id": "09AWWRV1587B1ZF",
+      "client_tax_id": "16ZEYGV1445Q1ZL",
+      "client_phone": "08154553428"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-392D",
+        "item_qty": "2",
+        "item_net_price": "92,594.60",
+        "item_net_worth": "185,189.20",
+        "item_vat": "18%",
+        "item_gross_worth": "218,523.26"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-904B",
+        "item_qty": "2",
+        "item_net_price": "22,272.22",
+        "item_net_worth": "44,544.44",
+        "item_vat": "18%",
+        "item_gross_worth": "52,562.44"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-834W",
+        "item_qty": "1",
+        "item_net_price": "66,539.76",
+        "item_net_worth": "66,539.76",
+        "item_vat": "18%",
+        "item_gross_worth": "78,516.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,273.40",
+      "total_vat": "₹53,329.21",
+      "total_gross_worth": "₹349,602.61"
+    }
+  }
+}

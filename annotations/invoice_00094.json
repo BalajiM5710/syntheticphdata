@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MB-8118",
+      "invoice_date": "14/08/2025",
+      "seller": "MOBILE POINT H.No. 015, Basak Circle, Berhampore-394971",
+      "client": "HEMAL MUNSHI 83/38, Seshadri Ganj, Bhalswa Jahangir Pur 260927",
+      "seller_tax_id": "18RMHVF1667P1ZX",
+      "client_tax_id": "37JMUCY6678S1ZB",
+      "client_phone": "+914074857405"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-373I",
+        "item_qty": "2",
+        "item_net_price": "45,708.19",
+        "item_net_worth": "91,416.38",
+        "item_vat": "18%",
+        "item_gross_worth": "107,871.33"
+      },
+      {
+        "item_desc": "Sony Speaker SON-891Y",
+        "item_qty": "1",
+        "item_net_price": "26,666.44",
+        "item_net_worth": "26,666.44",
+        "item_vat": "18%",
+        "item_gross_worth": "31,466.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹118,082.82",
+      "total_vat": "₹21,254.91",
+      "total_gross_worth": "₹139,337.73"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WE-7185",
+      "invoice_date": "09/05/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 65, Bala Chowk, Thiruvananthapuram 352004",
+      "client": "CHAMELI GOLA 774, Bal Marg, Delhi 797178",
+      "seller_tax_id": "18EUNWJ1029F1ZL",
+      "client_tax_id": "34FEKTL9363Q1ZA",
+      "client_phone": "02068184534"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-573J",
+        "item_qty": "2",
+        "item_net_price": "29,196.90",
+        "item_net_worth": "58,393.80",
+        "item_vat": "18%",
+        "item_gross_worth": "68,904.68"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-488K",
+        "item_qty": "1",
+        "item_net_price": "21,378.68",
+        "item_net_worth": "21,378.68",
+        "item_vat": "18%",
+        "item_gross_worth": "25,226.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹79,772.48",
+      "total_vat": "₹14,359.05",
+      "total_gross_worth": "₹94,131.53"
+    }
+  }
+}

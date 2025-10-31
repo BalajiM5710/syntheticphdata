@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HS-4113",
+      "invoice_date": "03/08/2025",
+      "seller": "GADGET GALAXY H.No. 067, Wagle Marg, Sri Ganganagar 427674",
+      "client": "HIRAL ARORA H.No. 171, Loke Road, Chinsurah 101511",
+      "seller_tax_id": "16QVKVA0026C1ZQ",
+      "client_tax_id": "06VNVVM6909Z1Z9",
+      "client_phone": "03431873189"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-971I IMEI: 059221557047498",
+        "item_qty": "2",
+        "item_net_price": "24,367.42",
+        "item_net_worth": "48,734.84",
+        "item_vat": "18%",
+        "item_gross_worth": "57,507.11"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-774T",
+        "item_qty": "1",
+        "item_net_price": "49,495.23",
+        "item_net_worth": "49,495.23",
+        "item_vat": "18%",
+        "item_gross_worth": "58,404.37"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-587V",
+        "item_qty": "1",
+        "item_net_price": "12,770.96",
+        "item_net_worth": "12,770.96",
+        "item_vat": "18%",
+        "item_gross_worth": "15,069.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹111,001.03",
+      "total_vat": "₹19,980.19",
+      "total_gross_worth": "₹130,981.22"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TS-3856",
+      "invoice_date": "21/05/2025",
+      "seller": "PATEL MOBILES H.No. 12, Baral, Nagpur 792957",
+      "client": "BHAVINI YOGI H.No. 71, Dey Path, Gopalpur-266399",
+      "seller_tax_id": "28ZGCBA8846S1ZM",
+      "client_tax_id": "17FTSYJ9269T1ZG",
+      "client_phone": "01271524500"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-641L",
+        "item_qty": "2",
+        "item_net_price": "24,150.76",
+        "item_net_worth": "48,301.52",
+        "item_vat": "18%",
+        "item_gross_worth": "56,995.79"
+      },
+      {
+        "item_desc": "Canon Camera CAN-993L",
+        "item_qty": "2",
+        "item_net_price": "49,111.80",
+        "item_net_worth": "98,223.60",
+        "item_vat": "18%",
+        "item_gross_worth": "115,903.85"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-893Q",
+        "item_qty": "2",
+        "item_net_price": "44,725.11",
+        "item_net_worth": "89,450.22",
+        "item_vat": "18%",
+        "item_gross_worth": "105,551.26"
+      },
+      {
+        "item_desc": "TCL Television TCL-850V",
+        "item_qty": "1",
+        "item_net_price": "132,418.59",
+        "item_net_worth": "132,418.59",
+        "item_vat": "18%",
+        "item_gross_worth": "156,253.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹368,393.93",
+      "total_vat": "₹66,310.91",
+      "total_gross_worth": "₹434,704.84"
+    }
+  }
+}

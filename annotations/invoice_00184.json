@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EO-3870",
+      "invoice_date": "31/03/2025",
+      "seller": "RAM ELECTRONICS H.No. 78, Sathe Street, Anantapur-708862",
+      "client": "YASH KAPOOR 10/47, Raja Marg, Rampur-545746",
+      "seller_tax_id": "37HGWFQ7778T1ZH",
+      "client_tax_id": "37PYHSV8846D1ZZ",
+      "client_phone": "9028328315"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-300H",
+        "item_qty": "2",
+        "item_net_price": "30,723.07",
+        "item_net_worth": "61,446.14",
+        "item_vat": "18%",
+        "item_gross_worth": "72,506.45"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-785M",
+        "item_qty": "2",
+        "item_net_price": "64,719.43",
+        "item_net_worth": "129,438.86",
+        "item_vat": "18%",
+        "item_gross_worth": "152,737.85"
+      },
+      {
+        "item_desc": "Apple Laptops APP-291N",
+        "item_qty": "2",
+        "item_net_price": "121,427.47",
+        "item_net_worth": "242,854.94",
+        "item_vat": "18%",
+        "item_gross_worth": "286,568.83"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-276Q",
+        "item_qty": "1",
+        "item_net_price": "115,041.62",
+        "item_net_worth": "115,041.62",
+        "item_vat": "18%",
+        "item_gross_worth": "135,749.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹548,781.56",
+      "total_vat": "₹98,780.68",
+      "total_gross_worth": "₹647,562.24"
+    }
+  }
+}

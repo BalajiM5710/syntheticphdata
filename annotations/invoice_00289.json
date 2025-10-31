@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XB-6376",
+      "invoice_date": "20/01/2025",
+      "seller": "SINGH ELECTRONICS 82/09, Ganesh Circle, Dewas 465691",
+      "client": "GOPAL DESHPANDE 57/34, Johal Path, Malegaon 221897",
+      "seller_tax_id": "05LESRR2013L1Z4",
+      "client_tax_id": "04BAPRP5769Q1ZF",
+      "client_phone": "0372266414"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-659W",
+        "item_qty": "1",
+        "item_net_price": "17,921.92",
+        "item_net_worth": "17,921.92",
+        "item_vat": "18%",
+        "item_gross_worth": "21,147.87"
+      },
+      {
+        "item_desc": "Apple Laptops APP-390Q",
+        "item_qty": "1",
+        "item_net_price": "38,892.54",
+        "item_net_worth": "38,892.54",
+        "item_vat": "18%",
+        "item_gross_worth": "45,893.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹56,814.46",
+      "total_vat": "₹10,226.60",
+      "total_gross_worth": "₹67,041.06"
+    }
+  }
+}

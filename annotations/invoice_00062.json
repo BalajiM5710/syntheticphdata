@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YT-8594",
+      "invoice_date": "14/04/2025",
+      "seller": "ELECTRONICS WORLD 111, Chad Road, Gopalpur 441563",
+      "client": "ATI GROVER 72/417, Madan Ganj, Siliguri-092674",
+      "seller_tax_id": "15MAFJR8371B1ZL",
+      "client_tax_id": "06QCVFO6910Y1ZU",
+      "client_phone": "7769987196"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-522A",
+        "item_qty": "2",
+        "item_net_price": "34,294.10",
+        "item_net_worth": "68,588.20",
+        "item_vat": "18%",
+        "item_gross_worth": "80,934.08"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-500P",
+        "item_qty": "1",
+        "item_net_price": "65,861.75",
+        "item_net_worth": "65,861.75",
+        "item_vat": "18%",
+        "item_gross_worth": "77,716.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹134,449.95",
+      "total_vat": "₹24,200.99",
+      "total_gross_worth": "₹158,650.94"
+    }
+  }
+}

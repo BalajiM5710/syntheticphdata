@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KC-5309",
+      "invoice_date": "28/01/2025",
+      "seller": "ELECTRONICS WORLD 47, Chakrabarti Road, Imphal-151910",
+      "client": "KAI GOPAL 863, Venkataraman Nagar, Tumkur 007328",
+      "seller_tax_id": "35BYWHE6202A1ZB",
+      "client_tax_id": "31UUVUR5642D1ZP",
+      "client_phone": "00260523693"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-360T",
+        "item_qty": "2",
+        "item_net_price": "79,696.90",
+        "item_net_worth": "159,393.80",
+        "item_vat": "18%",
+        "item_gross_worth": "188,084.68"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-385S IMEI: 991759930022221",
+        "item_qty": "2",
+        "item_net_price": "35,359.55",
+        "item_net_worth": "70,719.10",
+        "item_vat": "18%",
+        "item_gross_worth": "83,448.54"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-772L",
+        "item_qty": "2",
+        "item_net_price": "52,117.47",
+        "item_net_worth": "104,234.94",
+        "item_vat": "18%",
+        "item_gross_worth": "122,997.23"
+      },
+      {
+        "item_desc": "Canon Camera CAN-150V",
+        "item_qty": "2",
+        "item_net_price": "89,787.91",
+        "item_net_worth": "179,575.82",
+        "item_vat": "18%",
+        "item_gross_worth": "211,899.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹513,923.66",
+      "total_vat": "₹92,506.26",
+      "total_gross_worth": "₹606,429.92"
+    }
+  }
+}

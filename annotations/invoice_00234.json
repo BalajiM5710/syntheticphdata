@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RZ-1964",
+      "invoice_date": "04/03/2025",
+      "seller": "STAR ELECTRONICS H.No. 398, Hegde Circle, Guntur 110166",
+      "client": "UPADHRITI SEHGAL 042, Gokhale Ganj, Hazaribagh-484043",
+      "seller_tax_id": "25QLWUS1618Q1ZR",
+      "client_tax_id": "36LVJQV3783X1ZV",
+      "client_phone": "00961109684"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-496Z",
+        "item_qty": "2",
+        "item_net_price": "64,475.13",
+        "item_net_worth": "128,950.26",
+        "item_vat": "18%",
+        "item_gross_worth": "152,161.31"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-275L IMEI: 110235751557390",
+        "item_qty": "1",
+        "item_net_price": "9,298.41",
+        "item_net_worth": "9,298.41",
+        "item_vat": "18%",
+        "item_gross_worth": "10,972.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹138,248.67",
+      "total_vat": "₹24,884.76",
+      "total_gross_worth": "₹163,133.43"
+    }
+  }
+}

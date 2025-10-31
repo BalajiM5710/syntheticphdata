@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QD-3681",
+      "invoice_date": "03/05/2025",
+      "seller": "CITY ELECTRONICS 531, Chand Nagar, Nizamabad 931733",
+      "client": "MAANAV LUTHRA 22/872, Randhawa Path, Mangalore-245350",
+      "seller_tax_id": "17CDEOS0370G1Z0",
+      "client_tax_id": "07VIAIR8595J1ZX",
+      "client_phone": "0486609700"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-403M",
+        "item_qty": "2",
+        "item_net_price": "29,587.59",
+        "item_net_worth": "59,175.18",
+        "item_vat": "18%",
+        "item_gross_worth": "69,826.71"
+      },
+      {
+        "item_desc": "Apple Laptops APP-319I",
+        "item_qty": "2",
+        "item_net_price": "42,845.22",
+        "item_net_worth": "85,690.44",
+        "item_vat": "18%",
+        "item_gross_worth": "101,114.72"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-468Z",
+        "item_qty": "2",
+        "item_net_price": "88,410.16",
+        "item_net_worth": "176,820.32",
+        "item_vat": "18%",
+        "item_gross_worth": "208,647.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹321,685.94",
+      "total_vat": "₹57,903.47",
+      "total_gross_worth": "₹379,589.41"
+    }
+  }
+}

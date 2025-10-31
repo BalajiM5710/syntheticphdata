@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JK-5285",
+      "invoice_date": "30/01/2025",
+      "seller": "PRADHAN MOBILE SHOP 08/18, Gola Nagar, Bhalswa Jahangir Pur-727196",
+      "client": "ADWETA BAHL 19, Ahuja Nagar, Bhubaneswar-538991",
+      "seller_tax_id": "02UHHRY0653N1Z9",
+      "client_tax_id": "30SSJUU9780Y1ZG",
+      "client_phone": "02950974014"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-593N",
+        "item_qty": "1",
+        "item_net_price": "54,574.20",
+        "item_net_worth": "54,574.20",
+        "item_vat": "18%",
+        "item_gross_worth": "64,397.56"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-470G",
+        "item_qty": "2",
+        "item_net_price": "66,285.98",
+        "item_net_worth": "132,571.96",
+        "item_vat": "18%",
+        "item_gross_worth": "156,434.91"
+      },
+      {
+        "item_desc": "Sony Headphones SON-376G",
+        "item_qty": "1",
+        "item_net_price": "61,565.52",
+        "item_net_worth": "61,565.52",
+        "item_vat": "18%",
+        "item_gross_worth": "72,647.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹248,711.68",
+      "total_vat": "₹44,768.10",
+      "total_gross_worth": "₹293,479.78"
+    }
+  }
+}

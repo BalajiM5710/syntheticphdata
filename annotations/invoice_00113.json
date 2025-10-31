@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UC-6666",
+      "invoice_date": "01/10/2025",
+      "seller": "SMART ELECTRONICS 62/07, Tiwari Street, Amaravati 953179",
+      "client": "BHAVINI WALIA 272, Narang Nagar, Surat 497669",
+      "seller_tax_id": "02AXTIL2741V1ZZ",
+      "client_tax_id": "06QGJWQ2864L1ZX",
+      "client_phone": "+910273719773"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-628Y",
+        "item_qty": "1",
+        "item_net_price": "85,975.16",
+        "item_net_worth": "85,975.16",
+        "item_vat": "18%",
+        "item_gross_worth": "101,450.69"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-613N",
+        "item_qty": "2",
+        "item_net_price": "56,691.73",
+        "item_net_worth": "113,383.46",
+        "item_vat": "18%",
+        "item_gross_worth": "133,792.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹199,358.62",
+      "total_vat": "₹35,884.55",
+      "total_gross_worth": "₹235,243.17"
+    }
+  }
+}

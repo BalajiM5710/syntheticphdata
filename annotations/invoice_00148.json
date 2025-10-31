@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MX-9830",
+      "invoice_date": "18/03/2025",
+      "seller": "SMART ELECTRONICS H.No. 280, Raju Circle, Bihar Sharif-781000",
+      "client": "HEMAL PANDEY 20/91, Sant Nagar, Raiganj-267460",
+      "seller_tax_id": "36DEMPP2160K1ZP",
+      "client_tax_id": "19DBXXQ5175Z1ZV",
+      "client_phone": "+915497950876"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-552B",
+        "item_qty": "2",
+        "item_net_price": "218,549.85",
+        "item_net_worth": "437,099.70",
+        "item_vat": "18%",
+        "item_gross_worth": "515,777.65"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-332S",
+        "item_qty": "2",
+        "item_net_price": "63,372.37",
+        "item_net_worth": "126,744.74",
+        "item_vat": "18%",
+        "item_gross_worth": "149,558.79"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-365M",
+        "item_qty": "2",
+        "item_net_price": "69,999.29",
+        "item_net_worth": "139,998.58",
+        "item_vat": "18%",
+        "item_gross_worth": "165,198.32"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-382O",
+        "item_qty": "1",
+        "item_net_price": "106,698.82",
+        "item_net_worth": "106,698.82",
+        "item_vat": "18%",
+        "item_gross_worth": "125,904.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹810,541.84",
+      "total_vat": "₹145,897.53",
+      "total_gross_worth": "₹956,439.37"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HQ-6976",
+      "invoice_date": "22/04/2025",
+      "seller": "KUMAR TECH SOLUTIONS 54/310, Andra Road, Kakinada 533625",
+      "client": "VEER BHATTACHARYYA 04/001, Sahota Ganj, Tumkur 590136",
+      "seller_tax_id": "21ENBVU5956F1ZX",
+      "client_tax_id": "19XGDJV9373X1ZM",
+      "client_phone": "1073827450"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-988P",
+        "item_qty": "1",
+        "item_net_price": "46,928.36",
+        "item_net_worth": "46,928.36",
+        "item_vat": "18%",
+        "item_gross_worth": "55,375.46"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-987P",
+        "item_qty": "1",
+        "item_net_price": "94,576.77",
+        "item_net_worth": "94,576.77",
+        "item_vat": "18%",
+        "item_gross_worth": "111,600.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹141,505.13",
+      "total_vat": "₹25,470.92",
+      "total_gross_worth": "₹166,976.05"
+    }
+  }
+}

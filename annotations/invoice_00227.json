@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SV-3237",
+      "invoice_date": "30/09/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 844, Agarwal Street, Tadepalligudem 283210",
+      "client": "RAJATA CHACKO 44/593, Padmanabhan Zila, Madurai 946680",
+      "seller_tax_id": "09FSFTX8543I1ZL",
+      "client_tax_id": "06SMGRE5005X1ZQ",
+      "client_phone": "07993616579"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-853G",
+        "item_qty": "1",
+        "item_net_price": "56,159.66",
+        "item_net_worth": "56,159.66",
+        "item_vat": "18%",
+        "item_gross_worth": "66,268.40"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-162O",
+        "item_qty": "2",
+        "item_net_price": "41,805.39",
+        "item_net_worth": "83,610.78",
+        "item_vat": "18%",
+        "item_gross_worth": "98,660.72"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-306M",
+        "item_qty": "2",
+        "item_net_price": "36,766.21",
+        "item_net_worth": "73,532.42",
+        "item_vat": "18%",
+        "item_gross_worth": "86,768.26"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-195H",
+        "item_qty": "2",
+        "item_net_price": "115,679.38",
+        "item_net_worth": "231,358.76",
+        "item_vat": "18%",
+        "item_gross_worth": "273,003.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹444,661.62",
+      "total_vat": "₹80,039.09",
+      "total_gross_worth": "₹524,700.71"
+    }
+  }
+}

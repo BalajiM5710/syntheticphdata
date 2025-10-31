@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JX-5710",
+      "invoice_date": "26/09/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 12, Deshmukh Path, Pune-641256",
+      "client": "ALKA AGGARWAL H.No. 40, Sibal Path, Sonipat-766093",
+      "seller_tax_id": "20HSZLB2451G1Z3",
+      "client_tax_id": "23XYFVO5061G1ZQ",
+      "client_phone": "05382172820"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-735Q",
+        "item_qty": "2",
+        "item_net_price": "78,933.47",
+        "item_net_worth": "157,866.94",
+        "item_vat": "18%",
+        "item_gross_worth": "186,282.99"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-998W",
+        "item_qty": "2",
+        "item_net_price": "90,505.55",
+        "item_net_worth": "181,011.10",
+        "item_vat": "18%",
+        "item_gross_worth": "213,593.10"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-227X",
+        "item_qty": "2",
+        "item_net_price": "36,630.11",
+        "item_net_worth": "73,260.22",
+        "item_vat": "18%",
+        "item_gross_worth": "86,447.06"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-425G",
+        "item_qty": "1",
+        "item_net_price": "47,089.34",
+        "item_net_worth": "47,089.34",
+        "item_vat": "18%",
+        "item_gross_worth": "55,565.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹459,227.60",
+      "total_vat": "₹82,660.97",
+      "total_gross_worth": "₹541,888.57"
+    }
+  }
+}

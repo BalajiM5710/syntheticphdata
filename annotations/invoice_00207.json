@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QF-9751",
+      "invoice_date": "17/03/2025",
+      "seller": "SUPREME ELECTRONICS 50/68, Kala Chowk, Bellary 349332",
+      "client": "UDANT DASGUPTA H.No. 51, Parsa Road, Madhyamgram 522728",
+      "seller_tax_id": "37BZFFI1719H1Z3",
+      "client_tax_id": "15GHLJQ5589F1ZV",
+      "client_phone": "0484358190"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-884D",
+        "item_qty": "2",
+        "item_net_price": "66,505.67",
+        "item_net_worth": "133,011.34",
+        "item_vat": "18%",
+        "item_gross_worth": "156,953.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹133,011.34",
+      "total_vat": "₹23,942.04",
+      "total_gross_worth": "₹156,953.38"
+    }
+  }
+}

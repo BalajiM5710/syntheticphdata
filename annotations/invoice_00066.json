@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RS-3912",
+      "invoice_date": "02/09/2025",
+      "seller": "FUTURE TECH 76, Rege Nagar, Gurgaon 870305",
+      "client": "SHIVANI EDWIN 038, Prashad Ganj, Durgapur 475700",
+      "seller_tax_id": "26YYFZG9742O1ZV",
+      "client_tax_id": "17JYVEB2706U1Z6",
+      "client_phone": "+910409329387"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-272X",
+        "item_qty": "2",
+        "item_net_price": "75,579.99",
+        "item_net_worth": "151,159.98",
+        "item_vat": "18%",
+        "item_gross_worth": "178,368.78"
+      },
+      {
+        "item_desc": "Sony Camera SON-661F",
+        "item_qty": "1",
+        "item_net_price": "15,177.29",
+        "item_net_worth": "15,177.29",
+        "item_vat": "18%",
+        "item_gross_worth": "17,909.20"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-192H IMEI: 155643681409772",
+        "item_qty": "2",
+        "item_net_price": "85,099.00",
+        "item_net_worth": "170,198.00",
+        "item_vat": "18%",
+        "item_gross_worth": "200,833.64"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-819U",
+        "item_qty": "1",
+        "item_net_price": "47,723.26",
+        "item_net_worth": "47,723.26",
+        "item_vat": "18%",
+        "item_gross_worth": "56,313.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹384,258.53",
+      "total_vat": "₹69,166.54",
+      "total_gross_worth": "₹453,425.07"
+    }
+  }
+}

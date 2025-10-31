@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XZ-6975",
+      "invoice_date": "12/02/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 76, Magar Road, Tumkur 627676",
+      "client": "YUVRAJ NAZARETH 56/10, Arya Street, Ujjain-681341",
+      "seller_tax_id": "01LGXKV7542G1ZN",
+      "client_tax_id": "36AZQIQ6592H1Z2",
+      "client_phone": "03226185695"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-288J",
+        "item_qty": "2",
+        "item_net_price": "45,627.48",
+        "item_net_worth": "91,254.96",
+        "item_vat": "18%",
+        "item_gross_worth": "107,680.85"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-657S",
+        "item_qty": "1",
+        "item_net_price": "80,355.33",
+        "item_net_worth": "80,355.33",
+        "item_vat": "18%",
+        "item_gross_worth": "94,819.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹171,610.29",
+      "total_vat": "₹30,889.85",
+      "total_gross_worth": "₹202,500.14"
+    }
+  }
+}

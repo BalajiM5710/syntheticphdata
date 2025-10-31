@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EV-3835",
+      "invoice_date": "06/08/2025",
+      "seller": "PRADHAN MOBILE SHOP 36/13, Chander Path, Shahjahanpur-894294",
+      "client": "BANJEET GADE H.No. 428, Ben Street, Chandigarh-072148",
+      "seller_tax_id": "08UJSPE3117N1Z4",
+      "client_tax_id": "36FMDWU9867W1ZT",
+      "client_phone": "02131558716"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-591M",
+        "item_qty": "2",
+        "item_net_price": "121,951.74",
+        "item_net_worth": "243,903.48",
+        "item_vat": "18%",
+        "item_gross_worth": "287,806.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹243,903.48",
+      "total_vat": "₹43,902.63",
+      "total_gross_worth": "₹287,806.11"
+    }
+  }
+}

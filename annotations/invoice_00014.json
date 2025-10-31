@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UT-3420",
+      "invoice_date": "16/05/2025",
+      "seller": "DIGITAL STORE 78, Mittal Street, Nellore-324193",
+      "client": "TRIPTI D’ALIA 20/757, Sankar Ganj, Tenali-010988",
+      "seller_tax_id": "01WHYXW2840W1ZU",
+      "client_tax_id": "24XYNOL1294J1ZS",
+      "client_phone": "4036515138"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-466F",
+        "item_qty": "1",
+        "item_net_price": "17,197.49",
+        "item_net_worth": "17,197.49",
+        "item_vat": "18%",
+        "item_gross_worth": "20,293.04"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-535H IMEI: 373265857734729",
+        "item_qty": "2",
+        "item_net_price": "22,252.07",
+        "item_net_worth": "44,504.14",
+        "item_vat": "18%",
+        "item_gross_worth": "52,514.89"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-257E",
+        "item_qty": "2",
+        "item_net_price": "27,477.73",
+        "item_net_worth": "54,955.46",
+        "item_vat": "18%",
+        "item_gross_worth": "64,847.44"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-103E",
+        "item_qty": "2",
+        "item_net_price": "94,110.41",
+        "item_net_worth": "188,220.82",
+        "item_vat": "18%",
+        "item_gross_worth": "222,100.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹304,877.91",
+      "total_vat": "₹54,878.02",
+      "total_gross_worth": "₹359,755.93"
+    }
+  }
+}

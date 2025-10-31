@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UI-2551",
+      "invoice_date": "03/10/2025",
+      "seller": "STAR ELECTRONICS H.No. 805, Krishna Path, Ambarnath 138132",
+      "client": "YASTI BALAKRISHNAN 19/592, Menon Path, Munger-200671",
+      "seller_tax_id": "06PPVNV8239L1Z8",
+      "client_tax_id": "25MREUU4409V1ZR",
+      "client_phone": "+913896943844"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-327S",
+        "item_qty": "1",
+        "item_net_price": "248,598.96",
+        "item_net_worth": "248,598.96",
+        "item_vat": "18%",
+        "item_gross_worth": "293,346.77"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-356N",
+        "item_qty": "1",
+        "item_net_price": "65,912.47",
+        "item_net_worth": "65,912.47",
+        "item_vat": "18%",
+        "item_gross_worth": "77,776.71"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-183K",
+        "item_qty": "2",
+        "item_net_price": "78,685.13",
+        "item_net_worth": "157,370.26",
+        "item_vat": "18%",
+        "item_gross_worth": "185,696.91"
+      },
+      {
+        "item_desc": "Canon Camera CAN-977G",
+        "item_qty": "1",
+        "item_net_price": "83,750.68",
+        "item_net_worth": "83,750.68",
+        "item_vat": "18%",
+        "item_gross_worth": "98,825.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹555,632.37",
+      "total_vat": "₹100,013.83",
+      "total_gross_worth": "₹655,646.20"
+    }
+  }
+}

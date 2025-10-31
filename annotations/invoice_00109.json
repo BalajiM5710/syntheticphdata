@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HW-7320",
+      "invoice_date": "18/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 595, Batra Zila, Bhatpara 591556",
+      "client": "CHAVVI SHETTY 51/66, Walia Circle, Karimnagar 707814",
+      "seller_tax_id": "06QIAUO5711P1Z4",
+      "client_tax_id": "19KWIPO4122P1ZU",
+      "client_phone": "8205543529"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-386E",
+        "item_qty": "1",
+        "item_net_price": "67,951.45",
+        "item_net_worth": "67,951.45",
+        "item_vat": "18%",
+        "item_gross_worth": "80,182.71"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-943M",
+        "item_qty": "1",
+        "item_net_price": "164,241.85",
+        "item_net_worth": "164,241.85",
+        "item_vat": "18%",
+        "item_gross_worth": "193,805.38"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-648L",
+        "item_qty": "1",
+        "item_net_price": "78,649.73",
+        "item_net_worth": "78,649.73",
+        "item_vat": "18%",
+        "item_gross_worth": "92,806.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹310,843.03",
+      "total_vat": "₹55,951.75",
+      "total_gross_worth": "₹366,794.78"
+    }
+  }
+}

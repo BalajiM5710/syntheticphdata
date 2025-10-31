@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YU-3859",
+      "invoice_date": "21/05/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 811, Randhawa Ganj, Shimla 801421",
+      "client": "JASMIT DOCTOR 51/18, Kade Ganj, Gudivada 246762",
+      "seller_tax_id": "37QTKJH6098D1Z0",
+      "client_tax_id": "12CJOJC4219Y1Z8",
+      "client_phone": "4121082053"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-577G",
+        "item_qty": "2",
+        "item_net_price": "78,274.90",
+        "item_net_worth": "156,549.80",
+        "item_vat": "18%",
+        "item_gross_worth": "184,728.76"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹156,549.80",
+      "total_vat": "₹28,178.96",
+      "total_gross_worth": "₹184,728.76"
+    }
+  }
+}

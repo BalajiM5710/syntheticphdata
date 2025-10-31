@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KK-5605",
+      "invoice_date": "25/05/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 545, Parmar, Saharanpur-930142",
+      "client": "BALVAN HARI H.No. 455, Sachar Ganj, Adoni-286472",
+      "seller_tax_id": "34CDMRK1050A1ZA",
+      "client_tax_id": "12KDBMQ2614H1ZH",
+      "client_phone": "+916737324999"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-131N",
+        "item_qty": "1",
+        "item_net_price": "81,438.82",
+        "item_net_worth": "81,438.82",
+        "item_vat": "18%",
+        "item_gross_worth": "96,097.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹81,438.82",
+      "total_vat": "₹14,658.99",
+      "total_gross_worth": "₹96,097.81"
+    }
+  }
+}

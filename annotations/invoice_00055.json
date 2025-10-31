@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BF-3126",
+      "invoice_date": "07/07/2025",
+      "seller": "ROYAL MOBILES 13, Ganesan, Hosur-174232",
+      "client": "NIMRAT RAJ H.No. 221, Sahota Ganj, Ranchi-883615",
+      "seller_tax_id": "32QUCNQ4432Y1ZJ",
+      "client_tax_id": "17BTESI0562H1ZZ",
+      "client_phone": "+911988844131"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-617U",
+        "item_qty": "2",
+        "item_net_price": "34,514.96",
+        "item_net_worth": "69,029.92",
+        "item_vat": "18%",
+        "item_gross_worth": "81,455.31"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-552L",
+        "item_qty": "1",
+        "item_net_price": "50,828.41",
+        "item_net_worth": "50,828.41",
+        "item_vat": "18%",
+        "item_gross_worth": "59,977.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹119,858.33",
+      "total_vat": "₹21,574.50",
+      "total_gross_worth": "₹141,432.83"
+    }
+  }
+}

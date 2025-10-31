@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PO-6311",
+      "invoice_date": "03/02/2025",
+      "seller": "TECH BAZAAR H.No. 60, Lad Circle, Gandhinagar-902389",
+      "client": "SANAYA DE H.No. 369, Mall Nagar, Rampur-051998",
+      "seller_tax_id": "26UDKVM6924R1ZR",
+      "client_tax_id": "35MTCKJ5227W1ZP",
+      "client_phone": "7545708453"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-718F",
+        "item_qty": "2",
+        "item_net_price": "25,819.30",
+        "item_net_worth": "51,638.60",
+        "item_vat": "18%",
+        "item_gross_worth": "60,933.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹51,638.60",
+      "total_vat": "₹9,294.95",
+      "total_gross_worth": "₹60,933.55"
+    }
+  }
+}

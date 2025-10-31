@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TH-2717",
+      "invoice_date": "06/02/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 57, Nanda Ganj, Chittoor 736322",
+      "client": "UPADHRITI KONDA 13, Bajwa Path, Bhalswa Jahangir Pur-385476",
+      "seller_tax_id": "31THRTM0959S1Z1",
+      "client_tax_id": "34JXLZQ3557H1ZU",
+      "client_phone": "8880790625"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-328Q",
+        "item_qty": "2",
+        "item_net_price": "41,953.80",
+        "item_net_worth": "83,907.60",
+        "item_vat": "18%",
+        "item_gross_worth": "99,010.97"
+      },
+      {
+        "item_desc": "Sony Camera SON-712A",
+        "item_qty": "2",
+        "item_net_price": "16,116.57",
+        "item_net_worth": "32,233.14",
+        "item_vat": "18%",
+        "item_gross_worth": "38,035.11"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-788J",
+        "item_qty": "1",
+        "item_net_price": "60,030.66",
+        "item_net_worth": "60,030.66",
+        "item_vat": "18%",
+        "item_gross_worth": "70,836.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹176,171.40",
+      "total_vat": "₹31,710.85",
+      "total_gross_worth": "₹207,882.25"
+    }
+  }
+}

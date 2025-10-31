@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DL-8199",
+      "invoice_date": "18/10/2025",
+      "seller": "DIGITAL STORE 82, Chandra, Kirari Suleman Nagar-640439",
+      "client": "FALAN BAHL H.No. 248, Manne Road, Barasat 265006",
+      "seller_tax_id": "04AYHFK9827D1ZW",
+      "client_tax_id": "07EDVNH1642A1ZF",
+      "client_phone": "+911985784600"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-622J",
+        "item_qty": "2",
+        "item_net_price": "17,790.31",
+        "item_net_worth": "35,580.62",
+        "item_vat": "18%",
+        "item_gross_worth": "41,985.13"
+      },
+      {
+        "item_desc": "HP Laptops HP-628Y",
+        "item_qty": "2",
+        "item_net_price": "126,811.71",
+        "item_net_worth": "253,623.42",
+        "item_vat": "18%",
+        "item_gross_worth": "299,275.64"
+      },
+      {
+        "item_desc": "Sony Headphones SON-861D",
+        "item_qty": "1",
+        "item_net_price": "91,259.27",
+        "item_net_worth": "91,259.27",
+        "item_vat": "18%",
+        "item_gross_worth": "107,685.94"
+      },
+      {
+        "item_desc": "HP Laptops HP-366P",
+        "item_qty": "2",
+        "item_net_price": "33,914.19",
+        "item_net_worth": "67,828.38",
+        "item_vat": "18%",
+        "item_gross_worth": "80,037.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹448,291.69",
+      "total_vat": "₹80,692.50",
+      "total_gross_worth": "₹528,984.19"
+    }
+  }
+}

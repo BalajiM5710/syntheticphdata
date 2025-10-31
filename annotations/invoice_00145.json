@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZQ-6373",
+      "invoice_date": "14/06/2025",
+      "seller": "ROYAL MOBILES 988, Gole Zila, Bahraich-959097",
+      "client": "LUCKY KALITA 49/058, Padmanabhan Road, Serampore 254974",
+      "seller_tax_id": "06DPUBH5372K1ZF",
+      "client_tax_id": "18FKPVV3580L1Z2",
+      "client_phone": "2988699376"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-674O",
+        "item_qty": "1",
+        "item_net_price": "65,972.13",
+        "item_net_worth": "65,972.13",
+        "item_vat": "18%",
+        "item_gross_worth": "77,847.11"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-465G",
+        "item_qty": "2",
+        "item_net_price": "46,363.18",
+        "item_net_worth": "92,726.36",
+        "item_vat": "18%",
+        "item_gross_worth": "109,417.10"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-422R",
+        "item_qty": "2",
+        "item_net_price": "72,933.71",
+        "item_net_worth": "145,867.42",
+        "item_vat": "18%",
+        "item_gross_worth": "172,123.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹304,565.91",
+      "total_vat": "₹54,821.86",
+      "total_gross_worth": "₹359,387.77"
+    }
+  }
+}

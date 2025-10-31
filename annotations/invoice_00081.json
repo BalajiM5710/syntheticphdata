@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CE-2507",
+      "invoice_date": "24/08/2025",
+      "seller": "METRO TECH STORE 66/367, Biswas Nagar, Gaya 633083",
+      "client": "OSHA ISSAC 57/20, Dani Nagar, Kalyan-Dombivli-828488",
+      "seller_tax_id": "36SNIDK6867I1ZN",
+      "client_tax_id": "10GDFIS3705E1Z7",
+      "client_phone": "08309242081"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-864R",
+        "item_qty": "2",
+        "item_net_price": "24,710.58",
+        "item_net_worth": "49,421.16",
+        "item_vat": "18%",
+        "item_gross_worth": "58,316.97"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-292Q",
+        "item_qty": "1",
+        "item_net_price": "49,253.58",
+        "item_net_worth": "49,253.58",
+        "item_vat": "18%",
+        "item_gross_worth": "58,119.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹98,674.74",
+      "total_vat": "₹17,761.45",
+      "total_gross_worth": "₹116,436.19"
+    }
+  }
+}

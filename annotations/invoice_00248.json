@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FO-3592",
+      "invoice_date": "20/01/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 617, Nanda, Jabalpur 433824",
+      "client": "FARAS KALA 36/77, Khalsa Marg, Rajkot 063941",
+      "seller_tax_id": "09RBMQB6451Z1ZV",
+      "client_tax_id": "30IGEOI1654C1ZG",
+      "client_phone": "1231863510"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-994K",
+        "item_qty": "2",
+        "item_net_price": "89,665.30",
+        "item_net_worth": "179,330.60",
+        "item_vat": "18%",
+        "item_gross_worth": "211,610.11"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-403P",
+        "item_qty": "1",
+        "item_net_price": "94,912.47",
+        "item_net_worth": "94,912.47",
+        "item_vat": "18%",
+        "item_gross_worth": "111,996.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹274,243.07",
+      "total_vat": "₹49,363.75",
+      "total_gross_worth": "₹323,606.82"
+    }
+  }
+}

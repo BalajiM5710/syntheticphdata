@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PS-7521",
+      "invoice_date": "13/10/2025",
+      "seller": "MOBILE POINT H.No. 381, Pall Marg, Madanapalle-871909",
+      "client": "DAKSHESH KARAN H.No. 696, Pillay Chowk, Saharanpur-096050",
+      "seller_tax_id": "11OVGEX9518V1ZR",
+      "client_tax_id": "15XJTFL5933T1ZZ",
+      "client_phone": "8135661709"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-469W",
+        "item_qty": "1",
+        "item_net_price": "62,114.47",
+        "item_net_worth": "62,114.47",
+        "item_vat": "18%",
+        "item_gross_worth": "73,295.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹62,114.47",
+      "total_vat": "₹11,180.60",
+      "total_gross_worth": "₹73,295.07"
+    }
+  }
+}

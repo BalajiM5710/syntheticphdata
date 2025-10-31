@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UH-3347",
+      "invoice_date": "22/02/2025",
+      "seller": "METRO TECH STORE H.No. 105, Pandit Ganj, Meerut 165348",
+      "client": "KRITIKA DAYAL 16, Devan Road, Siwan-396988",
+      "seller_tax_id": "05PVKNF4844V1Z5",
+      "client_tax_id": "01GTRXG5566B1ZV",
+      "client_phone": "8181363109"
+    },
+    "items": [
+      {
+        "item_desc": "Motorola Smartphones MOT-814G IMEI: 440203897675204",
+        "item_qty": "1",
+        "item_net_price": "16,794.07",
+        "item_net_worth": "16,794.07",
+        "item_vat": "18%",
+        "item_gross_worth": "19,817.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹16,794.07",
+      "total_vat": "₹3,022.93",
+      "total_gross_worth": "₹19,817.00"
+    }
+  }
+}

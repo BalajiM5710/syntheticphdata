@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SQ-9596",
+      "invoice_date": "13/02/2025",
+      "seller": "STAR ELECTRONICS H.No. 21, Kapadia Road, Malegaon 517199",
+      "client": "BHAVANI PAREKH 341, Merchant Path, Allahabad-217123",
+      "seller_tax_id": "16FNJWQ8533B1Z8",
+      "client_tax_id": "19IPEGA4565T1ZQ",
+      "client_phone": "0863293743"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-893H",
+        "item_qty": "1",
+        "item_net_price": "56,704.76",
+        "item_net_worth": "56,704.76",
+        "item_vat": "18%",
+        "item_gross_worth": "66,911.62"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-129Z",
+        "item_qty": "2",
+        "item_net_price": "57,129.24",
+        "item_net_worth": "114,258.48",
+        "item_vat": "18%",
+        "item_gross_worth": "134,825.01"
+      },
+      {
+        "item_desc": "Sony Camera SON-102I",
+        "item_qty": "2",
+        "item_net_price": "85,631.59",
+        "item_net_worth": "171,263.18",
+        "item_vat": "18%",
+        "item_gross_worth": "202,090.55"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-525Z",
+        "item_qty": "1",
+        "item_net_price": "67,441.93",
+        "item_net_worth": "67,441.93",
+        "item_vat": "18%",
+        "item_gross_worth": "79,581.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹409,668.35",
+      "total_vat": "₹73,740.30",
+      "total_gross_worth": "₹483,408.65"
+    }
+  }
+}

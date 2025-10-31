@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NR-5127",
+      "invoice_date": "24/09/2025",
+      "seller": "MOBILE POINT H.No. 25, Dixit Chowk, Tinsukia 973542",
+      "client": "MATTHEW DEVI H.No. 70, Naik Street, Bhiwandi-082160",
+      "seller_tax_id": "33ZIWBH4514D1Z7",
+      "client_tax_id": "03QRBYH7361V1ZR",
+      "client_phone": "9184766381"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-697V",
+        "item_qty": "2",
+        "item_net_price": "36,800.59",
+        "item_net_worth": "73,601.18",
+        "item_vat": "18%",
+        "item_gross_worth": "86,849.39"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-411W",
+        "item_qty": "1",
+        "item_net_price": "25,633.12",
+        "item_net_worth": "25,633.12",
+        "item_vat": "18%",
+        "item_gross_worth": "30,247.08"
+      },
+      {
+        "item_desc": "Mi Television MI-427B",
+        "item_qty": "2",
+        "item_net_price": "33,499.98",
+        "item_net_worth": "66,999.96",
+        "item_vat": "18%",
+        "item_gross_worth": "79,059.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,234.26",
+      "total_vat": "₹29,922.17",
+      "total_gross_worth": "₹196,156.43"
+    }
+  }
+}

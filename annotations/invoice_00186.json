@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MT-8713",
+      "invoice_date": "22/05/2025",
+      "seller": "PATEL MOBILES 82/453, Mannan Marg, Hubli–Dharwad-637371",
+      "client": "LADLI DASS 59/72, Mistry Ganj, Raurkela Industrial Township-768515",
+      "seller_tax_id": "31KTJLP0679S1Z8",
+      "client_tax_id": "10DLEPF2048D1Z1",
+      "client_phone": "3133196045"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-809G",
+        "item_qty": "2",
+        "item_net_price": "118,186.84",
+        "item_net_worth": "236,373.68",
+        "item_vat": "18%",
+        "item_gross_worth": "278,920.94"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-299P",
+        "item_qty": "2",
+        "item_net_price": "75,605.14",
+        "item_net_worth": "151,210.28",
+        "item_vat": "18%",
+        "item_gross_worth": "178,428.13"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-508W",
+        "item_qty": "1",
+        "item_net_price": "29,945.82",
+        "item_net_worth": "29,945.82",
+        "item_vat": "18%",
+        "item_gross_worth": "35,336.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹417,529.78",
+      "total_vat": "₹75,155.36",
+      "total_gross_worth": "₹492,685.14"
+    }
+  }
+}

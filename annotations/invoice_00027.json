@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WI-5217",
+      "invoice_date": "05/03/2025",
+      "seller": "ROYAL MOBILES H.No. 296, Sagar Ganj, Karimnagar-076858",
+      "client": "VYANJANA SIBAL 75/74, Chander Ganj, Raebareli 836278",
+      "seller_tax_id": "35NUZAS0476Y1ZH",
+      "client_tax_id": "28VTZDR6305B1ZU",
+      "client_phone": "9047097172"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-651J",
+        "item_qty": "1",
+        "item_net_price": "93,213.90",
+        "item_net_worth": "93,213.90",
+        "item_vat": "18%",
+        "item_gross_worth": "109,992.40"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-581E",
+        "item_qty": "1",
+        "item_net_price": "36,613.87",
+        "item_net_worth": "36,613.87",
+        "item_vat": "18%",
+        "item_gross_worth": "43,204.37"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-782B",
+        "item_qty": "1",
+        "item_net_price": "92,032.56",
+        "item_net_worth": "92,032.56",
+        "item_vat": "18%",
+        "item_gross_worth": "108,598.42"
+      },
+      {
+        "item_desc": "Sony Headphones SON-310Q",
+        "item_qty": "2",
+        "item_net_price": "15,657.09",
+        "item_net_worth": "31,314.18",
+        "item_vat": "18%",
+        "item_gross_worth": "36,950.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹253,174.51",
+      "total_vat": "₹45,571.41",
+      "total_gross_worth": "₹298,745.92"
+    }
+  }
+}

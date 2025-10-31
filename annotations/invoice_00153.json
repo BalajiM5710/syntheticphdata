@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NY-1642",
+      "invoice_date": "25/02/2025",
+      "seller": "STAR ELECTRONICS H.No. 093, Setty Marg, Imphal-201154",
+      "client": "SIYA KHATRI H.No. 06, Gala Marg, Katihar-207020",
+      "seller_tax_id": "31SURKE4204W1ZG",
+      "client_tax_id": "10XXESI3763D1ZG",
+      "client_phone": "00157353673"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-487N",
+        "item_qty": "1",
+        "item_net_price": "71,390.39",
+        "item_net_worth": "71,390.39",
+        "item_vat": "18%",
+        "item_gross_worth": "84,240.66"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-250M",
+        "item_qty": "2",
+        "item_net_price": "53,386.75",
+        "item_net_worth": "106,773.50",
+        "item_vat": "18%",
+        "item_gross_worth": "125,992.73"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-759Y",
+        "item_qty": "2",
+        "item_net_price": "90,826.37",
+        "item_net_worth": "181,652.74",
+        "item_vat": "18%",
+        "item_gross_worth": "214,350.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹359,816.63",
+      "total_vat": "₹64,766.99",
+      "total_gross_worth": "₹424,583.62"
+    }
+  }
+}

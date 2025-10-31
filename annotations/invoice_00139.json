@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XP-8262",
+      "invoice_date": "10/02/2025",
+      "seller": "PATEL MOBILES 74, Rana Path, Pondicherry 851513",
+      "client": "RAJATA KOTA 73/63, Balay Zila, Pimpri-Chinchwad-193375",
+      "seller_tax_id": "23PWTJA1442O1ZB",
+      "client_tax_id": "04TTYGW1427J1Z5",
+      "client_phone": "02621150861"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-548S",
+        "item_qty": "2",
+        "item_net_price": "89,156.03",
+        "item_net_worth": "178,312.06",
+        "item_vat": "18%",
+        "item_gross_worth": "210,408.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹178,312.06",
+      "total_vat": "₹32,096.17",
+      "total_gross_worth": "₹210,408.23"
+    }
+  }
+}

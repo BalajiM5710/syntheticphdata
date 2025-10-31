@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NQ-6977",
+      "invoice_date": "24/05/2025",
+      "seller": "METRO TECH STORE 47/61, Khanna Road, Jamalpur 342526",
+      "client": "VRITTI DUA 62/55, Dalal Nagar, Sambhal 604216",
+      "seller_tax_id": "10SDRBW3438S1ZL",
+      "client_tax_id": "35ZSCCP6548W1ZM",
+      "client_phone": "+919794262481"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-297N",
+        "item_qty": "2",
+        "item_net_price": "43,716.06",
+        "item_net_worth": "87,432.12",
+        "item_vat": "18%",
+        "item_gross_worth": "103,169.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹87,432.12",
+      "total_vat": "₹15,737.78",
+      "total_gross_worth": "₹103,169.90"
+    }
+  }
+}

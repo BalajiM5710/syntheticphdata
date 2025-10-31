@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WU-3666",
+      "invoice_date": "25/05/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 113, Baria Road, Kavali-023203",
+      "client": "HARSHIL NAIDU 68/704, Sen Path, Pali-942861",
+      "seller_tax_id": "02FWCGB0009B1ZP",
+      "client_tax_id": "36COKRN5971Y1ZL",
+      "client_phone": "01345809958"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-851F",
+        "item_qty": "1",
+        "item_net_price": "44,957.89",
+        "item_net_worth": "44,957.89",
+        "item_vat": "18%",
+        "item_gross_worth": "53,050.31"
+      },
+      {
+        "item_desc": "TCL Television TCL-678J",
+        "item_qty": "2",
+        "item_net_price": "50,433.11",
+        "item_net_worth": "100,866.22",
+        "item_vat": "18%",
+        "item_gross_worth": "119,022.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹145,824.11",
+      "total_vat": "₹26,248.34",
+      "total_gross_worth": "₹172,072.45"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EP-5049",
+      "invoice_date": "04/02/2025",
+      "seller": "FUTURE TECH 65/43, Kota Circle, Durg 102228",
+      "client": "HARRISON DUBEY 812, Walia Ganj, Begusarai 369801",
+      "seller_tax_id": "26JNIBF4947Q1ZB",
+      "client_tax_id": "37VPLDW1556T1ZY",
+      "client_phone": "+918066255024"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-859L",
+        "item_qty": "1",
+        "item_net_price": "77,212.28",
+        "item_net_worth": "77,212.28",
+        "item_vat": "18%",
+        "item_gross_worth": "91,110.49"
+      },
+      {
+        "item_desc": "Sony Speaker SON-521T",
+        "item_qty": "1",
+        "item_net_price": "33,470.87",
+        "item_net_worth": "33,470.87",
+        "item_vat": "18%",
+        "item_gross_worth": "39,495.63"
+      },
+      {
+        "item_desc": "Apple Laptops APP-208L",
+        "item_qty": "2",
+        "item_net_price": "34,635.91",
+        "item_net_worth": "69,271.82",
+        "item_vat": "18%",
+        "item_gross_worth": "81,740.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,954.97",
+      "total_vat": "₹32,391.89",
+      "total_gross_worth": "₹212,346.86"
+    }
+  }
+}

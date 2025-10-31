@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BE-6347",
+      "invoice_date": "13/03/2025",
+      "seller": "SINGH ELECTRONICS H.No. 685, Lala, Vellore-176385",
+      "client": "EKALINGA RAJU 85/285, Sachar Zila, Chennai 404377",
+      "seller_tax_id": "11ZOQEP7898R1Z0",
+      "client_tax_id": "30HJALU4353A1ZG",
+      "client_phone": "+910045515715"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-652V",
+        "item_qty": "1",
+        "item_net_price": "52,549.39",
+        "item_net_worth": "52,549.39",
+        "item_vat": "18%",
+        "item_gross_worth": "62,008.28"
+      },
+      {
+        "item_desc": "Sony Camera SON-778T",
+        "item_qty": "2",
+        "item_net_price": "82,314.30",
+        "item_net_worth": "164,628.60",
+        "item_vat": "18%",
+        "item_gross_worth": "194,261.75"
+      },
+      {
+        "item_desc": "TCL Television TCL-744Z",
+        "item_qty": "1",
+        "item_net_price": "139,389.93",
+        "item_net_worth": "139,389.93",
+        "item_vat": "18%",
+        "item_gross_worth": "164,480.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹356,567.92",
+      "total_vat": "₹64,182.23",
+      "total_gross_worth": "₹420,750.15"
+    }
+  }
+}

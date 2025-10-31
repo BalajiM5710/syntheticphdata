@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NF-6051",
+      "invoice_date": "25/01/2025",
+      "seller": "SMART ELECTRONICS 82/378, Deshmukh Marg, Nagaon-441854",
+      "client": "IJAYA WAGLE 20, Rau Circle, Bilaspur 056124",
+      "seller_tax_id": "29WKISH6780D1ZR",
+      "client_tax_id": "36TSOZB8298O1ZR",
+      "client_phone": "7929354550"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-412G",
+        "item_qty": "2",
+        "item_net_price": "11,287.45",
+        "item_net_worth": "22,574.90",
+        "item_vat": "18%",
+        "item_gross_worth": "26,638.38"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-828L",
+        "item_qty": "1",
+        "item_net_price": "136,393.54",
+        "item_net_worth": "136,393.54",
+        "item_vat": "18%",
+        "item_gross_worth": "160,944.38"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-169C",
+        "item_qty": "1",
+        "item_net_price": "21,091.77",
+        "item_net_worth": "21,091.77",
+        "item_vat": "18%",
+        "item_gross_worth": "24,888.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹180,060.21",
+      "total_vat": "₹32,410.84",
+      "total_gross_worth": "₹212,471.05"
+    }
+  }
+}

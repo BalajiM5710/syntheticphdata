@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OU-7896",
+      "invoice_date": "08/10/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 59, Batta Ganj, Ghaziabad-200760",
+      "client": "DAYITA SOOD H.No. 356, Madan Chowk, Patiala-768337",
+      "seller_tax_id": "04MBYAJ4503C1ZK",
+      "client_tax_id": "27XRDSQ7163D1Z5",
+      "client_phone": "02551457080"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-706M",
+        "item_qty": "2",
+        "item_net_price": "78,780.85",
+        "item_net_worth": "157,561.70",
+        "item_vat": "18%",
+        "item_gross_worth": "185,922.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹157,561.70",
+      "total_vat": "₹28,361.11",
+      "total_gross_worth": "₹185,922.81"
+    }
+  }
+}

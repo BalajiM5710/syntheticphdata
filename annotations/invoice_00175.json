@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AX-6255",
+      "invoice_date": "01/01/2025",
+      "seller": "METRO TECH STORE 28, Patil Zila, Anand 889602",
+      "client": "ADITYA KARPE 08, Chand Marg, Coimbatore 546328",
+      "seller_tax_id": "01HQLQC4233V1Z9",
+      "client_tax_id": "03CELBR6032P1ZT",
+      "client_phone": "02839589821"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-173P",
+        "item_qty": "2",
+        "item_net_price": "74,187.39",
+        "item_net_worth": "148,374.78",
+        "item_vat": "18%",
+        "item_gross_worth": "175,082.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹148,374.78",
+      "total_vat": "₹26,707.46",
+      "total_gross_worth": "₹175,082.24"
+    }
+  }
+}

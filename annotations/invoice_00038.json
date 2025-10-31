@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BL-2511",
+      "invoice_date": "04/01/2025",
+      "seller": "VISHWA ELECTRONICS 66/904, Sabharwal, Kanpur 458053",
+      "client": "MANTHAN NAIR 88/694, Apte Circle, Udupi 181978",
+      "seller_tax_id": "19MMMKD6413Y1Z5",
+      "client_tax_id": "18EYDFJ3662B1Z6",
+      "client_phone": "9079712558"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-283S",
+        "item_qty": "1",
+        "item_net_price": "89,218.13",
+        "item_net_worth": "89,218.13",
+        "item_vat": "18%",
+        "item_gross_worth": "105,277.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,218.13",
+      "total_vat": "₹16,059.26",
+      "total_gross_worth": "₹105,277.39"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CQ-6285",
+      "invoice_date": "20/10/2025",
+      "seller": "MOBILE POINT H.No. 895, Goswami, Pallavaram-889984",
+      "client": "ANIRUDH HAYRE 54/80, Shetty Nagar, Sikar 440055",
+      "seller_tax_id": "05TCHIU7767V1Z6",
+      "client_tax_id": "11VJWCZ6041C1ZB",
+      "client_phone": "+910310851292"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-578E",
+        "item_qty": "1",
+        "item_net_price": "71,013.72",
+        "item_net_worth": "71,013.72",
+        "item_vat": "18%",
+        "item_gross_worth": "83,796.19"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-690O IMEI: 364766323796017",
+        "item_qty": "2",
+        "item_net_price": "65,716.01",
+        "item_net_worth": "131,432.02",
+        "item_vat": "18%",
+        "item_gross_worth": "155,089.78"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-451A",
+        "item_qty": "1",
+        "item_net_price": "38,294.90",
+        "item_net_worth": "38,294.90",
+        "item_vat": "18%",
+        "item_gross_worth": "45,187.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹240,740.64",
+      "total_vat": "₹43,333.32",
+      "total_gross_worth": "₹284,073.96"
+    }
+  }
+}

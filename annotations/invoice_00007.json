@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CF-8705",
+      "invoice_date": "23/09/2025",
+      "seller": "MOBILE POINT H.No. 17, Dugar Street, Rajpur Sonarpur 341774",
+      "client": "BANJEET KAMDAR 25, Kapadia Street, Bongaigaon 053992",
+      "seller_tax_id": "14KCLKY7788O1Z0",
+      "client_tax_id": "33OOVQW5908Q1ZF",
+      "client_phone": "3686127957"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-384A",
+        "item_qty": "2",
+        "item_net_price": "39,802.56",
+        "item_net_worth": "79,605.12",
+        "item_vat": "18%",
+        "item_gross_worth": "93,934.04"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-273T",
+        "item_qty": "2",
+        "item_net_price": "74,867.21",
+        "item_net_worth": "149,734.42",
+        "item_vat": "18%",
+        "item_gross_worth": "176,686.62"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-587M",
+        "item_qty": "2",
+        "item_net_price": "63,722.50",
+        "item_net_worth": "127,445.00",
+        "item_vat": "18%",
+        "item_gross_worth": "150,385.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹356,784.54",
+      "total_vat": "₹64,221.22",
+      "total_gross_worth": "₹421,005.76"
+    }
+  }
+}

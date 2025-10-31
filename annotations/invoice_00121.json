@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RX-2092",
+      "invoice_date": "24/10/2025",
+      "seller": "METRO TECH STORE 58, Singhal Path, Chennai-471792",
+      "client": "MITALI NATH 61, Sachdeva Road, Khandwa-105890",
+      "seller_tax_id": "26DAVDB4874B1ZB",
+      "client_tax_id": "31ZRBQN8623C1ZN",
+      "client_phone": "03680697825"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-760J",
+        "item_qty": "1",
+        "item_net_price": "51,149.48",
+        "item_net_worth": "51,149.48",
+        "item_vat": "18%",
+        "item_gross_worth": "60,356.39"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-711Z IMEI: 237238706296431",
+        "item_qty": "2",
+        "item_net_price": "41,602.74",
+        "item_net_worth": "83,205.48",
+        "item_vat": "18%",
+        "item_gross_worth": "98,182.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹134,354.96",
+      "total_vat": "₹24,183.89",
+      "total_gross_worth": "₹158,538.85"
+    }
+  }
+}

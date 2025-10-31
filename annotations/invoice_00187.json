@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WZ-3320",
+      "invoice_date": "15/03/2025",
+      "seller": "CITY ELECTRONICS 28, Dalal Road, Dehradun-572274",
+      "client": "LILA HANS 60/54, Palla Nagar, Howrah-551306",
+      "seller_tax_id": "29RIFNU5895O1ZQ",
+      "client_tax_id": "28CUIJG8363N1Z1",
+      "client_phone": "4259262405"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-251N",
+        "item_qty": "2",
+        "item_net_price": "107,783.95",
+        "item_net_worth": "215,567.90",
+        "item_vat": "18%",
+        "item_gross_worth": "254,370.12"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-694N",
+        "item_qty": "2",
+        "item_net_price": "60,157.81",
+        "item_net_worth": "120,315.62",
+        "item_vat": "18%",
+        "item_gross_worth": "141,972.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹335,883.52",
+      "total_vat": "₹60,459.03",
+      "total_gross_worth": "₹396,342.55"
+    }
+  }
+}

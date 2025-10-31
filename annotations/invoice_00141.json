@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OP-3411",
+      "invoice_date": "19/07/2025",
+      "seller": "FUTURE TECH 02, Bhatti Ganj, Tiruvottiyur 127819",
+      "client": "SUDIKSHA ZACHARIA H.No. 346, Narayanan, Gandhidham 457105",
+      "seller_tax_id": "35ZNWGU7056N1ZH",
+      "client_tax_id": "35YBHVD5502Z1Z7",
+      "client_phone": "2083981505"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-644S",
+        "item_qty": "1",
+        "item_net_price": "55,048.32",
+        "item_net_worth": "55,048.32",
+        "item_vat": "18%",
+        "item_gross_worth": "64,957.02"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-531R",
+        "item_qty": "1",
+        "item_net_price": "71,664.33",
+        "item_net_worth": "71,664.33",
+        "item_vat": "18%",
+        "item_gross_worth": "84,563.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹126,712.65",
+      "total_vat": "₹22,808.28",
+      "total_gross_worth": "₹149,520.93"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ND-5247",
+      "invoice_date": "24/03/2025",
+      "seller": "GADGET GALAXY H.No. 39, Dey Circle, Latur-466533",
+      "client": "SAMUEL BASSI 24, Dani, Uluberia-535386",
+      "seller_tax_id": "30YPNQG9193X1ZE",
+      "client_tax_id": "35OYOLM4949R1Z1",
+      "client_phone": "9053642501"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-406H",
+        "item_qty": "2",
+        "item_net_price": "53,640.87",
+        "item_net_worth": "107,281.74",
+        "item_vat": "18%",
+        "item_gross_worth": "126,592.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹107,281.74",
+      "total_vat": "₹19,310.71",
+      "total_gross_worth": "₹126,592.45"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LG-5854",
+      "invoice_date": "18/02/2025",
+      "seller": "SUPREME ELECTRONICS 69/21, Kala Marg, Dhule 453848",
+      "client": "ALEXANDER VISWANATHAN 60/60, Narasimhan, Sirsa 221079",
+      "seller_tax_id": "14UPHXA3826Y1ZL",
+      "client_tax_id": "23VLBLU1321O1ZB",
+      "client_phone": "7177663880"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-690I",
+        "item_qty": "1",
+        "item_net_price": "84,182.08",
+        "item_net_worth": "84,182.08",
+        "item_vat": "18%",
+        "item_gross_worth": "99,334.85"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-854Y",
+        "item_qty": "2",
+        "item_net_price": "113,227.21",
+        "item_net_worth": "226,454.42",
+        "item_vat": "18%",
+        "item_gross_worth": "267,216.22"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-842C",
+        "item_qty": "2",
+        "item_net_price": "77,961.56",
+        "item_net_worth": "155,923.12",
+        "item_vat": "18%",
+        "item_gross_worth": "183,989.28"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-569L",
+        "item_qty": "2",
+        "item_net_price": "53,433.14",
+        "item_net_worth": "106,866.28",
+        "item_vat": "18%",
+        "item_gross_worth": "126,102.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹573,425.90",
+      "total_vat": "₹103,216.66",
+      "total_gross_worth": "₹676,642.56"
+    }
+  }
+}

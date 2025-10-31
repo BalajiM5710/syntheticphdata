@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WO-1954",
+      "invoice_date": "06/10/2025",
+      "seller": "CITY ELECTRONICS H.No. 94, Arora Circle, Ambattur 994961",
+      "client": "NAKUL BAINS 29/198, Maharaj Zila, Hindupur 260689",
+      "seller_tax_id": "26OBVSK3698G1Z0",
+      "client_tax_id": "22WEIIK2009J1ZE",
+      "client_phone": "+916494362100"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-261C",
+        "item_qty": "1",
+        "item_net_price": "48,546.76",
+        "item_net_worth": "48,546.76",
+        "item_vat": "18%",
+        "item_gross_worth": "57,285.18"
+      },
+      {
+        "item_desc": "Canon Camera CAN-812M",
+        "item_qty": "2",
+        "item_net_price": "33,863.96",
+        "item_net_worth": "67,727.92",
+        "item_vat": "18%",
+        "item_gross_worth": "79,918.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹116,274.68",
+      "total_vat": "₹20,929.44",
+      "total_gross_worth": "₹137,204.12"
+    }
+  }
+}

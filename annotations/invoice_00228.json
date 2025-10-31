@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CK-2762",
+      "invoice_date": "24/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 585, Mittal Nagar, Mira-Bhayandar 480609",
+      "client": "AARINI MENON H.No. 014, Mitra Ganj, Gurgaon 743591",
+      "seller_tax_id": "01SCKUI6779Z1ZH",
+      "client_tax_id": "24NCLLT8179B1Z7",
+      "client_phone": "+918418595702"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-975F",
+        "item_qty": "1",
+        "item_net_price": "66,283.57",
+        "item_net_worth": "66,283.57",
+        "item_vat": "18%",
+        "item_gross_worth": "78,214.61"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-205W",
+        "item_qty": "1",
+        "item_net_price": "71,906.81",
+        "item_net_worth": "71,906.81",
+        "item_vat": "18%",
+        "item_gross_worth": "84,850.04"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-633K",
+        "item_qty": "2",
+        "item_net_price": "15,425.12",
+        "item_net_worth": "30,850.24",
+        "item_vat": "18%",
+        "item_gross_worth": "36,403.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹169,040.62",
+      "total_vat": "₹30,427.31",
+      "total_gross_worth": "₹199,467.93"
+    }
+  }
+}

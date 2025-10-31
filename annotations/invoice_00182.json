@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PU-6801",
+      "invoice_date": "26/05/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 57, Bahri Marg, Bidhannagar-928150",
+      "client": "LEELA DYAL H.No. 30, Gour Street, Unnao-625828",
+      "seller_tax_id": "35JXFFL1631Z1Z7",
+      "client_tax_id": "29ZPIJV7451A1ZA",
+      "client_phone": "+912444573703"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-173I",
+        "item_qty": "1",
+        "item_net_price": "64,824.18",
+        "item_net_worth": "64,824.18",
+        "item_vat": "18%",
+        "item_gross_worth": "76,492.53"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-573I",
+        "item_qty": "2",
+        "item_net_price": "51,270.05",
+        "item_net_worth": "102,540.10",
+        "item_vat": "18%",
+        "item_gross_worth": "120,997.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,364.28",
+      "total_vat": "₹30,125.57",
+      "total_gross_worth": "₹197,489.85"
+    }
+  }
+}

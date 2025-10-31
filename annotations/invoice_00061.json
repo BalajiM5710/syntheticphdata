@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RL-5645",
+      "invoice_date": "27/04/2025",
+      "seller": "DIGITAL STORE H.No. 888, Pant Path, Saharsa 100084",
+      "client": "WARHI KIBE H.No. 02, Contractor Nagar, Adoni 995468",
+      "seller_tax_id": "10CCUKD2302E1ZY",
+      "client_tax_id": "07BYOQM9190N1ZD",
+      "client_phone": "+915232450173"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-342C",
+        "item_qty": "2",
+        "item_net_price": "47,950.96",
+        "item_net_worth": "95,901.92",
+        "item_vat": "18%",
+        "item_gross_worth": "113,164.27"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-266C",
+        "item_qty": "1",
+        "item_net_price": "59,679.85",
+        "item_net_worth": "59,679.85",
+        "item_vat": "18%",
+        "item_gross_worth": "70,422.22"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-663W",
+        "item_qty": "2",
+        "item_net_price": "44,259.80",
+        "item_net_worth": "88,519.60",
+        "item_vat": "18%",
+        "item_gross_worth": "104,453.13"
+      },
+      {
+        "item_desc": "Hero Bike HER-862A",
+        "item_qty": "2",
+        "item_net_price": "199,690.07",
+        "item_net_worth": "399,380.14",
+        "item_vat": "18%",
+        "item_gross_worth": "471,268.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹643,481.51",
+      "total_vat": "₹115,826.67",
+      "total_gross_worth": "₹759,308.18"
+    }
+  }
+}

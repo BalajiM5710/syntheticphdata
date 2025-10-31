@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BZ-5740",
+      "invoice_date": "18/08/2025",
+      "seller": "DIGITAL STORE H.No. 45, Singhal Path, Begusarai 275675",
+      "client": "TANVEER SAMA 86/848, Banik Nagar, Bhimavaram 429495",
+      "seller_tax_id": "12RVNGU1888Y1ZJ",
+      "client_tax_id": "12UILST8542X1ZY",
+      "client_phone": "+915746848610"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-357H",
+        "item_qty": "2",
+        "item_net_price": "141,445.46",
+        "item_net_worth": "282,890.92",
+        "item_vat": "18%",
+        "item_gross_worth": "333,811.29"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-326I",
+        "item_qty": "1",
+        "item_net_price": "184,016.17",
+        "item_net_worth": "184,016.17",
+        "item_vat": "18%",
+        "item_gross_worth": "217,139.08"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-284H",
+        "item_qty": "2",
+        "item_net_price": "77,743.76",
+        "item_net_worth": "155,487.52",
+        "item_vat": "18%",
+        "item_gross_worth": "183,475.27"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-544P",
+        "item_qty": "2",
+        "item_net_price": "14,122.96",
+        "item_net_worth": "28,245.92",
+        "item_vat": "18%",
+        "item_gross_worth": "33,330.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹650,640.53",
+      "total_vat": "₹117,115.30",
+      "total_gross_worth": "₹767,755.83"
+    }
+  }
+}

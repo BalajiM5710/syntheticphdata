@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VZ-8327",
+      "invoice_date": "12/04/2025",
+      "seller": "STAR ELECTRONICS 077, Sahota Chowk, Mira-Bhayandar-251178",
+      "client": "NOAH RAMAKRISHNAN 864, Pingle Circle, Nandyal 240566",
+      "seller_tax_id": "30AYYSN2977D1ZC",
+      "client_tax_id": "03XBWAE3390Y1ZG",
+      "client_phone": "+917111927938"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-193J",
+        "item_qty": "2",
+        "item_net_price": "57,268.45",
+        "item_net_worth": "114,536.90",
+        "item_vat": "18%",
+        "item_gross_worth": "135,153.54"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-583B",
+        "item_qty": "1",
+        "item_net_price": "75,247.95",
+        "item_net_worth": "75,247.95",
+        "item_vat": "18%",
+        "item_gross_worth": "88,792.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,784.85",
+      "total_vat": "₹34,161.27",
+      "total_gross_worth": "₹223,946.12"
+    }
+  }
+}

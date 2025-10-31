@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MT-9723",
+      "invoice_date": "11/02/2025",
+      "seller": "STAR ELECTRONICS 018, Patil Nagar, Vellore 046981",
+      "client": "FITAN KURIAN H.No. 69, Sampath Marg, Parbhani-598271",
+      "seller_tax_id": "03KMBHX1499E1ZP",
+      "client_tax_id": "14GCDQL8463V1Z6",
+      "client_phone": "1668768838"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-954R",
+        "item_qty": "1",
+        "item_net_price": "139,569.93",
+        "item_net_worth": "139,569.93",
+        "item_vat": "18%",
+        "item_gross_worth": "164,692.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹139,569.93",
+      "total_vat": "₹25,122.59",
+      "total_gross_worth": "₹164,692.52"
+    }
+  }
+}

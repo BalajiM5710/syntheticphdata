@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PM-3399",
+      "invoice_date": "22/08/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 903, Venkatesh Marg, Anand-923992",
+      "client": "HARISH VARTY 88/691, Keer Chowk, Raiganj-864270",
+      "seller_tax_id": "37PTFQZ6811L1ZP",
+      "client_tax_id": "03SNRFN7368K1ZK",
+      "client_phone": "+913610222676"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-781X",
+        "item_qty": "2",
+        "item_net_price": "235,904.47",
+        "item_net_worth": "471,808.94",
+        "item_vat": "18%",
+        "item_gross_worth": "556,734.55"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-924R",
+        "item_qty": "2",
+        "item_net_price": "77,590.79",
+        "item_net_worth": "155,181.58",
+        "item_vat": "18%",
+        "item_gross_worth": "183,114.26"
+      },
+      {
+        "item_desc": "TVS Bike TVS-403M",
+        "item_qty": "2",
+        "item_net_price": "131,465.25",
+        "item_net_worth": "262,930.50",
+        "item_vat": "18%",
+        "item_gross_worth": "310,257.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹889,921.02",
+      "total_vat": "₹160,185.78",
+      "total_gross_worth": "₹1,050,106.80"
+    }
+  }
+}

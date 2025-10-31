@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DZ-8705",
+      "invoice_date": "13/06/2025",
+      "seller": "MOBILE POINT H.No. 73, Mutti Chowk, Dewas-890891",
+      "client": "NEEL ACHARYA 69, Sood Path, Allahabad 366706",
+      "seller_tax_id": "16GZVPU8634D1ZG",
+      "client_tax_id": "29GCJKZ5006A1Z9",
+      "client_phone": "0406282853"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-421D",
+        "item_qty": "1",
+        "item_net_price": "97,513.03",
+        "item_net_worth": "97,513.03",
+        "item_vat": "18%",
+        "item_gross_worth": "115,065.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,513.03",
+      "total_vat": "₹17,552.35",
+      "total_gross_worth": "₹115,065.38"
+    }
+  }
+}

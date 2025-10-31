@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MP-4523",
+      "invoice_date": "01/04/2025",
+      "seller": "STAR ELECTRONICS 72/426, Deol Street, Kolhapur-107965",
+      "client": "WAZIR GOEL 281, Dass Chowk, Chapra-547266",
+      "seller_tax_id": "04ANSFR7710H1ZG",
+      "client_tax_id": "07HJFJD5556G1Z0",
+      "client_phone": "03685773748"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-899X",
+        "item_qty": "2",
+        "item_net_price": "76,942.78",
+        "item_net_worth": "153,885.56",
+        "item_vat": "18%",
+        "item_gross_worth": "181,584.96"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-175I",
+        "item_qty": "1",
+        "item_net_price": "71,236.78",
+        "item_net_worth": "71,236.78",
+        "item_vat": "18%",
+        "item_gross_worth": "84,059.40"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-867P",
+        "item_qty": "1",
+        "item_net_price": "145,086.94",
+        "item_net_worth": "145,086.94",
+        "item_vat": "18%",
+        "item_gross_worth": "171,202.59"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-598F",
+        "item_qty": "2",
+        "item_net_price": "64,047.85",
+        "item_net_worth": "128,095.70",
+        "item_vat": "18%",
+        "item_gross_worth": "151,152.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹498,304.98",
+      "total_vat": "₹89,694.90",
+      "total_gross_worth": "₹587,999.88"
+    }
+  }
+}

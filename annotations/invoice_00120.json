@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CW-5884",
+      "invoice_date": "25/04/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 70, Mani Path, Bhilai 056654",
+      "client": "ANVI BALI 34, Dara Zila, Raipur 409715",
+      "seller_tax_id": "28UXCUT1578Z1ZT",
+      "client_tax_id": "20KATRX8822C1ZS",
+      "client_phone": "05646158466"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-766Z",
+        "item_qty": "2",
+        "item_net_price": "123,258.35",
+        "item_net_worth": "246,516.70",
+        "item_vat": "18%",
+        "item_gross_worth": "290,889.71"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-876Q",
+        "item_qty": "2",
+        "item_net_price": "79,435.27",
+        "item_net_worth": "158,870.54",
+        "item_vat": "18%",
+        "item_gross_worth": "187,467.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹405,387.24",
+      "total_vat": "₹72,969.70",
+      "total_gross_worth": "₹478,356.94"
+    }
+  }
+}

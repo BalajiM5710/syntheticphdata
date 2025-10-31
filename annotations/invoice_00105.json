@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KL-3400",
+      "invoice_date": "08/03/2025",
+      "seller": "CITY ELECTRONICS H.No. 677, Ganesh Chowk, Bijapur-213072",
+      "client": "GAURIKA DUTT H.No. 23, Dyal Path, Sonipat 227927",
+      "seller_tax_id": "06PHTQN4349A1ZE",
+      "client_tax_id": "27SEJEN9775D1ZZ",
+      "client_phone": "+917594558069"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-169D",
+        "item_qty": "2",
+        "item_net_price": "103,920.26",
+        "item_net_worth": "207,840.52",
+        "item_vat": "18%",
+        "item_gross_worth": "245,251.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹207,840.52",
+      "total_vat": "₹37,411.29",
+      "total_gross_worth": "₹245,251.81"
+    }
+  }
+}

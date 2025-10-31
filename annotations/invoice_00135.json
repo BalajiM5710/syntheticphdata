@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OI-1939",
+      "invoice_date": "27/09/2025",
+      "seller": "RAM ELECTRONICS 01/968, Iyengar Chowk, Kanpur-807346",
+      "client": "URMI BOBAL H.No. 939, Sengupta Path, Berhampore 408110",
+      "seller_tax_id": "18XPNJC0416K1ZZ",
+      "client_tax_id": "09NEMCG0703T1ZW",
+      "client_phone": "03173933329"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-408Y",
+        "item_qty": "2",
+        "item_net_price": "48,987.92",
+        "item_net_worth": "97,975.84",
+        "item_vat": "18%",
+        "item_gross_worth": "115,611.49"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-562P",
+        "item_qty": "1",
+        "item_net_price": "51,950.95",
+        "item_net_worth": "51,950.95",
+        "item_vat": "18%",
+        "item_gross_worth": "61,302.12"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-906G",
+        "item_qty": "1",
+        "item_net_price": "52,986.90",
+        "item_net_worth": "52,986.90",
+        "item_vat": "18%",
+        "item_gross_worth": "62,524.54"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-147K",
+        "item_qty": "1",
+        "item_net_price": "79,600.38",
+        "item_net_worth": "79,600.38",
+        "item_vat": "18%",
+        "item_gross_worth": "93,928.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹282,514.07",
+      "total_vat": "₹50,852.53",
+      "total_gross_worth": "₹333,366.60"
+    }
+  }
+}

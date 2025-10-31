@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TK-3047",
+      "invoice_date": "10/02/2025",
+      "seller": "PRADHAN MOBILE SHOP 43/25, Hayer Nagar, Kalyan-Dombivli 421278",
+      "client": "YATIN NATT H.No. 204, Shanker Ganj, Danapur 211072",
+      "seller_tax_id": "37GPPRG7971U1Z5",
+      "client_tax_id": "21LWEJS2617H1ZQ",
+      "client_phone": "07837275010"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-321Q",
+        "item_qty": "2",
+        "item_net_price": "57,667.97",
+        "item_net_worth": "115,335.94",
+        "item_vat": "18%",
+        "item_gross_worth": "136,096.41"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹115,335.94",
+      "total_vat": "₹20,760.47",
+      "total_gross_worth": "₹136,096.41"
+    }
+  }
+}

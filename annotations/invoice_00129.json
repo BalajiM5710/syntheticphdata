@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AJ-4481",
+      "invoice_date": "01/09/2025",
+      "seller": "RAM ELECTRONICS 075, Karpe Road, Baranagar-559387",
+      "client": "BISHAKHA RANGANATHAN 75/03, Sidhu Nagar, Silchar 101130",
+      "seller_tax_id": "34PORZV8420G1ZX",
+      "client_tax_id": "37TFYNA4587C1ZZ",
+      "client_phone": "00178129021"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-513K IMEI: 540480170747727",
+        "item_qty": "2",
+        "item_net_price": "46,798.41",
+        "item_net_worth": "93,596.82",
+        "item_vat": "18%",
+        "item_gross_worth": "110,444.25"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-720Z",
+        "item_qty": "1",
+        "item_net_price": "118,188.44",
+        "item_net_worth": "118,188.44",
+        "item_vat": "18%",
+        "item_gross_worth": "139,462.36"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-583W IMEI: 785613308918679",
+        "item_qty": "1",
+        "item_net_price": "46,904.77",
+        "item_net_worth": "46,904.77",
+        "item_vat": "18%",
+        "item_gross_worth": "55,347.63"
+      },
+      {
+        "item_desc": "LG Microwave LG-973H",
+        "item_qty": "1",
+        "item_net_price": "14,885.95",
+        "item_net_worth": "14,885.95",
+        "item_vat": "18%",
+        "item_gross_worth": "17,565.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹273,575.98",
+      "total_vat": "₹49,243.68",
+      "total_gross_worth": "₹322,819.66"
+    }
+  }
+}

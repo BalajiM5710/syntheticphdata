@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BA-2612",
+      "invoice_date": "17/04/2025",
+      "seller": "METRO TECH STORE 80, Chadha Ganj, Singrauli 051099",
+      "client": "RANVEER KALE H.No. 844, Devan Path, Vadodara-277367",
+      "seller_tax_id": "01CDCYP4728O1ZA",
+      "client_tax_id": "17RPYHG6685I1ZA",
+      "client_phone": "+915032657854"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-721D",
+        "item_qty": "2",
+        "item_net_price": "22,293.20",
+        "item_net_worth": "44,586.40",
+        "item_vat": "18%",
+        "item_gross_worth": "52,611.95"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-628I",
+        "item_qty": "1",
+        "item_net_price": "30,753.25",
+        "item_net_worth": "30,753.25",
+        "item_vat": "18%",
+        "item_gross_worth": "36,288.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,339.65",
+      "total_vat": "₹13,561.14",
+      "total_gross_worth": "₹88,900.79"
+    }
+  }
+}

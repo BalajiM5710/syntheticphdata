@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VJ-4824",
+      "invoice_date": "16/05/2025",
+      "seller": "SUPREME ELECTRONICS 44/94, Swamy, Singrauli 924386",
+      "client": "AADI CHACKO H.No. 53, Mutti Ganj, Karaikudi-572997",
+      "seller_tax_id": "02VDHTT0561V1ZJ",
+      "client_tax_id": "20XRAKT6382B1ZS",
+      "client_phone": "2973394242"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-464W",
+        "item_qty": "1",
+        "item_net_price": "147,562.51",
+        "item_net_worth": "147,562.51",
+        "item_vat": "18%",
+        "item_gross_worth": "174,123.76"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-674U",
+        "item_qty": "2",
+        "item_net_price": "83,160.07",
+        "item_net_worth": "166,320.14",
+        "item_vat": "18%",
+        "item_gross_worth": "196,257.77"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-574M",
+        "item_qty": "2",
+        "item_net_price": "39,598.18",
+        "item_net_worth": "79,196.36",
+        "item_vat": "18%",
+        "item_gross_worth": "93,451.70"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-295R",
+        "item_qty": "2",
+        "item_net_price": "66,020.14",
+        "item_net_worth": "132,040.28",
+        "item_vat": "18%",
+        "item_gross_worth": "155,807.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹525,119.29",
+      "total_vat": "₹94,521.47",
+      "total_gross_worth": "₹619,640.76"
+    }
+  }
+}

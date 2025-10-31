@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LF-9310",
+      "invoice_date": "26/04/2025",
+      "seller": "DIGITAL STORE 89/213, Gera Ganj, Mahbubnagar-352357",
+      "client": "WAHAB VISWANATHAN 817, Majumdar Street, Udupi 130400",
+      "seller_tax_id": "05UOMUH8228A1ZC",
+      "client_tax_id": "11PUTPC4967D1ZL",
+      "client_phone": "+910487200327"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-350T",
+        "item_qty": "1",
+        "item_net_price": "37,126.74",
+        "item_net_worth": "37,126.74",
+        "item_vat": "18%",
+        "item_gross_worth": "43,809.55"
+      },
+      {
+        "item_desc": "Sony Headphones SON-750C",
+        "item_qty": "2",
+        "item_net_price": "86,696.24",
+        "item_net_worth": "173,392.48",
+        "item_vat": "18%",
+        "item_gross_worth": "204,603.13"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-318T",
+        "item_qty": "1",
+        "item_net_price": "58,401.37",
+        "item_net_worth": "58,401.37",
+        "item_vat": "18%",
+        "item_gross_worth": "68,913.62"
+      },
+      {
+        "item_desc": "Sony Speaker SON-525B",
+        "item_qty": "2",
+        "item_net_price": "80,457.24",
+        "item_net_worth": "160,914.48",
+        "item_vat": "18%",
+        "item_gross_worth": "189,879.09"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹429,835.07",
+      "total_vat": "₹77,370.31",
+      "total_gross_worth": "₹507,205.38"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FJ-6506",
+      "invoice_date": "25/08/2025",
+      "seller": "PRADHAN MOBILE SHOP 622, Chandran Road, Ramgarh 628246",
+      "client": "LILA SATHE 509, Anne Path, Naihati 760558",
+      "seller_tax_id": "21EEJJG8263Q1ZE",
+      "client_tax_id": "25NNXGM6628A1Z6",
+      "client_phone": "+917275206398"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-297S",
+        "item_qty": "2",
+        "item_net_price": "64,872.60",
+        "item_net_worth": "129,745.20",
+        "item_vat": "18%",
+        "item_gross_worth": "153,099.34"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-601I",
+        "item_qty": "2",
+        "item_net_price": "47,232.00",
+        "item_net_worth": "94,464.00",
+        "item_vat": "18%",
+        "item_gross_worth": "111,467.52"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-600W",
+        "item_qty": "1",
+        "item_net_price": "82,005.96",
+        "item_net_worth": "82,005.96",
+        "item_vat": "18%",
+        "item_gross_worth": "96,767.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹306,215.16",
+      "total_vat": "₹55,118.73",
+      "total_gross_worth": "₹361,333.89"
+    }
+  }
+}

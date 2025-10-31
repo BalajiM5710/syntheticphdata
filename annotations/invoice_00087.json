@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FG-9880",
+      "invoice_date": "31/05/2025",
+      "seller": "RAM ELECTRONICS 81, Sachdeva Street, Naihati 497413",
+      "client": "AMRUTA BANSAL 861, Mani Road, Adoni-286684",
+      "seller_tax_id": "09XCNVK9987M1ZU",
+      "client_tax_id": "35RDPAR9999P1ZJ",
+      "client_phone": "05527972653"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-210K",
+        "item_qty": "2",
+        "item_net_price": "42,968.69",
+        "item_net_worth": "85,937.38",
+        "item_vat": "18%",
+        "item_gross_worth": "101,406.11"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-844S",
+        "item_qty": "1",
+        "item_net_price": "105,184.81",
+        "item_net_worth": "105,184.81",
+        "item_vat": "18%",
+        "item_gross_worth": "124,118.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹191,122.19",
+      "total_vat": "₹34,401.99",
+      "total_gross_worth": "₹225,524.18"
+    }
+  }
+}

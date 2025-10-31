@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YT-7659",
+      "invoice_date": "06/02/2025",
+      "seller": "FUTURE TECH 906, Butala, Ahmednagar 708946",
+      "client": "ZAID TALWAR 67/38, Solanki Circle, Mehsana-210677",
+      "seller_tax_id": "08PSKOJ6303F1ZP",
+      "client_tax_id": "31NAYAY5345O1ZT",
+      "client_phone": "7979122040"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-906Z",
+        "item_qty": "2",
+        "item_net_price": "82,438.21",
+        "item_net_worth": "164,876.42",
+        "item_vat": "18%",
+        "item_gross_worth": "194,554.18"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-834E",
+        "item_qty": "1",
+        "item_net_price": "44,709.06",
+        "item_net_worth": "44,709.06",
+        "item_vat": "18%",
+        "item_gross_worth": "52,756.69"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-906H",
+        "item_qty": "2",
+        "item_net_price": "99,207.47",
+        "item_net_worth": "198,414.94",
+        "item_vat": "18%",
+        "item_gross_worth": "234,129.63"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-687P",
+        "item_qty": "2",
+        "item_net_price": "99,072.08",
+        "item_net_worth": "198,144.16",
+        "item_vat": "18%",
+        "item_gross_worth": "233,810.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹606,144.58",
+      "total_vat": "₹109,106.02",
+      "total_gross_worth": "₹715,250.60"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NL-8785",
+      "invoice_date": "28/06/2025",
+      "seller": "MOBILE POINT H.No. 81, Issac Chowk, Pali 902811",
+      "client": "HENRY MITTER 49/027, Merchant Zila, Durg 368242",
+      "seller_tax_id": "37QHKIH5153J1ZY",
+      "client_tax_id": "18ZIHHV2823N1ZZ",
+      "client_phone": "+915683929241"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-311E",
+        "item_qty": "1",
+        "item_net_price": "149,347.99",
+        "item_net_worth": "149,347.99",
+        "item_vat": "18%",
+        "item_gross_worth": "176,230.63"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-985Q",
+        "item_qty": "1",
+        "item_net_price": "58,413.86",
+        "item_net_worth": "58,413.86",
+        "item_vat": "18%",
+        "item_gross_worth": "68,928.35"
+      },
+      {
+        "item_desc": "Apple Laptops APP-542B",
+        "item_qty": "2",
+        "item_net_price": "124,137.88",
+        "item_net_worth": "248,275.76",
+        "item_vat": "18%",
+        "item_gross_worth": "292,965.40"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-244X IMEI: 789065007216382",
+        "item_qty": "2",
+        "item_net_price": "66,545.75",
+        "item_net_worth": "133,091.50",
+        "item_vat": "18%",
+        "item_gross_worth": "157,047.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹589,129.11",
+      "total_vat": "₹106,043.24",
+      "total_gross_worth": "₹695,172.35"
+    }
+  }
+}

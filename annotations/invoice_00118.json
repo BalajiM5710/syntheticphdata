@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KY-9373",
+      "invoice_date": "25/03/2025",
+      "seller": "ELECTRONICS WORLD H.No. 506, Bhakta Nagar, Moradabad-492195",
+      "client": "YAMINI BORA 19/36, Mander, Raebareli-982354",
+      "seller_tax_id": "23DLLBN0875R1ZL",
+      "client_tax_id": "31DFSNN1947V1Z8",
+      "client_phone": "+914462361376"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-284S IMEI: 413815093461558",
+        "item_qty": "1",
+        "item_net_price": "39,021.93",
+        "item_net_worth": "39,021.93",
+        "item_vat": "18%",
+        "item_gross_worth": "46,045.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹39,021.93",
+      "total_vat": "₹7,023.95",
+      "total_gross_worth": "₹46,045.88"
+    }
+  }
+}

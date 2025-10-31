@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OI-2213",
+      "invoice_date": "18/02/2025",
+      "seller": "CITY ELECTRONICS H.No. 52, Desai Nagar, Tenali 375029",
+      "client": "MANBIR SIBAL H.No. 701, Modi, Parbhani-796678",
+      "seller_tax_id": "27XPXVX1614C1Z0",
+      "client_tax_id": "08IEUJR7080Y1Z4",
+      "client_phone": "+911159129462"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-200D",
+        "item_qty": "2",
+        "item_net_price": "33,775.45",
+        "item_net_worth": "67,550.90",
+        "item_vat": "18%",
+        "item_gross_worth": "79,710.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹67,550.90",
+      "total_vat": "₹12,159.16",
+      "total_gross_worth": "₹79,710.06"
+    }
+  }
+}

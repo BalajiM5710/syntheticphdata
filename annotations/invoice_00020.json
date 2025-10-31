@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TN-9500",
+      "invoice_date": "26/07/2025",
+      "seller": "MOBILE POINT 35/370, Hayre Street, Gudivada 054440",
+      "client": "CHANDRESH THAMAN 275, Barad Nagar, Haldia 835594",
+      "seller_tax_id": "27OYVVK6275A1ZT",
+      "client_tax_id": "08PUQIK4128P1Z8",
+      "client_phone": "1791098796"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-623A",
+        "item_qty": "1",
+        "item_net_price": "58,212.66",
+        "item_net_worth": "58,212.66",
+        "item_vat": "18%",
+        "item_gross_worth": "68,690.94"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-754Q",
+        "item_qty": "1",
+        "item_net_price": "21,544.11",
+        "item_net_worth": "21,544.11",
+        "item_vat": "18%",
+        "item_gross_worth": "25,422.05"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-548X",
+        "item_qty": "2",
+        "item_net_price": "56,995.54",
+        "item_net_worth": "113,991.08",
+        "item_vat": "18%",
+        "item_gross_worth": "134,509.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹193,747.85",
+      "total_vat": "₹34,874.61",
+      "total_gross_worth": "₹228,622.46"
+    }
+  }
+}

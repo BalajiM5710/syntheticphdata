@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DB-6567",
+      "invoice_date": "01/04/2025",
+      "seller": "GADGET GALAXY 254, Kalla Chowk, Jabalpur 862445",
+      "client": "MANBIR PALLA H.No. 28, Rege Circle, Sri Ganganagar-075620",
+      "seller_tax_id": "08VLJWR8606M1Z5",
+      "client_tax_id": "23AVWKM2892H1ZQ",
+      "client_phone": "08936909490"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-739S",
+        "item_qty": "2",
+        "item_net_price": "117,601.30",
+        "item_net_worth": "235,202.60",
+        "item_vat": "18%",
+        "item_gross_worth": "277,539.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹235,202.60",
+      "total_vat": "₹42,336.47",
+      "total_gross_worth": "₹277,539.07"
+    }
+  }
+}

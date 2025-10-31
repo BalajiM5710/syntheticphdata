@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NH-5423",
+      "invoice_date": "25/06/2025",
+      "seller": "MOBILE POINT 445, Nigam Circle, Siliguri 727550",
+      "client": "CHAITANYA VIG H.No. 902, Gera Zila, Yamunanagar-396054",
+      "seller_tax_id": "23MJGOT8653N1Z2",
+      "client_tax_id": "25HTDWK9431G1ZQ",
+      "client_phone": "05170857595"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-321C",
+        "item_qty": "2",
+        "item_net_price": "39,444.26",
+        "item_net_worth": "78,888.52",
+        "item_vat": "18%",
+        "item_gross_worth": "93,088.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹78,888.52",
+      "total_vat": "₹14,199.93",
+      "total_gross_worth": "₹93,088.45"
+    }
+  }
+}

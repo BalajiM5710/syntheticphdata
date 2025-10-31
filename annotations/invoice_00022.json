@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RW-2138",
+      "invoice_date": "09/07/2025",
+      "seller": "RAM ELECTRONICS 48/69, Atwal Ganj, Jhansi-732298",
+      "client": "LIAM GOPAL 89, Sarna Zila, Giridih 309671",
+      "seller_tax_id": "27IALAW9907Q1ZS",
+      "client_tax_id": "15QWPCN7686I1ZP",
+      "client_phone": "+914562466791"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-543E",
+        "item_qty": "1",
+        "item_net_price": "66,111.66",
+        "item_net_worth": "66,111.66",
+        "item_vat": "18%",
+        "item_gross_worth": "78,011.76"
+      },
+      {
+        "item_desc": "LG Microwave LG-521C",
+        "item_qty": "2",
+        "item_net_price": "37,252.64",
+        "item_net_worth": "74,505.28",
+        "item_vat": "18%",
+        "item_gross_worth": "87,916.23"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-287K",
+        "item_qty": "1",
+        "item_net_price": "55,971.58",
+        "item_net_worth": "55,971.58",
+        "item_vat": "18%",
+        "item_gross_worth": "66,046.46"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-115B",
+        "item_qty": "2",
+        "item_net_price": "85,120.46",
+        "item_net_worth": "170,240.92",
+        "item_vat": "18%",
+        "item_gross_worth": "200,884.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹366,829.44",
+      "total_vat": "₹66,029.30",
+      "total_gross_worth": "₹432,858.74"
+    }
+  }
+}

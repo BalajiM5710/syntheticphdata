@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FP-5145",
+      "invoice_date": "12/10/2025",
+      "seller": "DIGITAL STORE 08/537, Misra, Rajkot-665892",
+      "client": "VARSHA KAPADIA H.No. 57, Krish Ganj, Avadi 159673",
+      "seller_tax_id": "17WZYNA9186I1ZH",
+      "client_tax_id": "13UKKPW8015Y1ZK",
+      "client_phone": "09700292923"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-407C",
+        "item_qty": "2",
+        "item_net_price": "44,157.59",
+        "item_net_worth": "88,315.18",
+        "item_vat": "18%",
+        "item_gross_worth": "104,211.91"
+      },
+      {
+        "item_desc": "Sony Headphones SON-993N",
+        "item_qty": "2",
+        "item_net_price": "27,031.84",
+        "item_net_worth": "54,063.68",
+        "item_vat": "18%",
+        "item_gross_worth": "63,795.14"
+      },
+      {
+        "item_desc": "TVS Bike TVS-956L",
+        "item_qty": "2",
+        "item_net_price": "191,913.34",
+        "item_net_worth": "383,826.68",
+        "item_vat": "18%",
+        "item_gross_worth": "452,915.48"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-440G",
+        "item_qty": "2",
+        "item_net_price": "63,021.43",
+        "item_net_worth": "126,042.86",
+        "item_vat": "18%",
+        "item_gross_worth": "148,730.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹652,248.40",
+      "total_vat": "₹117,404.71",
+      "total_gross_worth": "₹769,653.11"
+    }
+  }
+}

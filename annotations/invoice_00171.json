@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PF-2238",
+      "invoice_date": "22/04/2025",
+      "seller": "RAM ELECTRONICS 44, Dey Marg, Shahjahanpur 831382",
+      "client": "NITESH DUGAR 95, Saran Path, Maheshtala-200104",
+      "seller_tax_id": "09NYXRJ4549E1ZX",
+      "client_tax_id": "07BKREB9297P1ZL",
+      "client_phone": "06041320142"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-893M",
+        "item_qty": "1",
+        "item_net_price": "80,893.42",
+        "item_net_worth": "80,893.42",
+        "item_vat": "18%",
+        "item_gross_worth": "95,454.24"
+      },
+      {
+        "item_desc": "Sony Speaker SON-783U",
+        "item_qty": "1",
+        "item_net_price": "25,586.91",
+        "item_net_worth": "25,586.91",
+        "item_vat": "18%",
+        "item_gross_worth": "30,192.55"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-188P",
+        "item_qty": "1",
+        "item_net_price": "34,628.40",
+        "item_net_worth": "34,628.40",
+        "item_vat": "18%",
+        "item_gross_worth": "40,861.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹141,108.73",
+      "total_vat": "₹25,399.57",
+      "total_gross_worth": "₹166,508.30"
+    }
+  }
+}

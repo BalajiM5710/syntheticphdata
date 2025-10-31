@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZR-1893",
+      "invoice_date": "06/07/2025",
+      "seller": "CITY ELECTRONICS 28/72, Bhatti Marg, Belgaum-813302",
+      "client": "DALAJA GERA 754, Kanda Ganj, Bhavnagar 332689",
+      "seller_tax_id": "16VOWMC1493M1Z0",
+      "client_tax_id": "08NNNFD9774D1Z8",
+      "client_phone": "+910535820303"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-425L",
+        "item_qty": "1",
+        "item_net_price": "8,566.19",
+        "item_net_worth": "8,566.19",
+        "item_vat": "18%",
+        "item_gross_worth": "10,108.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹8,566.19",
+      "total_vat": "₹1,541.91",
+      "total_gross_worth": "₹10,108.10"
+    }
+  }
+}

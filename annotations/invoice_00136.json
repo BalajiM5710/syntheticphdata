@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IA-7751",
+      "invoice_date": "14/08/2025",
+      "seller": "ROYAL MOBILES 79/691, Bera Ganj, Alappuzha 110374",
+      "client": "TANVEER BALI H.No. 991, Kohli Ganj, Kota 983987",
+      "seller_tax_id": "21KOWMQ8416L1Z1",
+      "client_tax_id": "35EXNIF0728W1ZQ",
+      "client_phone": "5381420977"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-776A",
+        "item_qty": "1",
+        "item_net_price": "70,734.82",
+        "item_net_worth": "70,734.82",
+        "item_vat": "18%",
+        "item_gross_worth": "83,467.09"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-837I",
+        "item_qty": "2",
+        "item_net_price": "26,811.62",
+        "item_net_worth": "53,623.24",
+        "item_vat": "18%",
+        "item_gross_worth": "63,275.42"
+      },
+      {
+        "item_desc": "LG Television LG-796X",
+        "item_qty": "1",
+        "item_net_price": "45,351.28",
+        "item_net_worth": "45,351.28",
+        "item_vat": "18%",
+        "item_gross_worth": "53,514.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹169,709.34",
+      "total_vat": "₹30,547.68",
+      "total_gross_worth": "₹200,257.02"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LZ-6419",
+      "invoice_date": "20/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS 59/421, Sekhon Circle, Raebareli 875729",
+      "client": "CHAMAN SAXENA 39/721, Bal, Siliguri 283539",
+      "seller_tax_id": "03ENDSW5214D1Z4",
+      "client_tax_id": "15ZWUSG8902Q1Z8",
+      "client_phone": "+913565490358"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-746Z",
+        "item_qty": "1",
+        "item_net_price": "42,337.88",
+        "item_net_worth": "42,337.88",
+        "item_vat": "18%",
+        "item_gross_worth": "49,958.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹42,337.88",
+      "total_vat": "₹7,620.82",
+      "total_gross_worth": "₹49,958.70"
+    }
+  }
+}

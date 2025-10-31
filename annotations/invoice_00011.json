@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DI-7026",
+      "invoice_date": "02/05/2025",
+      "seller": "SMART ELECTRONICS H.No. 786, Mital Street, Katihar 322989",
+      "client": "SATHVIK RAY 21/002, Madan, Bellary 979716",
+      "seller_tax_id": "06JCNZL2134Y1ZE",
+      "client_tax_id": "02UPAPW0560S1ZS",
+      "client_phone": "05927386090"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-389T",
+        "item_qty": "2",
+        "item_net_price": "48,666.91",
+        "item_net_worth": "97,333.82",
+        "item_vat": "18%",
+        "item_gross_worth": "114,853.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,333.82",
+      "total_vat": "₹17,520.09",
+      "total_gross_worth": "₹114,853.91"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UR-5666",
+      "invoice_date": "23/02/2025",
+      "seller": "SINGH ELECTRONICS H.No. 02, Bansal Marg, Sirsa-320788",
+      "client": "CHATURA HALDER 248, Kothari Nagar, Deoghar-976796",
+      "seller_tax_id": "19QDHFU2341E1ZC",
+      "client_tax_id": "03SYTLF2999S1ZQ",
+      "client_phone": "9646937678"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-774X",
+        "item_qty": "1",
+        "item_net_price": "60,258.65",
+        "item_net_worth": "60,258.65",
+        "item_vat": "18%",
+        "item_gross_worth": "71,105.21"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-449F",
+        "item_qty": "2",
+        "item_net_price": "50,763.40",
+        "item_net_worth": "101,526.80",
+        "item_vat": "18%",
+        "item_gross_worth": "119,801.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹161,785.45",
+      "total_vat": "₹29,121.38",
+      "total_gross_worth": "₹190,906.83"
+    }
+  }
+}

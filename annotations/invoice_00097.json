@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZD-7354",
+      "invoice_date": "06/10/2025",
+      "seller": "PATEL MOBILES H.No. 13, Mani Street, Hazaribagh-594922",
+      "client": "WAHAB CHOWDHURY 12/20, Chawla Path, Jehanabad 127383",
+      "seller_tax_id": "17HZOOG1190U1ZE",
+      "client_tax_id": "31TLQMV0365R1Z8",
+      "client_phone": "6827602997"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-633H",
+        "item_qty": "2",
+        "item_net_price": "59,219.58",
+        "item_net_worth": "118,439.16",
+        "item_vat": "18%",
+        "item_gross_worth": "139,758.21"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-591E",
+        "item_qty": "1",
+        "item_net_price": "47,746.98",
+        "item_net_worth": "47,746.98",
+        "item_vat": "18%",
+        "item_gross_worth": "56,341.44"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-714Z",
+        "item_qty": "2",
+        "item_net_price": "78,710.46",
+        "item_net_worth": "157,420.92",
+        "item_vat": "18%",
+        "item_gross_worth": "185,756.69"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-577D",
+        "item_qty": "1",
+        "item_net_price": "75,444.89",
+        "item_net_worth": "75,444.89",
+        "item_vat": "18%",
+        "item_gross_worth": "89,024.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹399,051.95",
+      "total_vat": "₹71,829.35",
+      "total_gross_worth": "₹470,881.30"
+    }
+  }
+}

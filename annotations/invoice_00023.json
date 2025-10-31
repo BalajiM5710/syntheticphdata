@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CF-4840",
+      "invoice_date": "27/07/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 753, Hayre Zila, Mira-Bhayandar-268292",
+      "client": "CHAVVI SUBRAMANIAN 20, Bhatia Marg, Bidar 411647",
+      "seller_tax_id": "36KBEEC1658K1ZA",
+      "client_tax_id": "11LZLPQ7340C1ZR",
+      "client_phone": "+917731593153"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-902A IMEI: 229061198177941",
+        "item_qty": "1",
+        "item_net_price": "41,463.04",
+        "item_net_worth": "41,463.04",
+        "item_vat": "18%",
+        "item_gross_worth": "48,926.39"
+      },
+      {
+        "item_desc": "Apple Tablets APP-141O",
+        "item_qty": "1",
+        "item_net_price": "94,443.97",
+        "item_net_worth": "94,443.97",
+        "item_vat": "18%",
+        "item_gross_worth": "111,443.88"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-672A",
+        "item_qty": "1",
+        "item_net_price": "89,242.26",
+        "item_net_worth": "89,242.26",
+        "item_vat": "18%",
+        "item_gross_worth": "105,305.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹225,149.27",
+      "total_vat": "₹40,526.87",
+      "total_gross_worth": "₹265,676.14"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NJ-5195",
+      "invoice_date": "09/04/2025",
+      "seller": "SINGH ELECTRONICS 847, Bhakta Street, Mehsana-338911",
+      "client": "LADLI KAPADIA 91, Mohan Nagar, Uluberia 669895",
+      "seller_tax_id": "01VTJCO1002E1ZX",
+      "client_tax_id": "36XUUUI9631D1Z7",
+      "client_phone": "+915475029068"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-323A",
+        "item_qty": "2",
+        "item_net_price": "59,151.66",
+        "item_net_worth": "118,303.32",
+        "item_vat": "18%",
+        "item_gross_worth": "139,597.92"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-532I",
+        "item_qty": "1",
+        "item_net_price": "70,522.92",
+        "item_net_worth": "70,522.92",
+        "item_vat": "18%",
+        "item_gross_worth": "83,217.05"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-476J",
+        "item_qty": "1",
+        "item_net_price": "42,795.98",
+        "item_net_worth": "42,795.98",
+        "item_vat": "18%",
+        "item_gross_worth": "50,499.26"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-616R",
+        "item_qty": "1",
+        "item_net_price": "70,860.28",
+        "item_net_worth": "70,860.28",
+        "item_vat": "18%",
+        "item_gross_worth": "83,615.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹302,482.50",
+      "total_vat": "₹54,446.85",
+      "total_gross_worth": "₹356,929.35"
+    }
+  }
+}

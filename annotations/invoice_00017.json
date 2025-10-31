@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UZ-7203",
+      "invoice_date": "02/08/2025",
+      "seller": "STAR ELECTRONICS 53/774, Mohanty Road, Warangal-422856",
+      "client": "ADWETA HEGDE 41/093, Tiwari Nagar, Bareilly 158358",
+      "seller_tax_id": "12SVMGI3767I1ZW",
+      "client_tax_id": "22ZPVPC6876T1ZB",
+      "client_phone": "+918538687907"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-602S",
+        "item_qty": "2",
+        "item_net_price": "211,816.83",
+        "item_net_worth": "423,633.66",
+        "item_vat": "18%",
+        "item_gross_worth": "499,887.72"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-289L",
+        "item_qty": "1",
+        "item_net_price": "58,504.37",
+        "item_net_worth": "58,504.37",
+        "item_vat": "18%",
+        "item_gross_worth": "69,035.16"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-450U",
+        "item_qty": "1",
+        "item_net_price": "28,328.93",
+        "item_net_worth": "28,328.93",
+        "item_vat": "18%",
+        "item_gross_worth": "33,428.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹510,466.96",
+      "total_vat": "₹91,884.05",
+      "total_gross_worth": "₹602,351.01"
+    }
+  }
+}

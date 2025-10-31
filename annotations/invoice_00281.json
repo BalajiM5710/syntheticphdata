@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZC-3026",
+      "invoice_date": "28/04/2025",
+      "seller": "CITY ELECTRONICS H.No. 48, Soni Zila, Loni-029360",
+      "client": "PARTH GREWAL 55, Kaur Nagar, Udaipur 798087",
+      "seller_tax_id": "07KJJNG8121R1ZA",
+      "client_tax_id": "06WCHMW9283T1ZP",
+      "client_phone": "+911144667908"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-316U IMEI: 528732949132274",
+        "item_qty": "2",
+        "item_net_price": "83,948.85",
+        "item_net_worth": "167,897.70",
+        "item_vat": "18%",
+        "item_gross_worth": "198,119.29"
+      },
+      {
+        "item_desc": "Apple Tablets APP-625X",
+        "item_qty": "1",
+        "item_net_price": "83,266.47",
+        "item_net_worth": "83,266.47",
+        "item_vat": "18%",
+        "item_gross_worth": "98,254.43"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-494Z",
+        "item_qty": "2",
+        "item_net_price": "48,941.24",
+        "item_net_worth": "97,882.48",
+        "item_vat": "18%",
+        "item_gross_worth": "115,501.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹349,046.65",
+      "total_vat": "₹62,828.40",
+      "total_gross_worth": "₹411,875.05"
+    }
+  }
+}

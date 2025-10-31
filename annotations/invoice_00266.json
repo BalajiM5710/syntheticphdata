@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AY-5946",
+      "invoice_date": "28/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 65/35, Baral Chowk, Vasai-Virar 339658",
+      "client": "BRINDA RAY H.No. 398, Nadig Chowk, Bellary-192067",
+      "seller_tax_id": "15ENZCR1330S1ZM",
+      "client_tax_id": "03TLQHB0941G1ZS",
+      "client_phone": "08487381235"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-284M",
+        "item_qty": "1",
+        "item_net_price": "51,511.71",
+        "item_net_worth": "51,511.71",
+        "item_vat": "18%",
+        "item_gross_worth": "60,783.82"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-680K",
+        "item_qty": "1",
+        "item_net_price": "73,271.50",
+        "item_net_worth": "73,271.50",
+        "item_vat": "18%",
+        "item_gross_worth": "86,460.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹124,783.21",
+      "total_vat": "₹22,460.98",
+      "total_gross_worth": "₹147,244.19"
+    }
+  }
+}

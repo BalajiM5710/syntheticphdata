@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YA-4131",
+      "invoice_date": "04/08/2025",
+      "seller": "ELECTRONICS WORLD H.No. 90, Rege Ganj, Bahraich-381657",
+      "client": "YATIN DESHPANDE H.No. 26, Nayar Path, Mira-Bhayandar-330949",
+      "seller_tax_id": "34KVFIR9200A1ZT",
+      "client_tax_id": "35BGOYO4609I1Z2",
+      "client_phone": "05199115209"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-943C",
+        "item_qty": "1",
+        "item_net_price": "17,693.97",
+        "item_net_worth": "17,693.97",
+        "item_vat": "18%",
+        "item_gross_worth": "20,878.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹17,693.97",
+      "total_vat": "₹3,184.91",
+      "total_gross_worth": "₹20,878.88"
+    }
+  }
+}

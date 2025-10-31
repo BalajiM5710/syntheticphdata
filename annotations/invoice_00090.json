@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HU-4353",
+      "invoice_date": "01/04/2025",
+      "seller": "DIGITAL STORE 72/50, Warrior Marg, Nanded 758641",
+      "client": "LILA SAVANT H.No. 87, Narula Path, Jalandhar 364602",
+      "seller_tax_id": "17SMAYM6684O1ZK",
+      "client_tax_id": "31NHLPJ0636Q1ZX",
+      "client_phone": "04749552097"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-788H",
+        "item_qty": "1",
+        "item_net_price": "35,460.35",
+        "item_net_worth": "35,460.35",
+        "item_vat": "18%",
+        "item_gross_worth": "41,843.21"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-377E",
+        "item_qty": "1",
+        "item_net_price": "27,297.20",
+        "item_net_worth": "27,297.20",
+        "item_vat": "18%",
+        "item_gross_worth": "32,210.70"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-563Z",
+        "item_qty": "2",
+        "item_net_price": "103,315.19",
+        "item_net_worth": "206,630.38",
+        "item_vat": "18%",
+        "item_gross_worth": "243,823.85"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-168X",
+        "item_qty": "2",
+        "item_net_price": "36,201.63",
+        "item_net_worth": "72,403.26",
+        "item_vat": "18%",
+        "item_gross_worth": "85,435.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹341,791.19",
+      "total_vat": "₹61,522.41",
+      "total_gross_worth": "₹403,313.60"
+    }
+  }
+}

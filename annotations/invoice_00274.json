@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WS-7849",
+      "invoice_date": "18/05/2025",
+      "seller": "METRO TECH STORE 02, Sehgal Street, Begusarai 964885",
+      "client": "KRISH DEY 406, Barman Marg, Katihar 349664",
+      "seller_tax_id": "17YRCCY1197M1ZQ",
+      "client_tax_id": "01HFMHC2407H1ZM",
+      "client_phone": "06085703539"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-547N",
+        "item_qty": "2",
+        "item_net_price": "64,977.55",
+        "item_net_worth": "129,955.10",
+        "item_vat": "18%",
+        "item_gross_worth": "153,347.02"
+      },
+      {
+        "item_desc": "TCL Television TCL-205Q",
+        "item_qty": "1",
+        "item_net_price": "59,251.40",
+        "item_net_worth": "59,251.40",
+        "item_vat": "18%",
+        "item_gross_worth": "69,916.65"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-202Y",
+        "item_qty": "1",
+        "item_net_price": "11,914.39",
+        "item_net_worth": "11,914.39",
+        "item_vat": "18%",
+        "item_gross_worth": "14,058.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹201,120.89",
+      "total_vat": "₹36,201.76",
+      "total_gross_worth": "₹237,322.65"
+    }
+  }
+}

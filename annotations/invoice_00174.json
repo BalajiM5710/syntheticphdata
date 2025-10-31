@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BN-2481",
+      "invoice_date": "14/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 775, Shan Chowk, Tenali 070056",
+      "client": "TRIVENI MADAN 848, Ghose Marg, Guntur 188810",
+      "seller_tax_id": "29OXOHB4142N1ZP",
+      "client_tax_id": "30EJEYI7094K1ZR",
+      "client_phone": "9344269276"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-894A",
+        "item_qty": "1",
+        "item_net_price": "118,393.88",
+        "item_net_worth": "118,393.88",
+        "item_vat": "18%",
+        "item_gross_worth": "139,704.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹118,393.88",
+      "total_vat": "₹21,310.90",
+      "total_gross_worth": "₹139,704.78"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KP-4429",
+      "invoice_date": "12/05/2025",
+      "seller": "METRO TECH STORE 40/742, De Zila, Guntakal 032679",
+      "client": "MANTHAN DOSHI 69/64, Sunder Zila, Korba-905842",
+      "seller_tax_id": "32VPGLG0168O1ZL",
+      "client_tax_id": "01BRGAT7988A1ZW",
+      "client_phone": "8624662858"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-365C",
+        "item_qty": "2",
+        "item_net_price": "30,851.21",
+        "item_net_worth": "61,702.42",
+        "item_vat": "18%",
+        "item_gross_worth": "72,808.86"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-188O IMEI: 282934826060790",
+        "item_qty": "2",
+        "item_net_price": "14,000.66",
+        "item_net_worth": "28,001.32",
+        "item_vat": "18%",
+        "item_gross_worth": "33,041.56"
+      },
+      {
+        "item_desc": "Hero Bike HER-346Z",
+        "item_qty": "2",
+        "item_net_price": "134,100.43",
+        "item_net_worth": "268,200.86",
+        "item_vat": "18%",
+        "item_gross_worth": "316,477.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹357,904.60",
+      "total_vat": "₹64,422.83",
+      "total_gross_worth": "₹422,327.43"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HM-2336",
+      "invoice_date": "06/09/2025",
+      "seller": "DIGITAL STORE 77/985, Chanda Ganj, Chandigarh-531126",
+      "client": "KABIR CHACKO H.No. 35, Tripathi Circle, Jamnagar 484083",
+      "seller_tax_id": "04NMHHB2567J1Z5",
+      "client_tax_id": "35BXWHR7824T1ZR",
+      "client_phone": "7415638212"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-395B",
+        "item_qty": "1",
+        "item_net_price": "84,627.68",
+        "item_net_worth": "84,627.68",
+        "item_vat": "18%",
+        "item_gross_worth": "99,860.66"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-898J",
+        "item_qty": "1",
+        "item_net_price": "89,423.48",
+        "item_net_worth": "89,423.48",
+        "item_vat": "18%",
+        "item_gross_worth": "105,519.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹174,051.16",
+      "total_vat": "₹31,329.21",
+      "total_gross_worth": "₹205,380.37"
+    }
+  }
+}

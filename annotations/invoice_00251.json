@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ED-8880",
+      "invoice_date": "26/03/2025",
+      "seller": "SUPREME ELECTRONICS 665, Vaidya Path, Sagar-852678",
+      "client": "LAJITA KANNAN 57/82, Chakrabarti Marg, Udupi-307482",
+      "seller_tax_id": "18IZCNH4828Q1ZC",
+      "client_tax_id": "20PNIYR3417Y1ZP",
+      "client_phone": "2604306598"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-122Z IMEI: 662654445218822",
+        "item_qty": "1",
+        "item_net_price": "76,109.43",
+        "item_net_worth": "76,109.43",
+        "item_vat": "18%",
+        "item_gross_worth": "89,809.13"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-993T",
+        "item_qty": "1",
+        "item_net_price": "68,571.30",
+        "item_net_worth": "68,571.30",
+        "item_vat": "18%",
+        "item_gross_worth": "80,914.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹144,680.73",
+      "total_vat": "₹26,042.53",
+      "total_gross_worth": "₹170,723.26"
+    }
+  }
+}

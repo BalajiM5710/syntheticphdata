@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CY-5041",
+      "invoice_date": "14/01/2025",
+      "seller": "METRO TECH STORE H.No. 754, Nadkarni Ganj, Medininagar-039300",
+      "client": "RAAGINI BHATTI 00, Korpal Marg, Dhule-686115",
+      "seller_tax_id": "33CCVYJ9886I1ZD",
+      "client_tax_id": "02AARJQ6949J1ZS",
+      "client_phone": "+916166367915"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-281U",
+        "item_qty": "1",
+        "item_net_price": "78,382.41",
+        "item_net_worth": "78,382.41",
+        "item_vat": "18%",
+        "item_gross_worth": "92,491.24"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-909L IMEI: 451507550100824",
+        "item_qty": "1",
+        "item_net_price": "35,236.92",
+        "item_net_worth": "35,236.92",
+        "item_vat": "18%",
+        "item_gross_worth": "41,579.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹113,619.33",
+      "total_vat": "₹20,451.48",
+      "total_gross_worth": "₹134,070.81"
+    }
+  }
+}

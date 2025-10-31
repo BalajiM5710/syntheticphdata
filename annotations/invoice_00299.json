@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MT-2040",
+      "invoice_date": "15/10/2025",
+      "seller": "MOBILE POINT 790, Sridhar Marg, Saharsa 355914",
+      "client": "LAKSH BAL 071, Parmar Circle, Ghaziabad-678924",
+      "seller_tax_id": "09LSWCB8981M1ZG",
+      "client_tax_id": "12LWFSJ4774R1Z1",
+      "client_phone": "3147813468"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-903D",
+        "item_qty": "1",
+        "item_net_price": "72,308.53",
+        "item_net_worth": "72,308.53",
+        "item_vat": "18%",
+        "item_gross_worth": "85,324.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹72,308.53",
+      "total_vat": "₹13,015.54",
+      "total_gross_worth": "₹85,324.07"
+    }
+  }
+}

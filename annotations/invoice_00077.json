@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GQ-2633",
+      "invoice_date": "07/02/2025",
+      "seller": "DIGITAL STORE H.No. 008, Prakash Ganj, Bulandshahr-253445",
+      "client": "RYAN CHAUDHRY 68/960, Shukla Path, Bally-835863",
+      "seller_tax_id": "32OJZZY7506N1ZK",
+      "client_tax_id": "18ZKOKM9670I1ZB",
+      "client_phone": "09340669257"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-411F",
+        "item_qty": "1",
+        "item_net_price": "29,763.49",
+        "item_net_worth": "29,763.49",
+        "item_vat": "18%",
+        "item_gross_worth": "35,120.92"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-743J",
+        "item_qty": "2",
+        "item_net_price": "46,887.67",
+        "item_net_worth": "93,775.34",
+        "item_vat": "18%",
+        "item_gross_worth": "110,654.90"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-873K",
+        "item_qty": "2",
+        "item_net_price": "95,291.55",
+        "item_net_worth": "190,583.10",
+        "item_vat": "18%",
+        "item_gross_worth": "224,888.06"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-371D",
+        "item_qty": "1",
+        "item_net_price": "54,204.91",
+        "item_net_worth": "54,204.91",
+        "item_vat": "18%",
+        "item_gross_worth": "63,961.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹368,326.84",
+      "total_vat": "₹66,298.83",
+      "total_gross_worth": "₹434,625.67"
+    }
+  }
+}

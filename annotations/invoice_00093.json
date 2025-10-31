@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SL-2305",
+      "invoice_date": "03/07/2025",
+      "seller": "PATEL MOBILES 85/67, Cheema Circle, Giridih-271183",
+      "client": "ZANSI CHOWDHURY 157, Vala Marg, Suryapet-770785",
+      "seller_tax_id": "24XCPMF6388L1ZB",
+      "client_tax_id": "18TANHD4571C1Z5",
+      "client_phone": "05235982440"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-758M",
+        "item_qty": "2",
+        "item_net_price": "60,196.82",
+        "item_net_worth": "120,393.64",
+        "item_vat": "18%",
+        "item_gross_worth": "142,064.50"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-449N",
+        "item_qty": "1",
+        "item_net_price": "115,977.53",
+        "item_net_worth": "115,977.53",
+        "item_vat": "18%",
+        "item_gross_worth": "136,853.49"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-943L",
+        "item_qty": "1",
+        "item_net_price": "49,243.27",
+        "item_net_worth": "49,243.27",
+        "item_vat": "18%",
+        "item_gross_worth": "58,107.06"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-473T",
+        "item_qty": "1",
+        "item_net_price": "19,741.25",
+        "item_net_worth": "19,741.25",
+        "item_vat": "18%",
+        "item_gross_worth": "23,294.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹305,355.69",
+      "total_vat": "₹54,964.02",
+      "total_gross_worth": "₹360,319.71"
+    }
+  }
+}

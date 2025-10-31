@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ME-6234",
+      "invoice_date": "06/10/2025",
+      "seller": "ELECTRONICS WORLD H.No. 56, Wagle Road, Malda 425084",
+      "client": "SARA GANESAN 352, Kaur Circle, Bhavnagar 803878",
+      "seller_tax_id": "28VPUMO6660S1ZV",
+      "client_tax_id": "19RHQDI0917E1ZX",
+      "client_phone": "07504510967"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-262P",
+        "item_qty": "2",
+        "item_net_price": "88,539.97",
+        "item_net_worth": "177,079.94",
+        "item_vat": "18%",
+        "item_gross_worth": "208,954.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹177,079.94",
+      "total_vat": "₹31,874.39",
+      "total_gross_worth": "₹208,954.33"
+    }
+  }
+}

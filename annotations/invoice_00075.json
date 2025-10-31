@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FQ-4970",
+      "invoice_date": "09/07/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 83, Palan Nagar, Dewas 625599",
+      "client": "CHANDRESH KARAN H.No. 678, Khare Circle, Pallavaram 746056",
+      "seller_tax_id": "14ZTZDS5007E1ZV",
+      "client_tax_id": "06EJDIO2769V1ZK",
+      "client_phone": "6459447918"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-567G",
+        "item_qty": "1",
+        "item_net_price": "21,726.50",
+        "item_net_worth": "21,726.50",
+        "item_vat": "18%",
+        "item_gross_worth": "25,637.27"
+      },
+      {
+        "item_desc": "Apple Tablets APP-477Y",
+        "item_qty": "1",
+        "item_net_price": "45,618.06",
+        "item_net_worth": "45,618.06",
+        "item_vat": "18%",
+        "item_gross_worth": "53,829.31"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-279C",
+        "item_qty": "1",
+        "item_net_price": "85,246.41",
+        "item_net_worth": "85,246.41",
+        "item_vat": "18%",
+        "item_gross_worth": "100,590.76"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-711F",
+        "item_qty": "2",
+        "item_net_price": "62,866.07",
+        "item_net_worth": "125,732.14",
+        "item_vat": "18%",
+        "item_gross_worth": "148,363.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹278,323.11",
+      "total_vat": "₹50,098.16",
+      "total_gross_worth": "₹328,421.27"
+    }
+  }
+}

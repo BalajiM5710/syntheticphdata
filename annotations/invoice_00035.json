@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KM-4222",
+      "invoice_date": "07/10/2025",
+      "seller": "STAR ELECTRONICS H.No. 468, Kata Street, Machilipatnam 905764",
+      "client": "ANSH BALAN 449, Kapur Circle, Rewa 249328",
+      "seller_tax_id": "22NPVIU6345Z1ZX",
+      "client_tax_id": "26PMBPC1790V1ZL",
+      "client_phone": "2089562953"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-744P",
+        "item_qty": "1",
+        "item_net_price": "108,101.23",
+        "item_net_worth": "108,101.23",
+        "item_vat": "18%",
+        "item_gross_worth": "127,559.45"
+      },
+      {
+        "item_desc": "Sony Speaker SON-522P",
+        "item_qty": "1",
+        "item_net_price": "11,628.74",
+        "item_net_worth": "11,628.74",
+        "item_vat": "18%",
+        "item_gross_worth": "13,721.91"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-284G",
+        "item_qty": "1",
+        "item_net_price": "87,783.76",
+        "item_net_worth": "87,783.76",
+        "item_vat": "18%",
+        "item_gross_worth": "103,584.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹207,513.73",
+      "total_vat": "₹37,352.47",
+      "total_gross_worth": "₹244,866.20"
+    }
+  }
+}

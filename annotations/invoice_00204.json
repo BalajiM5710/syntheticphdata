@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XR-9045",
+      "invoice_date": "28/09/2025",
+      "seller": "MOBILE POINT H.No. 494, Bains Path, Agra-880947",
+      "client": "GAVIN BALAKRISHNAN 43/78, Dhingra Marg, Panipat 224758",
+      "seller_tax_id": "35ROQCP2229L1ZV",
+      "client_tax_id": "31UMYMM8275E1ZQ",
+      "client_phone": "06461026762"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-496T",
+        "item_qty": "1",
+        "item_net_price": "43,149.84",
+        "item_net_worth": "43,149.84",
+        "item_vat": "18%",
+        "item_gross_worth": "50,916.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹43,149.84",
+      "total_vat": "₹7,766.97",
+      "total_gross_worth": "₹50,916.81"
+    }
+  }
+}

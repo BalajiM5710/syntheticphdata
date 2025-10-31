@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LL-8198",
+      "invoice_date": "16/05/2025",
+      "seller": "TECH BAZAAR 48/97, Saha Road, North Dumdum-653102",
+      "client": "WARJAS NARAYANAN 65, Vala Chowk, Firozabad 885373",
+      "seller_tax_id": "34ECQQM4246A1ZA",
+      "client_tax_id": "35RZBAF2027A1Z8",
+      "client_phone": "+916535417290"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-689E",
+        "item_qty": "2",
+        "item_net_price": "43,067.24",
+        "item_net_worth": "86,134.48",
+        "item_vat": "18%",
+        "item_gross_worth": "101,638.69"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹86,134.48",
+      "total_vat": "₹15,504.21",
+      "total_gross_worth": "₹101,638.69"
+    }
+  }
+}

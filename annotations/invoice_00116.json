@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HT-1933",
+      "invoice_date": "27/03/2025",
+      "seller": "MOBILE POINT 33/82, Sura Road, Mehsana-323336",
+      "client": "BHAVANI BASAK H.No. 258, Edwin Marg, Davanagere-951495",
+      "seller_tax_id": "01QLUAO1447V1ZC",
+      "client_tax_id": "07EKTFT9473O1ZB",
+      "client_phone": "08065891758"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-287W",
+        "item_qty": "1",
+        "item_net_price": "126,815.76",
+        "item_net_worth": "126,815.76",
+        "item_vat": "18%",
+        "item_gross_worth": "149,642.60"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-618R",
+        "item_qty": "2",
+        "item_net_price": "81,207.58",
+        "item_net_worth": "162,415.16",
+        "item_vat": "18%",
+        "item_gross_worth": "191,649.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹289,230.92",
+      "total_vat": "₹52,061.57",
+      "total_gross_worth": "₹341,292.49"
+    }
+  }
+}

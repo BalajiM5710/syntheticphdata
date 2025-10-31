@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AJ-4753",
+      "invoice_date": "09/07/2025",
+      "seller": "CITY ELECTRONICS H.No. 53, Gopal Chowk, Bhind-998896",
+      "client": "RAYAAN KRISH H.No. 54, Mangal Street, Gorakhpur 278171",
+      "seller_tax_id": "11HBWQC2885X1ZP",
+      "client_tax_id": "32KYWVD9724W1ZW",
+      "client_phone": "8755160893"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-374B",
+        "item_qty": "1",
+        "item_net_price": "120,324.98",
+        "item_net_worth": "120,324.98",
+        "item_vat": "18%",
+        "item_gross_worth": "141,983.48"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-488M",
+        "item_qty": "2",
+        "item_net_price": "132,120.73",
+        "item_net_worth": "264,241.46",
+        "item_vat": "18%",
+        "item_gross_worth": "311,804.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹384,566.44",
+      "total_vat": "₹69,221.96",
+      "total_gross_worth": "₹453,788.40"
+    }
+  }
+}

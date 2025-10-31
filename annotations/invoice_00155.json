@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YW-3252",
+      "invoice_date": "28/09/2025",
+      "seller": "ELECTRONICS WORLD H.No. 89, Chaudhari Path, Sagar 805325",
+      "client": "CHAITANYA BAVA H.No. 091, Sinha Ganj, Ludhiana-427209",
+      "seller_tax_id": "03PJUIE9932Y1ZX",
+      "client_tax_id": "22OPLRD6738J1ZD",
+      "client_phone": "6774440893"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-866X",
+        "item_qty": "1",
+        "item_net_price": "143,407.88",
+        "item_net_worth": "143,407.88",
+        "item_vat": "18%",
+        "item_gross_worth": "169,221.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,407.88",
+      "total_vat": "₹25,813.42",
+      "total_gross_worth": "₹169,221.30"
+    }
+  }
+}

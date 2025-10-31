@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TT-1253",
+      "invoice_date": "18/06/2025",
+      "seller": "DIGITAL STORE H.No. 145, Vala, Burhanpur 930595",
+      "client": "SAKSHAM KARA H.No. 36, Saraf Nagar, Warangal 152986",
+      "seller_tax_id": "21SHXFZ4123O1ZQ",
+      "client_tax_id": "21QXDXW4652W1ZQ",
+      "client_phone": "3377679502"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-475F",
+        "item_qty": "2",
+        "item_net_price": "60,567.11",
+        "item_net_worth": "121,134.22",
+        "item_vat": "18%",
+        "item_gross_worth": "142,938.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹121,134.22",
+      "total_vat": "₹21,804.16",
+      "total_gross_worth": "₹142,938.38"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QF-8496",
+      "invoice_date": "18/07/2025",
+      "seller": "ELECTRONICS WORLD 40/654, Butala Chowk, Agartala 185826",
+      "client": "JEREMIAH DORA 954, Kunda Ganj, Gandhidham-208198",
+      "seller_tax_id": "03UEVHS0104E1Z3",
+      "client_tax_id": "12CPHUB1330G1ZP",
+      "client_phone": "05735248792"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-542D",
+        "item_qty": "1",
+        "item_net_price": "60,289.28",
+        "item_net_worth": "60,289.28",
+        "item_vat": "18%",
+        "item_gross_worth": "71,141.35"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-801M",
+        "item_qty": "2",
+        "item_net_price": "10,346.64",
+        "item_net_worth": "20,693.28",
+        "item_vat": "18%",
+        "item_gross_worth": "24,418.07"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-967M",
+        "item_qty": "1",
+        "item_net_price": "74,357.96",
+        "item_net_worth": "74,357.96",
+        "item_vat": "18%",
+        "item_gross_worth": "87,742.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹155,340.52",
+      "total_vat": "₹27,961.29",
+      "total_gross_worth": "₹183,301.81"
+    }
+  }
+}

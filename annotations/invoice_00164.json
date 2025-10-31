@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WG-7780",
+      "invoice_date": "20/09/2025",
+      "seller": "SINGH ELECTRONICS 07/205, Vora Ganj, Madanapalle-376327",
+      "client": "DEEPA KALA 04/56, Loyal Road, Saharsa-313264",
+      "seller_tax_id": "25FFUGW2495U1ZQ",
+      "client_tax_id": "11ZGTKL6813I1ZN",
+      "client_phone": "03309055559"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-705D",
+        "item_qty": "1",
+        "item_net_price": "23,854.88",
+        "item_net_worth": "23,854.88",
+        "item_vat": "18%",
+        "item_gross_worth": "28,148.76"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-484Z",
+        "item_qty": "1",
+        "item_net_price": "15,182.10",
+        "item_net_worth": "15,182.10",
+        "item_vat": "18%",
+        "item_gross_worth": "17,914.88"
+      },
+      {
+        "item_desc": "Apple Tablets APP-746V",
+        "item_qty": "2",
+        "item_net_price": "23,179.54",
+        "item_net_worth": "46,359.08",
+        "item_vat": "18%",
+        "item_gross_worth": "54,703.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹85,396.06",
+      "total_vat": "₹15,371.29",
+      "total_gross_worth": "₹100,767.35"
+    }
+  }
+}

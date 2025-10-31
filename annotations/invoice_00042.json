@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CH-7996",
+      "invoice_date": "30/04/2025",
+      "seller": "FUTURE TECH H.No. 43, Nagarajan Nagar, Gopalpur 471306",
+      "client": "IRA MANI 24/897, Natarajan Road, Kishanganj 491767",
+      "seller_tax_id": "02PFVQP9356I1Z5",
+      "client_tax_id": "20MADXO5641C1ZR",
+      "client_phone": "07358986178"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-262S",
+        "item_qty": "1",
+        "item_net_price": "62,192.65",
+        "item_net_worth": "62,192.65",
+        "item_vat": "18%",
+        "item_gross_worth": "73,387.33"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-888C",
+        "item_qty": "1",
+        "item_net_price": "79,868.16",
+        "item_net_worth": "79,868.16",
+        "item_vat": "18%",
+        "item_gross_worth": "94,244.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,060.81",
+      "total_vat": "₹25,570.95",
+      "total_gross_worth": "₹167,631.76"
+    }
+  }
+}

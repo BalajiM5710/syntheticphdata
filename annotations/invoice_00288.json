@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SE-7653",
+      "invoice_date": "06/01/2025",
+      "seller": "CITY ELECTRONICS H.No. 122, Ranganathan Chowk, Agra-435066",
+      "client": "FITAN BORRA 149, Bali Path, Ballia-951617",
+      "seller_tax_id": "32FAIEX0472O1Z0",
+      "client_tax_id": "20HIYNX5540D1ZX",
+      "client_phone": "3869667085"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-762M",
+        "item_qty": "2",
+        "item_net_price": "74,944.72",
+        "item_net_worth": "149,889.44",
+        "item_vat": "18%",
+        "item_gross_worth": "176,869.54"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-175M IMEI: 887135468184299",
+        "item_qty": "1",
+        "item_net_price": "35,469.54",
+        "item_net_worth": "35,469.54",
+        "item_vat": "18%",
+        "item_gross_worth": "41,854.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹185,358.98",
+      "total_vat": "₹33,364.62",
+      "total_gross_worth": "₹218,723.60"
+    }
+  }
+}

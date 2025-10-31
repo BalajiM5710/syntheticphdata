@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RI-8671",
+      "invoice_date": "10/08/2025",
+      "seller": "CITY ELECTRONICS 64/785, Banik Path, Danapur 345709",
+      "client": "CHANCHAL TATA H.No. 29, Kohli Ganj, Danapur-294077",
+      "seller_tax_id": "12KRYGQ7329Q1ZA",
+      "client_tax_id": "12BHTRI9008Z1ZR",
+      "client_phone": "5970043170"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-512V",
+        "item_qty": "2",
+        "item_net_price": "33,196.09",
+        "item_net_worth": "66,392.18",
+        "item_vat": "18%",
+        "item_gross_worth": "78,342.77"
+      },
+      {
+        "item_desc": "Sony Headphones SON-753O",
+        "item_qty": "1",
+        "item_net_price": "40,313.25",
+        "item_net_worth": "40,313.25",
+        "item_vat": "18%",
+        "item_gross_worth": "47,569.63"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-828P",
+        "item_qty": "1",
+        "item_net_price": "13,987.64",
+        "item_net_worth": "13,987.64",
+        "item_vat": "18%",
+        "item_gross_worth": "16,505.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,693.07",
+      "total_vat": "₹21,724.75",
+      "total_gross_worth": "₹142,417.82"
+    }
+  }
+}

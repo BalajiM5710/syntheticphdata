@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BY-5610",
+      "invoice_date": "26/07/2025",
+      "seller": "ELECTRONICS WORLD H.No. 546, D’Alia, Nellore 938395",
+      "client": "NANDINI UPADHYAY H.No. 723, Chacko Path, Hindupur-662082",
+      "seller_tax_id": "06ODYPU2892G1Z7",
+      "client_tax_id": "35NFWAG6634S1ZH",
+      "client_phone": "4637104610"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-660M",
+        "item_qty": "2",
+        "item_net_price": "32,864.39",
+        "item_net_worth": "65,728.78",
+        "item_vat": "18%",
+        "item_gross_worth": "77,559.96"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-549N",
+        "item_qty": "2",
+        "item_net_price": "92,787.14",
+        "item_net_worth": "185,574.28",
+        "item_vat": "18%",
+        "item_gross_worth": "218,977.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹251,303.06",
+      "total_vat": "₹45,234.55",
+      "total_gross_worth": "₹296,537.61"
+    }
+  }
+}

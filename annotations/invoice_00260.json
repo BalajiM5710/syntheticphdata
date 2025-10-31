@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NC-1879",
+      "invoice_date": "08/04/2025",
+      "seller": "TECH BAZAAR 073, Chatterjee Ganj, Gwalior-185877",
+      "client": "SARTHAK BORA H.No. 82, Bera Zila, Nagaon-115240",
+      "seller_tax_id": "12FRLQU9401J1ZM",
+      "client_tax_id": "35FZIWI4945T1Z9",
+      "client_phone": "+915311311263"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-593G",
+        "item_qty": "2",
+        "item_net_price": "43,076.69",
+        "item_net_worth": "86,153.38",
+        "item_vat": "18%",
+        "item_gross_worth": "101,660.99"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-129E",
+        "item_qty": "2",
+        "item_net_price": "57,624.14",
+        "item_net_worth": "115,248.28",
+        "item_vat": "18%",
+        "item_gross_worth": "135,992.97"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-812A",
+        "item_qty": "2",
+        "item_net_price": "78,099.59",
+        "item_net_worth": "156,199.18",
+        "item_vat": "18%",
+        "item_gross_worth": "184,315.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹357,600.84",
+      "total_vat": "₹64,368.15",
+      "total_gross_worth": "₹421,968.99"
+    }
+  }
+}

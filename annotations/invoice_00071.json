@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DR-2913",
+      "invoice_date": "27/07/2025",
+      "seller": "RAM ELECTRONICS 89/29, Borah Chowk, Mirzapur-028807",
+      "client": "GIRINDRA BARMAN H.No. 97, Kuruvilla Street, Tirupati-314757",
+      "seller_tax_id": "09PXDDM0136E1ZX",
+      "client_tax_id": "07DJURB2952V1ZW",
+      "client_phone": "3043146437"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-858Y",
+        "item_qty": "2",
+        "item_net_price": "10,530.38",
+        "item_net_worth": "21,060.76",
+        "item_vat": "18%",
+        "item_gross_worth": "24,851.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹21,060.76",
+      "total_vat": "₹3,790.94",
+      "total_gross_worth": "₹24,851.70"
+    }
+  }
+}

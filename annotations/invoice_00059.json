@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DE-1835",
+      "invoice_date": "30/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 97/604, Chaudry, Danapur-979088",
+      "client": "MANTHAN PRASHAD 547, Rout Nagar, Ramgarh-484976",
+      "seller_tax_id": "11UMHHF4050Z1Z6",
+      "client_tax_id": "36JMIOJ6292R1ZB",
+      "client_phone": "+915358538868"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-476D",
+        "item_qty": "2",
+        "item_net_price": "35,142.09",
+        "item_net_worth": "70,284.18",
+        "item_vat": "18%",
+        "item_gross_worth": "82,935.33"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-312U",
+        "item_qty": "2",
+        "item_net_price": "66,133.61",
+        "item_net_worth": "132,267.22",
+        "item_vat": "18%",
+        "item_gross_worth": "156,075.32"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-994L",
+        "item_qty": "2",
+        "item_net_price": "45,674.89",
+        "item_net_worth": "91,349.78",
+        "item_vat": "18%",
+        "item_gross_worth": "107,792.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹293,901.18",
+      "total_vat": "₹52,902.21",
+      "total_gross_worth": "₹346,803.39"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HJ-3278",
+      "invoice_date": "14/01/2025",
+      "seller": "ROYAL MOBILES H.No. 562, Bal Zila, Raurkela Industrial Township 188917",
+      "client": "SUDIKSHA DUBE 84/43, Boase Nagar, Madanapalle 509962",
+      "seller_tax_id": "14WLLPG6393Y1ZG",
+      "client_tax_id": "20ODTYM1552D1ZR",
+      "client_phone": "+911895020292"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-155I",
+        "item_qty": "2",
+        "item_net_price": "70,444.19",
+        "item_net_worth": "140,888.38",
+        "item_vat": "18%",
+        "item_gross_worth": "166,248.29"
+      },
+      {
+        "item_desc": "Sony Headphones SON-128A",
+        "item_qty": "1",
+        "item_net_price": "73,085.97",
+        "item_net_worth": "73,085.97",
+        "item_vat": "18%",
+        "item_gross_worth": "86,241.44"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹213,974.35",
+      "total_vat": "₹38,515.38",
+      "total_gross_worth": "₹252,489.73"
+    }
+  }
+}

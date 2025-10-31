@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UD-7428",
+      "invoice_date": "12/03/2025",
+      "seller": "FUTURE TECH 847, Kaul Marg, Jorhat-723220",
+      "client": "TANMAYI BHAVSAR H.No. 53, Kaur Nagar, Tirupati-492053",
+      "seller_tax_id": "33HPWMH8339L1ZY",
+      "client_tax_id": "37YOSHA6215T1ZC",
+      "client_phone": "+910616628598"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-247E",
+        "item_qty": "1",
+        "item_net_price": "114,814.76",
+        "item_net_worth": "114,814.76",
+        "item_vat": "18%",
+        "item_gross_worth": "135,481.42"
+      },
+      {
+        "item_desc": "Sony Speaker SON-137E",
+        "item_qty": "2",
+        "item_net_price": "75,012.12",
+        "item_net_worth": "150,024.24",
+        "item_vat": "18%",
+        "item_gross_worth": "177,028.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹264,839.00",
+      "total_vat": "₹47,671.02",
+      "total_gross_worth": "₹312,510.02"
+    }
+  }
+}

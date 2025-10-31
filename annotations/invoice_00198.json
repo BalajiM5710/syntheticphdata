@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FA-3346",
+      "invoice_date": "31/07/2025",
+      "seller": "MOBILE POINT 44/07, Contractor Ganj, Orai 382925",
+      "client": "ONKAR BIR H.No. 908, Datta, Mirzapur 589935",
+      "seller_tax_id": "32QJSOY9304J1Z0",
+      "client_tax_id": "15EEOVW4936K1ZU",
+      "client_phone": "07007885220"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-319Q",
+        "item_qty": "1",
+        "item_net_price": "23,841.74",
+        "item_net_worth": "23,841.74",
+        "item_vat": "18%",
+        "item_gross_worth": "28,133.25"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-509W",
+        "item_qty": "1",
+        "item_net_price": "44,786.17",
+        "item_net_worth": "44,786.17",
+        "item_vat": "18%",
+        "item_gross_worth": "52,847.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹68,627.91",
+      "total_vat": "₹12,353.02",
+      "total_gross_worth": "₹80,980.93"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PB-9390",
+      "invoice_date": "03/01/2025",
+      "seller": "GADGET GALAXY 84/40, Shan, Hajipur 375182",
+      "client": "IMARAN GHOSH 140, Vasa Ganj, Panchkula 836219",
+      "seller_tax_id": "27QMEBN3295O1ZL",
+      "client_tax_id": "35YSMWL2103F1ZT",
+      "client_phone": "4072048319"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-589K IMEI: 641694664813798",
+        "item_qty": "1",
+        "item_net_price": "59,474.97",
+        "item_net_worth": "59,474.97",
+        "item_vat": "18%",
+        "item_gross_worth": "70,180.46"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-549M IMEI: 690920634442228",
+        "item_qty": "1",
+        "item_net_price": "47,812.51",
+        "item_net_worth": "47,812.51",
+        "item_vat": "18%",
+        "item_gross_worth": "56,418.76"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-190Q",
+        "item_qty": "1",
+        "item_net_price": "126,923.23",
+        "item_net_worth": "126,923.23",
+        "item_vat": "18%",
+        "item_gross_worth": "149,769.41"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-322O",
+        "item_qty": "2",
+        "item_net_price": "29,487.33",
+        "item_net_worth": "58,974.66",
+        "item_vat": "18%",
+        "item_gross_worth": "69,590.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹293,185.37",
+      "total_vat": "₹52,773.37",
+      "total_gross_worth": "₹345,958.74"
+    }
+  }
+}

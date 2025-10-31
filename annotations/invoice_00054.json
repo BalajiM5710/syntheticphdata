@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MF-9870",
+      "invoice_date": "27/10/2025",
+      "seller": "VISHWA ELECTRONICS 459, Kala Path, Ranchi-521314",
+      "client": "UPADHRITI YADAV 35, Deshpande Circle, Korba 255471",
+      "seller_tax_id": "08UDLHT5058K1ZH",
+      "client_tax_id": "26ZQEED1398K1Z7",
+      "client_phone": "02545261924"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-965Z",
+        "item_qty": "1",
+        "item_net_price": "73,883.45",
+        "item_net_worth": "73,883.45",
+        "item_vat": "18%",
+        "item_gross_worth": "87,182.47"
+      },
+      {
+        "item_desc": "TCL Television TCL-156Q",
+        "item_qty": "2",
+        "item_net_price": "95,052.30",
+        "item_net_worth": "190,104.60",
+        "item_vat": "18%",
+        "item_gross_worth": "224,323.43"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-554N",
+        "item_qty": "2",
+        "item_net_price": "93,352.49",
+        "item_net_worth": "186,704.98",
+        "item_vat": "18%",
+        "item_gross_worth": "220,311.88"
+      },
+      {
+        "item_desc": "HP Laptops HP-937H",
+        "item_qty": "2",
+        "item_net_price": "112,798.37",
+        "item_net_worth": "225,596.74",
+        "item_vat": "18%",
+        "item_gross_worth": "266,204.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹676,289.77",
+      "total_vat": "₹121,732.16",
+      "total_gross_worth": "₹798,021.93"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MJ-8591",
+      "invoice_date": "14/02/2025",
+      "seller": "GADGET GALAXY 89/993, Sathe, Medininagar 211329",
+      "client": "BRIJESH SEN H.No. 148, Agate Path, Machilipatnam 837962",
+      "seller_tax_id": "20RQSCM6916V1ZW",
+      "client_tax_id": "20PFTRH9867S1Z3",
+      "client_phone": "+918233943041"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-260V",
+        "item_qty": "1",
+        "item_net_price": "173,717.48",
+        "item_net_worth": "173,717.48",
+        "item_vat": "18%",
+        "item_gross_worth": "204,986.63"
+      },
+      {
+        "item_desc": "Apple Laptops APP-480J",
+        "item_qty": "2",
+        "item_net_price": "77,299.97",
+        "item_net_worth": "154,599.94",
+        "item_vat": "18%",
+        "item_gross_worth": "182,427.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹328,317.42",
+      "total_vat": "₹59,097.14",
+      "total_gross_worth": "₹387,414.56"
+    }
+  }
+}

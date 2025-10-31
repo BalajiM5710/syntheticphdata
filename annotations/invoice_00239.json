@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HG-2849",
+      "invoice_date": "25/05/2025",
+      "seller": "GADGET GALAXY 763, Goda Road, Danapur-030952",
+      "client": "UPADHRITI PATHAK H.No. 39, Munshi Road, Anantapur 283639",
+      "seller_tax_id": "15NBNDK2590V1ZD",
+      "client_tax_id": "36ZTRQS1570V1ZD",
+      "client_phone": "2530483492"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-861T",
+        "item_qty": "2",
+        "item_net_price": "66,950.28",
+        "item_net_worth": "133,900.56",
+        "item_vat": "18%",
+        "item_gross_worth": "158,002.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹133,900.56",
+      "total_vat": "₹24,102.10",
+      "total_gross_worth": "₹158,002.66"
+    }
+  }
+}

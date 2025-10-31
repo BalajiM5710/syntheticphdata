@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XW-9077",
+      "invoice_date": "25/08/2025",
+      "seller": "ROYAL MOBILES 91/939, Kulkarni Street, Ratlam 886553",
+      "client": "BHANUMATI BHATTACHARYYA 786, Saxena Road, Arrah-516547",
+      "seller_tax_id": "12VAJYS5197D1ZN",
+      "client_tax_id": "35AJIWN9318Y1ZS",
+      "client_phone": "09329125467"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-159P",
+        "item_qty": "1",
+        "item_net_price": "77,922.49",
+        "item_net_worth": "77,922.49",
+        "item_vat": "18%",
+        "item_gross_worth": "91,948.54"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-784C",
+        "item_qty": "2",
+        "item_net_price": "115,583.01",
+        "item_net_worth": "231,166.02",
+        "item_vat": "18%",
+        "item_gross_worth": "272,775.90"
+      },
+      {
+        "item_desc": "LG Television LG-523J",
+        "item_qty": "1",
+        "item_net_price": "79,091.68",
+        "item_net_worth": "79,091.68",
+        "item_vat": "18%",
+        "item_gross_worth": "93,328.18"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-112W",
+        "item_qty": "1",
+        "item_net_price": "27,342.83",
+        "item_net_worth": "27,342.83",
+        "item_vat": "18%",
+        "item_gross_worth": "32,264.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹415,523.02",
+      "total_vat": "₹74,794.14",
+      "total_gross_worth": "₹490,317.16"
+    }
+  }
+}

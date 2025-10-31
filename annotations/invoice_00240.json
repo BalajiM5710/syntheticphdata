@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XA-4297",
+      "invoice_date": "29/04/2025",
+      "seller": "ROYAL MOBILES 662, Sura Chowk, Panihati-032217",
+      "client": "BAGHYAWATI KADAKIA 29/244, Som Ganj, Durgapur-913712",
+      "seller_tax_id": "08HJGUV7099G1ZH",
+      "client_tax_id": "12VTUJE4731P1ZQ",
+      "client_phone": "00537224836"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-153J",
+        "item_qty": "2",
+        "item_net_price": "113,896.78",
+        "item_net_worth": "227,793.56",
+        "item_vat": "18%",
+        "item_gross_worth": "268,796.40"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-394C",
+        "item_qty": "2",
+        "item_net_price": "86,897.69",
+        "item_net_worth": "173,795.38",
+        "item_vat": "18%",
+        "item_gross_worth": "205,078.55"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-911S",
+        "item_qty": "1",
+        "item_net_price": "14,135.09",
+        "item_net_worth": "14,135.09",
+        "item_vat": "18%",
+        "item_gross_worth": "16,679.41"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-602F",
+        "item_qty": "2",
+        "item_net_price": "48,865.48",
+        "item_net_worth": "97,730.96",
+        "item_vat": "18%",
+        "item_gross_worth": "115,322.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹513,454.99",
+      "total_vat": "₹92,421.90",
+      "total_gross_worth": "₹605,876.89"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YL-4878",
+      "invoice_date": "16/03/2025",
+      "seller": "ELECTRONICS WORLD 38, Deol Circle, Thiruvananthapuram 749583",
+      "client": "JEREMIAH SANI 82/92, Rege Marg, Hazaribagh-374746",
+      "seller_tax_id": "07VSDJW0578C1ZK",
+      "client_tax_id": "01RVRZE2782M1ZV",
+      "client_phone": "6080365178"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-410T",
+        "item_qty": "2",
+        "item_net_price": "14,745.66",
+        "item_net_worth": "29,491.32",
+        "item_vat": "18%",
+        "item_gross_worth": "34,799.76"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-577Q",
+        "item_qty": "2",
+        "item_net_price": "62,434.40",
+        "item_net_worth": "124,868.80",
+        "item_vat": "18%",
+        "item_gross_worth": "147,345.18"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-154A",
+        "item_qty": "2",
+        "item_net_price": "111,601.46",
+        "item_net_worth": "223,202.92",
+        "item_vat": "18%",
+        "item_gross_worth": "263,379.45"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-108P",
+        "item_qty": "2",
+        "item_net_price": "42,320.47",
+        "item_net_worth": "84,640.94",
+        "item_vat": "18%",
+        "item_gross_worth": "99,876.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹462,203.98",
+      "total_vat": "₹83,196.72",
+      "total_gross_worth": "₹545,400.70"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SO-2708",
+      "invoice_date": "21/02/2025",
+      "seller": "STAR ELECTRONICS 73, Batra Marg, Mehsana-218115",
+      "client": "BHAVYA MORAR H.No. 89, Mammen Nagar, Bidhannagar 239013",
+      "seller_tax_id": "17KLDUX1514Y1ZM",
+      "client_tax_id": "01VTPHE8536F1ZZ",
+      "client_phone": "+911334820327"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-392S",
+        "item_qty": "2",
+        "item_net_price": "75,287.12",
+        "item_net_worth": "150,574.24",
+        "item_vat": "18%",
+        "item_gross_worth": "177,677.60"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-556C",
+        "item_qty": "1",
+        "item_net_price": "89,904.88",
+        "item_net_worth": "89,904.88",
+        "item_vat": "18%",
+        "item_gross_worth": "106,087.76"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-740M",
+        "item_qty": "1",
+        "item_net_price": "141,333.87",
+        "item_net_worth": "141,333.87",
+        "item_vat": "18%",
+        "item_gross_worth": "166,773.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹381,812.99",
+      "total_vat": "₹68,726.34",
+      "total_gross_worth": "₹450,539.33"
+    }
+  }
+}

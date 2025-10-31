@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WX-3239",
+      "invoice_date": "05/09/2025",
+      "seller": "ELECTRONICS WORLD 17, Kashyap Chowk, Bhiwani-773985",
+      "client": "BALENDRA HALDER 13/91, Bhandari Zila, Alappuzha 157513",
+      "seller_tax_id": "12ODBME7137L1ZM",
+      "client_tax_id": "22GMZZO7276W1ZP",
+      "client_phone": "+918577179685"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-765E",
+        "item_qty": "1",
+        "item_net_price": "106,564.74",
+        "item_net_worth": "106,564.74",
+        "item_vat": "18%",
+        "item_gross_worth": "125,746.39"
+      },
+      {
+        "item_desc": "Apple Tablets APP-881G",
+        "item_qty": "1",
+        "item_net_price": "50,223.29",
+        "item_net_worth": "50,223.29",
+        "item_vat": "18%",
+        "item_gross_worth": "59,263.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹156,788.03",
+      "total_vat": "₹28,221.85",
+      "total_gross_worth": "₹185,009.88"
+    }
+  }
+}

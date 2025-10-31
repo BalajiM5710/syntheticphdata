@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IF-9550",
+      "invoice_date": "17/01/2025",
+      "seller": "ROYAL MOBILES H.No. 74, Hari Road, Hyderabad 197557",
+      "client": "VYANJANA PATHAK 73/762, Soman Chowk, Gandhidham 877784",
+      "seller_tax_id": "27FLKRU5396K1ZK",
+      "client_tax_id": "04JAIHY4615B1ZR",
+      "client_phone": "+916999624056"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-468F",
+        "item_qty": "1",
+        "item_net_price": "41,806.97",
+        "item_net_worth": "41,806.97",
+        "item_vat": "18%",
+        "item_gross_worth": "49,332.22"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-330Q",
+        "item_qty": "2",
+        "item_net_price": "141,028.62",
+        "item_net_worth": "282,057.24",
+        "item_vat": "18%",
+        "item_gross_worth": "332,827.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹323,864.21",
+      "total_vat": "₹58,295.56",
+      "total_gross_worth": "₹382,159.77"
+    }
+  }
+}

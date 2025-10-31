@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FS-3270",
+      "invoice_date": "30/05/2025",
+      "seller": "METRO TECH STORE H.No. 543, Chatterjee Circle, Kota 304839",
+      "client": "LOPA SACHDEVA 55/79, Cheema Street, Dindigul 228950",
+      "seller_tax_id": "33ZTUWC5294S1ZV",
+      "client_tax_id": "19DKOFV6172Y1ZG",
+      "client_phone": "06147781254"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-589L IMEI: 598183618509216",
+        "item_qty": "1",
+        "item_net_price": "85,560.63",
+        "item_net_worth": "85,560.63",
+        "item_vat": "18%",
+        "item_gross_worth": "100,961.54"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-179A",
+        "item_qty": "2",
+        "item_net_price": "91,696.01",
+        "item_net_worth": "183,392.02",
+        "item_vat": "18%",
+        "item_gross_worth": "216,402.58"
+      },
+      {
+        "item_desc": "Sony Speaker SON-774B",
+        "item_qty": "2",
+        "item_net_price": "36,649.02",
+        "item_net_worth": "73,298.04",
+        "item_vat": "18%",
+        "item_gross_worth": "86,491.69"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-824M",
+        "item_qty": "2",
+        "item_net_price": "84,655.68",
+        "item_net_worth": "169,311.36",
+        "item_vat": "18%",
+        "item_gross_worth": "199,787.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹511,562.05",
+      "total_vat": "₹92,081.17",
+      "total_gross_worth": "₹603,643.22"
+    }
+  }
+}

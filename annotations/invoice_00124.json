@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TF-8263",
+      "invoice_date": "30/04/2025",
+      "seller": "ELECTRONICS WORLD 26, Soman Ganj, Rohtak-243327",
+      "client": "UPKAAR MITAL 98/79, Chopra, Amaravati 218856",
+      "seller_tax_id": "26WPSTY4975I1ZL",
+      "client_tax_id": "02ZGDHE7533F1ZV",
+      "client_phone": "09609483046"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-566P",
+        "item_qty": "1",
+        "item_net_price": "69,839.71",
+        "item_net_worth": "69,839.71",
+        "item_vat": "18%",
+        "item_gross_worth": "82,410.86"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-113S",
+        "item_qty": "1",
+        "item_net_price": "124,860.56",
+        "item_net_worth": "124,860.56",
+        "item_vat": "18%",
+        "item_gross_worth": "147,335.46"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-101J",
+        "item_qty": "2",
+        "item_net_price": "38,613.47",
+        "item_net_worth": "77,226.94",
+        "item_vat": "18%",
+        "item_gross_worth": "91,127.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹271,927.21",
+      "total_vat": "₹48,946.90",
+      "total_gross_worth": "₹320,874.11"
+    }
+  }
+}

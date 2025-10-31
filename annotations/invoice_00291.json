@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZZ-1828",
+      "invoice_date": "11/05/2025",
+      "seller": "SMART ELECTRONICS 19/739, Sandal Path, Tirupati-735218",
+      "client": "EKTA MODI 97, Salvi, Bahraich-842746",
+      "seller_tax_id": "16LQPPX9276Z1ZY",
+      "client_tax_id": "18AXRUJ0015W1ZJ",
+      "client_phone": "4078344209"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-242S",
+        "item_qty": "2",
+        "item_net_price": "39,193.88",
+        "item_net_worth": "78,387.76",
+        "item_vat": "18%",
+        "item_gross_worth": "92,497.56"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-315O",
+        "item_qty": "1",
+        "item_net_price": "68,114.66",
+        "item_net_worth": "68,114.66",
+        "item_vat": "18%",
+        "item_gross_worth": "80,375.30"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-724O",
+        "item_qty": "2",
+        "item_net_price": "87,078.21",
+        "item_net_worth": "174,156.42",
+        "item_vat": "18%",
+        "item_gross_worth": "205,504.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹320,658.84",
+      "total_vat": "₹57,718.59",
+      "total_gross_worth": "₹378,377.43"
+    }
+  }
+}

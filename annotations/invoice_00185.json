@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BX-5249",
+      "invoice_date": "22/07/2025",
+      "seller": "SMART ELECTRONICS H.No. 440, Menon Road, Ichalkaranji-992244",
+      "client": "BIMALA BHASIN H.No. 31, Bajwa Zila, Jammu-670592",
+      "seller_tax_id": "16APIHA6124K1Z9",
+      "client_tax_id": "34MFKKQ1212M1ZC",
+      "client_phone": "04756959105"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-159D",
+        "item_qty": "1",
+        "item_net_price": "216,883.80",
+        "item_net_worth": "216,883.80",
+        "item_vat": "18%",
+        "item_gross_worth": "255,922.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹216,883.80",
+      "total_vat": "₹39,039.08",
+      "total_gross_worth": "₹255,922.88"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PS-5960",
+      "invoice_date": "01/05/2025",
+      "seller": "SINGH ELECTRONICS 45, Mand Zila, Agra-901496",
+      "client": "JACK RATTAN 63/77, Ganguly Marg, Latur-171637",
+      "seller_tax_id": "26HNISO2284M1Z2",
+      "client_tax_id": "14HYCSZ5901I1ZT",
+      "client_phone": "8004218131"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-340T IMEI: 841144677802491",
+        "item_qty": "1",
+        "item_net_price": "82,964.95",
+        "item_net_worth": "82,964.95",
+        "item_vat": "18%",
+        "item_gross_worth": "97,898.64"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-980B IMEI: 858890610609064",
+        "item_qty": "2",
+        "item_net_price": "26,061.28",
+        "item_net_worth": "52,122.56",
+        "item_vat": "18%",
+        "item_gross_worth": "61,504.62"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-282J",
+        "item_qty": "1",
+        "item_net_price": "56,377.89",
+        "item_net_worth": "56,377.89",
+        "item_vat": "18%",
+        "item_gross_worth": "66,525.91"
+      },
+      {
+        "item_desc": "TCL Television TCL-594E",
+        "item_qty": "2",
+        "item_net_price": "60,248.20",
+        "item_net_worth": "120,496.40",
+        "item_vat": "18%",
+        "item_gross_worth": "142,185.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹311,961.80",
+      "total_vat": "₹56,153.12",
+      "total_gross_worth": "₹368,114.92"
+    }
+  }
+}

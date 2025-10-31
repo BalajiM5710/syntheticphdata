@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DD-6358",
+      "invoice_date": "02/06/2025",
+      "seller": "ROYAL MOBILES 745, Dayal Road, Gandhinagar-710276",
+      "client": "RYAN SANDHU 494, Kumer, Ozhukarai-345404",
+      "seller_tax_id": "11ILBPL8028D1ZU",
+      "client_tax_id": "26BXKZO0586L1Z6",
+      "client_phone": "4874921171"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-167I",
+        "item_qty": "1",
+        "item_net_price": "65,257.48",
+        "item_net_worth": "65,257.48",
+        "item_vat": "18%",
+        "item_gross_worth": "77,003.83"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-979M",
+        "item_qty": "2",
+        "item_net_price": "47,505.93",
+        "item_net_worth": "95,011.86",
+        "item_vat": "18%",
+        "item_gross_worth": "112,113.99"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-859S",
+        "item_qty": "2",
+        "item_net_price": "52,334.73",
+        "item_net_worth": "104,669.46",
+        "item_vat": "18%",
+        "item_gross_worth": "123,509.96"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-265V",
+        "item_qty": "1",
+        "item_net_price": "83,363.55",
+        "item_net_worth": "83,363.55",
+        "item_vat": "18%",
+        "item_gross_worth": "98,368.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹348,302.35",
+      "total_vat": "₹62,694.42",
+      "total_gross_worth": "₹410,996.77"
+    }
+  }
+}

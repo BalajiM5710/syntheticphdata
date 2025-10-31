@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XS-7013",
+      "invoice_date": "08/08/2025",
+      "seller": "ELECTRONICS WORLD H.No. 629, Wali Marg, Nagpur 081497",
+      "client": "AYUSH MANI 86/39, Deshpande Chowk, Bhubaneswar-737967",
+      "seller_tax_id": "19THTEE4959S1ZS",
+      "client_tax_id": "09SZVNA5173Q1ZE",
+      "client_phone": "+912868692107"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-358R",
+        "item_qty": "1",
+        "item_net_price": "26,517.02",
+        "item_net_worth": "26,517.02",
+        "item_vat": "18%",
+        "item_gross_worth": "31,290.08"
+      },
+      {
+        "item_desc": "Sony Television SON-153U",
+        "item_qty": "1",
+        "item_net_price": "116,098.33",
+        "item_net_worth": "116,098.33",
+        "item_vat": "18%",
+        "item_gross_worth": "136,996.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,615.35",
+      "total_vat": "₹25,670.76",
+      "total_gross_worth": "₹168,286.11"
+    }
+  }
+}

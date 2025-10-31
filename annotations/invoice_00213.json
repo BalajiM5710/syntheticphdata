@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PV-2675",
+      "invoice_date": "10/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 285, Pillai Street, Hindupur 232392",
+      "client": "BHAVANI MANI H.No. 24, Devan Path, Secunderabad-325806",
+      "seller_tax_id": "16UBZTR0810K1ZD",
+      "client_tax_id": "17WIPGE5540O1ZA",
+      "client_phone": "7121070870"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-447K",
+        "item_qty": "2",
+        "item_net_price": "111,410.03",
+        "item_net_worth": "222,820.06",
+        "item_vat": "18%",
+        "item_gross_worth": "262,927.67"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-703R",
+        "item_qty": "2",
+        "item_net_price": "53,004.29",
+        "item_net_worth": "106,008.58",
+        "item_vat": "18%",
+        "item_gross_worth": "125,090.12"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-497S",
+        "item_qty": "1",
+        "item_net_price": "86,679.97",
+        "item_net_worth": "86,679.97",
+        "item_vat": "18%",
+        "item_gross_worth": "102,282.36"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-112D",
+        "item_qty": "2",
+        "item_net_price": "8,343.13",
+        "item_net_worth": "16,686.26",
+        "item_vat": "18%",
+        "item_gross_worth": "19,689.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹432,194.87",
+      "total_vat": "₹77,795.08",
+      "total_gross_worth": "₹509,989.95"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HV-1467",
+      "invoice_date": "06/03/2025",
+      "seller": "MOBILE POINT 214, Mishra Street, Gandhidham 603522",
+      "client": "QUINCY MALLICK H.No. 33, Kota Nagar, Amritsar 271804",
+      "seller_tax_id": "05QGFVN7899R1ZG",
+      "client_tax_id": "12UMTDK9836J1ZQ",
+      "client_phone": "+913102651678"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-285O",
+        "item_qty": "2",
+        "item_net_price": "126,417.97",
+        "item_net_worth": "252,835.94",
+        "item_vat": "18%",
+        "item_gross_worth": "298,346.41"
+      },
+      {
+        "item_desc": "Sony Headphones SON-602F",
+        "item_qty": "1",
+        "item_net_price": "89,350.03",
+        "item_net_worth": "89,350.03",
+        "item_vat": "18%",
+        "item_gross_worth": "105,433.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹342,185.97",
+      "total_vat": "₹61,593.47",
+      "total_gross_worth": "₹403,779.44"
+    }
+  }
+}

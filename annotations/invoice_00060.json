@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YP-4329",
+      "invoice_date": "05/04/2025",
+      "seller": "SMART ELECTRONICS H.No. 05, Saini Path, Kavali 253152",
+      "client": "URMI KHANNA 86/01, Varma Road, Amaravati-351880",
+      "seller_tax_id": "09KIQAD2160J1ZQ",
+      "client_tax_id": "31CIFZJ1502G1ZJ",
+      "client_phone": "4783151056"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-448O IMEI: 069339266525649",
+        "item_qty": "2",
+        "item_net_price": "50,628.06",
+        "item_net_worth": "101,256.12",
+        "item_vat": "18%",
+        "item_gross_worth": "119,482.22"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-872F",
+        "item_qty": "2",
+        "item_net_price": "9,412.72",
+        "item_net_worth": "18,825.44",
+        "item_vat": "18%",
+        "item_gross_worth": "22,214.02"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-889D",
+        "item_qty": "1",
+        "item_net_price": "13,009.87",
+        "item_net_worth": "13,009.87",
+        "item_vat": "18%",
+        "item_gross_worth": "15,351.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹133,091.43",
+      "total_vat": "₹23,956.46",
+      "total_gross_worth": "₹157,047.89"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LF-5393",
+      "invoice_date": "28/03/2025",
+      "seller": "SINGH ELECTRONICS H.No. 265, Sarna Path, Raichur 868133",
+      "client": "HARINAKSHI SAMPATH 36/42, Banerjee Path, Malda-034981",
+      "seller_tax_id": "21IMDUH3615V1ZE",
+      "client_tax_id": "29CQTKD2832J1ZB",
+      "client_phone": "00869022273"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-715H",
+        "item_qty": "1",
+        "item_net_price": "30,368.06",
+        "item_net_worth": "30,368.06",
+        "item_vat": "18%",
+        "item_gross_worth": "35,834.31"
+      },
+      {
+        "item_desc": "Sony Speaker SON-506U",
+        "item_qty": "2",
+        "item_net_price": "64,968.73",
+        "item_net_worth": "129,937.46",
+        "item_vat": "18%",
+        "item_gross_worth": "153,326.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹160,305.52",
+      "total_vat": "₹28,854.99",
+      "total_gross_worth": "₹189,160.51"
+    }
+  }
+}

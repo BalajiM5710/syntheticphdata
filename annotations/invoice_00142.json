@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WN-7800",
+      "invoice_date": "16/05/2025",
+      "seller": "MOBILE POINT 40/570, Pant Street, Rampur-066801",
+      "client": "NIHAL OAK 50, Muni Marg, Maheshtala 131443",
+      "seller_tax_id": "33HLBQD8334T1Z2",
+      "client_tax_id": "06QEDBA3023E1ZB",
+      "client_phone": "+916577431136"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-908Z",
+        "item_qty": "2",
+        "item_net_price": "50,953.81",
+        "item_net_worth": "101,907.62",
+        "item_vat": "18%",
+        "item_gross_worth": "120,250.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹101,907.62",
+      "total_vat": "₹18,343.37",
+      "total_gross_worth": "₹120,250.99"
+    }
+  }
+}

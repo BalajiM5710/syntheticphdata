@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZZ-1274",
+      "invoice_date": "17/10/2025",
+      "seller": "GADGET GALAXY H.No. 309, Das Street, Coimbatore-870160",
+      "client": "OJASVI DIN 03/913, Narula Road, Udaipur-721548",
+      "seller_tax_id": "12AMWTG6676S1ZA",
+      "client_tax_id": "26MTBBR7575V1ZY",
+      "client_phone": "+915274952835"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-171N",
+        "item_qty": "1",
+        "item_net_price": "66,105.07",
+        "item_net_worth": "66,105.07",
+        "item_vat": "18%",
+        "item_gross_worth": "78,003.98"
+      },
+      {
+        "item_desc": "TCL Television TCL-815X",
+        "item_qty": "2",
+        "item_net_price": "137,090.76",
+        "item_net_worth": "274,181.52",
+        "item_vat": "18%",
+        "item_gross_worth": "323,534.19"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-981Z",
+        "item_qty": "1",
+        "item_net_price": "11,812.88",
+        "item_net_worth": "11,812.88",
+        "item_vat": "18%",
+        "item_gross_worth": "13,939.20"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-743Y",
+        "item_qty": "2",
+        "item_net_price": "164,372.19",
+        "item_net_worth": "328,744.38",
+        "item_vat": "18%",
+        "item_gross_worth": "387,918.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹680,843.85",
+      "total_vat": "₹122,551.89",
+      "total_gross_worth": "₹803,395.74"
+    }
+  }
+}

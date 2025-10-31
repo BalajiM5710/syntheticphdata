@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UK-7189",
+      "invoice_date": "15/08/2025",
+      "seller": "GADGET GALAXY 045, Borde Circle, Ichalkaranji 082344",
+      "client": "SUHANI SURA 38/67, Kaur Path, Farrukhabad 475362",
+      "seller_tax_id": "02ALWRO3418J1ZT",
+      "client_tax_id": "05PPSKB7028N1ZB",
+      "client_phone": "+914569199821"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-745A",
+        "item_qty": "2",
+        "item_net_price": "40,778.71",
+        "item_net_worth": "81,557.42",
+        "item_vat": "18%",
+        "item_gross_worth": "96,237.76"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-324V",
+        "item_qty": "1",
+        "item_net_price": "138,994.42",
+        "item_net_worth": "138,994.42",
+        "item_vat": "18%",
+        "item_gross_worth": "164,013.42"
+      },
+      {
+        "item_desc": "Apple Tablets APP-263Z",
+        "item_qty": "1",
+        "item_net_price": "70,554.45",
+        "item_net_worth": "70,554.45",
+        "item_vat": "18%",
+        "item_gross_worth": "83,254.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹291,106.29",
+      "total_vat": "₹52,399.13",
+      "total_gross_worth": "₹343,505.42"
+    }
+  }
+}

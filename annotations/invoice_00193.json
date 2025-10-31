@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TG-1250",
+      "invoice_date": "19/02/2025",
+      "seller": "TECH BAZAAR 81/252, Sabharwal Road, Nellore 287130",
+      "client": "AMOL SARIN H.No. 959, Pall Nagar, Bongaigaon-016372",
+      "seller_tax_id": "33ENLDJ1202P1ZV",
+      "client_tax_id": "32HMASG8995W1Z6",
+      "client_phone": "5528977772"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-543B IMEI: 531312163350785",
+        "item_qty": "1",
+        "item_net_price": "41,748.36",
+        "item_net_worth": "41,748.36",
+        "item_vat": "18%",
+        "item_gross_worth": "49,263.06"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-638B",
+        "item_qty": "2",
+        "item_net_price": "12,149.25",
+        "item_net_worth": "24,298.50",
+        "item_vat": "18%",
+        "item_gross_worth": "28,672.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹66,046.86",
+      "total_vat": "₹11,888.43",
+      "total_gross_worth": "₹77,935.29"
+    }
+  }
+}

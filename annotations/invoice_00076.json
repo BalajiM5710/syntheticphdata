@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GQ-5261",
+      "invoice_date": "10/02/2025",
+      "seller": "TECH BAZAAR 90, Tripathi Chowk, Jammu-761515",
+      "client": "MADHAV BAKSHI 61/75, Loyal Street, Sri Ganganagar-901197",
+      "seller_tax_id": "22EERSB6028V1ZS",
+      "client_tax_id": "25DQAEV5068E1Z0",
+      "client_phone": "04882408914"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-379F IMEI: 350384078950813",
+        "item_qty": "2",
+        "item_net_price": "68,979.35",
+        "item_net_worth": "137,958.70",
+        "item_vat": "18%",
+        "item_gross_worth": "162,791.27"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹137,958.70",
+      "total_vat": "₹24,832.57",
+      "total_gross_worth": "₹162,791.27"
+    }
+  }
+}

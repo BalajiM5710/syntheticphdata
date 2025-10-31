@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XI-2881",
+      "invoice_date": "31/01/2025",
+      "seller": "STAR ELECTRONICS 12/59, Talwar Zila, Hajipur-500961",
+      "client": "FARAJ GALA 519, Mohan Path, Thane-144234",
+      "seller_tax_id": "28TMPVG3099M1ZZ",
+      "client_tax_id": "04IAETL2929J1Z8",
+      "client_phone": "+918622713751"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-700Y",
+        "item_qty": "1",
+        "item_net_price": "212,756.09",
+        "item_net_worth": "212,756.09",
+        "item_vat": "18%",
+        "item_gross_worth": "251,052.19"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-765N",
+        "item_qty": "2",
+        "item_net_price": "124,459.88",
+        "item_net_worth": "248,919.76",
+        "item_vat": "18%",
+        "item_gross_worth": "293,725.32"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-600L",
+        "item_qty": "1",
+        "item_net_price": "65,087.87",
+        "item_net_worth": "65,087.87",
+        "item_vat": "18%",
+        "item_gross_worth": "76,803.69"
+      },
+      {
+        "item_desc": "LG Television LG-276I",
+        "item_qty": "1",
+        "item_net_price": "58,525.04",
+        "item_net_worth": "58,525.04",
+        "item_vat": "18%",
+        "item_gross_worth": "69,059.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹585,288.76",
+      "total_vat": "₹105,351.98",
+      "total_gross_worth": "₹690,640.74"
+    }
+  }
+}

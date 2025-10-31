@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WR-5070",
+      "invoice_date": "26/04/2025",
+      "seller": "TECH BAZAAR H.No. 657, Raju Ganj, Warangal 921605",
+      "client": "HARRISON SEHGAL 11/844, Narang Road, Farrukhabad-284197",
+      "seller_tax_id": "08FAQSY5095R1Z8",
+      "client_tax_id": "29UWAYR5573E1ZS",
+      "client_phone": "7676538050"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-884C",
+        "item_qty": "2",
+        "item_net_price": "35,196.56",
+        "item_net_worth": "70,393.12",
+        "item_vat": "18%",
+        "item_gross_worth": "83,063.88"
+      },
+      {
+        "item_desc": "LG Television LG-972V",
+        "item_qty": "1",
+        "item_net_price": "51,879.49",
+        "item_net_worth": "51,879.49",
+        "item_vat": "18%",
+        "item_gross_worth": "61,217.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹122,272.61",
+      "total_vat": "₹22,009.07",
+      "total_gross_worth": "₹144,281.68"
+    }
+  }
+}

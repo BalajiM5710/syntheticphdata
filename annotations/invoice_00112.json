@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QI-1751",
+      "invoice_date": "10/01/2025",
+      "seller": "ROYAL MOBILES 92/949, Chakrabarti Path, Gandhinagar-828678",
+      "client": "CHAITANYA DEO 21/08, Hegde Circle, Bhalswa Jahangir Pur-290425",
+      "seller_tax_id": "31TCEMY5934A1ZB",
+      "client_tax_id": "12OSSCG5381M1ZA",
+      "client_phone": "04757574496"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-827N",
+        "item_qty": "2",
+        "item_net_price": "121,182.31",
+        "item_net_worth": "242,364.62",
+        "item_vat": "18%",
+        "item_gross_worth": "285,990.25"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-127Q",
+        "item_qty": "1",
+        "item_net_price": "24,404.66",
+        "item_net_worth": "24,404.66",
+        "item_vat": "18%",
+        "item_gross_worth": "28,797.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹266,769.28",
+      "total_vat": "₹48,018.47",
+      "total_gross_worth": "₹314,787.75"
+    }
+  }
+}

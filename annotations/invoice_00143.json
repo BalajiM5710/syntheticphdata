@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GZ-6278",
+      "invoice_date": "01/03/2025",
+      "seller": "MOBILE POINT H.No. 41, Kanda Zila, Orai-578655",
+      "client": "ISHANI DHAWAN 343, Samra Road, Gulbarga-604137",
+      "seller_tax_id": "32FAOYZ6153I1ZX",
+      "client_tax_id": "16YNEDP3631G1ZM",
+      "client_phone": "+915582802543"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-823V",
+        "item_qty": "2",
+        "item_net_price": "50,100.51",
+        "item_net_worth": "100,201.02",
+        "item_vat": "18%",
+        "item_gross_worth": "118,237.20"
+      },
+      {
+        "item_desc": "TVS Bike TVS-255Y",
+        "item_qty": "2",
+        "item_net_price": "189,005.22",
+        "item_net_worth": "378,010.44",
+        "item_vat": "18%",
+        "item_gross_worth": "446,052.32"
+      },
+      {
+        "item_desc": "Samsung Television SAM-381U",
+        "item_qty": "2",
+        "item_net_price": "40,289.76",
+        "item_net_worth": "80,579.52",
+        "item_vat": "18%",
+        "item_gross_worth": "95,083.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹558,790.98",
+      "total_vat": "₹100,582.38",
+      "total_gross_worth": "₹659,373.36"
+    }
+  }
+}

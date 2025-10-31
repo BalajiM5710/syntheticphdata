@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XX-6931",
+      "invoice_date": "05/10/2025",
+      "seller": "ROYAL MOBILES 77/03, Thakkar Ganj, New Delhi 154000",
+      "client": "EDHITHA TANDON 24/276, Raval Road, Durgapur 499153",
+      "seller_tax_id": "10SCKVQ7472B1Z2",
+      "client_tax_id": "03YXCTR4781V1Z7",
+      "client_phone": "07211478153"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-277R",
+        "item_qty": "2",
+        "item_net_price": "59,636.27",
+        "item_net_worth": "119,272.54",
+        "item_vat": "18%",
+        "item_gross_worth": "140,741.60"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-168U IMEI: 383307727062674",
+        "item_qty": "2",
+        "item_net_price": "14,681.40",
+        "item_net_worth": "29,362.80",
+        "item_vat": "18%",
+        "item_gross_worth": "34,648.10"
+      },
+      {
+        "item_desc": "TVS Bike TVS-534F",
+        "item_qty": "2",
+        "item_net_price": "118,632.77",
+        "item_net_worth": "237,265.54",
+        "item_vat": "18%",
+        "item_gross_worth": "279,973.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹385,900.88",
+      "total_vat": "₹69,462.16",
+      "total_gross_worth": "₹455,363.04"
+    }
+  }
+}

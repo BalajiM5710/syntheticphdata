@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZF-6089",
+      "invoice_date": "07/08/2025",
+      "seller": "FUTURE TECH H.No. 860, Hegde Street, Sambhal-159004",
+      "client": "JOSHUA BAINS H.No. 433, Anand Marg, Coimbatore-791997",
+      "seller_tax_id": "18BEIHR9092Q1ZP",
+      "client_tax_id": "37YAWQN4315N1Z7",
+      "client_phone": "07342019803"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-638U IMEI: 043580379117559",
+        "item_qty": "2",
+        "item_net_price": "18,731.82",
+        "item_net_worth": "37,463.64",
+        "item_vat": "18%",
+        "item_gross_worth": "44,207.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹37,463.64",
+      "total_vat": "₹6,743.46",
+      "total_gross_worth": "₹44,207.10"
+    }
+  }
+}

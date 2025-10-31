@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RZ-4883",
+      "invoice_date": "19/06/2025",
+      "seller": "SMART ELECTRONICS 82, Patil, Mau-802822",
+      "client": "KAMYA DUBEY H.No. 717, Shetty Ganj, Sikar 998798",
+      "seller_tax_id": "14YPMEX1624A1ZC",
+      "client_tax_id": "15ZUKJP6892E1ZY",
+      "client_phone": "08782640290"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-830G",
+        "item_qty": "1",
+        "item_net_price": "24,385.93",
+        "item_net_worth": "24,385.93",
+        "item_vat": "18%",
+        "item_gross_worth": "28,775.40"
+      },
+      {
+        "item_desc": "Mi Television MI-483I",
+        "item_qty": "1",
+        "item_net_price": "141,184.40",
+        "item_net_worth": "141,184.40",
+        "item_vat": "18%",
+        "item_gross_worth": "166,597.59"
+      },
+      {
+        "item_desc": "TCL Television TCL-630J",
+        "item_qty": "2",
+        "item_net_price": "120,847.75",
+        "item_net_worth": "241,695.50",
+        "item_vat": "18%",
+        "item_gross_worth": "285,200.69"
+      },
+      {
+        "item_desc": "Apple Tablets APP-693N",
+        "item_qty": "1",
+        "item_net_price": "18,701.62",
+        "item_net_worth": "18,701.62",
+        "item_vat": "18%",
+        "item_gross_worth": "22,067.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹425,967.45",
+      "total_vat": "₹76,674.14",
+      "total_gross_worth": "₹502,641.59"
+    }
+  }
+}

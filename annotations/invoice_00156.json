@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BG-4718",
+      "invoice_date": "18/06/2025",
+      "seller": "FUTURE TECH H.No. 127, Palla Chowk, Guntakal 990661",
+      "client": "JACK KAUL 30, Devi Circle, Morbi-078681",
+      "seller_tax_id": "24FKFWI0426D1ZK",
+      "client_tax_id": "04KJOSY9283L1ZK",
+      "client_phone": "+915349391022"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-898Y",
+        "item_qty": "1",
+        "item_net_price": "58,870.00",
+        "item_net_worth": "58,870.00",
+        "item_vat": "18%",
+        "item_gross_worth": "69,466.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹58,870.00",
+      "total_vat": "₹10,596.60",
+      "total_gross_worth": "₹69,466.60"
+    }
+  }
+}

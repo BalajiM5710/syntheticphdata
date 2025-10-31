@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VS-9446",
+      "invoice_date": "01/10/2025",
+      "seller": "KUMAR TECH SOLUTIONS 27/734, Bal Circle, Gudivada 815567",
+      "client": "VIRAJ CHAUDHARI H.No. 88, Gulati Chowk, Bettiah-367026",
+      "seller_tax_id": "01IPFTS7944P1Z4",
+      "client_tax_id": "21RSIWD1094G1ZL",
+      "client_phone": "+916379088181"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-147U IMEI: 917658037026647",
+        "item_qty": "1",
+        "item_net_price": "94,034.23",
+        "item_net_worth": "94,034.23",
+        "item_vat": "18%",
+        "item_gross_worth": "110,960.39"
+      },
+      {
+        "item_desc": "Canon Camera CAN-587X",
+        "item_qty": "1",
+        "item_net_price": "31,245.89",
+        "item_net_worth": "31,245.89",
+        "item_vat": "18%",
+        "item_gross_worth": "36,870.15"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-224A",
+        "item_qty": "2",
+        "item_net_price": "51,995.41",
+        "item_net_worth": "103,990.82",
+        "item_vat": "18%",
+        "item_gross_worth": "122,709.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹229,270.94",
+      "total_vat": "₹41,268.77",
+      "total_gross_worth": "₹270,539.71"
+    }
+  }
+}

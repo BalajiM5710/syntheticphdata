@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZZ-7432",
+      "invoice_date": "03/04/2025",
+      "seller": "RAM ELECTRONICS H.No. 62, Khosla, Rohtak 932607",
+      "client": "INDALI DORA 53, Sur Path, Sri Ganganagar 368052",
+      "seller_tax_id": "12YVPRT0448X1ZT",
+      "client_tax_id": "16SBNDG0732A1ZV",
+      "client_phone": "6125866171"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-534K",
+        "item_qty": "2",
+        "item_net_price": "64,867.05",
+        "item_net_worth": "129,734.10",
+        "item_vat": "18%",
+        "item_gross_worth": "153,086.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹129,734.10",
+      "total_vat": "₹23,352.14",
+      "total_gross_worth": "₹153,086.24"
+    }
+  }
+}

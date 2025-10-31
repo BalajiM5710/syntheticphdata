@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GP-7565",
+      "invoice_date": "26/09/2025",
+      "seller": "DIGITAL STORE 34/880, Divan Ganj, Davanagere 076122",
+      "client": "WRIDDHISH MURTHY H.No. 313, Hora Circle, Mysore 727093",
+      "seller_tax_id": "10AZVKB6827V1ZP",
+      "client_tax_id": "19ODYUH9495M1ZH",
+      "client_phone": "01467537158"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-696V",
+        "item_qty": "1",
+        "item_net_price": "14,935.17",
+        "item_net_worth": "14,935.17",
+        "item_vat": "18%",
+        "item_gross_worth": "17,623.50"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-329G",
+        "item_qty": "2",
+        "item_net_price": "33,800.74",
+        "item_net_worth": "67,601.48",
+        "item_vat": "18%",
+        "item_gross_worth": "79,769.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹82,536.65",
+      "total_vat": "₹14,856.60",
+      "total_gross_worth": "₹97,393.25"
+    }
+  }
+}

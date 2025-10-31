@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GE-8783",
+      "invoice_date": "07/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 49/312, Samra Road, Alwar-115247",
+      "client": "ARYA PAU 190, Grewal Marg, Bijapur 198367",
+      "seller_tax_id": "19DYSUP1634N1ZL",
+      "client_tax_id": "29HMASO6989Y1ZZ",
+      "client_phone": "+919925420325"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-270L",
+        "item_qty": "2",
+        "item_net_price": "55,177.00",
+        "item_net_worth": "110,354.00",
+        "item_vat": "18%",
+        "item_gross_worth": "130,217.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹110,354.00",
+      "total_vat": "₹19,863.72",
+      "total_gross_worth": "₹130,217.72"
+    }
+  }
+}

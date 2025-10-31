@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WD-2907",
+      "invoice_date": "01/09/2025",
+      "seller": "SUPREME ELECTRONICS 358, Nazareth, Asansol-938787",
+      "client": "ISAAC PANDYA 462, Toor Chowk, Hospet 543992",
+      "seller_tax_id": "32NONSG8778J1Z6",
+      "client_tax_id": "22OQQCR1018N1ZM",
+      "client_phone": "07663730313"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-193Y",
+        "item_qty": "1",
+        "item_net_price": "76,094.61",
+        "item_net_worth": "76,094.61",
+        "item_vat": "18%",
+        "item_gross_worth": "89,791.64"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-566N",
+        "item_qty": "2",
+        "item_net_price": "67,359.88",
+        "item_net_worth": "134,719.76",
+        "item_vat": "18%",
+        "item_gross_worth": "158,969.32"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-179H",
+        "item_qty": "1",
+        "item_net_price": "41,218.02",
+        "item_net_worth": "41,218.02",
+        "item_vat": "18%",
+        "item_gross_worth": "48,637.26"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-295Z",
+        "item_qty": "2",
+        "item_net_price": "22,352.43",
+        "item_net_worth": "44,704.86",
+        "item_vat": "18%",
+        "item_gross_worth": "52,751.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,737.25",
+      "total_vat": "₹53,412.70",
+      "total_gross_worth": "₹350,149.96"
+    }
+  }
+}

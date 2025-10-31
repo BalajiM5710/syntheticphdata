@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IV-8382",
+      "invoice_date": "25/04/2025",
+      "seller": "VISHWA ELECTRONICS 921, Chanda Marg, Rampur-313759",
+      "client": "MANTHAN SAHOTA H.No. 06, Balay Street, Gangtok-373207",
+      "seller_tax_id": "14ACSNN7790U1Z9",
+      "client_tax_id": "04RGSCB4512V1ZZ",
+      "client_phone": "04849650341"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-207W",
+        "item_qty": "1",
+        "item_net_price": "74,397.07",
+        "item_net_worth": "74,397.07",
+        "item_vat": "18%",
+        "item_gross_worth": "87,788.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,397.07",
+      "total_vat": "₹13,391.47",
+      "total_gross_worth": "₹87,788.54"
+    }
+  }
+}

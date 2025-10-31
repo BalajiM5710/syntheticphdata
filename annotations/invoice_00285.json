@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QA-7698",
+      "invoice_date": "10/02/2025",
+      "seller": "PRADHAN MOBILE SHOP 24, Nanda Road, Giridih-329207",
+      "client": "FARIS RAMESH 22, Soman Street, Kolkata 848028",
+      "seller_tax_id": "25QNNSF7183C1ZY",
+      "client_tax_id": "13RKJOV6093A1Z5",
+      "client_phone": "07483069569"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-931S",
+        "item_qty": "1",
+        "item_net_price": "51,506.66",
+        "item_net_worth": "51,506.66",
+        "item_vat": "18%",
+        "item_gross_worth": "60,777.86"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-830M",
+        "item_qty": "1",
+        "item_net_price": "25,148.17",
+        "item_net_worth": "25,148.17",
+        "item_vat": "18%",
+        "item_gross_worth": "29,674.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹76,654.83",
+      "total_vat": "₹13,797.87",
+      "total_gross_worth": "₹90,452.70"
+    }
+  }
+}

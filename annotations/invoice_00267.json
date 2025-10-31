@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OJ-8554",
+      "invoice_date": "24/04/2025",
+      "seller": "GADGET GALAXY 95/329, Walla Marg, Gaya-949842",
+      "client": "TANISH KHATRI 35, Shetty Nagar, Davanagere-795147",
+      "seller_tax_id": "27LKXAO2802F1Z8",
+      "client_tax_id": "06APYIJ9622E1Z8",
+      "client_phone": "0128442104"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-920Y",
+        "item_qty": "2",
+        "item_net_price": "32,254.14",
+        "item_net_worth": "64,508.28",
+        "item_vat": "18%",
+        "item_gross_worth": "76,119.77"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-929S",
+        "item_qty": "2",
+        "item_net_price": "33,002.07",
+        "item_net_worth": "66,004.14",
+        "item_vat": "18%",
+        "item_gross_worth": "77,884.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹130,512.42",
+      "total_vat": "₹23,492.24",
+      "total_gross_worth": "₹154,004.66"
+    }
+  }
+}

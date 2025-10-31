@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RV-4224",
+      "invoice_date": "02/07/2025",
+      "seller": "FUTURE TECH 00/165, Chacko Circle, Rampur 312772",
+      "client": "ORINDER DHAWAN 34/022, Samra Street, Mango-990125",
+      "seller_tax_id": "06IVJOV2881L1Z0",
+      "client_tax_id": "16WIVVA2770H1Z4",
+      "client_phone": "08128369247"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-572Y",
+        "item_qty": "2",
+        "item_net_price": "214,146.32",
+        "item_net_worth": "428,292.64",
+        "item_vat": "18%",
+        "item_gross_worth": "505,385.32"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-615A IMEI: 640261259274199",
+        "item_qty": "1",
+        "item_net_price": "28,980.46",
+        "item_net_worth": "28,980.46",
+        "item_vat": "18%",
+        "item_gross_worth": "34,196.94"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-519G",
+        "item_qty": "1",
+        "item_net_price": "202,465.51",
+        "item_net_worth": "202,465.51",
+        "item_vat": "18%",
+        "item_gross_worth": "238,909.30"
+      },
+      {
+        "item_desc": "Canon Camera CAN-879F",
+        "item_qty": "1",
+        "item_net_price": "55,201.55",
+        "item_net_worth": "55,201.55",
+        "item_vat": "18%",
+        "item_gross_worth": "65,137.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹714,940.16",
+      "total_vat": "₹128,689.23",
+      "total_gross_worth": "₹843,629.39"
+    }
+  }
+}

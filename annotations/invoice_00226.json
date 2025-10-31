@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NO-1439",
+      "invoice_date": "07/10/2025",
+      "seller": "MOBILE POINT H.No. 949, Venkatesh Street, Hajipur 060179",
+      "client": "NIHAL MANDER 24/485, Madan Ganj, Malegaon 324900",
+      "seller_tax_id": "13YZSNV9616W1ZE",
+      "client_tax_id": "15TKDFN7215W1ZE",
+      "client_phone": "+912555606054"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-748O",
+        "item_qty": "1",
+        "item_net_price": "99,673.53",
+        "item_net_worth": "99,673.53",
+        "item_vat": "18%",
+        "item_gross_worth": "117,614.77"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-229M",
+        "item_qty": "1",
+        "item_net_price": "58,581.26",
+        "item_net_worth": "58,581.26",
+        "item_vat": "18%",
+        "item_gross_worth": "69,125.89"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-852D",
+        "item_qty": "1",
+        "item_net_price": "31,161.43",
+        "item_net_worth": "31,161.43",
+        "item_vat": "18%",
+        "item_gross_worth": "36,770.49"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-720U",
+        "item_qty": "1",
+        "item_net_price": "13,720.93",
+        "item_net_worth": "13,720.93",
+        "item_vat": "18%",
+        "item_gross_worth": "16,190.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,137.15",
+      "total_vat": "₹36,564.69",
+      "total_gross_worth": "₹239,701.84"
+    }
+  }
+}

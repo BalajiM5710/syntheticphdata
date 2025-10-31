@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TN-5177",
+      "invoice_date": "28/05/2025",
+      "seller": "CITY ELECTRONICS 18, Keer Nagar, Nagercoil 313966",
+      "client": "UTKARSH KOTHARI H.No. 53, Rajagopalan Zila, Mirzapur 624127",
+      "seller_tax_id": "09TENQM3547K1ZE",
+      "client_tax_id": "17DTVIB7719A1ZN",
+      "client_phone": "+913120140855"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-764T",
+        "item_qty": "2",
+        "item_net_price": "15,265.89",
+        "item_net_worth": "30,531.78",
+        "item_vat": "18%",
+        "item_gross_worth": "36,027.50"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-750T",
+        "item_qty": "1",
+        "item_net_price": "84,599.04",
+        "item_net_worth": "84,599.04",
+        "item_vat": "18%",
+        "item_gross_worth": "99,826.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹115,130.82",
+      "total_vat": "₹20,723.55",
+      "total_gross_worth": "₹135,854.37"
+    }
+  }
+}

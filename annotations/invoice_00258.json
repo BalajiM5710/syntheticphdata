@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SQ-8799",
+      "invoice_date": "15/08/2025",
+      "seller": "ELECTRONICS WORLD H.No. 89, Deshpande Ganj, Coimbatore 863483",
+      "client": "ZAID MALHOTRA H.No. 94, Dhingra Chowk, Bettiah 437714",
+      "seller_tax_id": "25QPXAA6495E1ZR",
+      "client_tax_id": "01RTSME4085X1ZG",
+      "client_phone": "08532555154"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-864F",
+        "item_qty": "1",
+        "item_net_price": "46,874.43",
+        "item_net_worth": "46,874.43",
+        "item_vat": "18%",
+        "item_gross_worth": "55,311.83"
+      },
+      {
+        "item_desc": "Samsung Television SAM-820W",
+        "item_qty": "2",
+        "item_net_price": "87,930.91",
+        "item_net_worth": "175,861.82",
+        "item_vat": "18%",
+        "item_gross_worth": "207,516.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹222,736.25",
+      "total_vat": "₹40,092.53",
+      "total_gross_worth": "₹262,828.78"
+    }
+  }
+}

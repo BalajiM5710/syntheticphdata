@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OQ-2714",
+      "invoice_date": "16/06/2025",
+      "seller": "CITY ELECTRONICS 78/86, Sami Circle, Gandhinagar 340531",
+      "client": "HARRISON CHAKRABARTI H.No. 997, Boase Circle, Jalandhar 020468",
+      "seller_tax_id": "17WYOJX1297F1ZS",
+      "client_tax_id": "36GJXPE8315C1ZE",
+      "client_phone": "+911968090125"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-582U",
+        "item_qty": "1",
+        "item_net_price": "95,748.21",
+        "item_net_worth": "95,748.21",
+        "item_vat": "18%",
+        "item_gross_worth": "112,982.89"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-285Z",
+        "item_qty": "1",
+        "item_net_price": "39,919.50",
+        "item_net_worth": "39,919.50",
+        "item_vat": "18%",
+        "item_gross_worth": "47,105.01"
+      },
+      {
+        "item_desc": "Apple Laptops APP-232L",
+        "item_qty": "1",
+        "item_net_price": "35,577.82",
+        "item_net_worth": "35,577.82",
+        "item_vat": "18%",
+        "item_gross_worth": "41,981.83"
+      },
+      {
+        "item_desc": "HP Laptops HP-592C",
+        "item_qty": "1",
+        "item_net_price": "140,540.48",
+        "item_net_worth": "140,540.48",
+        "item_vat": "18%",
+        "item_gross_worth": "165,837.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹311,786.01",
+      "total_vat": "₹56,121.48",
+      "total_gross_worth": "₹367,907.49"
+    }
+  }
+}

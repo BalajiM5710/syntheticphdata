@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UH-4551",
+      "invoice_date": "20/08/2025",
+      "seller": "SMART ELECTRONICS H.No. 375, Sagar Zila, Gudivada-004451",
+      "client": "JHALAK SOLANKI 96/018, Nair Path, Bilaspur-944828",
+      "seller_tax_id": "06UYQMJ9829J1ZA",
+      "client_tax_id": "19MJYQQ0154G1Z5",
+      "client_phone": "+919064300453"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-999O",
+        "item_qty": "2",
+        "item_net_price": "86,398.45",
+        "item_net_worth": "172,796.90",
+        "item_vat": "18%",
+        "item_gross_worth": "203,900.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,796.90",
+      "total_vat": "₹31,103.44",
+      "total_gross_worth": "₹203,900.34"
+    }
+  }
+}

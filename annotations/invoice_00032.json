@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XT-5572",
+      "invoice_date": "28/04/2025",
+      "seller": "PATEL MOBILES 88/89, Thakkar Road, Surendranagar Dudhrej 125105",
+      "client": "AMARA MAHAL 145, Jani Path, Morbi 274951",
+      "seller_tax_id": "12TWORT7000T1Z9",
+      "client_tax_id": "35DRGUT7787Z1Z9",
+      "client_phone": "3090879126"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-865Q",
+        "item_qty": "2",
+        "item_net_price": "87,871.37",
+        "item_net_worth": "175,742.74",
+        "item_vat": "18%",
+        "item_gross_worth": "207,376.43"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-770N",
+        "item_qty": "1",
+        "item_net_price": "80,665.89",
+        "item_net_worth": "80,665.89",
+        "item_vat": "18%",
+        "item_gross_worth": "95,185.75"
+      },
+      {
+        "item_desc": "Canon Camera CAN-812J",
+        "item_qty": "2",
+        "item_net_price": "47,431.42",
+        "item_net_worth": "94,862.84",
+        "item_vat": "18%",
+        "item_gross_worth": "111,938.15"
+      },
+      {
+        "item_desc": "LG Television LG-637V",
+        "item_qty": "2",
+        "item_net_price": "139,615.80",
+        "item_net_worth": "279,231.60",
+        "item_vat": "18%",
+        "item_gross_worth": "329,493.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹630,503.07",
+      "total_vat": "₹113,490.55",
+      "total_gross_worth": "₹743,993.62"
+    }
+  }
+}

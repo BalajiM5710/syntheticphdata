@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RU-2559",
+      "invoice_date": "18/09/2025",
+      "seller": "METRO TECH STORE 826, Divan Chowk, Dhule-608197",
+      "client": "VAISHNAVI CHANDER 85/33, Ahuja, Bathinda 734652",
+      "seller_tax_id": "02PMAIE6871P1ZV",
+      "client_tax_id": "08FFNVE0086Z1ZE",
+      "client_phone": "7683756089"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-427H",
+        "item_qty": "1",
+        "item_net_price": "48,588.79",
+        "item_net_worth": "48,588.79",
+        "item_vat": "18%",
+        "item_gross_worth": "57,334.77"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-985S",
+        "item_qty": "1",
+        "item_net_price": "66,193.28",
+        "item_net_worth": "66,193.28",
+        "item_vat": "18%",
+        "item_gross_worth": "78,108.07"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-804D",
+        "item_qty": "2",
+        "item_net_price": "61,629.62",
+        "item_net_worth": "123,259.24",
+        "item_vat": "18%",
+        "item_gross_worth": "145,445.90"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-397R",
+        "item_qty": "2",
+        "item_net_price": "55,320.38",
+        "item_net_worth": "110,640.76",
+        "item_vat": "18%",
+        "item_gross_worth": "130,556.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹348,682.07",
+      "total_vat": "₹62,762.77",
+      "total_gross_worth": "₹411,444.84"
+    }
+  }
+}

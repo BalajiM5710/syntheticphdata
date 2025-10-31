@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SJ-5602",
+      "invoice_date": "23/08/2025",
+      "seller": "PATEL MOBILES 68, Morar Circle, Vijayanagaram 323618",
+      "client": "HARDIK NAZARETH 246, Raja Marg, Tadepalligudem 696901",
+      "seller_tax_id": "18YWEAN0243U1ZG",
+      "client_tax_id": "25CGPVK3604C1ZB",
+      "client_phone": "+917201313359"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-380S",
+        "item_qty": "2",
+        "item_net_price": "120,787.59",
+        "item_net_worth": "241,575.18",
+        "item_vat": "18%",
+        "item_gross_worth": "285,058.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹241,575.18",
+      "total_vat": "₹43,483.53",
+      "total_gross_worth": "₹285,058.71"
+    }
+  }
+}

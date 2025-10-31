@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TD-6886",
+      "invoice_date": "01/03/2025",
+      "seller": "TECH BAZAAR H.No. 32, Ramanathan Zila, Hosur-775271",
+      "client": "NIHAL CHANDRA 13/074, Rattan, Karimnagar-199310",
+      "seller_tax_id": "08BRXYY6199P1Z9",
+      "client_tax_id": "37EAGYW7005I1ZC",
+      "client_phone": "+910874179718"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-480B",
+        "item_qty": "1",
+        "item_net_price": "71,645.01",
+        "item_net_worth": "71,645.01",
+        "item_vat": "18%",
+        "item_gross_worth": "84,541.11"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-170T",
+        "item_qty": "2",
+        "item_net_price": "30,616.28",
+        "item_net_worth": "61,232.56",
+        "item_vat": "18%",
+        "item_gross_worth": "72,254.42"
+      },
+      {
+        "item_desc": "LG Microwave LG-869J",
+        "item_qty": "2",
+        "item_net_price": "89,760.05",
+        "item_net_worth": "179,520.10",
+        "item_vat": "18%",
+        "item_gross_worth": "211,833.72"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-945K",
+        "item_qty": "1",
+        "item_net_price": "59,874.38",
+        "item_net_worth": "59,874.38",
+        "item_vat": "18%",
+        "item_gross_worth": "70,651.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹372,272.05",
+      "total_vat": "₹67,008.97",
+      "total_gross_worth": "₹439,281.02"
+    }
+  }
+}

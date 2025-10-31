@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PF-6992",
+      "invoice_date": "02/03/2025",
+      "seller": "ROYAL MOBILES 11, Shenoy Circle, Tumkur 218398",
+      "client": "DOMINIC MANDA 15, Acharya Street, Dindigul-117939",
+      "seller_tax_id": "01PCGVX0017R1ZK",
+      "client_tax_id": "03TOEJK9208W1ZL",
+      "client_phone": "01423430946"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-637K",
+        "item_qty": "1",
+        "item_net_price": "169,736.92",
+        "item_net_worth": "169,736.92",
+        "item_vat": "18%",
+        "item_gross_worth": "200,289.57"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-711Q",
+        "item_qty": "2",
+        "item_net_price": "57,800.92",
+        "item_net_worth": "115,601.84",
+        "item_vat": "18%",
+        "item_gross_worth": "136,410.17"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-417O",
+        "item_qty": "2",
+        "item_net_price": "68,038.35",
+        "item_net_worth": "136,076.70",
+        "item_vat": "18%",
+        "item_gross_worth": "160,570.51"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-441F",
+        "item_qty": "2",
+        "item_net_price": "170,839.09",
+        "item_net_worth": "341,678.18",
+        "item_vat": "18%",
+        "item_gross_worth": "403,180.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹763,093.64",
+      "total_vat": "₹137,356.86",
+      "total_gross_worth": "₹900,450.50"
+    }
+  }
+}

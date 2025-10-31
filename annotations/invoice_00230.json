@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YQ-1618",
+      "invoice_date": "07/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 38/03, Maharaj Path, Alappuzha-991718",
+      "client": "MAYA RATTA 352, Radhakrishnan Chowk, Bhilai-560749",
+      "seller_tax_id": "19FLEXV4673G1Z0",
+      "client_tax_id": "35NDLEV1111N1ZJ",
+      "client_phone": "04385292151"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-290R",
+        "item_qty": "1",
+        "item_net_price": "21,267.84",
+        "item_net_worth": "21,267.84",
+        "item_vat": "18%",
+        "item_gross_worth": "25,096.05"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-268J",
+        "item_qty": "1",
+        "item_net_price": "92,135.49",
+        "item_net_worth": "92,135.49",
+        "item_vat": "18%",
+        "item_gross_worth": "108,719.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹113,403.33",
+      "total_vat": "₹20,412.60",
+      "total_gross_worth": "₹133,815.93"
+    }
+  }
+}

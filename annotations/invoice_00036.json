@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FY-5815",
+      "invoice_date": "04/05/2025",
+      "seller": "CITY ELECTRONICS 45, Sundaram Street, Agartala-592450",
+      "client": "SIYA LALL 289, Krishnan Street, Nandyal 415380",
+      "seller_tax_id": "09PYQIV2492O1ZY",
+      "client_tax_id": "03IYNBW7667J1ZQ",
+      "client_phone": "5878699220"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-467M",
+        "item_qty": "1",
+        "item_net_price": "142,876.84",
+        "item_net_worth": "142,876.84",
+        "item_vat": "18%",
+        "item_gross_worth": "168,594.67"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-494E",
+        "item_qty": "1",
+        "item_net_price": "77,364.54",
+        "item_net_worth": "77,364.54",
+        "item_vat": "18%",
+        "item_gross_worth": "91,290.16"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-274J",
+        "item_qty": "1",
+        "item_net_price": "87,187.93",
+        "item_net_worth": "87,187.93",
+        "item_vat": "18%",
+        "item_gross_worth": "102,881.76"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹307,429.31",
+      "total_vat": "₹55,337.28",
+      "total_gross_worth": "₹362,766.59"
+    }
+  }
+}

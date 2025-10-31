@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CT-9799",
+      "invoice_date": "28/02/2025",
+      "seller": "METRO TECH STORE 51, Suresh, Haldia 336083",
+      "client": "RAAGINI PURI 685, Pai Chowk, Chandrapur 340240",
+      "seller_tax_id": "23TOXFY7664L1ZT",
+      "client_tax_id": "21PZYRB0001L1ZP",
+      "client_phone": "06411929964"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-111C",
+        "item_qty": "1",
+        "item_net_price": "81,839.49",
+        "item_net_worth": "81,839.49",
+        "item_vat": "18%",
+        "item_gross_worth": "96,570.60"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-329T",
+        "item_qty": "1",
+        "item_net_price": "105,649.11",
+        "item_net_worth": "105,649.11",
+        "item_vat": "18%",
+        "item_gross_worth": "124,665.95"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-366T",
+        "item_qty": "2",
+        "item_net_price": "43,728.27",
+        "item_net_worth": "87,456.54",
+        "item_vat": "18%",
+        "item_gross_worth": "103,198.72"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-611H",
+        "item_qty": "2",
+        "item_net_price": "47,515.21",
+        "item_net_worth": "95,030.42",
+        "item_vat": "18%",
+        "item_gross_worth": "112,135.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹369,975.56",
+      "total_vat": "₹66,595.60",
+      "total_gross_worth": "₹436,571.16"
+    }
+  }
+}

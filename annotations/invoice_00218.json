@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XL-2625",
+      "invoice_date": "04/03/2025",
+      "seller": "VISHWA ELECTRONICS 591, Kumer Circle, Jodhpur-094591",
+      "client": "TRIVENI CHATTERJEE 014, Kunda, Fatehpur 496643",
+      "seller_tax_id": "22XMDIV4829G1ZU",
+      "client_tax_id": "21OUNKI2076M1ZK",
+      "client_phone": "05057798943"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-820C",
+        "item_qty": "2",
+        "item_net_price": "29,009.92",
+        "item_net_worth": "58,019.84",
+        "item_vat": "18%",
+        "item_gross_worth": "68,463.41"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-949M",
+        "item_qty": "2",
+        "item_net_price": "54,003.48",
+        "item_net_worth": "108,006.96",
+        "item_vat": "18%",
+        "item_gross_worth": "127,448.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,026.80",
+      "total_vat": "₹29,884.82",
+      "total_gross_worth": "₹195,911.62"
+    }
+  }
+}

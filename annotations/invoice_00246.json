@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UC-6758",
+      "invoice_date": "14/09/2025",
+      "seller": "RAM ELECTRONICS 779, Subramaniam Ganj, Madanapalle 800141",
+      "client": "XITI BHAVSAR H.No. 907, Deo Marg, Akola-901865",
+      "seller_tax_id": "10HISMO7563A1Z5",
+      "client_tax_id": "33ZCETV5488C1Z0",
+      "client_phone": "+915602134718"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-107F",
+        "item_qty": "2",
+        "item_net_price": "17,726.89",
+        "item_net_worth": "35,453.78",
+        "item_vat": "18%",
+        "item_gross_worth": "41,835.46"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-633V IMEI: 450297777594883",
+        "item_qty": "1",
+        "item_net_price": "82,698.91",
+        "item_net_worth": "82,698.91",
+        "item_vat": "18%",
+        "item_gross_worth": "97,584.71"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-101X IMEI: 189358155506422",
+        "item_qty": "2",
+        "item_net_price": "12,186.09",
+        "item_net_worth": "24,372.18",
+        "item_vat": "18%",
+        "item_gross_worth": "28,759.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,524.87",
+      "total_vat": "₹25,654.48",
+      "total_gross_worth": "₹168,179.35"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FU-8336",
+      "invoice_date": "09/01/2025",
+      "seller": "SINGH ELECTRONICS 25/433, Raghavan Ganj, Raichur-673342",
+      "client": "NICHOLAS ISSAC 305, Kara Marg, Bharatpur 679552",
+      "seller_tax_id": "27DVPBQ2430N1ZU",
+      "client_tax_id": "18QVTLF8234L1ZU",
+      "client_phone": "02236394475"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-800D",
+        "item_qty": "2",
+        "item_net_price": "71,650.27",
+        "item_net_worth": "143,300.54",
+        "item_vat": "18%",
+        "item_gross_worth": "169,094.64"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-603D",
+        "item_qty": "2",
+        "item_net_price": "85,660.73",
+        "item_net_worth": "171,321.46",
+        "item_vat": "18%",
+        "item_gross_worth": "202,159.32"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-457J",
+        "item_qty": "1",
+        "item_net_price": "86,721.33",
+        "item_net_worth": "86,721.33",
+        "item_vat": "18%",
+        "item_gross_worth": "102,331.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹401,343.33",
+      "total_vat": "₹72,241.80",
+      "total_gross_worth": "₹473,585.13"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FR-6084",
+      "invoice_date": "19/04/2025",
+      "seller": "KUMAR TECH SOLUTIONS 86/22, Sane Chowk, Rampur-369843",
+      "client": "EKARAJ GUHA H.No. 23, Sachdeva Zila, Mango-872475",
+      "seller_tax_id": "27VEJGB4681M1ZB",
+      "client_tax_id": "16MTDEV1974E1Z9",
+      "client_phone": "04538649311"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-879T",
+        "item_qty": "2",
+        "item_net_price": "88,871.69",
+        "item_net_worth": "177,743.38",
+        "item_vat": "18%",
+        "item_gross_worth": "209,737.19"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-786A",
+        "item_qty": "2",
+        "item_net_price": "91,894.76",
+        "item_net_worth": "183,789.52",
+        "item_vat": "18%",
+        "item_gross_worth": "216,871.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹361,532.90",
+      "total_vat": "₹65,075.92",
+      "total_gross_worth": "₹426,608.82"
+    }
+  }
+}

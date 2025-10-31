@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KF-9182",
+      "invoice_date": "18/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 37/28, Swaminathan Path, Guntakal-203801",
+      "client": "ABDUL PANDYA 37/115, Goswami Path, Sangli-Miraj & Kupwad 369034",
+      "seller_tax_id": "17HDKOH5253I1ZN",
+      "client_tax_id": "14ZTWXC1521E1Z9",
+      "client_phone": "2031233313"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-719C",
+        "item_qty": "1",
+        "item_net_price": "27,101.37",
+        "item_net_worth": "27,101.37",
+        "item_vat": "18%",
+        "item_gross_worth": "31,979.62"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-380H",
+        "item_qty": "1",
+        "item_net_price": "98,057.44",
+        "item_net_worth": "98,057.44",
+        "item_vat": "18%",
+        "item_gross_worth": "115,707.78"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-577G",
+        "item_qty": "1",
+        "item_net_price": "79,670.60",
+        "item_net_worth": "79,670.60",
+        "item_vat": "18%",
+        "item_gross_worth": "94,011.31"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-650C",
+        "item_qty": "1",
+        "item_net_price": "49,929.76",
+        "item_net_worth": "49,929.76",
+        "item_vat": "18%",
+        "item_gross_worth": "58,917.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,759.17",
+      "total_vat": "₹45,856.65",
+      "total_gross_worth": "₹300,615.82"
+    }
+  }
+}

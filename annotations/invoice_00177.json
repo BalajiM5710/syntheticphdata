@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GY-5791",
+      "invoice_date": "06/08/2025",
+      "seller": "RAM ELECTRONICS 912, Mody Chowk, Howrah-370891",
+      "client": "IJAYA SETHI 12/19, Dalal Nagar, Chennai 292678",
+      "seller_tax_id": "27RQBYW5621H1ZL",
+      "client_tax_id": "26VMOHS7468A1ZU",
+      "client_phone": "+913996820186"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-121C",
+        "item_qty": "1",
+        "item_net_price": "14,947.11",
+        "item_net_worth": "14,947.11",
+        "item_vat": "18%",
+        "item_gross_worth": "17,637.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹14,947.11",
+      "total_vat": "₹2,690.48",
+      "total_gross_worth": "₹17,637.59"
+    }
+  }
+}

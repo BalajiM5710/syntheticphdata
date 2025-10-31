@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SV-2677",
+      "invoice_date": "02/05/2025",
+      "seller": "SINGH ELECTRONICS H.No. 928, Mishra Nagar, Purnia-794552",
+      "client": "LEENA KUMAR H.No. 531, Mital Road, Tiruchirappalli 360893",
+      "seller_tax_id": "06QMJPN9746C1Z3",
+      "client_tax_id": "37OIWYG3767K1Z3",
+      "client_phone": "9010028044"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-543Z",
+        "item_qty": "2",
+        "item_net_price": "30,187.13",
+        "item_net_worth": "60,374.26",
+        "item_vat": "18%",
+        "item_gross_worth": "71,241.63"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-307U",
+        "item_qty": "1",
+        "item_net_price": "162,504.07",
+        "item_net_worth": "162,504.07",
+        "item_vat": "18%",
+        "item_gross_worth": "191,754.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹222,878.33",
+      "total_vat": "₹40,118.10",
+      "total_gross_worth": "₹262,996.43"
+    }
+  }
+}

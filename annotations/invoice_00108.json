@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UW-1838",
+      "invoice_date": "16/09/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 91, Bandi Path, Ujjain-170419",
+      "client": "DAKSH SARIN 722, Shankar Circle, Mangalore-544766",
+      "seller_tax_id": "11MVTPX1782V1ZU",
+      "client_tax_id": "37QQMKR8440A1Z3",
+      "client_phone": "2104639581"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-770Q",
+        "item_qty": "1",
+        "item_net_price": "47,480.31",
+        "item_net_worth": "47,480.31",
+        "item_vat": "18%",
+        "item_gross_worth": "56,026.77"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-463G",
+        "item_qty": "1",
+        "item_net_price": "45,187.66",
+        "item_net_worth": "45,187.66",
+        "item_vat": "18%",
+        "item_gross_worth": "53,321.44"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-247V",
+        "item_qty": "2",
+        "item_net_price": "48,888.78",
+        "item_net_worth": "97,777.56",
+        "item_vat": "18%",
+        "item_gross_worth": "115,377.52"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-746M IMEI: 576002565054291",
+        "item_qty": "2",
+        "item_net_price": "66,448.98",
+        "item_net_worth": "132,897.96",
+        "item_vat": "18%",
+        "item_gross_worth": "156,819.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹323,343.49",
+      "total_vat": "₹58,201.83",
+      "total_gross_worth": "₹381,545.32"
+    }
+  }
+}

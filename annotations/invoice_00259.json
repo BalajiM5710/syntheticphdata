@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SL-6805",
+      "invoice_date": "29/05/2025",
+      "seller": "SINGH ELECTRONICS H.No. 21, Gole Ganj, Kurnool 879669",
+      "client": "MUGDHA CHOKSHI 11/893, Rege Zila, Unnao-847319",
+      "seller_tax_id": "30DFBWG6134E1ZW",
+      "client_tax_id": "22LPWYT1495D1Z1",
+      "client_phone": "2682355868"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-600A",
+        "item_qty": "1",
+        "item_net_price": "195,507.85",
+        "item_net_worth": "195,507.85",
+        "item_vat": "18%",
+        "item_gross_worth": "230,699.26"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-952U",
+        "item_qty": "2",
+        "item_net_price": "94,463.29",
+        "item_net_worth": "188,926.58",
+        "item_vat": "18%",
+        "item_gross_worth": "222,933.36"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-972Y",
+        "item_qty": "2",
+        "item_net_price": "86,571.39",
+        "item_net_worth": "173,142.78",
+        "item_vat": "18%",
+        "item_gross_worth": "204,308.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹557,577.21",
+      "total_vat": "₹100,363.90",
+      "total_gross_worth": "₹657,941.11"
+    }
+  }
+}

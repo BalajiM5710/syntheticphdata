@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XY-7664",
+      "invoice_date": "02/06/2025",
+      "seller": "FUTURE TECH H.No. 25, Misra Road, Medininagar 328403",
+      "client": "NANDINI MAMMEN H.No. 87, Narain Marg, Gudivada-610767",
+      "seller_tax_id": "10WBSFW7863N1ZT",
+      "client_tax_id": "10YZIGX2747Z1ZV",
+      "client_phone": "3490657664"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-145S",
+        "item_qty": "1",
+        "item_net_price": "69,095.94",
+        "item_net_worth": "69,095.94",
+        "item_vat": "18%",
+        "item_gross_worth": "81,533.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹69,095.94",
+      "total_vat": "₹12,437.27",
+      "total_gross_worth": "₹81,533.21"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HS-9738",
+      "invoice_date": "28/10/2025",
+      "seller": "RAM ELECTRONICS H.No. 007, Warrior Street, Dindigul-647781",
+      "client": "NAVEEN BHATTI 38/95, Sachar Circle, Sambalpur-148841",
+      "seller_tax_id": "10TRESN0159N1ZT",
+      "client_tax_id": "32GCUDJ1232J1ZB",
+      "client_phone": "06309314482"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-198Z",
+        "item_qty": "1",
+        "item_net_price": "90,034.81",
+        "item_net_worth": "90,034.81",
+        "item_vat": "18%",
+        "item_gross_worth": "106,241.08"
+      },
+      {
+        "item_desc": "Apple Laptops APP-253Y",
+        "item_qty": "1",
+        "item_net_price": "80,472.23",
+        "item_net_worth": "80,472.23",
+        "item_vat": "18%",
+        "item_gross_worth": "94,957.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹170,507.04",
+      "total_vat": "₹30,691.27",
+      "total_gross_worth": "₹201,198.31"
+    }
+  }
+}

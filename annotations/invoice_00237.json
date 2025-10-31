@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GN-7644",
+      "invoice_date": "17/10/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 55, Raval Street, Farrukhabad 476178",
+      "client": "SHRAVYA ACHARYA 133, Barad, Nellore-753326",
+      "seller_tax_id": "06AMOTR7288W1Z9",
+      "client_tax_id": "23BREEC7399A1ZH",
+      "client_phone": "3458495225"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-259T",
+        "item_qty": "1",
+        "item_net_price": "65,159.57",
+        "item_net_worth": "65,159.57",
+        "item_vat": "18%",
+        "item_gross_worth": "76,888.29"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-191Y",
+        "item_qty": "2",
+        "item_net_price": "147,094.88",
+        "item_net_worth": "294,189.76",
+        "item_vat": "18%",
+        "item_gross_worth": "347,143.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹359,349.33",
+      "total_vat": "₹64,682.88",
+      "total_gross_worth": "₹424,032.21"
+    }
+  }
+}

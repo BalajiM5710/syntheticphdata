@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WT-4758",
+      "invoice_date": "14/04/2025",
+      "seller": "GADGET GALAXY 662, Kapoor Circle, Khammam-035094",
+      "client": "DEV PANDYA 96, Bajaj Nagar, Madurai-202697",
+      "seller_tax_id": "02CBGAB1194Z1ZW",
+      "client_tax_id": "17FZJEI8403G1Z3",
+      "client_phone": "8471340899"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-252P",
+        "item_qty": "1",
+        "item_net_price": "69,916.12",
+        "item_net_worth": "69,916.12",
+        "item_vat": "18%",
+        "item_gross_worth": "82,501.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹69,916.12",
+      "total_vat": "₹12,584.90",
+      "total_gross_worth": "₹82,501.02"
+    }
+  }
+}

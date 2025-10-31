@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BI-6927",
+      "invoice_date": "06/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 927, Goswami Ganj, Orai-053827",
+      "client": "CHANDANI KUMAR H.No. 712, Jayaraman Chowk, Singrauli 993376",
+      "seller_tax_id": "15UWSLJ8891C1ZG",
+      "client_tax_id": "12KUCIY0326B1ZM",
+      "client_phone": "02976770752"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-558Q",
+        "item_qty": "1",
+        "item_net_price": "51,829.70",
+        "item_net_worth": "51,829.70",
+        "item_vat": "18%",
+        "item_gross_worth": "61,159.05"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-662P",
+        "item_qty": "1",
+        "item_net_price": "189,486.25",
+        "item_net_worth": "189,486.25",
+        "item_vat": "18%",
+        "item_gross_worth": "223,593.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹241,315.95",
+      "total_vat": "₹43,436.87",
+      "total_gross_worth": "₹284,752.82"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RF-2759",
+      "invoice_date": "26/01/2025",
+      "seller": "SMART ELECTRONICS 26/67, Sharma Circle, Ramgarh 072090",
+      "client": "MAYA MANE 02/49, Cherian, Bhopal 962643",
+      "seller_tax_id": "32CNDCW7777T1ZE",
+      "client_tax_id": "25FLPAQ7082C1ZT",
+      "client_phone": "04862390943"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-173F",
+        "item_qty": "1",
+        "item_net_price": "42,241.35",
+        "item_net_worth": "42,241.35",
+        "item_vat": "18%",
+        "item_gross_worth": "49,844.79"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-173I",
+        "item_qty": "1",
+        "item_net_price": "65,522.39",
+        "item_net_worth": "65,522.39",
+        "item_vat": "18%",
+        "item_gross_worth": "77,316.42"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-702T",
+        "item_qty": "1",
+        "item_net_price": "54,741.12",
+        "item_net_worth": "54,741.12",
+        "item_vat": "18%",
+        "item_gross_worth": "64,594.52"
+      },
+      {
+        "item_desc": "Sony Camera SON-542W",
+        "item_qty": "2",
+        "item_net_price": "67,675.91",
+        "item_net_worth": "135,351.82",
+        "item_vat": "18%",
+        "item_gross_worth": "159,715.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹297,856.68",
+      "total_vat": "₹53,614.20",
+      "total_gross_worth": "₹351,470.88"
+    }
+  }
+}

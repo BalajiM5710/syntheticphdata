@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MC-1816",
+      "invoice_date": "17/07/2025",
+      "seller": "VISHWA ELECTRONICS 83/959, Garde Chowk, Kolkata-038569",
+      "client": "MAX PATHAK 51/08, Pandit Street, Jalgaon 211277",
+      "seller_tax_id": "20UGZAK8757C1Z7",
+      "client_tax_id": "22BHTBV7624Q1ZL",
+      "client_phone": "04303981196"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-560K",
+        "item_qty": "2",
+        "item_net_price": "137,779.84",
+        "item_net_worth": "275,559.68",
+        "item_vat": "18%",
+        "item_gross_worth": "325,160.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹275,559.68",
+      "total_vat": "₹49,600.74",
+      "total_gross_worth": "₹325,160.42"
+    }
+  }
+}

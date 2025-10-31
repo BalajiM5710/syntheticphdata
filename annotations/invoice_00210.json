@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SV-5936",
+      "invoice_date": "26/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS 515, Bhakta Road, Pali-864445",
+      "client": "RIYA KURIAN 96/926, Raval Zila, Chennai 083892",
+      "seller_tax_id": "12SBSMF6998U1ZX",
+      "client_tax_id": "35HPZJF5051L1ZW",
+      "client_phone": "4286687282"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-146W",
+        "item_qty": "2",
+        "item_net_price": "9,658.82",
+        "item_net_worth": "19,317.64",
+        "item_vat": "18%",
+        "item_gross_worth": "22,794.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹19,317.64",
+      "total_vat": "₹3,477.18",
+      "total_gross_worth": "₹22,794.82"
+    }
+  }
+}

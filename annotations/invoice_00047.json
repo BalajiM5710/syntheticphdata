@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YY-7114",
+      "invoice_date": "31/08/2025",
+      "seller": "SINGH ELECTRONICS 777, Kohli Zila, Ghaziabad-061106",
+      "client": "VRINDA OAK H.No. 173, Choudhry Zila, Parbhani 420207",
+      "seller_tax_id": "04JFGJE3898F1Z4",
+      "client_tax_id": "07NCKIB3481C1Z5",
+      "client_phone": "+916380045807"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-127L",
+        "item_qty": "2",
+        "item_net_price": "52,735.42",
+        "item_net_worth": "105,470.84",
+        "item_vat": "18%",
+        "item_gross_worth": "124,455.59"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-574T",
+        "item_qty": "2",
+        "item_net_price": "30,442.88",
+        "item_net_worth": "60,885.76",
+        "item_vat": "18%",
+        "item_gross_worth": "71,845.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,356.60",
+      "total_vat": "₹29,944.19",
+      "total_gross_worth": "₹196,300.79"
+    }
+  }
+}

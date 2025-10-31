@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IY-9241",
+      "invoice_date": "19/09/2025",
+      "seller": "GADGET GALAXY H.No. 26, Shroff Road, Adoni-455866",
+      "client": "RYAN TALWAR 56, Sethi Nagar, Mathura 397357",
+      "seller_tax_id": "35LLFCX2506L1ZX",
+      "client_tax_id": "07QNUHK0388Y1Z3",
+      "client_phone": "09515406420"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-233F",
+        "item_qty": "1",
+        "item_net_price": "42,712.44",
+        "item_net_worth": "42,712.44",
+        "item_vat": "18%",
+        "item_gross_worth": "50,400.68"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-439Q",
+        "item_qty": "1",
+        "item_net_price": "56,958.17",
+        "item_net_worth": "56,958.17",
+        "item_vat": "18%",
+        "item_gross_worth": "67,210.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹99,670.61",
+      "total_vat": "₹17,940.71",
+      "total_gross_worth": "₹117,611.32"
+    }
+  }
+}

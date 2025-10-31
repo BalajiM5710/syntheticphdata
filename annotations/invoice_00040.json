@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FO-2815",
+      "invoice_date": "31/03/2025",
+      "seller": "DIGITAL STORE 896, Brahmbhatt Path, Ramagundam 651986",
+      "client": "CHAVVI OZA 73, Brahmbhatt Road, Ichalkaranji 291371",
+      "seller_tax_id": "37XIGTS9646Z1Z4",
+      "client_tax_id": "19RRSHS1230Z1Z1",
+      "client_phone": "5168563088"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-691T IMEI: 191774207369732",
+        "item_qty": "1",
+        "item_net_price": "87,972.29",
+        "item_net_worth": "87,972.29",
+        "item_vat": "18%",
+        "item_gross_worth": "103,807.30"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-743U",
+        "item_qty": "1",
+        "item_net_price": "93,232.14",
+        "item_net_worth": "93,232.14",
+        "item_vat": "18%",
+        "item_gross_worth": "110,013.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹181,204.43",
+      "total_vat": "₹32,616.80",
+      "total_gross_worth": "₹213,821.23"
+    }
+  }
+}

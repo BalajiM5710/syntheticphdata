@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TR-4302",
+      "invoice_date": "13/04/2025",
+      "seller": "TECH BAZAAR H.No. 982, Sem Zila, Kulti-041115",
+      "client": "NISHA SANDAL 85/087, Mukhopadhyay Circle, Hindupur-252871",
+      "seller_tax_id": "09ONSNW2064X1ZG",
+      "client_tax_id": "27HUVHD7470P1ZX",
+      "client_phone": "+919969997431"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-975L",
+        "item_qty": "2",
+        "item_net_price": "198,829.88",
+        "item_net_worth": "397,659.76",
+        "item_vat": "18%",
+        "item_gross_worth": "469,238.52"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-587N",
+        "item_qty": "1",
+        "item_net_price": "147,882.16",
+        "item_net_worth": "147,882.16",
+        "item_vat": "18%",
+        "item_gross_worth": "174,500.95"
+      },
+      {
+        "item_desc": "Sony Speaker SON-156B",
+        "item_qty": "2",
+        "item_net_price": "94,287.87",
+        "item_net_worth": "188,575.74",
+        "item_vat": "18%",
+        "item_gross_worth": "222,519.37"
+      },
+      {
+        "item_desc": "LG Microwave LG-542I",
+        "item_qty": "1",
+        "item_net_price": "76,286.99",
+        "item_net_worth": "76,286.99",
+        "item_vat": "18%",
+        "item_gross_worth": "90,018.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹810,404.65",
+      "total_vat": "₹145,872.84",
+      "total_gross_worth": "₹956,277.49"
+    }
+  }
+}

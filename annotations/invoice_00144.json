@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EX-8164",
+      "invoice_date": "20/07/2025",
+      "seller": "CITY ELECTRONICS 25, Magar, Rourkela 941543",
+      "client": "ANDREW BHATTACHARYYA 75/880, Majumdar Zila, Jalna 298685",
+      "seller_tax_id": "37WMGUG5716F1Z7",
+      "client_tax_id": "07SIVXA8189Q1ZV",
+      "client_phone": "+919306875635"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-771B",
+        "item_qty": "2",
+        "item_net_price": "72,634.28",
+        "item_net_worth": "145,268.56",
+        "item_vat": "18%",
+        "item_gross_worth": "171,416.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹145,268.56",
+      "total_vat": "₹26,148.34",
+      "total_gross_worth": "₹171,416.90"
+    }
+  }
+}

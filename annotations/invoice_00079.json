@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DR-2842",
+      "invoice_date": "18/10/2025",
+      "seller": "METRO TECH STORE H.No. 09, Gupta, Avadi 326244",
+      "client": "POOJA KALLA 65, Rattan Path, Tumkur-519033",
+      "seller_tax_id": "16ISCRJ3884O1Z5",
+      "client_tax_id": "30JPHYG0171Q1ZH",
+      "client_phone": "01316450145"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-402O",
+        "item_qty": "1",
+        "item_net_price": "53,538.88",
+        "item_net_worth": "53,538.88",
+        "item_vat": "18%",
+        "item_gross_worth": "63,175.88"
+      },
+      {
+        "item_desc": "Sony Television SON-944P",
+        "item_qty": "1",
+        "item_net_price": "111,003.63",
+        "item_net_worth": "111,003.63",
+        "item_vat": "18%",
+        "item_gross_worth": "130,984.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹164,542.51",
+      "total_vat": "₹29,617.65",
+      "total_gross_worth": "₹194,160.16"
+    }
+  }
+}

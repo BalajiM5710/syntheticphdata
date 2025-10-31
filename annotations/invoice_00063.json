@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ML-1221",
+      "invoice_date": "08/08/2025",
+      "seller": "FUTURE TECH 35/987, Handa Nagar, Indore 492512",
+      "client": "BIMALA BATRA 04, Barman Circle, Udupi-431661",
+      "seller_tax_id": "15NBKIG1054K1ZD",
+      "client_tax_id": "14AFMFN1046H1Z3",
+      "client_phone": "+911159718646"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-405E",
+        "item_qty": "2",
+        "item_net_price": "62,962.03",
+        "item_net_worth": "125,924.06",
+        "item_vat": "18%",
+        "item_gross_worth": "148,590.39"
+      },
+      {
+        "item_desc": "Mi Television MI-206W",
+        "item_qty": "1",
+        "item_net_price": "107,302.70",
+        "item_net_worth": "107,302.70",
+        "item_vat": "18%",
+        "item_gross_worth": "126,617.19"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-495E",
+        "item_qty": "2",
+        "item_net_price": "12,719.67",
+        "item_net_worth": "25,439.34",
+        "item_vat": "18%",
+        "item_gross_worth": "30,018.42"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-775R",
+        "item_qty": "1",
+        "item_net_price": "55,319.43",
+        "item_net_worth": "55,319.43",
+        "item_vat": "18%",
+        "item_gross_worth": "65,276.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹313,985.53",
+      "total_vat": "₹56,517.40",
+      "total_gross_worth": "₹370,502.93"
+    }
+  }
+}

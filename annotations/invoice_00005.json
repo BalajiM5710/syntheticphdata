@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZH-8486",
+      "invoice_date": "30/06/2025",
+      "seller": "SUPREME ELECTRONICS 15, Wason Marg, Bhiwani-802860",
+      "client": "NIKITA SWAMINATHAN 11, Nath Chowk, Shimla-547961",
+      "seller_tax_id": "24OHWXL3926U1ZU",
+      "client_tax_id": "24MPBBY4106S1Z9",
+      "client_phone": "1463490541"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-294X",
+        "item_qty": "1",
+        "item_net_price": "50,058.71",
+        "item_net_worth": "50,058.71",
+        "item_vat": "18%",
+        "item_gross_worth": "59,069.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹50,058.71",
+      "total_vat": "₹9,010.57",
+      "total_gross_worth": "₹59,069.28"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PN-8569",
+      "invoice_date": "31/01/2025",
+      "seller": "SINGH ELECTRONICS 86/65, Gour Path, Sonipat-860972",
+      "client": "GIRIK KHARE 90, Soman Nagar, Vellore-347434",
+      "seller_tax_id": "33MVRFC7679Y1ZS",
+      "client_tax_id": "16QYVUH7983D1ZP",
+      "client_phone": "3924872879"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-338V",
+        "item_qty": "1",
+        "item_net_price": "147,869.94",
+        "item_net_worth": "147,869.94",
+        "item_vat": "18%",
+        "item_gross_worth": "174,486.53"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-605O",
+        "item_qty": "1",
+        "item_net_price": "30,097.52",
+        "item_net_worth": "30,097.52",
+        "item_vat": "18%",
+        "item_gross_worth": "35,515.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹177,967.46",
+      "total_vat": "₹32,034.14",
+      "total_gross_worth": "₹210,001.60"
+    }
+  }
+}

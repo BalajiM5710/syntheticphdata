@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TL-4498",
+      "invoice_date": "13/09/2025",
+      "seller": "KUMAR TECH SOLUTIONS 173, Mangal Road, North Dumdum 460824",
+      "client": "EKARAJ KRISHNAMURTHY H.No. 79, Brahmbhatt Nagar, Kamarhati-180229",
+      "seller_tax_id": "26XCSTV9700C1Z7",
+      "client_tax_id": "36MLHHV9792G1Z8",
+      "client_phone": "+919357222669"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-642X IMEI: 501246135082817",
+        "item_qty": "1",
+        "item_net_price": "45,470.79",
+        "item_net_worth": "45,470.79",
+        "item_vat": "18%",
+        "item_gross_worth": "53,655.53"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-330S",
+        "item_qty": "1",
+        "item_net_price": "47,844.78",
+        "item_net_worth": "47,844.78",
+        "item_vat": "18%",
+        "item_gross_worth": "56,456.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹93,315.57",
+      "total_vat": "₹16,796.80",
+      "total_gross_worth": "₹110,112.37"
+    }
+  }
+}

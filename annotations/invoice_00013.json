@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NX-5531",
+      "invoice_date": "06/01/2025",
+      "seller": "RAM ELECTRONICS 63/45, Sundaram Circle, Bijapur-890193",
+      "client": "DEV DUA 87/487, Mann Nagar, Pimpri-Chinchwad 632498",
+      "seller_tax_id": "37CLAIY1599M1ZE",
+      "client_tax_id": "23GWZKL0932F1ZV",
+      "client_phone": "02415492596"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-384C IMEI: 771516436378309",
+        "item_qty": "2",
+        "item_net_price": "71,853.35",
+        "item_net_worth": "143,706.70",
+        "item_vat": "18%",
+        "item_gross_worth": "169,573.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,706.70",
+      "total_vat": "₹25,867.21",
+      "total_gross_worth": "₹169,573.91"
+    }
+  }
+}

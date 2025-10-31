@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RG-7884",
+      "invoice_date": "01/06/2025",
+      "seller": "ROYAL MOBILES 735, Swaminathan Ganj, Akola-819098",
+      "client": "EKAVIR BABU 27/544, Mand Road, Ghaziabad-257409",
+      "seller_tax_id": "33TANHF7655J1ZS",
+      "client_tax_id": "20AUXVY4693L1ZD",
+      "client_phone": "6823190382"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-766A",
+        "item_qty": "2",
+        "item_net_price": "26,995.64",
+        "item_net_worth": "53,991.28",
+        "item_vat": "18%",
+        "item_gross_worth": "63,709.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹53,991.28",
+      "total_vat": "₹9,718.43",
+      "total_gross_worth": "₹63,709.71"
+    }
+  }
+}

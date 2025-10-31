@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CB-3901",
+      "invoice_date": "31/05/2025",
+      "seller": "SUPREME ELECTRONICS 138, Patla Marg, Khandwa-103857",
+      "client": "WARINDER CHHABRA H.No. 89, Loyal, Nagpur-795286",
+      "seller_tax_id": "12PHROT2985U1ZC",
+      "client_tax_id": "17MRVQO9279Z1ZP",
+      "client_phone": "08402828829"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-107U",
+        "item_qty": "1",
+        "item_net_price": "94,699.04",
+        "item_net_worth": "94,699.04",
+        "item_vat": "18%",
+        "item_gross_worth": "111,744.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹94,699.04",
+      "total_vat": "₹17,045.83",
+      "total_gross_worth": "₹111,744.87"
+    }
+  }
+}

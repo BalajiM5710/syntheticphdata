@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RU-8706",
+      "invoice_date": "25/02/2025",
+      "seller": "SINGH ELECTRONICS H.No. 924, Lala Road, Mira-Bhayandar 795738",
+      "client": "RAKSHA SHANKAR H.No. 52, Vohra Circle, Surendranagar Dudhrej 754664",
+      "seller_tax_id": "18PNWQO7384K1Z5",
+      "client_tax_id": "21HZWUK7356Z1Z4",
+      "client_phone": "02606775760"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-961O",
+        "item_qty": "2",
+        "item_net_price": "75,137.98",
+        "item_net_worth": "150,275.96",
+        "item_vat": "18%",
+        "item_gross_worth": "177,325.63"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-666Q",
+        "item_qty": "2",
+        "item_net_price": "80,923.26",
+        "item_net_worth": "161,846.52",
+        "item_vat": "18%",
+        "item_gross_worth": "190,978.89"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-215D",
+        "item_qty": "1",
+        "item_net_price": "41,746.66",
+        "item_net_worth": "41,746.66",
+        "item_vat": "18%",
+        "item_gross_worth": "49,261.06"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-478Q",
+        "item_qty": "1",
+        "item_net_price": "62,600.71",
+        "item_net_worth": "62,600.71",
+        "item_vat": "18%",
+        "item_gross_worth": "73,868.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹416,469.85",
+      "total_vat": "₹74,964.57",
+      "total_gross_worth": "₹491,434.42"
+    }
+  }
+}

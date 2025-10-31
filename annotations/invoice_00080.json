@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CA-1459",
+      "invoice_date": "16/04/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 281, Manda Path, Danapur 416293",
+      "client": "RAJESHRI SHROFF 00, Rai Marg, Kota 399332",
+      "seller_tax_id": "05FMFPS7426G1Z4",
+      "client_tax_id": "29JFBSQ1078B1ZS",
+      "client_phone": "07976880178"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-733Y",
+        "item_qty": "1",
+        "item_net_price": "64,108.63",
+        "item_net_worth": "64,108.63",
+        "item_vat": "18%",
+        "item_gross_worth": "75,648.18"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-132F",
+        "item_qty": "2",
+        "item_net_price": "13,030.30",
+        "item_net_worth": "26,060.60",
+        "item_vat": "18%",
+        "item_gross_worth": "30,751.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹90,169.23",
+      "total_vat": "₹16,230.46",
+      "total_gross_worth": "₹106,399.69"
+    }
+  }
+}

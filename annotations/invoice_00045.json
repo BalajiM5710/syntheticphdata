@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZB-7538",
+      "invoice_date": "22/04/2025",
+      "seller": "ELECTRONICS WORLD H.No. 719, Issac Street, Chandrapur 067534",
+      "client": "BANJEET DUA H.No. 02, Goswami Street, Hosur 875238",
+      "seller_tax_id": "20FCGRT8447E1Z1",
+      "client_tax_id": "23WEFQT8363R1Z6",
+      "client_phone": "1210915353"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-458O",
+        "item_qty": "2",
+        "item_net_price": "50,246.63",
+        "item_net_worth": "100,493.26",
+        "item_vat": "18%",
+        "item_gross_worth": "118,582.05"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-905I",
+        "item_qty": "1",
+        "item_net_price": "82,515.64",
+        "item_net_worth": "82,515.64",
+        "item_vat": "18%",
+        "item_gross_worth": "97,368.46"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-926C",
+        "item_qty": "1",
+        "item_net_price": "28,933.44",
+        "item_net_worth": "28,933.44",
+        "item_vat": "18%",
+        "item_gross_worth": "34,141.46"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-923G",
+        "item_qty": "2",
+        "item_net_price": "58,664.02",
+        "item_net_worth": "117,328.04",
+        "item_vat": "18%",
+        "item_gross_worth": "138,447.09"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹329,270.38",
+      "total_vat": "₹59,268.67",
+      "total_gross_worth": "₹388,539.05"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PH-3376",
+      "invoice_date": "28/04/2025",
+      "seller": "SINGH ELECTRONICS H.No. 600, Krishnan Path, Hapur-813888",
+      "client": "BALHAAR MURTHY 719, Gill Path, Saharanpur-600888",
+      "seller_tax_id": "33MJQBG1453B1ZG",
+      "client_tax_id": "21BGPUH4678J1Z2",
+      "client_phone": "5325229321"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-299O",
+        "item_qty": "2",
+        "item_net_price": "66,131.11",
+        "item_net_worth": "132,262.22",
+        "item_vat": "18%",
+        "item_gross_worth": "156,069.42"
+      },
+      {
+        "item_desc": "Apple Laptops APP-785O",
+        "item_qty": "1",
+        "item_net_price": "73,268.20",
+        "item_net_worth": "73,268.20",
+        "item_vat": "18%",
+        "item_gross_worth": "86,456.48"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-827C",
+        "item_qty": "2",
+        "item_net_price": "94,934.58",
+        "item_net_worth": "189,869.16",
+        "item_vat": "18%",
+        "item_gross_worth": "224,045.61"
+      },
+      {
+        "item_desc": "HP Laptops HP-111P",
+        "item_qty": "2",
+        "item_net_price": "123,464.88",
+        "item_net_worth": "246,929.76",
+        "item_vat": "18%",
+        "item_gross_worth": "291,377.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹642,329.34",
+      "total_vat": "₹115,619.28",
+      "total_gross_worth": "₹757,948.62"
+    }
+  }
+}

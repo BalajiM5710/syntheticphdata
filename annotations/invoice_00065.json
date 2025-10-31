@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FW-2025",
+      "invoice_date": "28/02/2025",
+      "seller": "SUPREME ELECTRONICS 69/285, Wagle Marg, Tezpur-617290",
+      "client": "WARDA CHANDA 422, Balasubramanian Ganj, Sagar-266388",
+      "seller_tax_id": "05HFYAZ8939L1ZW",
+      "client_tax_id": "37JVSQU1788B1ZN",
+      "client_phone": "9284199013"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-876Q",
+        "item_qty": "2",
+        "item_net_price": "12,638.51",
+        "item_net_worth": "25,277.02",
+        "item_vat": "18%",
+        "item_gross_worth": "29,826.88"
+      },
+      {
+        "item_desc": "LG Television LG-988E",
+        "item_qty": "1",
+        "item_net_price": "62,232.72",
+        "item_net_worth": "62,232.72",
+        "item_vat": "18%",
+        "item_gross_worth": "73,434.61"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-850Y",
+        "item_qty": "1",
+        "item_net_price": "56,098.84",
+        "item_net_worth": "56,098.84",
+        "item_vat": "18%",
+        "item_gross_worth": "66,196.63"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-951Z IMEI: 293034455741640",
+        "item_qty": "2",
+        "item_net_price": "44,395.86",
+        "item_net_worth": "88,791.72",
+        "item_vat": "18%",
+        "item_gross_worth": "104,774.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹232,400.30",
+      "total_vat": "₹41,832.05",
+      "total_gross_worth": "₹274,232.35"
+    }
+  }
+}

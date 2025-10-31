@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PH-6075",
+      "invoice_date": "29/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 29, Guha Ganj, South Dumdum-074840",
+      "client": "VANSHA RAY H.No. 987, Varma Ganj, Guntur 826245",
+      "seller_tax_id": "16DSQRB6513A1ZG",
+      "client_tax_id": "14NMGHG0633J1ZB",
+      "client_phone": "4667274260"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-386T",
+        "item_qty": "2",
+        "item_net_price": "228,887.86",
+        "item_net_worth": "457,775.72",
+        "item_vat": "18%",
+        "item_gross_worth": "540,175.35"
+      },
+      {
+        "item_desc": "Sony Speaker SON-629B",
+        "item_qty": "1",
+        "item_net_price": "42,265.82",
+        "item_net_worth": "42,265.82",
+        "item_vat": "18%",
+        "item_gross_worth": "49,873.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹500,041.54",
+      "total_vat": "₹90,007.48",
+      "total_gross_worth": "₹590,049.02"
+    }
+  }
+}

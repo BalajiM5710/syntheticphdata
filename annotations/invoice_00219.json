@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DU-4339",
+      "invoice_date": "23/08/2025",
+      "seller": "ROYAL MOBILES 24/90, Jhaveri Ganj, Dindigul 938780",
+      "client": "UDARSH DUA 90, Sami Road, Anantapur 588976",
+      "seller_tax_id": "05MGTRA0490V1ZY",
+      "client_tax_id": "27NMAHB6438N1Z7",
+      "client_phone": "03853628830"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-365C",
+        "item_qty": "2",
+        "item_net_price": "33,641.13",
+        "item_net_worth": "67,282.26",
+        "item_vat": "18%",
+        "item_gross_worth": "79,393.07"
+      },
+      {
+        "item_desc": "TVS Bike TVS-562E",
+        "item_qty": "1",
+        "item_net_price": "140,254.49",
+        "item_net_worth": "140,254.49",
+        "item_vat": "18%",
+        "item_gross_worth": "165,500.30"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-722U",
+        "item_qty": "1",
+        "item_net_price": "84,875.15",
+        "item_net_worth": "84,875.15",
+        "item_vat": "18%",
+        "item_gross_worth": "100,152.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹292,411.90",
+      "total_vat": "₹52,634.14",
+      "total_gross_worth": "₹345,046.04"
+    }
+  }
+}

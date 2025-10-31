@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SI-3261",
+      "invoice_date": "13/02/2025",
+      "seller": "RAM ELECTRONICS 258, Suri Ganj, Kadapa 567889",
+      "client": "BHAVYA TAK 55, Yadav Circle, Proddatur 188684",
+      "seller_tax_id": "10LCXRO1538O1Z0",
+      "client_tax_id": "33OQDAY3537K1ZY",
+      "client_phone": "0388540972"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-985A",
+        "item_qty": "1",
+        "item_net_price": "84,817.18",
+        "item_net_worth": "84,817.18",
+        "item_vat": "18%",
+        "item_gross_worth": "100,084.27"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-587N",
+        "item_qty": "1",
+        "item_net_price": "33,537.95",
+        "item_net_worth": "33,537.95",
+        "item_vat": "18%",
+        "item_gross_worth": "39,574.78"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-317Y",
+        "item_qty": "1",
+        "item_net_price": "132,895.24",
+        "item_net_worth": "132,895.24",
+        "item_vat": "18%",
+        "item_gross_worth": "156,816.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹251,250.37",
+      "total_vat": "₹45,225.07",
+      "total_gross_worth": "₹296,475.44"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YE-8590",
+      "invoice_date": "13/08/2025",
+      "seller": "DIGITAL STORE 52, Varma Marg, Ambattur 018113",
+      "client": "SARTHAK GANESH H.No. 798, Kade Chowk, Munger 169675",
+      "seller_tax_id": "32WHEUX8405J1ZK",
+      "client_tax_id": "11XZSTU9602X1Z6",
+      "client_phone": "+918958620532"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-289G",
+        "item_qty": "1",
+        "item_net_price": "63,632.10",
+        "item_net_worth": "63,632.10",
+        "item_vat": "18%",
+        "item_gross_worth": "75,085.88"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-541D",
+        "item_qty": "2",
+        "item_net_price": "51,280.04",
+        "item_net_worth": "102,560.08",
+        "item_vat": "18%",
+        "item_gross_worth": "121,020.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,192.18",
+      "total_vat": "₹29,914.59",
+      "total_gross_worth": "₹196,106.77"
+    }
+  }
+}

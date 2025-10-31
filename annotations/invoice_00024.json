@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JO-1803",
+      "invoice_date": "07/10/2025",
+      "seller": "KUMAR TECH SOLUTIONS 12/438, Zacharia, Chapra-950361",
+      "client": "EKAVIR UPADHYAY H.No. 416, Andra Ganj, Mathura 652400",
+      "seller_tax_id": "02KGTMB8485K1ZE",
+      "client_tax_id": "32FXTVJ1149Q1Z1",
+      "client_phone": "04220898865"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-733E",
+        "item_qty": "1",
+        "item_net_price": "63,797.53",
+        "item_net_worth": "63,797.53",
+        "item_vat": "18%",
+        "item_gross_worth": "75,281.09"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-158L",
+        "item_qty": "1",
+        "item_net_price": "125,298.14",
+        "item_net_worth": "125,298.14",
+        "item_vat": "18%",
+        "item_gross_worth": "147,851.81"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-995T",
+        "item_qty": "1",
+        "item_net_price": "75,859.89",
+        "item_net_worth": "75,859.89",
+        "item_vat": "18%",
+        "item_gross_worth": "89,514.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹264,955.56",
+      "total_vat": "₹47,692.00",
+      "total_gross_worth": "₹312,647.56"
+    }
+  }
+}

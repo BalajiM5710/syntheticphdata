@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YI-5341",
+      "invoice_date": "09/03/2025",
+      "seller": "MOBILE POINT 92/626, Chakraborty Zila, Aligarh-909283",
+      "client": "KAMALA RAMASWAMY 75, Upadhyay Ganj, Akola-551104",
+      "seller_tax_id": "19MWBOG0556V1ZY",
+      "client_tax_id": "27QKPOB7909T1Z6",
+      "client_phone": "+911129349245"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-317G",
+        "item_qty": "2",
+        "item_net_price": "80,210.88",
+        "item_net_worth": "160,421.76",
+        "item_vat": "18%",
+        "item_gross_worth": "189,297.68"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-592P",
+        "item_qty": "1",
+        "item_net_price": "40,256.85",
+        "item_net_worth": "40,256.85",
+        "item_vat": "18%",
+        "item_gross_worth": "47,503.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹200,678.61",
+      "total_vat": "₹36,122.15",
+      "total_gross_worth": "₹236,800.76"
+    }
+  }
+}

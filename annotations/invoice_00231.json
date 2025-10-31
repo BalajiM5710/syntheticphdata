@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DN-4754",
+      "invoice_date": "26/08/2025",
+      "seller": "ROYAL MOBILES 27, Bala Street, Tinsukia 385511",
+      "client": "ISHAAN SHANKER 434, Ahuja Circle, Ongole-357393",
+      "seller_tax_id": "19ZPCQN6000E1Z4",
+      "client_tax_id": "14EIBMC6980I1Z0",
+      "client_phone": "6764235431"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-947N",
+        "item_qty": "2",
+        "item_net_price": "79,724.95",
+        "item_net_worth": "159,449.90",
+        "item_vat": "18%",
+        "item_gross_worth": "188,150.88"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-839X",
+        "item_qty": "1",
+        "item_net_price": "124,968.36",
+        "item_net_worth": "124,968.36",
+        "item_vat": "18%",
+        "item_gross_worth": "147,462.66"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-288R",
+        "item_qty": "1",
+        "item_net_price": "83,934.84",
+        "item_net_worth": "83,934.84",
+        "item_vat": "18%",
+        "item_gross_worth": "99,043.11"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-664Q",
+        "item_qty": "2",
+        "item_net_price": "43,674.07",
+        "item_net_worth": "87,348.14",
+        "item_vat": "18%",
+        "item_gross_worth": "103,070.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹455,701.24",
+      "total_vat": "₹82,026.22",
+      "total_gross_worth": "₹537,727.46"
+    }
+  }
+}

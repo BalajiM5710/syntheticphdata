@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TS-4945",
+      "invoice_date": "23/03/2025",
+      "seller": "PATEL MOBILES H.No. 04, Biswas Ganj, Khora -464342",
+      "client": "GABRIEL SANKARAN 74/334, Patla Nagar, Ajmer 748269",
+      "seller_tax_id": "33OTBJR4812D1Z4",
+      "client_tax_id": "01HANNK4946S1ZJ",
+      "client_phone": "+910498899785"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-322L",
+        "item_qty": "2",
+        "item_net_price": "8,084.44",
+        "item_net_worth": "16,168.88",
+        "item_vat": "18%",
+        "item_gross_worth": "19,079.28"
+      },
+      {
+        "item_desc": "LG Television LG-876P",
+        "item_qty": "1",
+        "item_net_price": "134,014.49",
+        "item_net_worth": "134,014.49",
+        "item_vat": "18%",
+        "item_gross_worth": "158,137.10"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-946P",
+        "item_qty": "2",
+        "item_net_price": "41,126.10",
+        "item_net_worth": "82,252.20",
+        "item_vat": "18%",
+        "item_gross_worth": "97,057.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹232,435.57",
+      "total_vat": "₹41,838.40",
+      "total_gross_worth": "₹274,273.97"
+    }
+  }
+}

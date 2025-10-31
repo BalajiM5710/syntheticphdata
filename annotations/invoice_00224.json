@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MX-2735",
+      "invoice_date": "19/05/2025",
+      "seller": "TECH BAZAAR 889, Buch Street, Shivpuri 891232",
+      "client": "CHARITA VISWANATHAN 53/57, Shanker Nagar, Thoothukudi 858321",
+      "seller_tax_id": "24IOHNO1025J1ZL",
+      "client_tax_id": "16GFUJA1398Q1ZR",
+      "client_phone": "5878475033"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-369V",
+        "item_qty": "1",
+        "item_net_price": "101,832.05",
+        "item_net_worth": "101,832.05",
+        "item_vat": "18%",
+        "item_gross_worth": "120,161.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹101,832.05",
+      "total_vat": "₹18,329.77",
+      "total_gross_worth": "₹120,161.82"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TG-7570",
+      "invoice_date": "07/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 18/826, Rau Zila, Ozhukarai-929243",
+      "client": "AYUSHMAN THAKER 23/57, Amble Path, Shivpuri-087903",
+      "seller_tax_id": "22WIBLV3355V1ZF",
+      "client_tax_id": "35HKYRG2990R1Z3",
+      "client_phone": "03681232001"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-295S",
+        "item_qty": "1",
+        "item_net_price": "55,745.30",
+        "item_net_worth": "55,745.30",
+        "item_vat": "18%",
+        "item_gross_worth": "65,779.45"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-658G",
+        "item_qty": "2",
+        "item_net_price": "127,328.91",
+        "item_net_worth": "254,657.82",
+        "item_vat": "18%",
+        "item_gross_worth": "300,496.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹310,403.12",
+      "total_vat": "₹55,872.56",
+      "total_gross_worth": "₹366,275.68"
+    }
+  }
+}

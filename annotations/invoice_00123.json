@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PR-3761",
+      "invoice_date": "03/08/2025",
+      "seller": "SMART ELECTRONICS 00/063, Bhat Ganj, Katihar-887623",
+      "client": "GEORGE GOLE 758, Sengupta Zila, Guntakal-491846",
+      "seller_tax_id": "18LOGXA4218U1ZL",
+      "client_tax_id": "15ALNHT2488S1Z8",
+      "client_phone": "05197191793"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-570V",
+        "item_qty": "2",
+        "item_net_price": "74,042.34",
+        "item_net_worth": "148,084.68",
+        "item_vat": "18%",
+        "item_gross_worth": "174,739.92"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-257M",
+        "item_qty": "2",
+        "item_net_price": "76,577.14",
+        "item_net_worth": "153,154.28",
+        "item_vat": "18%",
+        "item_gross_worth": "180,722.05"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-585H IMEI: 651175711245371",
+        "item_qty": "1",
+        "item_net_price": "49,831.76",
+        "item_net_worth": "49,831.76",
+        "item_vat": "18%",
+        "item_gross_worth": "58,801.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹351,070.72",
+      "total_vat": "₹63,192.73",
+      "total_gross_worth": "₹414,263.45"
+    }
+  }
+}

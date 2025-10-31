@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VW-5254",
+      "invoice_date": "10/10/2025",
+      "seller": "SUPREME ELECTRONICS 765, Bhakta, Tirupati-368216",
+      "client": "NIHAL KAR 077, Bora Nagar, Gopalpur-959039",
+      "seller_tax_id": "34PRIRK9597G1ZK",
+      "client_tax_id": "35DUXXJ3461G1Z3",
+      "client_phone": "3001308529"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-626D",
+        "item_qty": "1",
+        "item_net_price": "40,567.48",
+        "item_net_worth": "40,567.48",
+        "item_vat": "18%",
+        "item_gross_worth": "47,869.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹40,567.48",
+      "total_vat": "₹7,302.15",
+      "total_gross_worth": "₹47,869.63"
+    }
+  }
+}

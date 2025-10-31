@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QS-9367",
+      "invoice_date": "19/05/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 81, Mutti Road, Imphal 725482",
+      "client": "ISHANVI RATTA 93/32, Deo Road, Ozhukarai 854964",
+      "seller_tax_id": "18BTLYA2466X1Z1",
+      "client_tax_id": "29NEGUG7363U1ZY",
+      "client_phone": "02709271589"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-732S IMEI: 224683180450631",
+        "item_qty": "1",
+        "item_net_price": "34,683.16",
+        "item_net_worth": "34,683.16",
+        "item_vat": "18%",
+        "item_gross_worth": "40,926.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹34,683.16",
+      "total_vat": "₹6,242.97",
+      "total_gross_worth": "₹40,926.13"
+    }
+  }
+}

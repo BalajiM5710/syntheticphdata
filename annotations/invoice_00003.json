@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NU-9786",
+      "invoice_date": "11/01/2025",
+      "seller": "PATEL MOBILES 46, Khare Path, Durg-404176",
+      "client": "JANUJA KRISH 21/86, Edwin Path, Firozabad 493121",
+      "seller_tax_id": "30FKJUF4327Y1ZA",
+      "client_tax_id": "02VARBJ0459H1ZH",
+      "client_phone": "+915000293701"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-665I",
+        "item_qty": "2",
+        "item_net_price": "9,324.34",
+        "item_net_worth": "18,648.68",
+        "item_vat": "18%",
+        "item_gross_worth": "22,005.44"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-507G",
+        "item_qty": "1",
+        "item_net_price": "28,846.13",
+        "item_net_worth": "28,846.13",
+        "item_vat": "18%",
+        "item_gross_worth": "34,038.43"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-555I",
+        "item_qty": "2",
+        "item_net_price": "92,357.55",
+        "item_net_worth": "184,715.10",
+        "item_vat": "18%",
+        "item_gross_worth": "217,963.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹232,209.91",
+      "total_vat": "₹41,797.78",
+      "total_gross_worth": "₹274,007.69"
+    }
+  }
+}

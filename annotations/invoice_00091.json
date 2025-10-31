@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IT-7979",
+      "invoice_date": "15/03/2025",
+      "seller": "VISHWA ELECTRONICS 399, Gole Marg, Tirunelveli-609278",
+      "client": "REHAAN MANI 47/210, Gopal Road, Bhimavaram-509074",
+      "seller_tax_id": "14OSBHI2097Z1Z8",
+      "client_tax_id": "23QQXMG1751J1ZM",
+      "client_phone": "+912885468544"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-874J",
+        "item_qty": "2",
+        "item_net_price": "68,580.75",
+        "item_net_worth": "137,161.50",
+        "item_vat": "18%",
+        "item_gross_worth": "161,850.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹137,161.50",
+      "total_vat": "₹24,689.07",
+      "total_gross_worth": "₹161,850.57"
+    }
+  }
+}

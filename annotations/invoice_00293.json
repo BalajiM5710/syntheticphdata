@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WE-5732",
+      "invoice_date": "19/07/2025",
+      "seller": "MOBILE POINT 02/20, Chowdhury Nagar, Gorakhpur-990117",
+      "client": "BHAVIKA KOHLI 365, Bhatnagar Circle, Pondicherry 137262",
+      "seller_tax_id": "28JVIZK6871H1ZQ",
+      "client_tax_id": "16NQYAY4186R1ZR",
+      "client_phone": "+913732822918"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-597B",
+        "item_qty": "2",
+        "item_net_price": "29,985.21",
+        "item_net_worth": "59,970.42",
+        "item_vat": "18%",
+        "item_gross_worth": "70,765.10"
+      },
+      {
+        "item_desc": "LG Television LG-801N",
+        "item_qty": "1",
+        "item_net_price": "119,209.11",
+        "item_net_worth": "119,209.11",
+        "item_vat": "18%",
+        "item_gross_worth": "140,666.75"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-867H",
+        "item_qty": "1",
+        "item_net_price": "91,912.10",
+        "item_net_worth": "91,912.10",
+        "item_vat": "18%",
+        "item_gross_worth": "108,456.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹271,091.63",
+      "total_vat": "₹48,796.49",
+      "total_gross_worth": "₹319,888.12"
+    }
+  }
+}

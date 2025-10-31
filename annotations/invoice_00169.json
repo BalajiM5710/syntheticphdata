@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GX-1798",
+      "invoice_date": "29/06/2025",
+      "seller": "SINGH ELECTRONICS 881, Arora Zila, Patiala 415718",
+      "client": "LEENA PURI 304, Modi Circle, Erode 210711",
+      "seller_tax_id": "19FTTAM4204T1ZK",
+      "client_tax_id": "03XPOEX9482D1ZM",
+      "client_phone": "07443386398"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-309H IMEI: 220598885664279",
+        "item_qty": "2",
+        "item_net_price": "73,302.11",
+        "item_net_worth": "146,604.22",
+        "item_vat": "18%",
+        "item_gross_worth": "172,992.98"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-338E",
+        "item_qty": "2",
+        "item_net_price": "52,476.18",
+        "item_net_worth": "104,952.36",
+        "item_vat": "18%",
+        "item_gross_worth": "123,843.78"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-654L",
+        "item_qty": "1",
+        "item_net_price": "36,197.67",
+        "item_net_worth": "36,197.67",
+        "item_vat": "18%",
+        "item_gross_worth": "42,713.25"
+      },
+      {
+        "item_desc": "LG Microwave LG-507G",
+        "item_qty": "2",
+        "item_net_price": "54,135.33",
+        "item_net_worth": "108,270.66",
+        "item_vat": "18%",
+        "item_gross_worth": "127,759.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹396,024.91",
+      "total_vat": "₹71,284.48",
+      "total_gross_worth": "₹467,309.39"
+    }
+  }
+}

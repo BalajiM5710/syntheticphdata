@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OL-5276",
+      "invoice_date": "10/01/2025",
+      "seller": "STAR ELECTRONICS H.No. 788, Mane Road, Nagaon-070149",
+      "client": "EKAPAD VOHRA 349, Parmar, Tinsukia-633666",
+      "seller_tax_id": "08AOZRD4429C1ZW",
+      "client_tax_id": "20VXRCV8209Y1Z6",
+      "client_phone": "1303505036"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-901R",
+        "item_qty": "1",
+        "item_net_price": "108,497.03",
+        "item_net_worth": "108,497.03",
+        "item_vat": "18%",
+        "item_gross_worth": "128,026.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹108,497.03",
+      "total_vat": "₹19,529.47",
+      "total_gross_worth": "₹128,026.50"
+    }
+  }
+}

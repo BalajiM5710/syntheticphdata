@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LT-1285",
+      "invoice_date": "28/09/2025",
+      "seller": "MOBILE POINT 25/74, Mandal Marg, Avadi-393358",
+      "client": "RAAGINI BOASE H.No. 907, Dora Zila, Hapur 196394",
+      "seller_tax_id": "33DMQEJ1562S1ZA",
+      "client_tax_id": "36NPYAH0309D1ZE",
+      "client_phone": "5199790671"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-882K",
+        "item_qty": "1",
+        "item_net_price": "42,079.97",
+        "item_net_worth": "42,079.97",
+        "item_vat": "18%",
+        "item_gross_worth": "49,654.36"
+      },
+      {
+        "item_desc": "Canon Camera CAN-762H",
+        "item_qty": "2",
+        "item_net_price": "50,146.21",
+        "item_net_worth": "100,292.42",
+        "item_vat": "18%",
+        "item_gross_worth": "118,345.06"
+      },
+      {
+        "item_desc": "Sony Television SON-667V",
+        "item_qty": "1",
+        "item_net_price": "143,729.97",
+        "item_net_worth": "143,729.97",
+        "item_vat": "18%",
+        "item_gross_worth": "169,601.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹286,102.36",
+      "total_vat": "₹51,498.42",
+      "total_gross_worth": "₹337,600.78"
+    }
+  }
+}

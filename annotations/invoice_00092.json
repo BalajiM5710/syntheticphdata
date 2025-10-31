@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LJ-1658",
+      "invoice_date": "11/02/2025",
+      "seller": "TECH BAZAAR H.No. 27, Karnik, Agartala 970987",
+      "client": "ANTHONY MAND 02, Rajagopalan Path, Imphal 663191",
+      "seller_tax_id": "13ECETM5389Y1ZG",
+      "client_tax_id": "32AZLWR5228G1ZC",
+      "client_phone": "01303955712"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-327U",
+        "item_qty": "2",
+        "item_net_price": "34,223.50",
+        "item_net_worth": "68,447.00",
+        "item_vat": "18%",
+        "item_gross_worth": "80,767.46"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-520H",
+        "item_qty": "2",
+        "item_net_price": "70,969.74",
+        "item_net_worth": "141,939.48",
+        "item_vat": "18%",
+        "item_gross_worth": "167,488.59"
+      },
+      {
+        "item_desc": "TVS Bike TVS-754B",
+        "item_qty": "1",
+        "item_net_price": "172,465.21",
+        "item_net_worth": "172,465.21",
+        "item_vat": "18%",
+        "item_gross_worth": "203,508.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹382,851.69",
+      "total_vat": "₹68,913.30",
+      "total_gross_worth": "₹451,764.99"
+    }
+  }
+}

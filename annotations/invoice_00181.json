@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZC-1062",
+      "invoice_date": "01/01/2025",
+      "seller": "SUPREME ELECTRONICS 16/91, Seth Road, Narasaraopet 318024",
+      "client": "KRISHNA NIGAM 56/515, Kata Street, Uluberia-581700",
+      "seller_tax_id": "06XELWO0845B1ZV",
+      "client_tax_id": "23TMWVK5024S1Z8",
+      "client_phone": "+911679255387"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-401B",
+        "item_qty": "1",
+        "item_net_price": "46,540.38",
+        "item_net_worth": "46,540.38",
+        "item_vat": "18%",
+        "item_gross_worth": "54,917.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,540.38",
+      "total_vat": "₹8,377.27",
+      "total_gross_worth": "₹54,917.65"
+    }
+  }
+}

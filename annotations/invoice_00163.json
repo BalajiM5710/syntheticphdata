@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IB-2777",
+      "invoice_date": "16/06/2025",
+      "seller": "TECH BAZAAR H.No. 494, Dayal Street, Ichalkaranji-085702",
+      "client": "RANBIR BORRA 10/877, Date Road, Dehri-651066",
+      "seller_tax_id": "35TTPFY4673D1ZF",
+      "client_tax_id": "33TXTSM0723B1ZS",
+      "client_phone": "+913287112915"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-294T",
+        "item_qty": "1",
+        "item_net_price": "57,339.18",
+        "item_net_worth": "57,339.18",
+        "item_vat": "18%",
+        "item_gross_worth": "67,660.23"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-817K",
+        "item_qty": "1",
+        "item_net_price": "55,898.84",
+        "item_net_worth": "55,898.84",
+        "item_vat": "18%",
+        "item_gross_worth": "65,960.63"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-565Z",
+        "item_qty": "2",
+        "item_net_price": "110,949.32",
+        "item_net_worth": "221,898.64",
+        "item_vat": "18%",
+        "item_gross_worth": "261,840.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹335,136.66",
+      "total_vat": "₹60,324.60",
+      "total_gross_worth": "₹395,461.26"
+    }
+  }
+}

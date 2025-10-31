@@ -1,0 +1,28 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YV-8286",
+      "invoice_date": "02/02/2025",
+      "seller": "STAR ELECTRONICS 66/77, Loke Street, Gaya-369452",
+      "client": "AZAAN BAVA 77/482, Pandit Nagar, Berhampur 585713",
+      "seller_tax_id": "28BDKYA6626F1Z6",
+      "client_tax_id": "36OMGAE1164E1ZW",
+      "client_phone": "+915349793878"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-235H",
+        "item_qty": "1",
+        "item_net_price": "42,459.50",
+        "item_net_worth": "42,459.50",
+        "item_vat": "18%",
+        "item_gross_worth": "50,102.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹42,459.50",
+      "total_vat": "₹7,642.71",
+      "total_gross_worth": "₹50,102.21"
+    }
+  }
+}

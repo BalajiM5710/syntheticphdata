@@ -1,0 +1,36 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EJ-3158",
+      "invoice_date": "13/05/2025",
+      "seller": "DIGITAL STORE 277, Varghese Street, Nagercoil 619486",
+      "client": "NIHAL DASH H.No. 13, Kala Road, Bettiah 395432",
+      "seller_tax_id": "33TRWQU9345X1ZC",
+      "client_tax_id": "24GVELQ8330E1ZY",
+      "client_phone": "5171222542"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-754Z",
+        "item_qty": "1",
+        "item_net_price": "64,475.58",
+        "item_net_worth": "64,475.58",
+        "item_vat": "18%",
+        "item_gross_worth": "76,081.18"
+      },
+      {
+        "item_desc": "TCL Television TCL-166T",
+        "item_qty": "2",
+        "item_net_price": "119,605.86",
+        "item_net_worth": "239,211.72",
+        "item_vat": "18%",
+        "item_gross_worth": "282,269.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹303,687.30",
+      "total_vat": "₹54,663.71",
+      "total_gross_worth": "₹358,351.01"
+    }
+  }
+}

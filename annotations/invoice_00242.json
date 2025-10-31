@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HV-8606",
+      "invoice_date": "19/07/2025",
+      "seller": "PATEL MOBILES 46, Saran Nagar, Dibrugarh 305692",
+      "client": "MEERA SARKAR 89, Lata Marg, Fatehpur-086003",
+      "seller_tax_id": "09WJMYW8733D1ZJ",
+      "client_tax_id": "06NONUX9209W1ZE",
+      "client_phone": "1405776133"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-566L",
+        "item_qty": "1",
+        "item_net_price": "72,586.51",
+        "item_net_worth": "72,586.51",
+        "item_vat": "18%",
+        "item_gross_worth": "85,652.08"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-201T",
+        "item_qty": "2",
+        "item_net_price": "49,137.91",
+        "item_net_worth": "98,275.82",
+        "item_vat": "18%",
+        "item_gross_worth": "115,965.47"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-697J IMEI: 260770946523452",
+        "item_qty": "1",
+        "item_net_price": "8,161.89",
+        "item_net_worth": "8,161.89",
+        "item_vat": "18%",
+        "item_gross_worth": "9,631.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,024.22",
+      "total_vat": "₹32,224.36",
+      "total_gross_worth": "₹211,248.58"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GF-9419",
+      "invoice_date": "14/09/2025",
+      "seller": "SMART ELECTRONICS H.No. 93, Mandal Zila, Raebareli-025420",
+      "client": "ISHANI NIGAM 87/62, Mandal Chowk, Coimbatore-077674",
+      "seller_tax_id": "35QBJZD2150N1ZL",
+      "client_tax_id": "22TFNVA0076I1Z1",
+      "client_phone": "00745528544"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-723E",
+        "item_qty": "1",
+        "item_net_price": "55,982.47",
+        "item_net_worth": "55,982.47",
+        "item_vat": "18%",
+        "item_gross_worth": "66,059.31"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-116U",
+        "item_qty": "2",
+        "item_net_price": "91,490.69",
+        "item_net_worth": "182,981.38",
+        "item_vat": "18%",
+        "item_gross_worth": "215,918.03"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-183X",
+        "item_qty": "2",
+        "item_net_price": "73,567.62",
+        "item_net_worth": "147,135.24",
+        "item_vat": "18%",
+        "item_gross_worth": "173,619.58"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-285T",
+        "item_qty": "2",
+        "item_net_price": "84,976.94",
+        "item_net_worth": "169,953.88",
+        "item_vat": "18%",
+        "item_gross_worth": "200,545.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹556,052.97",
+      "total_vat": "₹100,089.53",
+      "total_gross_worth": "₹656,142.50"
+    }
+  }
+}
