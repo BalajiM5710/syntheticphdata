@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KCL/127",
+      "invoice_date": "04/06/2025",
+      "seller": "STAR ELECTRONICS H.No. 028, Prakash Chowk, Thane 027420",
+      "client": "GAURAV RAM 201, Reddy Marg, Purnia-150008",
+      "shipping_address": "H.No. 049, Kant Path, Kirari Suleman Nagar-768463",
+      "seller_tax_id": "11NXAOG0946Y1ZS",
+      "client_tax_id": "14ZUBBH1073I1ZR",
+      "client_phone": "+918738296664"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-201K",
+        "item_qty": "1",
+        "item_net_price": "84,758.99",
+        "item_net_worth": "84,758.99",
+        "item_vat": "28%",
+        "item_gross_worth": "108,491.51"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-184D IMEI: 958929137367498",
+        "item_qty": "1",
+        "item_net_price": "30,264.11",
+        "item_net_worth": "30,264.11",
+        "item_vat": "28%",
+        "item_gross_worth": "38,738.06"
+      },
+      {
+        "item_desc": "Hero Bike HER-495S",
+        "item_qty": "2",
+        "item_net_price": "47,261.05",
+        "item_net_worth": "94,522.10",
+        "item_vat": "28%",
+        "item_gross_worth": "120,988.29"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-878M",
+        "item_qty": "2",
+        "item_net_price": "70,642.38",
+        "item_net_worth": "141,284.76",
+        "item_vat": "28%",
+        "item_gross_worth": "180,844.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹350,829.96",
+      "total_vat": "₹98,232.39",
+      "total_gross_worth": "₹449,062.35",
+      "total_cgst": "₹49,116.19",
+      "total_sgst": "₹49,116.19",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/863",
+      "invoice_date": "07/10/2025",
+      "seller": "RAM ELECTRONICS H.No. 724, Sachdev Circle, Navi Mumbai-940134",
+      "client": "ATI NAZARETH 62, Sandal Zila, Orai 927163",
+      "shipping_address": "62, Sandal Zila, Orai 927163",
+      "seller_tax_id": "07MJPMG4659P1Z3",
+      "client_tax_id": "33ZLMEL5444T1ZG",
+      "client_phone": "0928437661"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-589K",
+        "item_qty": "2",
+        "item_net_price": "85,438.91",
+        "item_net_worth": "170,877.82",
+        "item_vat": "18%",
+        "item_gross_worth": "201,635.83"
+      },
+      {
+        "item_desc": "TVS Bike TVS-813V",
+        "item_qty": "2",
+        "item_net_price": "72,596.60",
+        "item_net_worth": "145,193.20",
+        "item_vat": "18%",
+        "item_gross_worth": "171,327.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹316,071.02",
+      "total_vat": "₹56,892.78",
+      "total_gross_worth": "₹372,963.80",
+      "total_cgst": "₹28,446.39",
+      "total_sgst": "₹28,446.39",
+      "total_igst": "₹0.00"
+    }
+  }
+}

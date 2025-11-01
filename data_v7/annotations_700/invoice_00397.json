@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XHG/500",
+      "invoice_date": "02/02/2025",
+      "seller": "CITY ELECTRONICS 754, Barad Nagar, Karimnagar-165940",
+      "client": "ANUSHA MALL 10, Patil Chowk, Sri Ganganagar-194180",
+      "shipping_address": "10, Patil Chowk, Sri Ganganagar-194180",
+      "seller_tax_id": "08RYAVX7846B1ZM",
+      "client_tax_id": "35VSHUC7098O1ZV",
+      "client_phone": "09054375986"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-517D",
+        "item_qty": "1",
+        "item_net_price": "88,435.67",
+        "item_net_worth": "88,435.67",
+        "item_vat": "28%",
+        "item_gross_worth": "113,197.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,435.67",
+      "total_vat": "₹24,761.99",
+      "total_gross_worth": "₹113,197.66",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,761.99"
+    }
+  }
+}

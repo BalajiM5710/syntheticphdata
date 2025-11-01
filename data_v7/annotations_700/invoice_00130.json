@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IXG/255",
+      "invoice_date": "05/03/2025",
+      "seller": "ROYAL MOBILES 70, Mitra Marg, Khora -919080",
+      "client": "HEMANI SRINIVAS 016, Swaminathan Marg, Durg-795462",
+      "shipping_address": "016, Swaminathan Marg, Durg-795462",
+      "seller_tax_id": "30ZHPNY3116F1Z8",
+      "client_tax_id": "24EPYLT1817C1ZS",
+      "client_phone": "04291903442"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-103C",
+        "item_qty": "2",
+        "item_net_price": "41,660.06",
+        "item_net_worth": "83,320.12",
+        "item_vat": "28%",
+        "item_gross_worth": "106,649.75"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-810J IMEI: 638658903868134",
+        "item_qty": "2",
+        "item_net_price": "82,535.01",
+        "item_net_worth": "165,070.02",
+        "item_vat": "28%",
+        "item_gross_worth": "211,289.63"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-817A",
+        "item_qty": "1",
+        "item_net_price": "54,988.59",
+        "item_net_worth": "54,988.59",
+        "item_vat": "28%",
+        "item_gross_worth": "70,385.40"
+      },
+      {
+        "item_desc": "Samsung Television SAM-701P",
+        "item_qty": "1",
+        "item_net_price": "16,749.92",
+        "item_net_worth": "16,749.92",
+        "item_vat": "28%",
+        "item_gross_worth": "21,439.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹320,128.65",
+      "total_vat": "₹89,636.02",
+      "total_gross_worth": "₹409,764.67",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹89,636.02"
+    }
+  }
+}

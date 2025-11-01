@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JYI/826",
+      "invoice_date": "24/04/2025",
+      "seller": "METRO TECH STORE 29/05, Golla Path, Rampur 187183",
+      "client": "YAHVI SINHA 020, Upadhyay Path, Tiruvottiyur 381793",
+      "shipping_address": "020, Upadhyay Path, Tiruvottiyur 381793",
+      "seller_tax_id": "09YOQFC7467K1Z2",
+      "client_tax_id": "05MWBQH1159I1Z8",
+      "client_phone": "06297780359"
+    },
+    "items": [
+      {
+        "item_desc": "Motorola Smartphones MOT-136C IMEI: 257930356548889",
+        "item_qty": "1",
+        "item_net_price": "41,664.12",
+        "item_net_worth": "41,664.12",
+        "item_vat": "18%",
+        "item_gross_worth": "49,163.66"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-919T",
+        "item_qty": "1",
+        "item_net_price": "64,335.74",
+        "item_net_worth": "64,335.74",
+        "item_vat": "18%",
+        "item_gross_worth": "75,916.17"
+      },
+      {
+        "item_desc": "LG Microwave LG-719C",
+        "item_qty": "1",
+        "item_net_price": "87,169.88",
+        "item_net_worth": "87,169.88",
+        "item_vat": "18%",
+        "item_gross_worth": "102,860.46"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-330U",
+        "item_qty": "1",
+        "item_net_price": "92,380.81",
+        "item_net_worth": "92,380.81",
+        "item_vat": "18%",
+        "item_gross_worth": "109,009.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹285,550.55",
+      "total_vat": "₹51,399.10",
+      "total_gross_worth": "₹336,949.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹51,399.10"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WTT/549",
+      "invoice_date": "10/05/2025",
+      "seller": "GADGET GALAXY 55/16, Aggarwal Path, Farrukhabad 352595",
+      "client": "KABIR SASTRY 286, Wali Path, Ranchi-554701",
+      "shipping_address": "286, Wali Path, Ranchi-554701",
+      "seller_tax_id": "32ZPZEN1175U1ZP",
+      "client_tax_id": "17HETWW2236H1ZA",
+      "client_phone": "6952242720"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-100H",
+        "item_qty": "1",
+        "item_net_price": "35,925.93",
+        "item_net_worth": "35,925.93",
+        "item_vat": "18%",
+        "item_gross_worth": "42,392.60"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-866C",
+        "item_qty": "1",
+        "item_net_price": "45,441.26",
+        "item_net_worth": "45,441.26",
+        "item_vat": "18%",
+        "item_gross_worth": "53,620.69"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹81,367.19",
+      "total_vat": "₹14,646.09",
+      "total_gross_worth": "₹96,013.28",
+      "total_cgst": "₹7,323.05",
+      "total_sgst": "₹7,323.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

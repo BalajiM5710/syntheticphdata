@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1961",
+      "invoice_date": "01/05/2025",
+      "seller": "SUPREME ELECTRONICS 36/477, Dubey Road, Tiruchirappalli 978634",
+      "client": "UBIKA BALAN H.No. 00, Anand Circle, Rewa-145991",
+      "shipping_address": "H.No. 00, Anand Circle, Rewa-145991",
+      "seller_tax_id": "07EKDJJ3821F1ZH",
+      "client_tax_id": "11HRBNC0172X1Z8",
+      "client_phone": "1523382098"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-214S",
+        "item_qty": "2",
+        "item_net_price": "66,006.16",
+        "item_net_worth": "132,012.32",
+        "item_vat": "18%",
+        "item_gross_worth": "155,774.54"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-257J",
+        "item_qty": "1",
+        "item_net_price": "47,799.76",
+        "item_net_worth": "47,799.76",
+        "item_vat": "18%",
+        "item_gross_worth": "56,403.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,812.08",
+      "total_vat": "₹32,366.17",
+      "total_gross_worth": "₹212,178.25",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,366.17"
+    }
+  }
+}

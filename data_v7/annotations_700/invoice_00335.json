@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OOJ/704",
+      "invoice_date": "19/10/2025",
+      "seller": "VISHWA ELECTRONICS 05/21, Savant Path, Belgaum 059046",
+      "client": "JOSHUA BAL H.No. 15, Bhat Street, Shimoga-513250",
+      "shipping_address": "H.No. 15, Bhat Street, Shimoga-513250",
+      "seller_tax_id": "08MMKQM4879G1ZT",
+      "client_tax_id": "07RJFLA2316O1ZK",
+      "client_phone": "5157165718"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-221I",
+        "item_qty": "1",
+        "item_net_price": "39,459.72",
+        "item_net_worth": "39,459.72",
+        "item_vat": "12%",
+        "item_gross_worth": "44,194.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹39,459.72",
+      "total_vat": "₹4,735.17",
+      "total_gross_worth": "₹44,194.89",
+      "total_cgst": "₹2,367.58",
+      "total_sgst": "₹2,367.58",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WRA/630",
+      "invoice_date": "04/08/2025",
+      "seller": "GADGET GALAXY 136, Raman Nagar, Gurgaon 122265",
+      "client": "FALAN DESHMUKH 41/22, Gulati, Tadipatri 873965",
+      "shipping_address": "41/22, Gulati, Tadipatri 873965",
+      "seller_tax_id": "28DJZEE7167I1ZB",
+      "client_tax_id": "29YFTGN6930G1Z9",
+      "client_phone": "+919647856496"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-366M",
+        "item_qty": "2",
+        "item_net_price": "25,027.55",
+        "item_net_worth": "50,055.10",
+        "item_vat": "18%",
+        "item_gross_worth": "59,065.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹50,055.10",
+      "total_vat": "₹9,009.92",
+      "total_gross_worth": "₹59,065.02",
+      "total_cgst": "₹4,504.96",
+      "total_sgst": "₹4,504.96",
+      "total_igst": "₹0.00"
+    }
+  }
+}

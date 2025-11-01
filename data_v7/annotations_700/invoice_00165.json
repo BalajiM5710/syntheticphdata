@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/920",
+      "invoice_date": "23/01/2025",
+      "seller": "METRO TECH STORE 46/33, Agrawal Road, Faridabad 797345",
+      "client": "YATAN MANNE H.No. 86, Atwal Street, Jammu 360505",
+      "shipping_address": "H.No. 86, Atwal Street, Jammu 360505",
+      "seller_tax_id": "05JEXGN9228H1ZR",
+      "client_tax_id": "31GRNXY2333V1ZA",
+      "client_phone": "+917549811392"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-584E",
+        "item_qty": "2",
+        "item_net_price": "40,418.54",
+        "item_net_worth": "80,837.08",
+        "item_vat": "12%",
+        "item_gross_worth": "90,537.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹80,837.08",
+      "total_vat": "₹9,700.45",
+      "total_gross_worth": "₹90,537.53",
+      "total_cgst": "₹4,850.22",
+      "total_sgst": "₹4,850.22",
+      "total_igst": "₹0.00"
+    }
+  }
+}

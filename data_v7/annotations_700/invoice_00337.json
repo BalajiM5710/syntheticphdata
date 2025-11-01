@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/939",
+      "invoice_date": "17/06/2025",
+      "seller": "ROYAL MOBILES H.No. 783, Dugar Nagar, Allahabad 762492",
+      "client": "DAYITA KARNIK H.No. 98, Murthy Ganj, Karnal-917410",
+      "shipping_address": "H.No. 98, Murthy Ganj, Karnal-917410",
+      "seller_tax_id": "22KNDXG5505D1ZA",
+      "client_tax_id": "35OAGJH5134P1Z1",
+      "client_phone": "+914935137066"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-583Q",
+        "item_qty": "1",
+        "item_net_price": "28,406.18",
+        "item_net_worth": "28,406.18",
+        "item_vat": "28%",
+        "item_gross_worth": "36,359.91"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-208E",
+        "item_qty": "2",
+        "item_net_price": "14,417.22",
+        "item_net_worth": "28,834.44",
+        "item_vat": "28%",
+        "item_gross_worth": "36,908.08"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-846B",
+        "item_qty": "1",
+        "item_net_price": "14,085.55",
+        "item_net_worth": "14,085.55",
+        "item_vat": "28%",
+        "item_gross_worth": "18,029.50"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-208L",
+        "item_qty": "2",
+        "item_net_price": "39,116.56",
+        "item_net_worth": "78,233.12",
+        "item_vat": "28%",
+        "item_gross_worth": "100,138.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹149,559.29",
+      "total_vat": "₹41,876.60",
+      "total_gross_worth": "₹191,435.89",
+      "total_cgst": "₹20,938.30",
+      "total_sgst": "₹20,938.30",
+      "total_igst": "₹0.00"
+    }
+  }
+}

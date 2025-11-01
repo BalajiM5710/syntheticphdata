@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XWI/714",
+      "invoice_date": "04/04/2025",
+      "seller": "FUTURE TECH 83, Chada Path, Meerut-249153",
+      "client": "GEETIKA SOLANKI 97, Sahota Marg, Sirsa-314999",
+      "shipping_address": "97, Sahota Marg, Sirsa-314999",
+      "seller_tax_id": "33YYQBO7556M1ZF",
+      "client_tax_id": "32LLQXO1010K1ZA",
+      "client_phone": "7327037444"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-447L",
+        "item_qty": "1",
+        "item_net_price": "31,431.78",
+        "item_net_worth": "31,431.78",
+        "item_vat": "12%",
+        "item_gross_worth": "35,203.59"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-659D",
+        "item_qty": "1",
+        "item_net_price": "78,686.59",
+        "item_net_worth": "78,686.59",
+        "item_vat": "12%",
+        "item_gross_worth": "88,128.98"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-289S",
+        "item_qty": "1",
+        "item_net_price": "22,364.34",
+        "item_net_worth": "22,364.34",
+        "item_vat": "12%",
+        "item_gross_worth": "25,048.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹132,482.71",
+      "total_vat": "₹15,897.93",
+      "total_gross_worth": "₹148,380.64",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,897.93"
+    }
+  }
+}

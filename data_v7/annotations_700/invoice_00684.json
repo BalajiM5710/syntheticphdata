@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FXD/737",
+      "invoice_date": "15/09/2025",
+      "seller": "FUTURE TECH 30, Bahl Zila, Morbi 768762",
+      "client": "INDIRA BHATIA 712, Basu Marg, Karimnagar 750072",
+      "shipping_address": "712, Basu Marg, Karimnagar 750072",
+      "seller_tax_id": "04VFHFO6728G1Z0",
+      "client_tax_id": "23PXEZN7577P1Z3",
+      "client_phone": "6331080168"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-459O",
+        "item_qty": "2",
+        "item_net_price": "15,145.34",
+        "item_net_worth": "30,290.68",
+        "item_vat": "18%",
+        "item_gross_worth": "35,743.00"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-407I",
+        "item_qty": "1",
+        "item_net_price": "79,505.49",
+        "item_net_worth": "79,505.49",
+        "item_vat": "18%",
+        "item_gross_worth": "93,816.48"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-672X",
+        "item_qty": "2",
+        "item_net_price": "78,917.88",
+        "item_net_worth": "157,835.76",
+        "item_vat": "18%",
+        "item_gross_worth": "186,246.20"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-482P",
+        "item_qty": "2",
+        "item_net_price": "59,645.05",
+        "item_net_worth": "119,290.10",
+        "item_vat": "18%",
+        "item_gross_worth": "140,762.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹386,922.03",
+      "total_vat": "₹69,645.97",
+      "total_gross_worth": "₹456,568.00",
+      "total_cgst": "₹34,822.98",
+      "total_sgst": "₹34,822.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

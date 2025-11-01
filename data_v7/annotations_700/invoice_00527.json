@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/596",
+      "invoice_date": "03/10/2025",
+      "seller": "ELECTRONICS WORLD 63/11, Chatterjee Nagar, Vellore 035932",
+      "client": "JACOB BHATTI 73/920, Pandit Ganj, Tumkur-956287",
+      "shipping_address": "73/920, Pandit Ganj, Tumkur-956287",
+      "seller_tax_id": "37WMGFL7763Q1ZJ",
+      "client_tax_id": "11AYHNY6012I1ZR",
+      "client_phone": "05448492331"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-736P",
+        "item_qty": "1",
+        "item_net_price": "70,203.27",
+        "item_net_worth": "70,203.27",
+        "item_vat": "12%",
+        "item_gross_worth": "78,627.66"
+      },
+      {
+        "item_desc": "Canon Camera CAN-215P",
+        "item_qty": "1",
+        "item_net_price": "45,102.78",
+        "item_net_worth": "45,102.78",
+        "item_vat": "12%",
+        "item_gross_worth": "50,515.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹115,306.05",
+      "total_vat": "₹13,836.73",
+      "total_gross_worth": "₹129,142.78",
+      "total_cgst": "₹6,918.36",
+      "total_sgst": "₹6,918.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

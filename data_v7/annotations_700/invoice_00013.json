@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2286",
+      "invoice_date": "04/05/2025",
+      "seller": "MOBILE POINT 60, Nair Marg, Satara 340699",
+      "client": "ANUSHA VORA H.No. 560, Sanghvi Marg, Nadiad 268500",
+      "shipping_address": "H.No. 560, Sanghvi Marg, Nadiad 268500",
+      "seller_tax_id": "16CQKYP7713B1ZM",
+      "client_tax_id": "03OMJYY4710Y1Z5",
+      "client_phone": "+918588948146"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-374R",
+        "item_qty": "1",
+        "item_net_price": "46,963.46",
+        "item_net_worth": "46,963.46",
+        "item_vat": "12%",
+        "item_gross_worth": "52,599.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,963.46",
+      "total_vat": "₹5,635.62",
+      "total_gross_worth": "₹52,599.08",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹5,635.62"
+    }
+  }
+}

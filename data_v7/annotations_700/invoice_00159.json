@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/628",
+      "invoice_date": "17/06/2025",
+      "seller": "KUMAR TECH SOLUTIONS 432, Khurana Marg, Gudivada 820560",
+      "client": "ESHANA MORE H.No. 092, Banik Marg, Bhatpara-347491",
+      "shipping_address": "H.No. 092, Banik Marg, Bhatpara-347491",
+      "seller_tax_id": "37UHMCK3502F1Z9",
+      "client_tax_id": "34QHMUW7341R1ZN",
+      "client_phone": "+914076639107"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-253C",
+        "item_qty": "1",
+        "item_net_price": "27,631.78",
+        "item_net_worth": "27,631.78",
+        "item_vat": "28%",
+        "item_gross_worth": "35,368.68"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-780W",
+        "item_qty": "2",
+        "item_net_price": "13,084.40",
+        "item_net_worth": "26,168.80",
+        "item_vat": "28%",
+        "item_gross_worth": "33,496.06"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-781E",
+        "item_qty": "1",
+        "item_net_price": "33,961.19",
+        "item_net_worth": "33,961.19",
+        "item_vat": "28%",
+        "item_gross_worth": "43,470.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹87,761.77",
+      "total_vat": "₹24,573.30",
+      "total_gross_worth": "₹112,335.07",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,573.30"
+    }
+  }
+}

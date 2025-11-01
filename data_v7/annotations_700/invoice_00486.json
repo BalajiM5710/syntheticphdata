@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/666",
+      "invoice_date": "12/03/2025",
+      "seller": "SINGH ELECTRONICS 62, Prabhakar Circle, Bardhaman 619312",
+      "client": "QARIN TRIVEDI H.No. 366, Edwin Ganj, Jalgaon-428416",
+      "shipping_address": "160, Bhakta Road, Mango-834968",
+      "seller_tax_id": "37PQNSZ2686N1ZJ",
+      "client_tax_id": "12WIIET1898V1ZM",
+      "client_phone": "7917823525"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-862O",
+        "item_qty": "2",
+        "item_net_price": "47,072.63",
+        "item_net_worth": "94,145.26",
+        "item_vat": "28%",
+        "item_gross_worth": "120,505.93"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-404I",
+        "item_qty": "2",
+        "item_net_price": "24,108.53",
+        "item_net_worth": "48,217.06",
+        "item_vat": "28%",
+        "item_gross_worth": "61,717.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,362.32",
+      "total_vat": "₹39,861.45",
+      "total_gross_worth": "₹182,223.77",
+      "total_cgst": "₹19,930.72",
+      "total_sgst": "₹19,930.72",
+      "total_igst": "₹0.00"
+    }
+  }
+}

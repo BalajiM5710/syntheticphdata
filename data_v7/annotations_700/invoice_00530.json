@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6316",
+      "invoice_date": "07/04/2025",
+      "seller": "GADGET GALAXY H.No. 82, Sarkar Marg, Panchkula 806546",
+      "client": "PRATYUSH BOASE 85, Tak Ganj, Kolkata-727099",
+      "shipping_address": "H.No. 873, Mishra Street, Thoothukudi 668767",
+      "seller_tax_id": "11YQBOS4307D1Z2",
+      "client_tax_id": "10EMYHB9327L1ZX",
+      "client_phone": "+917999138198"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-931W",
+        "item_qty": "1",
+        "item_net_price": "20,697.80",
+        "item_net_worth": "20,697.80",
+        "item_vat": "18%",
+        "item_gross_worth": "24,423.40"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-950S",
+        "item_qty": "1",
+        "item_net_price": "89,081.90",
+        "item_net_worth": "89,081.90",
+        "item_vat": "18%",
+        "item_gross_worth": "105,116.64"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-560J",
+        "item_qty": "1",
+        "item_net_price": "90,563.25",
+        "item_net_worth": "90,563.25",
+        "item_vat": "18%",
+        "item_gross_worth": "106,864.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹200,342.95",
+      "total_vat": "₹36,061.73",
+      "total_gross_worth": "₹236,404.68",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹36,061.73"
+    }
+  }
+}

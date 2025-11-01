@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EKF/416",
+      "invoice_date": "29/06/2025",
+      "seller": "MOBILE POINT H.No. 68, Doctor Zila, Amaravati-995236",
+      "client": "WAHAB DATTA H.No. 580, Balakrishnan, Pimpri-Chinchwad-720054",
+      "shipping_address": "H.No. 580, Balakrishnan, Pimpri-Chinchwad-720054",
+      "seller_tax_id": "25XHPAS0044B1ZT",
+      "client_tax_id": "06OYXGS8662Q1ZJ",
+      "client_phone": "04531544739"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-845T",
+        "item_qty": "2",
+        "item_net_price": "37,313.49",
+        "item_net_worth": "74,626.98",
+        "item_vat": "12%",
+        "item_gross_worth": "83,582.22"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-874A",
+        "item_qty": "1",
+        "item_net_price": "11,740.48",
+        "item_net_worth": "11,740.48",
+        "item_vat": "12%",
+        "item_gross_worth": "13,149.34"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-764P",
+        "item_qty": "1",
+        "item_net_price": "33,310.61",
+        "item_net_worth": "33,310.61",
+        "item_vat": "12%",
+        "item_gross_worth": "37,307.88"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-671Q",
+        "item_qty": "2",
+        "item_net_price": "78,801.90",
+        "item_net_worth": "157,603.80",
+        "item_vat": "12%",
+        "item_gross_worth": "176,516.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹277,281.87",
+      "total_vat": "₹33,273.82",
+      "total_gross_worth": "₹310,555.69",
+      "total_cgst": "₹16,636.91",
+      "total_sgst": "₹16,636.91",
+      "total_igst": "₹0.00"
+    }
+  }
+}

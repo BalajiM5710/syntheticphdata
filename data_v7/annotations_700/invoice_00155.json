@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3639",
+      "invoice_date": "19/08/2025",
+      "seller": "GADGET GALAXY 68/809, Mital, Tiruchirappalli-623913",
+      "client": "ANAY CHAUDHARY 00/02, Bhatti Road, Nangloi Jat 208891",
+      "shipping_address": "00/02, Bhatti Road, Nangloi Jat 208891",
+      "seller_tax_id": "25VUYEN3610B1ZV",
+      "client_tax_id": "28BIYWZ2519F1ZJ",
+      "client_phone": "+913778755967"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-934T",
+        "item_qty": "2",
+        "item_net_price": "18,259.53",
+        "item_net_worth": "36,519.06",
+        "item_vat": "18%",
+        "item_gross_worth": "43,092.49"
+      },
+      {
+        "item_desc": "Sony Headphones SON-999X",
+        "item_qty": "1",
+        "item_net_price": "38,448.35",
+        "item_net_worth": "38,448.35",
+        "item_vat": "18%",
+        "item_gross_worth": "45,369.05"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-876P",
+        "item_qty": "1",
+        "item_net_price": "22,274.90",
+        "item_net_worth": "22,274.90",
+        "item_vat": "18%",
+        "item_gross_worth": "26,284.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,242.31",
+      "total_vat": "₹17,503.62",
+      "total_gross_worth": "₹114,745.93",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹17,503.62"
+    }
+  }
+}

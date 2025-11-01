@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5673",
+      "invoice_date": "22/05/2025",
+      "seller": "TECH BAZAAR H.No. 99, Pillai Marg, Ulhasnagar 867655",
+      "client": "HAMSINI BEHL 812, Bath Nagar, Jalandhar-740992",
+      "shipping_address": "812, Bath Nagar, Jalandhar-740992",
+      "seller_tax_id": "34ZSXYH5386S1Z9",
+      "client_tax_id": "17TQRUR1481F1Z3",
+      "client_phone": "01580391178"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-290F",
+        "item_qty": "2",
+        "item_net_price": "76,732.85",
+        "item_net_worth": "153,465.70",
+        "item_vat": "28%",
+        "item_gross_worth": "196,436.10"
+      },
+      {
+        "item_desc": "Sony Speaker SON-838T",
+        "item_qty": "2",
+        "item_net_price": "71,017.33",
+        "item_net_worth": "142,034.66",
+        "item_vat": "28%",
+        "item_gross_worth": "181,804.36"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-718A",
+        "item_qty": "2",
+        "item_net_price": "55,842.87",
+        "item_net_worth": "111,685.74",
+        "item_vat": "28%",
+        "item_gross_worth": "142,957.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹407,186.10",
+      "total_vat": "₹114,012.11",
+      "total_gross_worth": "₹521,198.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹114,012.11"
+    }
+  }
+}

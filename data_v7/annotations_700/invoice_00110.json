@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OAN/458",
+      "invoice_date": "21/03/2025",
+      "seller": "STAR ELECTRONICS H.No. 68, Sen Street, Anantapuram 802132",
+      "client": "ISHAAN MANN H.No. 02, Chowdhury Marg, Srikakulam 679086",
+      "shipping_address": "H.No. 02, Chowdhury Marg, Srikakulam 679086",
+      "seller_tax_id": "05YTLGO4668W1ZF",
+      "client_tax_id": "10MLJNP7877U1ZF",
+      "client_phone": "02528954745"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-625C",
+        "item_qty": "1",
+        "item_net_price": "81,373.56",
+        "item_net_worth": "81,373.56",
+        "item_vat": "18%",
+        "item_gross_worth": "96,020.80"
+      },
+      {
+        "item_desc": "Canon Camera CAN-827U",
+        "item_qty": "1",
+        "item_net_price": "73,001.02",
+        "item_net_worth": "73,001.02",
+        "item_vat": "18%",
+        "item_gross_worth": "86,141.20"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-482A",
+        "item_qty": "1",
+        "item_net_price": "35,265.15",
+        "item_net_worth": "35,265.15",
+        "item_vat": "18%",
+        "item_gross_worth": "41,612.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,639.73",
+      "total_vat": "₹34,135.15",
+      "total_gross_worth": "₹223,774.88",
+      "total_cgst": "₹17,067.58",
+      "total_sgst": "₹17,067.58",
+      "total_igst": "₹0.00"
+    }
+  }
+}

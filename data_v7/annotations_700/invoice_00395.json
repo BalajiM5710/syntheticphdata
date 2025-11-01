@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HTG/468",
+      "invoice_date": "27/09/2025",
+      "seller": "TECH BAZAAR 946, Mukhopadhyay Ganj, Gulbarga-210602",
+      "client": "ESHANA YOHANNAN 151, Shere Road, Suryapet 617426",
+      "shipping_address": "151, Shere Road, Suryapet 617426",
+      "seller_tax_id": "36JJUEE9224E1ZY",
+      "client_tax_id": "01ZFBEF6119Y1ZB",
+      "client_phone": "+919578516644"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-633Q",
+        "item_qty": "2",
+        "item_net_price": "15,159.55",
+        "item_net_worth": "30,319.10",
+        "item_vat": "12%",
+        "item_gross_worth": "33,957.39"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-299J",
+        "item_qty": "2",
+        "item_net_price": "59,914.48",
+        "item_net_worth": "119,828.96",
+        "item_vat": "12%",
+        "item_gross_worth": "134,208.44"
+      },
+      {
+        "item_desc": "Sony Headphones SON-872S",
+        "item_qty": "2",
+        "item_net_price": "15,296.80",
+        "item_net_worth": "30,593.60",
+        "item_vat": "12%",
+        "item_gross_worth": "34,264.83"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-409H",
+        "item_qty": "1",
+        "item_net_price": "22,628.71",
+        "item_net_worth": "22,628.71",
+        "item_vat": "12%",
+        "item_gross_worth": "25,344.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,370.37",
+      "total_vat": "₹24,404.44",
+      "total_gross_worth": "₹227,774.81",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,404.44"
+    }
+  }
+}

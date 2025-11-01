@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/153",
+      "invoice_date": "29/01/2025",
+      "seller": "SMART ELECTRONICS 73, Saha Zila, Surendranagar Dudhrej 449497",
+      "client": "PAVANI NAIDU H.No. 883, Manne Ganj, Phagwara-639429",
+      "shipping_address": "01/635, Patil Nagar, Kulti-337299",
+      "seller_tax_id": "32FJEQI8480G1ZD",
+      "client_tax_id": "06SDFOG0880X1Z1",
+      "client_phone": "+919467382443"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-485L",
+        "item_qty": "1",
+        "item_net_price": "89,450.34",
+        "item_net_worth": "89,450.34",
+        "item_vat": "12%",
+        "item_gross_worth": "100,184.38"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-292E",
+        "item_qty": "1",
+        "item_net_price": "14,439.65",
+        "item_net_worth": "14,439.65",
+        "item_vat": "12%",
+        "item_gross_worth": "16,172.41"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-120X",
+        "item_qty": "1",
+        "item_net_price": "82,677.57",
+        "item_net_worth": "82,677.57",
+        "item_vat": "12%",
+        "item_gross_worth": "92,598.88"
+      },
+      {
+        "item_desc": "LG Microwave LG-204L",
+        "item_qty": "1",
+        "item_net_price": "81,724.09",
+        "item_net_worth": "81,724.09",
+        "item_vat": "12%",
+        "item_gross_worth": "91,530.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹268,291.65",
+      "total_vat": "₹32,195.00",
+      "total_gross_worth": "₹300,486.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,195.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4683",
+      "invoice_date": "02/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 37, Pradhan Path, Chittoor 259837",
+      "client": "UDYATI DYAL H.No. 62, Bhandari Road, Narasaraopet-271346",
+      "shipping_address": "885, Oommen Path, Jalna 387735",
+      "seller_tax_id": "19XNIET3912C1ZH",
+      "client_tax_id": "36MFCEY2510J1ZE",
+      "client_phone": "02254736014"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-357C",
+        "item_qty": "1",
+        "item_net_price": "30,762.65",
+        "item_net_worth": "30,762.65",
+        "item_vat": "28%",
+        "item_gross_worth": "39,376.19"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-304W",
+        "item_qty": "1",
+        "item_net_price": "16,053.83",
+        "item_net_worth": "16,053.83",
+        "item_vat": "28%",
+        "item_gross_worth": "20,548.90"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-782V",
+        "item_qty": "2",
+        "item_net_price": "40,503.88",
+        "item_net_worth": "81,007.76",
+        "item_vat": "28%",
+        "item_gross_worth": "103,689.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,824.24",
+      "total_vat": "₹35,790.79",
+      "total_gross_worth": "₹163,615.03",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,790.79"
+    }
+  }
+}

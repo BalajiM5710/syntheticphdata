@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/510",
+      "invoice_date": "29/06/2025",
+      "seller": "SINGH ELECTRONICS H.No. 86, Bose, Mahbubnagar-775345",
+      "client": "YASHODA DALAL 01/31, Pai Chowk, Karnal-997530",
+      "shipping_address": "01/31, Pai Chowk, Karnal-997530",
+      "seller_tax_id": "07SRBWG8867X1Z0",
+      "client_tax_id": "23JDPFJ6823R1ZH",
+      "client_phone": "9213758103"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-979F",
+        "item_qty": "1",
+        "item_net_price": "49,542.30",
+        "item_net_worth": "49,542.30",
+        "item_vat": "18%",
+        "item_gross_worth": "58,459.91"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-105H",
+        "item_qty": "1",
+        "item_net_price": "54,883.20",
+        "item_net_worth": "54,883.20",
+        "item_vat": "18%",
+        "item_gross_worth": "64,762.18"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-791Q",
+        "item_qty": "1",
+        "item_net_price": "22,114.94",
+        "item_net_worth": "22,114.94",
+        "item_vat": "18%",
+        "item_gross_worth": "26,095.63"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-962F",
+        "item_qty": "2",
+        "item_net_price": "36,854.97",
+        "item_net_worth": "73,709.94",
+        "item_vat": "18%",
+        "item_gross_worth": "86,977.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹200,250.38",
+      "total_vat": "₹36,045.07",
+      "total_gross_worth": "₹236,295.45",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹36,045.07"
+    }
+  }
+}

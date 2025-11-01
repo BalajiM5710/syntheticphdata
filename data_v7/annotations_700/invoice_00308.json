@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2965",
+      "invoice_date": "01/01/2025",
+      "seller": "METRO TECH STORE 963, Tiwari Path, Amravati 983446",
+      "client": "VIVAAN TRIPATHI 38/973, Subramanian Nagar, Khora -148634",
+      "shipping_address": "38/973, Subramanian Nagar, Khora -148634",
+      "seller_tax_id": "10WTQQT0322M1Z7",
+      "client_tax_id": "01ZZOBI6229X1ZG",
+      "client_phone": "02897914851"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-387P",
+        "item_qty": "2",
+        "item_net_price": "88,418.47",
+        "item_net_worth": "176,836.94",
+        "item_vat": "28%",
+        "item_gross_worth": "226,351.28"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-869L",
+        "item_qty": "2",
+        "item_net_price": "36,357.52",
+        "item_net_worth": "72,715.04",
+        "item_vat": "28%",
+        "item_gross_worth": "93,075.25"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-950S",
+        "item_qty": "2",
+        "item_net_price": "94,024.67",
+        "item_net_worth": "188,049.34",
+        "item_vat": "28%",
+        "item_gross_worth": "240,703.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹437,601.32",
+      "total_vat": "₹122,528.37",
+      "total_gross_worth": "₹560,129.69",
+      "total_cgst": "₹61,264.18",
+      "total_sgst": "₹61,264.18",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/741",
+      "invoice_date": "30/09/2025",
+      "seller": "PRADHAN MOBILE SHOP 71/913, Raghavan Circle, Tadipatri 582615",
+      "client": "DIPTA ZACHARIA 63, Nayar Marg, Jaipur 044681",
+      "shipping_address": "95, Madan Chowk, Darbhanga-014636",
+      "seller_tax_id": "17ONMKO2123N1ZG",
+      "client_tax_id": "06FIVJR6396E1Z5",
+      "client_phone": "8154965835"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-405H",
+        "item_qty": "1",
+        "item_net_price": "29,374.92",
+        "item_net_worth": "29,374.92",
+        "item_vat": "28%",
+        "item_gross_worth": "37,599.90"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-689K",
+        "item_qty": "2",
+        "item_net_price": "9,285.69",
+        "item_net_worth": "18,571.38",
+        "item_vat": "28%",
+        "item_gross_worth": "23,771.37"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-330T",
+        "item_qty": "2",
+        "item_net_price": "12,994.11",
+        "item_net_worth": "25,988.22",
+        "item_vat": "28%",
+        "item_gross_worth": "33,264.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹73,934.52",
+      "total_vat": "₹20,701.67",
+      "total_gross_worth": "₹94,636.19",
+      "total_cgst": "₹10,350.83",
+      "total_sgst": "₹10,350.83",
+      "total_igst": "₹0.00"
+    }
+  }
+}

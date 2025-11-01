@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/953",
+      "invoice_date": "04/09/2025",
+      "seller": "TECH BAZAAR 18/33, Tandon Road, Kakinada 037492",
+      "client": "NATHAN BATRA 34/04, Kumar Road, Sultan Pur Majra 229841",
+      "shipping_address": "34/04, Kumar Road, Sultan Pur Majra 229841",
+      "seller_tax_id": "32UDCQQ4636I1ZF",
+      "client_tax_id": "22ZYXRO0274C1ZA",
+      "client_phone": "4767455224"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-645H",
+        "item_qty": "2",
+        "item_net_price": "26,930.06",
+        "item_net_worth": "53,860.12",
+        "item_vat": "12%",
+        "item_gross_worth": "60,323.33"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-766J",
+        "item_qty": "2",
+        "item_net_price": "17,927.21",
+        "item_net_worth": "35,854.42",
+        "item_vat": "12%",
+        "item_gross_worth": "40,156.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,714.54",
+      "total_vat": "₹10,765.74",
+      "total_gross_worth": "₹100,480.28",
+      "total_cgst": "₹5,382.87",
+      "total_sgst": "₹5,382.87",
+      "total_igst": "₹0.00"
+    }
+  }
+}

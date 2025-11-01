@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/963",
+      "invoice_date": "05/07/2025",
+      "seller": "SMART ELECTRONICS 99, Dayal Marg, Kozhikode-015059",
+      "client": "NAVEEN MERCHANT 39, Balay Zila, Hosur-171822",
+      "shipping_address": "39, Balay Zila, Hosur-171822",
+      "seller_tax_id": "27WGOIB5631E1Z3",
+      "client_tax_id": "01EFWZY7233O1Z4",
+      "client_phone": "04600056190"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-945H",
+        "item_qty": "1",
+        "item_net_price": "59,485.69",
+        "item_net_worth": "59,485.69",
+        "item_vat": "12%",
+        "item_gross_worth": "66,623.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹59,485.69",
+      "total_vat": "₹7,138.28",
+      "total_gross_worth": "₹66,623.97",
+      "total_cgst": "₹3,569.14",
+      "total_sgst": "₹3,569.14",
+      "total_igst": "₹0.00"
+    }
+  }
+}

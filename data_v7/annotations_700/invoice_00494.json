@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UBW/234",
+      "invoice_date": "15/06/2025",
+      "seller": "STAR ELECTRONICS 61, Kala Road, Alappuzha-854376",
+      "client": "OMAJA SUBRAMANIAM H.No. 605, Parsa Road, Bardhaman 159998",
+      "shipping_address": "H.No. 605, Parsa Road, Bardhaman 159998",
+      "seller_tax_id": "36LQMIC0120F1ZM",
+      "client_tax_id": "34MMKWJ9422O1ZM",
+      "client_phone": "+912071864750"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-844B",
+        "item_qty": "1",
+        "item_net_price": "21,523.94",
+        "item_net_worth": "21,523.94",
+        "item_vat": "12%",
+        "item_gross_worth": "24,106.81"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-700M",
+        "item_qty": "2",
+        "item_net_price": "29,120.53",
+        "item_net_worth": "58,241.06",
+        "item_vat": "12%",
+        "item_gross_worth": "65,229.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹79,765.00",
+      "total_vat": "₹9,571.80",
+      "total_gross_worth": "₹89,336.80",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,571.80"
+    }
+  }
+}

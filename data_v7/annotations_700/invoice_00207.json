@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CVB/910",
+      "invoice_date": "21/04/2025",
+      "seller": "TECH BAZAAR 551, Chadha Road, Udupi-123071",
+      "client": "VIHAAN VOHRA 71/86, Sodhi Chowk, Uluberia-197756",
+      "shipping_address": "974, Mander Path, Kollam 085340",
+      "seller_tax_id": "05MZODM3187J1Z8",
+      "client_tax_id": "35GSJUA8976A1ZV",
+      "client_phone": "03095571832"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-799J",
+        "item_qty": "2",
+        "item_net_price": "60,246.41",
+        "item_net_worth": "120,492.82",
+        "item_vat": "12%",
+        "item_gross_worth": "134,951.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,492.82",
+      "total_vat": "₹14,459.14",
+      "total_gross_worth": "₹134,951.96",
+      "total_cgst": "₹7,229.57",
+      "total_sgst": "₹7,229.57",
+      "total_igst": "₹0.00"
+    }
+  }
+}

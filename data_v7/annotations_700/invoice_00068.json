@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GUS/797",
+      "invoice_date": "06/04/2025",
+      "seller": "SINGH ELECTRONICS 23, Khalsa Path, Kollam-154802",
+      "client": "ROBERT KALA H.No. 207, Handa, Kolkata-634084",
+      "shipping_address": "38/21, Om, Patna-523450",
+      "seller_tax_id": "36PEEHP6609C1ZU",
+      "client_tax_id": "22RHKKS5983V1ZG",
+      "client_phone": "0057139033"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-231X",
+        "item_qty": "1",
+        "item_net_price": "41,811.69",
+        "item_net_worth": "41,811.69",
+        "item_vat": "12%",
+        "item_gross_worth": "46,829.09"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-504L",
+        "item_qty": "1",
+        "item_net_price": "84,317.24",
+        "item_net_worth": "84,317.24",
+        "item_vat": "12%",
+        "item_gross_worth": "94,435.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹126,128.93",
+      "total_vat": "₹15,135.47",
+      "total_gross_worth": "₹141,264.40",
+      "total_cgst": "₹7,567.74",
+      "total_sgst": "₹7,567.74",
+      "total_igst": "₹0.00"
+    }
+  }
+}

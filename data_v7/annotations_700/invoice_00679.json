@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/565",
+      "invoice_date": "12/10/2025",
+      "seller": "CITY ELECTRONICS 21/107, Majumdar Marg, Tiruppur-508939",
+      "client": "YAMINI SARAN H.No. 37, Chhabra Marg, Durg 845685",
+      "shipping_address": "H.No. 37, Chhabra Marg, Durg 845685",
+      "seller_tax_id": "22YHCAM4729A1ZU",
+      "client_tax_id": "24QGRJO1472G1Z6",
+      "client_phone": "2359074630"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-672G",
+        "item_qty": "2",
+        "item_net_price": "94,796.40",
+        "item_net_worth": "189,592.80",
+        "item_vat": "18%",
+        "item_gross_worth": "223,719.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,592.80",
+      "total_vat": "₹34,126.70",
+      "total_gross_worth": "₹223,719.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹34,126.70"
+    }
+  }
+}

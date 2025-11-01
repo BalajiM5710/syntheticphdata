@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5171",
+      "invoice_date": "30/03/2025",
+      "seller": "METRO TECH STORE H.No. 297, Devi, Pune-425793",
+      "client": "HARSHIL SARAN H.No. 74, Kala Street, Ichalkaranji-802636",
+      "shipping_address": "H.No. 74, Kala Street, Ichalkaranji-802636",
+      "seller_tax_id": "24SQMFI3488O1ZQ",
+      "client_tax_id": "37EJTRU7410U1ZW",
+      "client_phone": "05907540806"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-250W",
+        "item_qty": "1",
+        "item_net_price": "19,961.72",
+        "item_net_worth": "19,961.72",
+        "item_vat": "28%",
+        "item_gross_worth": "25,551.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹19,961.72",
+      "total_vat": "₹5,589.28",
+      "total_gross_worth": "₹25,551.00",
+      "total_cgst": "₹2,794.64",
+      "total_sgst": "₹2,794.64",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/832",
+      "invoice_date": "30/09/2025",
+      "seller": "PATEL MOBILES H.No. 944, Bhakta Street, Tiruppur-290817",
+      "client": "CHASMUM RAVI H.No. 831, Dhillon Zila, Tirunelveli-150005",
+      "shipping_address": "H.No. 831, Dhillon Zila, Tirunelveli-150005",
+      "seller_tax_id": "31KPCTH2189W1ZK",
+      "client_tax_id": "11PCSVU5080A1ZH",
+      "client_phone": "+917545712764"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-540F",
+        "item_qty": "2",
+        "item_net_price": "63,830.72",
+        "item_net_worth": "127,661.44",
+        "item_vat": "18%",
+        "item_gross_worth": "150,640.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,661.44",
+      "total_vat": "₹22,979.06",
+      "total_gross_worth": "₹150,640.50",
+      "total_cgst": "₹11,489.53",
+      "total_sgst": "₹11,489.53",
+      "total_igst": "₹0.00"
+    }
+  }
+}

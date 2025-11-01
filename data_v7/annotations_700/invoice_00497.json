@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/809",
+      "invoice_date": "01/09/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 546, Singh Road, Sagar 734451",
+      "client": "KRISHNA RAU 697, Kapadia Street, Ulhasnagar 896258",
+      "shipping_address": "697, Kapadia Street, Ulhasnagar 896258",
+      "seller_tax_id": "30BNPSF6970Z1Z7",
+      "client_tax_id": "21JRHUW7338E1Z4",
+      "client_phone": "+916687882065"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-230I",
+        "item_qty": "2",
+        "item_net_price": "18,932.61",
+        "item_net_worth": "37,865.22",
+        "item_vat": "18%",
+        "item_gross_worth": "44,680.96"
+      },
+      {
+        "item_desc": "TVS Bike TVS-718S",
+        "item_qty": "2",
+        "item_net_price": "20,805.72",
+        "item_net_worth": "41,611.44",
+        "item_vat": "18%",
+        "item_gross_worth": "49,101.50"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-831F",
+        "item_qty": "2",
+        "item_net_price": "31,933.03",
+        "item_net_worth": "63,866.06",
+        "item_vat": "18%",
+        "item_gross_worth": "75,361.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,342.72",
+      "total_vat": "₹25,801.69",
+      "total_gross_worth": "₹169,144.41",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,801.69"
+    }
+  }
+}

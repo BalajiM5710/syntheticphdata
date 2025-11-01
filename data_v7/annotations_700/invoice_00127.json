@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/307",
+      "invoice_date": "04/04/2025",
+      "seller": "PATEL MOBILES 73/59, Babu Nagar, Nagpur-653314",
+      "client": "ANMOL VARMA 74, Koshy Road, Gurgaon 739313",
+      "shipping_address": "H.No. 517, Karpe Marg, Hyderabad-432792",
+      "seller_tax_id": "09DSJMS5716S1ZU",
+      "client_tax_id": "28DKRYT9265A1Z5",
+      "client_phone": "2459815604"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-502P",
+        "item_qty": "2",
+        "item_net_price": "78,103.87",
+        "item_net_worth": "156,207.74",
+        "item_vat": "18%",
+        "item_gross_worth": "184,325.13"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-144X",
+        "item_qty": "2",
+        "item_net_price": "92,606.53",
+        "item_net_worth": "185,213.06",
+        "item_vat": "18%",
+        "item_gross_worth": "218,551.41"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-664O",
+        "item_qty": "1",
+        "item_net_price": "21,437.95",
+        "item_net_worth": "21,437.95",
+        "item_vat": "18%",
+        "item_gross_worth": "25,296.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹362,858.75",
+      "total_vat": "₹65,314.57",
+      "total_gross_worth": "₹428,173.33",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹65,314.57"
+    }
+  }
+}

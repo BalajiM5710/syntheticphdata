@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KFN/410",
+      "invoice_date": "08/06/2025",
+      "seller": "ROYAL MOBILES H.No. 435, Din Road, Malda-920118",
+      "client": "SACHI BASAK 35/92, Raj Marg, Singrauli 496974",
+      "shipping_address": "35/92, Raj Marg, Singrauli 496974",
+      "seller_tax_id": "03OHDYN8165G1ZM",
+      "client_tax_id": "28FZPZW5950B1Z9",
+      "client_phone": "03434622510"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-231B IMEI: 042126006623164",
+        "item_qty": "1",
+        "item_net_price": "11,421.26",
+        "item_net_worth": "11,421.26",
+        "item_vat": "18%",
+        "item_gross_worth": "13,477.09"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-165T",
+        "item_qty": "1",
+        "item_net_price": "86,026.46",
+        "item_net_worth": "86,026.46",
+        "item_vat": "18%",
+        "item_gross_worth": "101,511.22"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-201K",
+        "item_qty": "2",
+        "item_net_price": "14,635.10",
+        "item_net_worth": "29,270.20",
+        "item_vat": "18%",
+        "item_gross_worth": "34,538.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹126,717.92",
+      "total_vat": "₹22,809.23",
+      "total_gross_worth": "₹149,527.15",
+      "total_cgst": "₹11,404.61",
+      "total_sgst": "₹11,404.61",
+      "total_igst": "₹0.00"
+    }
+  }
+}

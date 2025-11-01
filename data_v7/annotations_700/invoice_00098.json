@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/906",
+      "invoice_date": "24/08/2025",
+      "seller": "FUTURE TECH 33, Lala Ganj, Haridwar-025055",
+      "client": "VRINDA VOHRA H.No. 027, Srinivasan Road, Hapur 564236",
+      "shipping_address": "90/981, Sahni Circle, Fatehpur 963567",
+      "seller_tax_id": "09OYJYD1465Z1ZY",
+      "client_tax_id": "14YPUKV7408E1ZQ",
+      "client_phone": "0979465830"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-155L",
+        "item_qty": "2",
+        "item_net_price": "9,370.36",
+        "item_net_worth": "18,740.72",
+        "item_vat": "18%",
+        "item_gross_worth": "22,114.05"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹18,740.72",
+      "total_vat": "₹3,373.33",
+      "total_gross_worth": "₹22,114.05",
+      "total_cgst": "₹1,686.66",
+      "total_sgst": "₹1,686.66",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/129",
+      "invoice_date": "22/08/2025",
+      "seller": "DIGITAL STORE H.No. 798, Khurana Marg, Jamshedpur-276836",
+      "client": "OJASVI DHAR H.No. 98, Kulkarni Zila, Imphal 886935",
+      "shipping_address": "H.No. 98, Kulkarni Zila, Imphal 886935",
+      "seller_tax_id": "27TCNDJ2218I1ZC",
+      "client_tax_id": "16YDMCQ4133V1ZV",
+      "client_phone": "+910988170796"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-741N",
+        "item_qty": "2",
+        "item_net_price": "47,801.06",
+        "item_net_worth": "95,602.12",
+        "item_vat": "12%",
+        "item_gross_worth": "107,074.37"
+      },
+      {
+        "item_desc": "Sony Camera SON-717B",
+        "item_qty": "1",
+        "item_net_price": "83,057.17",
+        "item_net_worth": "83,057.17",
+        "item_vat": "12%",
+        "item_gross_worth": "93,024.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹178,659.29",
+      "total_vat": "₹21,439.11",
+      "total_gross_worth": "₹200,098.40",
+      "total_cgst": "₹10,719.56",
+      "total_sgst": "₹10,719.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

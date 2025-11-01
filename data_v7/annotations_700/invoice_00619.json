@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RMP/595",
+      "invoice_date": "25/02/2025",
+      "seller": "METRO TECH STORE 57/40, Krishnan Nagar, Tiruchirappalli 037066",
+      "client": "JACOB CHATTERJEE 75, Raj Circle, Hubli–Dharwad 185117",
+      "shipping_address": "75, Raj Circle, Hubli–Dharwad 185117",
+      "seller_tax_id": "35OPGYM8282K1ZW",
+      "client_tax_id": "19MPDTT9604O1ZQ",
+      "client_phone": "02193938764"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-586B",
+        "item_qty": "1",
+        "item_net_price": "52,075.59",
+        "item_net_worth": "52,075.59",
+        "item_vat": "12%",
+        "item_gross_worth": "58,324.66"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-357P",
+        "item_qty": "1",
+        "item_net_price": "46,819.45",
+        "item_net_worth": "46,819.45",
+        "item_vat": "12%",
+        "item_gross_worth": "52,437.78"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-699Y",
+        "item_qty": "1",
+        "item_net_price": "28,393.14",
+        "item_net_worth": "28,393.14",
+        "item_vat": "12%",
+        "item_gross_worth": "31,800.32"
+      },
+      {
+        "item_desc": "Hero Bike HER-905O",
+        "item_qty": "1",
+        "item_net_price": "59,653.37",
+        "item_net_worth": "59,653.37",
+        "item_vat": "12%",
+        "item_gross_worth": "66,811.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹186,941.55",
+      "total_vat": "₹22,432.99",
+      "total_gross_worth": "₹209,374.54",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,432.99"
+    }
+  }
+}

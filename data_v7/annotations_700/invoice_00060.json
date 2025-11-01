@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8194",
+      "invoice_date": "08/06/2025",
+      "seller": "KUMAR TECH SOLUTIONS 71/645, Chowdhury Ganj, Ghaziabad 190320",
+      "client": "MASON GOEL H.No. 785, Deep Path, Kadapa 261884",
+      "shipping_address": "H.No. 785, Deep Path, Kadapa 261884",
+      "seller_tax_id": "09TKSDW4776X1ZR",
+      "client_tax_id": "17RQICH8920R1Z9",
+      "client_phone": "5556059735"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-629B",
+        "item_qty": "1",
+        "item_net_price": "51,831.40",
+        "item_net_worth": "51,831.40",
+        "item_vat": "28%",
+        "item_gross_worth": "66,344.19"
+      },
+      {
+        "item_desc": "Sony Television SON-852C",
+        "item_qty": "2",
+        "item_net_price": "38,626.69",
+        "item_net_worth": "77,253.38",
+        "item_vat": "28%",
+        "item_gross_worth": "98,884.33"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-903T",
+        "item_qty": "1",
+        "item_net_price": "86,746.61",
+        "item_net_worth": "86,746.61",
+        "item_vat": "28%",
+        "item_gross_worth": "111,035.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹215,831.39",
+      "total_vat": "₹60,432.79",
+      "total_gross_worth": "₹276,264.18",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹60,432.79"
+    }
+  }
+}

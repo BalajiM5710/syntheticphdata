@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KCQ/640",
+      "invoice_date": "27/04/2025",
+      "seller": "RAM ELECTRONICS H.No. 633, Das, Hapur-546285",
+      "client": "PETER DEY 24, Doctor Road, Aligarh 232567",
+      "shipping_address": "91/35, Aggarwal Ganj, Ranchi-128189",
+      "seller_tax_id": "06MICIS9163E1ZV",
+      "client_tax_id": "06UHJMD5212G1ZQ",
+      "client_phone": "02703074979"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-918P",
+        "item_qty": "2",
+        "item_net_price": "44,461.98",
+        "item_net_worth": "88,923.96",
+        "item_vat": "28%",
+        "item_gross_worth": "113,822.67"
+      },
+      {
+        "item_desc": "TCL Television TCL-215Y",
+        "item_qty": "2",
+        "item_net_price": "48,564.89",
+        "item_net_worth": "97,129.78",
+        "item_vat": "28%",
+        "item_gross_worth": "124,326.12"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-962J",
+        "item_qty": "1",
+        "item_net_price": "18,991.05",
+        "item_net_worth": "18,991.05",
+        "item_vat": "28%",
+        "item_gross_worth": "24,308.54"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-339Q",
+        "item_qty": "2",
+        "item_net_price": "87,766.61",
+        "item_net_worth": "175,533.22",
+        "item_vat": "28%",
+        "item_gross_worth": "224,682.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹380,578.01",
+      "total_vat": "₹106,561.84",
+      "total_gross_worth": "₹487,139.85",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹106,561.84"
+    }
+  }
+}

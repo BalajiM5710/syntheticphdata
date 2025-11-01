@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1567",
+      "invoice_date": "05/02/2025",
+      "seller": "CITY ELECTRONICS 01/05, More Circle, Karimnagar 135301",
+      "client": "DIVYA GARA 78/15, Shere Road, Kishanganj 261034",
+      "shipping_address": "78/15, Shere Road, Kishanganj 261034",
+      "seller_tax_id": "36RVVVN6727V1Z8",
+      "client_tax_id": "10AVATU8617K1Z2",
+      "client_phone": "01895086073"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-825K",
+        "item_qty": "1",
+        "item_net_price": "23,883.38",
+        "item_net_worth": "23,883.38",
+        "item_vat": "18%",
+        "item_gross_worth": "28,182.39"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-777J",
+        "item_qty": "2",
+        "item_net_price": "8,915.39",
+        "item_net_worth": "17,830.78",
+        "item_vat": "18%",
+        "item_gross_worth": "21,040.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹41,714.16",
+      "total_vat": "₹7,508.55",
+      "total_gross_worth": "₹49,222.71",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹7,508.55"
+    }
+  }
+}

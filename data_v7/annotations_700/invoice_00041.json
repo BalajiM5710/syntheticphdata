@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZDQ/964",
+      "invoice_date": "24/03/2025",
+      "seller": "DIGITAL STORE 37/055, Sabharwal Zila, Warangal 930536",
+      "client": "GABRIEL KANDA H.No. 57, Aurora Zila, Aligarh 074265",
+      "shipping_address": "H.No. 57, Aurora Zila, Aligarh 074265",
+      "seller_tax_id": "13IQSSB6451X1ZH",
+      "client_tax_id": "13OPKYW6058G1Z1",
+      "client_phone": "+915875030313"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-252J",
+        "item_qty": "1",
+        "item_net_price": "88,446.79",
+        "item_net_worth": "88,446.79",
+        "item_vat": "18%",
+        "item_gross_worth": "104,367.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,446.79",
+      "total_vat": "₹15,920.42",
+      "total_gross_worth": "₹104,367.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,920.42"
+    }
+  }
+}

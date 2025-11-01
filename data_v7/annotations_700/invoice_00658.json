@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/469",
+      "invoice_date": "16/09/2025",
+      "seller": "DIGITAL STORE H.No. 66, Kata Nagar, Shimla-726882",
+      "client": "ZEHAAN KADE 947, Ramachandran Street, Bettiah 387091",
+      "shipping_address": "947, Ramachandran Street, Bettiah 387091",
+      "seller_tax_id": "01EHLAF5666U1ZA",
+      "client_tax_id": "20HHDXR1148A1ZF",
+      "client_phone": "5359392232"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-571M",
+        "item_qty": "1",
+        "item_net_price": "44,608.17",
+        "item_net_worth": "44,608.17",
+        "item_vat": "28%",
+        "item_gross_worth": "57,098.46"
+      },
+      {
+        "item_desc": "LG Microwave LG-680R",
+        "item_qty": "2",
+        "item_net_price": "42,073.61",
+        "item_net_worth": "84,147.22",
+        "item_vat": "28%",
+        "item_gross_worth": "107,708.44"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-767E",
+        "item_qty": "1",
+        "item_net_price": "72,814.54",
+        "item_net_worth": "72,814.54",
+        "item_vat": "28%",
+        "item_gross_worth": "93,202.61"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-378I",
+        "item_qty": "1",
+        "item_net_price": "67,512.35",
+        "item_net_worth": "67,512.35",
+        "item_vat": "28%",
+        "item_gross_worth": "86,415.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹269,082.28",
+      "total_vat": "₹75,343.04",
+      "total_gross_worth": "₹344,425.32",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹75,343.04"
+    }
+  }
+}

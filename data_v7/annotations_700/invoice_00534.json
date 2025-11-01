@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/474",
+      "invoice_date": "07/09/2025",
+      "seller": "VISHWA ELECTRONICS 54/04, Pal Circle, Shivpuri-950017",
+      "client": "EKANI CHATTERJEE H.No. 41, Comar Road, Durgapur-203645",
+      "shipping_address": "H.No. 41, Comar Road, Durgapur-203645",
+      "seller_tax_id": "24LDEBC0828V1ZF",
+      "client_tax_id": "26EHSVC1602M1Z9",
+      "client_phone": "9534939922"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-729Q",
+        "item_qty": "2",
+        "item_net_price": "90,081.96",
+        "item_net_worth": "180,163.92",
+        "item_vat": "12%",
+        "item_gross_worth": "201,783.59"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-248J",
+        "item_qty": "1",
+        "item_net_price": "77,822.47",
+        "item_net_worth": "77,822.47",
+        "item_vat": "12%",
+        "item_gross_worth": "87,161.17"
+      },
+      {
+        "item_desc": "Canon Camera CAN-758X",
+        "item_qty": "2",
+        "item_net_price": "39,678.58",
+        "item_net_worth": "79,357.16",
+        "item_vat": "12%",
+        "item_gross_worth": "88,880.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹337,343.55",
+      "total_vat": "₹40,481.23",
+      "total_gross_worth": "₹377,824.78",
+      "total_cgst": "₹20,240.61",
+      "total_sgst": "₹20,240.61",
+      "total_igst": "₹0.00"
+    }
+  }
+}

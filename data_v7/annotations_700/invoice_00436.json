@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/171",
+      "invoice_date": "12/06/2025",
+      "seller": "TECH BAZAAR 51/675, Char Path, Ghaziabad-778047",
+      "client": "VEER PARMER 67, Mahajan Street, Visakhapatnam 592024",
+      "shipping_address": "67, Mahajan Street, Visakhapatnam 592024",
+      "seller_tax_id": "21SBEGH3519H1Z4",
+      "client_tax_id": "26RNYRX6487X1Z9",
+      "client_phone": "06022175979"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-193O",
+        "item_qty": "2",
+        "item_net_price": "41,694.47",
+        "item_net_worth": "83,388.94",
+        "item_vat": "18%",
+        "item_gross_worth": "98,398.95"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-987P",
+        "item_qty": "2",
+        "item_net_price": "64,842.85",
+        "item_net_worth": "129,685.70",
+        "item_vat": "18%",
+        "item_gross_worth": "153,029.13"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-247K",
+        "item_qty": "1",
+        "item_net_price": "92,258.94",
+        "item_net_worth": "92,258.94",
+        "item_vat": "18%",
+        "item_gross_worth": "108,865.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹305,333.58",
+      "total_vat": "₹54,960.04",
+      "total_gross_worth": "₹360,293.62",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹54,960.04"
+    }
+  }
+}

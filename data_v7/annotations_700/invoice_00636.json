@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/978",
+      "invoice_date": "25/02/2025",
+      "seller": "TECH BAZAAR 42/456, Sen Circle, Bardhaman-196717",
+      "client": "VANSHA BARAL 480, Dhar, Sultan Pur Majra 513279",
+      "shipping_address": "12, Misra Zila, Kumbakonam 105043",
+      "seller_tax_id": "03KEBWK3656T1ZL",
+      "client_tax_id": "35TDHBS2404A1ZX",
+      "client_phone": "9496205184"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-596O",
+        "item_qty": "2",
+        "item_net_price": "88,051.02",
+        "item_net_worth": "176,102.04",
+        "item_vat": "28%",
+        "item_gross_worth": "225,410.61"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-230S",
+        "item_qty": "1",
+        "item_net_price": "19,438.41",
+        "item_net_worth": "19,438.41",
+        "item_vat": "28%",
+        "item_gross_worth": "24,881.16"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-948D",
+        "item_qty": "1",
+        "item_net_price": "21,333.85",
+        "item_net_worth": "21,333.85",
+        "item_vat": "28%",
+        "item_gross_worth": "27,307.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹216,874.30",
+      "total_vat": "₹60,724.80",
+      "total_gross_worth": "₹277,599.10",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹60,724.80"
+    }
+  }
+}

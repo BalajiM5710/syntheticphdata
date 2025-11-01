@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PHL/802",
+      "invoice_date": "09/02/2025",
+      "seller": "SMART ELECTRONICS 24, Virk Nagar, Rajahmundry-250924",
+      "client": "SUDIKSHA SIBAL 99, Contractor Path, Gopalpur-061734",
+      "shipping_address": "72/30, Bhattacharyya Street, Jabalpur 197490",
+      "seller_tax_id": "25SYNFE4289P1ZG",
+      "client_tax_id": "34ECJYK9909F1ZB",
+      "client_phone": "08404703259"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-270N",
+        "item_qty": "1",
+        "item_net_price": "23,280.03",
+        "item_net_worth": "23,280.03",
+        "item_vat": "28%",
+        "item_gross_worth": "29,798.44"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-561E",
+        "item_qty": "2",
+        "item_net_price": "39,071.90",
+        "item_net_worth": "78,143.80",
+        "item_vat": "28%",
+        "item_gross_worth": "100,024.06"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-798I",
+        "item_qty": "1",
+        "item_net_price": "52,016.82",
+        "item_net_worth": "52,016.82",
+        "item_vat": "28%",
+        "item_gross_worth": "66,581.53"
+      },
+      {
+        "item_desc": "Canon Camera CAN-967B",
+        "item_qty": "1",
+        "item_net_price": "17,680.43",
+        "item_net_worth": "17,680.43",
+        "item_vat": "28%",
+        "item_gross_worth": "22,630.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹171,121.08",
+      "total_vat": "₹47,913.90",
+      "total_gross_worth": "₹219,034.98",
+      "total_cgst": "₹23,956.95",
+      "total_sgst": "₹23,956.95",
+      "total_igst": "₹0.00"
+    }
+  }
+}

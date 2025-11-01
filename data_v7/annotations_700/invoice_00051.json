@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EKI/987",
+      "invoice_date": "27/02/2025",
+      "seller": "PRADHAN MOBILE SHOP 23/703, Iyengar Zila, Ajmer 128488",
+      "client": "GEETIKA PANDYA 84, Kant Ganj, Rourkela 803793",
+      "shipping_address": "84, Kant Ganj, Rourkela 803793",
+      "seller_tax_id": "37BXIUY9432B1ZN",
+      "client_tax_id": "10DYUID4495T1ZL",
+      "client_phone": "+912976322422"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-392K",
+        "item_qty": "2",
+        "item_net_price": "86,749.32",
+        "item_net_worth": "173,498.64",
+        "item_vat": "18%",
+        "item_gross_worth": "204,728.40"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-228D",
+        "item_qty": "1",
+        "item_net_price": "70,542.47",
+        "item_net_worth": "70,542.47",
+        "item_vat": "18%",
+        "item_gross_worth": "83,240.11"
+      },
+      {
+        "item_desc": "Sony Speaker SON-317T",
+        "item_qty": "2",
+        "item_net_price": "40,739.54",
+        "item_net_worth": "81,479.08",
+        "item_vat": "18%",
+        "item_gross_worth": "96,145.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹325,520.19",
+      "total_vat": "₹58,593.63",
+      "total_gross_worth": "₹384,113.82",
+      "total_cgst": "₹29,296.82",
+      "total_sgst": "₹29,296.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

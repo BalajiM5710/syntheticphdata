@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/331",
+      "invoice_date": "06/10/2025",
+      "seller": "VISHWA ELECTRONICS 22/93, Bora Street, Durgapur 166817",
+      "client": "BACHITTAR BERA H.No. 58, Chauhan Chowk, Khora -974241",
+      "shipping_address": "H.No. 58, Chauhan Chowk, Khora -974241",
+      "seller_tax_id": "36UJBEB2372L1Z4",
+      "client_tax_id": "29AANJT7062R1Z3",
+      "client_phone": "0758972018"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-829S",
+        "item_qty": "2",
+        "item_net_price": "56,080.88",
+        "item_net_worth": "112,161.76",
+        "item_vat": "12%",
+        "item_gross_worth": "125,621.17"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-991A",
+        "item_qty": "2",
+        "item_net_price": "27,267.43",
+        "item_net_worth": "54,534.86",
+        "item_vat": "12%",
+        "item_gross_worth": "61,079.04"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-864N",
+        "item_qty": "2",
+        "item_net_price": "61,208.13",
+        "item_net_worth": "122,416.26",
+        "item_vat": "12%",
+        "item_gross_worth": "137,106.21"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-700B",
+        "item_qty": "1",
+        "item_net_price": "11,360.97",
+        "item_net_worth": "11,360.97",
+        "item_vat": "12%",
+        "item_gross_worth": "12,724.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹300,473.85",
+      "total_vat": "₹36,056.86",
+      "total_gross_worth": "₹336,530.71",
+      "total_cgst": "₹18,028.43",
+      "total_sgst": "₹18,028.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

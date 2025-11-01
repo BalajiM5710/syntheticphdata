@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/785",
+      "invoice_date": "27/06/2025",
+      "seller": "SUPREME ELECTRONICS 22/52, Malhotra Path, Bokaro 105003",
+      "client": "RIA SINHA H.No. 646, Shan Marg, Adoni-250389",
+      "shipping_address": "H.No. 646, Shan Marg, Adoni-250389",
+      "seller_tax_id": "01HSZAM8916L1ZB",
+      "client_tax_id": "06RJDKB1369L1ZG",
+      "client_phone": "+912617010502"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-421F",
+        "item_qty": "2",
+        "item_net_price": "27,435.65",
+        "item_net_worth": "54,871.30",
+        "item_vat": "28%",
+        "item_gross_worth": "70,235.26"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-691J",
+        "item_qty": "2",
+        "item_net_price": "63,515.41",
+        "item_net_worth": "127,030.82",
+        "item_vat": "28%",
+        "item_gross_worth": "162,599.45"
+      },
+      {
+        "item_desc": "Sony Headphones SON-581Q",
+        "item_qty": "1",
+        "item_net_price": "86,730.87",
+        "item_net_worth": "86,730.87",
+        "item_vat": "28%",
+        "item_gross_worth": "111,015.51"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-452Y",
+        "item_qty": "2",
+        "item_net_price": "75,585.94",
+        "item_net_worth": "151,171.88",
+        "item_vat": "28%",
+        "item_gross_worth": "193,500.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹419,804.87",
+      "total_vat": "₹117,545.36",
+      "total_gross_worth": "₹537,350.23",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹117,545.36"
+    }
+  }
+}

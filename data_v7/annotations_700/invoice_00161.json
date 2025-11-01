@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/537",
+      "invoice_date": "16/10/2025",
+      "seller": "ROYAL MOBILES 06/58, Narang Ganj, Nanded-488004",
+      "client": "AARNA AMBLE 76/81, Raja Nagar, Sri Ganganagar-580811",
+      "shipping_address": "76/81, Raja Nagar, Sri Ganganagar-580811",
+      "seller_tax_id": "29IAALJ9916C1ZC",
+      "client_tax_id": "33MJVYD6047N1Z8",
+      "client_phone": "9905734492"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-589E",
+        "item_qty": "2",
+        "item_net_price": "44,134.30",
+        "item_net_worth": "88,268.60",
+        "item_vat": "18%",
+        "item_gross_worth": "104,156.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,268.60",
+      "total_vat": "₹15,888.35",
+      "total_gross_worth": "₹104,156.95",
+      "total_cgst": "₹7,944.17",
+      "total_sgst": "₹7,944.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

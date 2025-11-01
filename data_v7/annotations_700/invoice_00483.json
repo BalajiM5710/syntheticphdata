@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/536",
+      "invoice_date": "01/05/2025",
+      "seller": "VISHWA ELECTRONICS 43, Vig Marg, Tezpur-913490",
+      "client": "SHRAVYA PADMANABHAN 75/02, Nagi Nagar, Ludhiana 153730",
+      "shipping_address": "75/02, Nagi Nagar, Ludhiana 153730",
+      "seller_tax_id": "07UKYUL2782A1ZH",
+      "client_tax_id": "03LNRSG2115E1ZA",
+      "client_phone": "+914911921788"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-514D IMEI: 068009767427133",
+        "item_qty": "1",
+        "item_net_price": "56,738.08",
+        "item_net_worth": "56,738.08",
+        "item_vat": "12%",
+        "item_gross_worth": "63,546.65"
+      },
+      {
+        "item_desc": "Sony Headphones SON-719C",
+        "item_qty": "2",
+        "item_net_price": "18,650.49",
+        "item_net_worth": "37,300.98",
+        "item_vat": "12%",
+        "item_gross_worth": "41,777.10"
+      },
+      {
+        "item_desc": "Sony Television SON-593H",
+        "item_qty": "1",
+        "item_net_price": "49,712.49",
+        "item_net_worth": "49,712.49",
+        "item_vat": "12%",
+        "item_gross_worth": "55,677.99"
+      },
+      {
+        "item_desc": "LG Microwave LG-831X",
+        "item_qty": "1",
+        "item_net_price": "89,349.82",
+        "item_net_worth": "89,349.82",
+        "item_vat": "12%",
+        "item_gross_worth": "100,071.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹233,101.37",
+      "total_vat": "₹27,972.16",
+      "total_gross_worth": "₹261,073.53",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹27,972.16"
+    }
+  }
+}

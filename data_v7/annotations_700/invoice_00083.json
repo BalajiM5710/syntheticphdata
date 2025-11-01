@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/295",
+      "invoice_date": "22/02/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 377, Rattan Circle, Miryalaguda 360332",
+      "client": "EIRAVATI BADAL 279, Sibal Circle, Tenali-765891",
+      "shipping_address": "279, Sibal Circle, Tenali-765891",
+      "seller_tax_id": "15TVEQV0898K1Z9",
+      "client_tax_id": "32MFDQF3045D1ZT",
+      "client_phone": "+912451018510"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-258F",
+        "item_qty": "1",
+        "item_net_price": "53,430.35",
+        "item_net_worth": "53,430.35",
+        "item_vat": "18%",
+        "item_gross_worth": "63,047.81"
+      },
+      {
+        "item_desc": "LG Microwave LG-575E",
+        "item_qty": "1",
+        "item_net_price": "9,708.65",
+        "item_net_worth": "9,708.65",
+        "item_vat": "18%",
+        "item_gross_worth": "11,456.21"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-982E",
+        "item_qty": "2",
+        "item_net_price": "77,589.06",
+        "item_net_worth": "155,178.12",
+        "item_vat": "18%",
+        "item_gross_worth": "183,110.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹218,317.12",
+      "total_vat": "₹39,297.08",
+      "total_gross_worth": "₹257,614.20",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,297.08"
+    }
+  }
+}

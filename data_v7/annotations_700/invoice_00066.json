@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5763",
+      "invoice_date": "31/01/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 31, Brar Marg, Ujjain 959533",
+      "client": "ISHAAN DANI 56/043, Krishnan Road, Jehanabad-216179",
+      "shipping_address": "56/043, Krishnan Road, Jehanabad-216179",
+      "seller_tax_id": "01GXTLF3489L1ZE",
+      "client_tax_id": "32RHJQZ3684F1ZC",
+      "client_phone": "4591001599"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-755Y",
+        "item_qty": "1",
+        "item_net_price": "61,722.32",
+        "item_net_worth": "61,722.32",
+        "item_vat": "12%",
+        "item_gross_worth": "69,129.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹61,722.32",
+      "total_vat": "₹7,406.68",
+      "total_gross_worth": "₹69,129.00",
+      "total_cgst": "₹3,703.34",
+      "total_sgst": "₹3,703.34",
+      "total_igst": "₹0.00"
+    }
+  }
+}

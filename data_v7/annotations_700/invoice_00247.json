@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9448",
+      "invoice_date": "23/06/2025",
+      "seller": "ELECTRONICS WORLD 666, Dora Marg, Rajahmundry-355651",
+      "client": "HARITA SRIDHAR 95/27, Biswas Zila, Pallavaram-563172",
+      "shipping_address": "95/27, Biswas Zila, Pallavaram-563172",
+      "seller_tax_id": "36CAHNT5056E1ZP",
+      "client_tax_id": "14UFSKV4191H1Z8",
+      "client_phone": "02567852816"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-822O",
+        "item_qty": "2",
+        "item_net_price": "46,350.78",
+        "item_net_worth": "92,701.56",
+        "item_vat": "12%",
+        "item_gross_worth": "103,825.75"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-137T",
+        "item_qty": "1",
+        "item_net_price": "52,180.50",
+        "item_net_worth": "52,180.50",
+        "item_vat": "12%",
+        "item_gross_worth": "58,442.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹144,882.06",
+      "total_vat": "₹17,385.85",
+      "total_gross_worth": "₹162,267.91",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹17,385.85"
+    }
+  }
+}

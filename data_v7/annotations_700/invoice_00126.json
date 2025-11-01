@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DBK/454",
+      "invoice_date": "08/10/2025",
+      "seller": "METRO TECH STORE 89, Merchant Zila, Jammu 333869",
+      "client": "SAI GANGULY 71, Pillai Marg, Raichur-036117",
+      "shipping_address": "71, Pillai Marg, Raichur-036117",
+      "seller_tax_id": "33PULGS8542B1ZT",
+      "client_tax_id": "09OQVDK3860A1ZT",
+      "client_phone": "+912163327015"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-944C IMEI: 277597943231115",
+        "item_qty": "1",
+        "item_net_price": "16,925.45",
+        "item_net_worth": "16,925.45",
+        "item_vat": "28%",
+        "item_gross_worth": "21,664.58"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-257J",
+        "item_qty": "1",
+        "item_net_price": "52,669.96",
+        "item_net_worth": "52,669.96",
+        "item_vat": "28%",
+        "item_gross_worth": "67,417.55"
+      },
+      {
+        "item_desc": "Sony Television SON-978K",
+        "item_qty": "1",
+        "item_net_price": "90,569.29",
+        "item_net_worth": "90,569.29",
+        "item_vat": "28%",
+        "item_gross_worth": "115,928.69"
+      },
+      {
+        "item_desc": "Canon Camera CAN-546Z",
+        "item_qty": "1",
+        "item_net_price": "58,028.41",
+        "item_net_worth": "58,028.41",
+        "item_vat": "28%",
+        "item_gross_worth": "74,276.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹218,193.11",
+      "total_vat": "₹61,094.07",
+      "total_gross_worth": "₹279,287.18",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹61,094.07"
+    }
+  }
+}

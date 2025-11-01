@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1776",
+      "invoice_date": "01/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 851, Pant Road, Hajipur 417738",
+      "client": "MANTHAN KHANNA 58, Nagarajan Ganj, Adoni 179327",
+      "shipping_address": "63, Pillai, Rajpur Sonarpur-546930",
+      "seller_tax_id": "15YVDGC4909Q1ZZ",
+      "client_tax_id": "25FTVTY0722A1ZR",
+      "client_phone": "07525005481"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-129Y",
+        "item_qty": "1",
+        "item_net_price": "79,841.17",
+        "item_net_worth": "79,841.17",
+        "item_vat": "12%",
+        "item_gross_worth": "89,422.11"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-524T",
+        "item_qty": "1",
+        "item_net_price": "51,592.48",
+        "item_net_worth": "51,592.48",
+        "item_vat": "12%",
+        "item_gross_worth": "57,783.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹131,433.65",
+      "total_vat": "₹15,772.04",
+      "total_gross_worth": "₹147,205.69",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,772.04"
+    }
+  }
+}

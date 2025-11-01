@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4582",
+      "invoice_date": "26/09/2025",
+      "seller": "PATEL MOBILES H.No. 82, Chaudhary Road, Madanapalle-159656",
+      "client": "RAJATA CHACKO 299, Dara Marg, Rajkot-096238",
+      "shipping_address": "299, Dara Marg, Rajkot-096238",
+      "seller_tax_id": "10ATLRP6693E1ZP",
+      "client_tax_id": "17PTOYU2032G1Z8",
+      "client_phone": "+917202714670"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-397S",
+        "item_qty": "2",
+        "item_net_price": "51,926.10",
+        "item_net_worth": "103,852.20",
+        "item_vat": "12%",
+        "item_gross_worth": "116,314.46"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-181I",
+        "item_qty": "1",
+        "item_net_price": "82,085.38",
+        "item_net_worth": "82,085.38",
+        "item_vat": "12%",
+        "item_gross_worth": "91,935.63"
+      },
+      {
+        "item_desc": "Sony Camera SON-272N",
+        "item_qty": "2",
+        "item_net_price": "54,416.83",
+        "item_net_worth": "108,833.66",
+        "item_vat": "12%",
+        "item_gross_worth": "121,893.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹294,771.24",
+      "total_vat": "₹35,372.55",
+      "total_gross_worth": "₹330,143.79",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,372.55"
+    }
+  }
+}

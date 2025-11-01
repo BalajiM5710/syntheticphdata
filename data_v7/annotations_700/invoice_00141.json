@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BCR/410",
+      "invoice_date": "30/10/2025",
+      "seller": "MOBILE POINT 29/02, Bora Ganj, Nashik-874868",
+      "client": "ADWETA SANGHA 61/125, Chhabra Ganj, Satara 965502",
+      "shipping_address": "68/752, Mittal Nagar, Agra 549072",
+      "seller_tax_id": "21AGHLY3114U1ZB",
+      "client_tax_id": "14QAGHI5043T1ZK",
+      "client_phone": "+915081773006"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-598F",
+        "item_qty": "1",
+        "item_net_price": "14,196.82",
+        "item_net_worth": "14,196.82",
+        "item_vat": "12%",
+        "item_gross_worth": "15,900.44"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-452L",
+        "item_qty": "2",
+        "item_net_price": "89,090.82",
+        "item_net_worth": "178,181.64",
+        "item_vat": "12%",
+        "item_gross_worth": "199,563.44"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹192,378.46",
+      "total_vat": "₹23,085.42",
+      "total_gross_worth": "₹215,463.88",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,085.42"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AAQ/349",
+      "invoice_date": "08/04/2025",
+      "seller": "MOBILE POINT 971, Mahajan Marg, Farrukhabad-910334",
+      "client": "EKANI DEVI 29, Hayer Zila, Bettiah-797030",
+      "shipping_address": "40/115, Parmer Circle, Ajmer 348357",
+      "seller_tax_id": "01CRKMV9067K1Z5",
+      "client_tax_id": "07JQZAU5890H1ZJ",
+      "client_phone": "09752369397"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-696Z",
+        "item_qty": "2",
+        "item_net_price": "25,195.43",
+        "item_net_worth": "50,390.86",
+        "item_vat": "28%",
+        "item_gross_worth": "64,500.30"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-133X",
+        "item_qty": "1",
+        "item_net_price": "91,601.19",
+        "item_net_worth": "91,601.19",
+        "item_vat": "28%",
+        "item_gross_worth": "117,249.52"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-740E IMEI: 509634518035830",
+        "item_qty": "2",
+        "item_net_price": "55,695.12",
+        "item_net_worth": "111,390.24",
+        "item_vat": "28%",
+        "item_gross_worth": "142,579.51"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-961Q",
+        "item_qty": "2",
+        "item_net_price": "57,595.73",
+        "item_net_worth": "115,191.46",
+        "item_vat": "28%",
+        "item_gross_worth": "147,445.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹368,573.75",
+      "total_vat": "₹103,200.65",
+      "total_gross_worth": "₹471,774.40",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹103,200.65"
+    }
+  }
+}

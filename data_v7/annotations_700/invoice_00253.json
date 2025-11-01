@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EHI/743",
+      "invoice_date": "15/06/2025",
+      "seller": "METRO TECH STORE H.No. 20, Jani Chowk, Danapur-359788",
+      "client": "YASTI DEWAN H.No. 83, Anand Marg, Gurgaon 960504",
+      "shipping_address": "H.No. 83, Anand Marg, Gurgaon 960504",
+      "seller_tax_id": "17EGFYA1560P1ZB",
+      "client_tax_id": "21VSGCE0460B1ZN",
+      "client_phone": "+914004217775"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-122M",
+        "item_qty": "2",
+        "item_net_price": "63,945.32",
+        "item_net_worth": "127,890.64",
+        "item_vat": "28%",
+        "item_gross_worth": "163,700.02"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-601K",
+        "item_qty": "1",
+        "item_net_price": "15,250.95",
+        "item_net_worth": "15,250.95",
+        "item_vat": "28%",
+        "item_gross_worth": "19,521.22"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-404F",
+        "item_qty": "1",
+        "item_net_price": "39,889.68",
+        "item_net_worth": "39,889.68",
+        "item_vat": "28%",
+        "item_gross_worth": "51,058.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹183,031.27",
+      "total_vat": "₹51,248.76",
+      "total_gross_worth": "₹234,280.03",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹51,248.76"
+    }
+  }
+}

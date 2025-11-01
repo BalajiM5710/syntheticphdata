@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AGG/117",
+      "invoice_date": "22/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 03, Bedi Ganj, Tiruppur-994111",
+      "client": "TARAK MUKHERJEE H.No. 984, Narula Circle, Jammu 125612",
+      "shipping_address": "H.No. 984, Narula Circle, Jammu 125612",
+      "seller_tax_id": "01WSLFE9315H1ZH",
+      "client_tax_id": "37YXFUH1185J1ZA",
+      "client_phone": "+916223686826"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-947I",
+        "item_qty": "2",
+        "item_net_price": "63,599.57",
+        "item_net_worth": "127,199.14",
+        "item_vat": "18%",
+        "item_gross_worth": "150,094.99"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-453O",
+        "item_qty": "1",
+        "item_net_price": "88,911.28",
+        "item_net_worth": "88,911.28",
+        "item_vat": "18%",
+        "item_gross_worth": "104,915.31"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-631T IMEI: 495607209117095",
+        "item_qty": "2",
+        "item_net_price": "36,963.89",
+        "item_net_worth": "73,927.78",
+        "item_vat": "18%",
+        "item_gross_worth": "87,234.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹290,038.20",
+      "total_vat": "₹52,206.88",
+      "total_gross_worth": "₹342,245.08",
+      "total_cgst": "₹26,103.44",
+      "total_sgst": "₹26,103.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

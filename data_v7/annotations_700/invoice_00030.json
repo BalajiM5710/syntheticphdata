@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8644",
+      "invoice_date": "14/07/2025",
+      "seller": "STAR ELECTRONICS 90/842, Buch Nagar, Jehanabad-643852",
+      "client": "GUNBIR BHAGAT 21/81, Soman Ganj, Kakinada-044869",
+      "shipping_address": "21/81, Soman Ganj, Kakinada-044869",
+      "seller_tax_id": "34KKTOS2980O1ZA",
+      "client_tax_id": "09UUUZA6605D1Z9",
+      "client_phone": "1368486338"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-237D",
+        "item_qty": "2",
+        "item_net_price": "73,214.64",
+        "item_net_worth": "146,429.28",
+        "item_vat": "18%",
+        "item_gross_worth": "172,786.55"
+      },
+      {
+        "item_desc": "LG Microwave LG-895Y",
+        "item_qty": "1",
+        "item_net_price": "34,929.34",
+        "item_net_worth": "34,929.34",
+        "item_vat": "18%",
+        "item_gross_worth": "41,216.62"
+      },
+      {
+        "item_desc": "Sony Headphones SON-566D",
+        "item_qty": "2",
+        "item_net_price": "28,390.21",
+        "item_net_worth": "56,780.42",
+        "item_vat": "18%",
+        "item_gross_worth": "67,000.90"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-488Y",
+        "item_qty": "2",
+        "item_net_price": "73,226.66",
+        "item_net_worth": "146,453.32",
+        "item_vat": "18%",
+        "item_gross_worth": "172,814.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹384,592.36",
+      "total_vat": "₹69,226.62",
+      "total_gross_worth": "₹453,818.98",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹69,226.62"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1120",
+      "invoice_date": "19/06/2025",
+      "seller": "DIGITAL STORE H.No. 37, Shukla, Ghaziabad-773995",
+      "client": "GANGA DUGAL H.No. 45, Lal, Nellore-512853",
+      "shipping_address": "H.No. 45, Lal, Nellore-512853",
+      "seller_tax_id": "05HUOBJ7760T1ZV",
+      "client_tax_id": "17NXFLA6816N1ZG",
+      "client_phone": "02832709495"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-277X",
+        "item_qty": "2",
+        "item_net_price": "53,618.88",
+        "item_net_worth": "107,237.76",
+        "item_vat": "28%",
+        "item_gross_worth": "137,264.33"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-766W",
+        "item_qty": "2",
+        "item_net_price": "37,722.26",
+        "item_net_worth": "75,444.52",
+        "item_vat": "28%",
+        "item_gross_worth": "96,568.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹182,682.28",
+      "total_vat": "₹51,151.04",
+      "total_gross_worth": "₹233,833.32",
+      "total_cgst": "₹25,575.52",
+      "total_sgst": "₹25,575.52",
+      "total_igst": "₹0.00"
+    }
+  }
+}

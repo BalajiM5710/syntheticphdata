@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AUK/433",
+      "invoice_date": "13/09/2025",
+      "seller": "RAM ELECTRONICS 89/946, Mannan Path, Jamnagar 406111",
+      "client": "KALPIT IYER 06/08, Vohra Path, Anantapuram-703082",
+      "shipping_address": "06/08, Vohra Path, Anantapuram-703082",
+      "seller_tax_id": "12TXDFO1356Z1ZV",
+      "client_tax_id": "24MMLKY2094Q1Z5",
+      "client_phone": "+911841714310"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-387K",
+        "item_qty": "2",
+        "item_net_price": "59,178.85",
+        "item_net_worth": "118,357.70",
+        "item_vat": "18%",
+        "item_gross_worth": "139,662.09"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹118,357.70",
+      "total_vat": "₹21,304.39",
+      "total_gross_worth": "₹139,662.09",
+      "total_cgst": "₹10,652.19",
+      "total_sgst": "₹10,652.19",
+      "total_igst": "₹0.00"
+    }
+  }
+}

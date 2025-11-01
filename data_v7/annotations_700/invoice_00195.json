@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3507",
+      "invoice_date": "27/04/2025",
+      "seller": "SMART ELECTRONICS H.No. 05, Prakash Circle, Jhansi-688302",
+      "client": "ADVAY PANDIT 39, Dasgupta Road, Ujjain-485677",
+      "shipping_address": "39, Dasgupta Road, Ujjain-485677",
+      "seller_tax_id": "18LQISJ8293O1ZP",
+      "client_tax_id": "29NMHAF0850D1ZR",
+      "client_phone": "05382149472"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-671A",
+        "item_qty": "2",
+        "item_net_price": "56,822.74",
+        "item_net_worth": "113,645.48",
+        "item_vat": "12%",
+        "item_gross_worth": "127,282.94"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-113V",
+        "item_qty": "1",
+        "item_net_price": "21,383.59",
+        "item_net_worth": "21,383.59",
+        "item_vat": "12%",
+        "item_gross_worth": "23,949.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹135,029.07",
+      "total_vat": "₹16,203.49",
+      "total_gross_worth": "₹151,232.56",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹16,203.49"
+    }
+  }
+}

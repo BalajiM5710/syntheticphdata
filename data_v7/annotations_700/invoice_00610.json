@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PTV/349",
+      "invoice_date": "16/07/2025",
+      "seller": "VISHWA ELECTRONICS 25/488, Kar Street, Ajmer-746168",
+      "client": "SAI BABU 846, Banerjee Road, Tiruppur 572809",
+      "shipping_address": "H.No. 68, Balakrishnan Chowk, Shivpuri-698453",
+      "seller_tax_id": "14GTLOQ3311L1ZU",
+      "client_tax_id": "05NCQEH7281Z1ZM",
+      "client_phone": "+917595598783"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-811E",
+        "item_qty": "1",
+        "item_net_price": "50,346.32",
+        "item_net_worth": "50,346.32",
+        "item_vat": "18%",
+        "item_gross_worth": "59,408.66"
+      },
+      {
+        "item_desc": "Apple Tablets APP-642Q",
+        "item_qty": "1",
+        "item_net_price": "9,420.91",
+        "item_net_worth": "9,420.91",
+        "item_vat": "18%",
+        "item_gross_worth": "11,116.67"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-499V",
+        "item_qty": "2",
+        "item_net_price": "90,733.82",
+        "item_net_worth": "181,467.64",
+        "item_vat": "18%",
+        "item_gross_worth": "214,131.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹241,234.87",
+      "total_vat": "₹43,422.28",
+      "total_gross_worth": "₹284,657.15",
+      "total_cgst": "₹21,711.14",
+      "total_sgst": "₹21,711.14",
+      "total_igst": "₹0.00"
+    }
+  }
+}

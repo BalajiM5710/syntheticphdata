@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UUC/294",
+      "invoice_date": "12/10/2025",
+      "seller": "SUPREME ELECTRONICS 177, Buch Road, Rampur 340873",
+      "client": "MEGHANA PAL 48, Ravel Street, Gudivada 915648",
+      "shipping_address": "48, Ravel Street, Gudivada 915648",
+      "seller_tax_id": "30LYCZV4415Y1ZK",
+      "client_tax_id": "34SINYS3223O1ZK",
+      "client_phone": "8063433760"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-742R IMEI: 857861037888989",
+        "item_qty": "2",
+        "item_net_price": "86,334.12",
+        "item_net_worth": "172,668.24",
+        "item_vat": "12%",
+        "item_gross_worth": "193,388.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,668.24",
+      "total_vat": "₹20,720.19",
+      "total_gross_worth": "₹193,388.43",
+      "total_cgst": "₹10,360.09",
+      "total_sgst": "₹10,360.09",
+      "total_igst": "₹0.00"
+    }
+  }
+}

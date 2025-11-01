@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/399",
+      "invoice_date": "04/03/2025",
+      "seller": "PATEL MOBILES 84/333, Balan Marg, Nagercoil 354135",
+      "client": "MATTHEW ANNE 21/38, Keer Path, Ghaziabad-327591",
+      "shipping_address": "55/53, Sunder Ganj, Unnao 629227",
+      "seller_tax_id": "06ISFNT5503P1ZT",
+      "client_tax_id": "05MGXWV0282Z1ZN",
+      "client_phone": "05003817511"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-237O",
+        "item_qty": "1",
+        "item_net_price": "65,534.15",
+        "item_net_worth": "65,534.15",
+        "item_vat": "18%",
+        "item_gross_worth": "77,330.30"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-689P",
+        "item_qty": "1",
+        "item_net_price": "21,746.12",
+        "item_net_worth": "21,746.12",
+        "item_vat": "18%",
+        "item_gross_worth": "25,660.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹87,280.27",
+      "total_vat": "₹15,710.45",
+      "total_gross_worth": "₹102,990.72",
+      "total_cgst": "₹7,855.22",
+      "total_sgst": "₹7,855.22",
+      "total_igst": "₹0.00"
+    }
+  }
+}

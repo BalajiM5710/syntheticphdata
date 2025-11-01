@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/853",
+      "invoice_date": "15/09/2025",
+      "seller": "RAM ELECTRONICS 770, Balay Ganj, Sonipat-016121",
+      "client": "NIMRAT RANGANATHAN 07/400, Oommen Nagar, Bhilai 108389",
+      "shipping_address": "07/400, Oommen Nagar, Bhilai 108389",
+      "seller_tax_id": "33MVRJI1356B1Z0",
+      "client_tax_id": "03FHJOT9480D1ZL",
+      "client_phone": "+912662585511"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-843S",
+        "item_qty": "2",
+        "item_net_price": "16,874.48",
+        "item_net_worth": "33,748.96",
+        "item_vat": "28%",
+        "item_gross_worth": "43,198.67"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-133A",
+        "item_qty": "2",
+        "item_net_price": "23,853.15",
+        "item_net_worth": "47,706.30",
+        "item_vat": "28%",
+        "item_gross_worth": "61,064.06"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-432V",
+        "item_qty": "2",
+        "item_net_price": "39,913.44",
+        "item_net_worth": "79,826.88",
+        "item_vat": "28%",
+        "item_gross_worth": "102,178.41"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-269G",
+        "item_qty": "2",
+        "item_net_price": "83,023.57",
+        "item_net_worth": "166,047.14",
+        "item_vat": "28%",
+        "item_gross_worth": "212,540.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹327,329.28",
+      "total_vat": "₹91,652.20",
+      "total_gross_worth": "₹418,981.48",
+      "total_cgst": "₹45,826.10",
+      "total_sgst": "₹45,826.10",
+      "total_igst": "₹0.00"
+    }
+  }
+}

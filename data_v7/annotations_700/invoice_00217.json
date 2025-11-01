@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LLR/594",
+      "invoice_date": "12/01/2025",
+      "seller": "DIGITAL STORE 86/266, Din Nagar, Alappuzha 019952",
+      "client": "LIBNI BHANDARI H.No. 27, Chaudhary Circle, Motihari-712083",
+      "shipping_address": "33/21, Rout Marg, Secunderabad 329636",
+      "seller_tax_id": "05HOVNU0518I1Z6",
+      "client_tax_id": "13UVSEJ4609R1ZE",
+      "client_phone": "09710521087"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-903Z",
+        "item_qty": "1",
+        "item_net_price": "76,946.95",
+        "item_net_worth": "76,946.95",
+        "item_vat": "28%",
+        "item_gross_worth": "98,492.10"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-751S",
+        "item_qty": "2",
+        "item_net_price": "90,810.70",
+        "item_net_worth": "181,621.40",
+        "item_vat": "28%",
+        "item_gross_worth": "232,475.39"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-937B",
+        "item_qty": "2",
+        "item_net_price": "64,100.33",
+        "item_net_worth": "128,200.66",
+        "item_vat": "28%",
+        "item_gross_worth": "164,096.84"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-633L IMEI: 721068897976423",
+        "item_qty": "2",
+        "item_net_price": "44,260.46",
+        "item_net_worth": "88,520.92",
+        "item_vat": "28%",
+        "item_gross_worth": "113,306.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹475,289.93",
+      "total_vat": "₹133,081.18",
+      "total_gross_worth": "₹608,371.11",
+      "total_cgst": "₹66,540.59",
+      "total_sgst": "₹66,540.59",
+      "total_igst": "₹0.00"
+    }
+  }
+}

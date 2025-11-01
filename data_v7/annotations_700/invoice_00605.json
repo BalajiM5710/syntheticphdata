@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1426",
+      "invoice_date": "29/07/2025",
+      "seller": "RAM ELECTRONICS H.No. 989, Kumar Nagar, Gangtok 853817",
+      "client": "YASHASVI BALI H.No. 78, Kuruvilla Path, Siliguri 357504",
+      "shipping_address": "98, Ram Road, Gaya 128962",
+      "seller_tax_id": "30MHYOC8872H1ZL",
+      "client_tax_id": "27RJBPW8065E1Z9",
+      "client_phone": "8457231045"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-634E",
+        "item_qty": "1",
+        "item_net_price": "91,160.68",
+        "item_net_worth": "91,160.68",
+        "item_vat": "12%",
+        "item_gross_worth": "102,099.96"
+      },
+      {
+        "item_desc": "Mi Television MI-343O",
+        "item_qty": "1",
+        "item_net_price": "22,163.53",
+        "item_net_worth": "22,163.53",
+        "item_vat": "12%",
+        "item_gross_worth": "24,823.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹113,324.21",
+      "total_vat": "₹13,598.91",
+      "total_gross_worth": "₹126,923.12",
+      "total_cgst": "₹6,799.45",
+      "total_sgst": "₹6,799.45",
+      "total_igst": "₹0.00"
+    }
+  }
+}

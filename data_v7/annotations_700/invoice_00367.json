@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/912",
+      "invoice_date": "28/09/2025",
+      "seller": "STAR ELECTRONICS H.No. 56, Mani Ganj, Nanded-246405",
+      "client": "GARIMA VARMA 49/22, Kunda Zila, Bally 508466",
+      "shipping_address": "49/22, Kunda Zila, Bally 508466",
+      "seller_tax_id": "21JMIDW9859D1ZW",
+      "client_tax_id": "23QKFUI3093P1ZB",
+      "client_phone": "+916013965414"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-686D",
+        "item_qty": "2",
+        "item_net_price": "62,564.08",
+        "item_net_worth": "125,128.16",
+        "item_vat": "18%",
+        "item_gross_worth": "147,651.23"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-674U",
+        "item_qty": "1",
+        "item_net_price": "55,811.10",
+        "item_net_worth": "55,811.10",
+        "item_vat": "18%",
+        "item_gross_worth": "65,857.10"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-710S",
+        "item_qty": "1",
+        "item_net_price": "36,391.92",
+        "item_net_worth": "36,391.92",
+        "item_vat": "18%",
+        "item_gross_worth": "42,942.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹217,331.18",
+      "total_vat": "₹39,119.61",
+      "total_gross_worth": "₹256,450.79",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,119.61"
+    }
+  }
+}

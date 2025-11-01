@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BNW/940",
+      "invoice_date": "10/06/2025",
+      "seller": "ROYAL MOBILES H.No. 672, Upadhyay Circle, Anantapur-640285",
+      "client": "SAMARTH GANESH H.No. 661, Solanki Ganj, Unnao-802461",
+      "shipping_address": "42, Sur Path, Asansol-851549",
+      "seller_tax_id": "31XQEEH4463J1ZR",
+      "client_tax_id": "28HSNTV8586X1Z8",
+      "client_phone": "+918715632017"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-968E",
+        "item_qty": "2",
+        "item_net_price": "36,304.13",
+        "item_net_worth": "72,608.26",
+        "item_vat": "28%",
+        "item_gross_worth": "92,938.57"
+      },
+      {
+        "item_desc": "Sony Headphones SON-667S",
+        "item_qty": "2",
+        "item_net_price": "59,361.26",
+        "item_net_worth": "118,722.52",
+        "item_vat": "28%",
+        "item_gross_worth": "151,964.83"
+      },
+      {
+        "item_desc": "Mi Television MI-822Q",
+        "item_qty": "2",
+        "item_net_price": "76,795.10",
+        "item_net_worth": "153,590.20",
+        "item_vat": "28%",
+        "item_gross_worth": "196,595.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹344,920.98",
+      "total_vat": "₹96,577.87",
+      "total_gross_worth": "₹441,498.85",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹96,577.87"
+    }
+  }
+}

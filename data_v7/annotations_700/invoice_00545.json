@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6889",
+      "invoice_date": "26/06/2025",
+      "seller": "TECH BAZAAR H.No. 36, Mohan Zila, Hazaribagh 158149",
+      "client": "CHAVVI MITTAL 39/22, Bandi, Purnia-568704",
+      "shipping_address": "39/22, Bandi, Purnia-568704",
+      "seller_tax_id": "03LOPPV0872H1ZR",
+      "client_tax_id": "27PJXUT6962T1ZF",
+      "client_phone": "+915757768224"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-466B",
+        "item_qty": "1",
+        "item_net_price": "55,651.29",
+        "item_net_worth": "55,651.29",
+        "item_vat": "12%",
+        "item_gross_worth": "62,329.44"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-387G",
+        "item_qty": "2",
+        "item_net_price": "62,682.35",
+        "item_net_worth": "125,364.70",
+        "item_vat": "12%",
+        "item_gross_worth": "140,408.46"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-646E",
+        "item_qty": "1",
+        "item_net_price": "13,717.81",
+        "item_net_worth": "13,717.81",
+        "item_vat": "12%",
+        "item_gross_worth": "15,363.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹194,733.80",
+      "total_vat": "₹23,368.06",
+      "total_gross_worth": "₹218,101.86",
+      "total_cgst": "₹11,684.03",
+      "total_sgst": "₹11,684.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

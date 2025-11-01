@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/519",
+      "invoice_date": "08/06/2025",
+      "seller": "ROYAL MOBILES 96/63, Bir Path, Aurangabad 150845",
+      "client": "MANBIR RAMASWAMY 01, Oza, Srinagar 833077",
+      "shipping_address": "72/62, Kumar Circle, Dindigul-857700",
+      "seller_tax_id": "30VMCHB8254I1Z3",
+      "client_tax_id": "15MBTLD5422W1Z6",
+      "client_phone": "+919005770524"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-645Z",
+        "item_qty": "1",
+        "item_net_price": "53,263.64",
+        "item_net_worth": "53,263.64",
+        "item_vat": "18%",
+        "item_gross_worth": "62,851.10"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-596B IMEI: 829707170124188",
+        "item_qty": "2",
+        "item_net_price": "89,507.89",
+        "item_net_worth": "179,015.78",
+        "item_vat": "18%",
+        "item_gross_worth": "211,238.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹232,279.42",
+      "total_vat": "₹41,810.30",
+      "total_gross_worth": "₹274,089.72",
+      "total_cgst": "₹20,905.15",
+      "total_sgst": "₹20,905.15",
+      "total_igst": "₹0.00"
+    }
+  }
+}

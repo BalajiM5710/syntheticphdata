@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/375",
+      "invoice_date": "21/10/2025",
+      "seller": "ROYAL MOBILES H.No. 59, Mammen Street, Panipat-592881",
+      "client": "JAGVI CHACKO H.No. 313, Sarma Chowk, Ujjain-182637",
+      "shipping_address": "H.No. 313, Sarma Chowk, Ujjain-182637",
+      "seller_tax_id": "36NEQVA9660N1ZQ",
+      "client_tax_id": "29NLMBH3306Q1ZV",
+      "client_phone": "+912862932881"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-578O",
+        "item_qty": "2",
+        "item_net_price": "17,366.81",
+        "item_net_worth": "34,733.62",
+        "item_vat": "18%",
+        "item_gross_worth": "40,985.67"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-486E",
+        "item_qty": "1",
+        "item_net_price": "11,230.90",
+        "item_net_worth": "11,230.90",
+        "item_vat": "18%",
+        "item_gross_worth": "13,252.46"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-179R",
+        "item_qty": "1",
+        "item_net_price": "46,444.31",
+        "item_net_worth": "46,444.31",
+        "item_vat": "18%",
+        "item_gross_worth": "54,804.29"
+      },
+      {
+        "item_desc": "Sony Headphones SON-713Q",
+        "item_qty": "1",
+        "item_net_price": "32,610.42",
+        "item_net_worth": "32,610.42",
+        "item_vat": "18%",
+        "item_gross_worth": "38,480.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹125,019.25",
+      "total_vat": "₹22,503.47",
+      "total_gross_worth": "₹147,522.71",
+      "total_cgst": "₹11,251.73",
+      "total_sgst": "₹11,251.73",
+      "total_igst": "₹0.00"
+    }
+  }
+}

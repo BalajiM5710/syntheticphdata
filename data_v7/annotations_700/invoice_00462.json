@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BVB/753",
+      "invoice_date": "12/03/2025",
+      "seller": "PRADHAN MOBILE SHOP 77, Sharaf Marg, Bhusawal-009877",
+      "client": "LOPA RAJAGOPAL H.No. 736, Tandon Zila, Rajahmundry-457235",
+      "shipping_address": "H.No. 736, Tandon Zila, Rajahmundry-457235",
+      "seller_tax_id": "01OPAYU4239E1Z5",
+      "client_tax_id": "37JWRGW7609A1ZL",
+      "client_phone": "+913232577279"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-809U",
+        "item_qty": "2",
+        "item_net_price": "56,482.54",
+        "item_net_worth": "112,965.08",
+        "item_vat": "28%",
+        "item_gross_worth": "144,595.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹112,965.08",
+      "total_vat": "₹31,630.22",
+      "total_gross_worth": "₹144,595.30",
+      "total_cgst": "₹15,815.11",
+      "total_sgst": "₹15,815.11",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WHF/190",
+      "invoice_date": "20/05/2025",
+      "seller": "GADGET GALAXY 178, Prabhakar Zila, Nadiad-383361",
+      "client": "UTKARSH TIWARI H.No. 089, Shenoy Zila, Fatehpur 226673",
+      "shipping_address": "H.No. 089, Shenoy Zila, Fatehpur 226673",
+      "seller_tax_id": "16KSKDI0267W1ZH",
+      "client_tax_id": "33SHOPP2132Q1ZH",
+      "client_phone": "03490404995"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-862L",
+        "item_qty": "1",
+        "item_net_price": "41,625.82",
+        "item_net_worth": "41,625.82",
+        "item_vat": "12%",
+        "item_gross_worth": "46,620.92"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-811V",
+        "item_qty": "1",
+        "item_net_price": "25,510.07",
+        "item_net_worth": "25,510.07",
+        "item_vat": "12%",
+        "item_gross_worth": "28,571.28"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-733L",
+        "item_qty": "1",
+        "item_net_price": "35,120.07",
+        "item_net_worth": "35,120.07",
+        "item_vat": "12%",
+        "item_gross_worth": "39,334.48"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-677T",
+        "item_qty": "2",
+        "item_net_price": "60,798.80",
+        "item_net_worth": "121,597.60",
+        "item_vat": "12%",
+        "item_gross_worth": "136,189.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹223,853.56",
+      "total_vat": "₹26,862.43",
+      "total_gross_worth": "₹250,715.99",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,862.43"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2978",
+      "invoice_date": "20/07/2025",
+      "seller": "METRO TECH STORE 22, Chaudhry Marg, Bokaro-638004",
+      "client": "JAI BALAKRISHNAN 579, Gera Road, Guwahati-410730",
+      "shipping_address": "12, Doshi Circle, Shivpuri 283971",
+      "seller_tax_id": "03TASVB9080J1Z3",
+      "client_tax_id": "31GZWUX2897D1ZS",
+      "client_phone": "00510613081"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-901P",
+        "item_qty": "1",
+        "item_net_price": "69,665.12",
+        "item_net_worth": "69,665.12",
+        "item_vat": "28%",
+        "item_gross_worth": "89,171.35"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-574L",
+        "item_qty": "2",
+        "item_net_price": "59,325.20",
+        "item_net_worth": "118,650.40",
+        "item_vat": "28%",
+        "item_gross_worth": "151,872.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹188,315.52",
+      "total_vat": "₹52,728.35",
+      "total_gross_worth": "₹241,043.87",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹52,728.35"
+    }
+  }
+}

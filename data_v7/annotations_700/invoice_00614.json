@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5670",
+      "invoice_date": "29/01/2025",
+      "seller": "PRADHAN MOBILE SHOP 82/564, Minhas Zila, Morbi 898373",
+      "client": "CHAITANYA BAIL H.No. 736, Sule Marg, Panchkula 728663",
+      "shipping_address": "H.No. 736, Sule Marg, Panchkula 728663",
+      "seller_tax_id": "06RCVLH2886K1ZN",
+      "client_tax_id": "21DZRSR5358J1ZU",
+      "client_phone": "05380252685"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-960C",
+        "item_qty": "2",
+        "item_net_price": "94,844.75",
+        "item_net_worth": "189,689.50",
+        "item_vat": "12%",
+        "item_gross_worth": "212,452.24"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-164T",
+        "item_qty": "1",
+        "item_net_price": "14,037.92",
+        "item_net_worth": "14,037.92",
+        "item_vat": "12%",
+        "item_gross_worth": "15,722.47"
+      },
+      {
+        "item_desc": "Sony Headphones SON-351V",
+        "item_qty": "2",
+        "item_net_price": "76,045.26",
+        "item_net_worth": "152,090.52",
+        "item_vat": "12%",
+        "item_gross_worth": "170,341.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹355,817.94",
+      "total_vat": "₹42,698.15",
+      "total_gross_worth": "₹398,516.09",
+      "total_cgst": "₹21,349.08",
+      "total_sgst": "₹21,349.08",
+      "total_igst": "₹0.00"
+    }
+  }
+}

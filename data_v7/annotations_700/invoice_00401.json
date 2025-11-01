@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/598",
+      "invoice_date": "07/10/2025",
+      "seller": "PATEL MOBILES H.No. 444, Zacharia Marg, Vadodara-842391",
+      "client": "VAISHNAVI BRAHMBHATT 97/84, Sankar Street, Morena 514034",
+      "shipping_address": "H.No. 934, Date, Hajipur 644591",
+      "seller_tax_id": "11GQOPZ0959F1ZN",
+      "client_tax_id": "07BMIJL4047R1ZC",
+      "client_phone": "1957686752"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-891P",
+        "item_qty": "2",
+        "item_net_price": "18,809.92",
+        "item_net_worth": "37,619.84",
+        "item_vat": "12%",
+        "item_gross_worth": "42,134.22"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-388E",
+        "item_qty": "2",
+        "item_net_price": "81,325.20",
+        "item_net_worth": "162,650.40",
+        "item_vat": "12%",
+        "item_gross_worth": "182,168.45"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-561L IMEI: 095058420505884",
+        "item_qty": "2",
+        "item_net_price": "31,989.55",
+        "item_net_worth": "63,979.10",
+        "item_vat": "12%",
+        "item_gross_worth": "71,656.59"
+      },
+      {
+        "item_desc": "Hero Bike HER-993Y",
+        "item_qty": "2",
+        "item_net_price": "10,443.09",
+        "item_net_worth": "20,886.18",
+        "item_vat": "12%",
+        "item_gross_worth": "23,392.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹285,135.52",
+      "total_vat": "₹34,216.26",
+      "total_gross_worth": "₹319,351.78",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹34,216.26"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3643",
+      "invoice_date": "02/01/2025",
+      "seller": "PATEL MOBILES 05/752, Vaidya Road, Bhubaneswar-739991",
+      "client": "DEVIKA KRISHNA 00/80, Boase Nagar, Sirsa-778773",
+      "shipping_address": "00/80, Boase Nagar, Sirsa-778773",
+      "seller_tax_id": "15JYYMV2629I1ZU",
+      "client_tax_id": "27CGGYX8542P1ZU",
+      "client_phone": "09819587774"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-299D IMEI: 523682852861808",
+        "item_qty": "1",
+        "item_net_price": "55,540.95",
+        "item_net_worth": "55,540.95",
+        "item_vat": "28%",
+        "item_gross_worth": "71,092.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹55,540.95",
+      "total_vat": "₹15,551.47",
+      "total_gross_worth": "₹71,092.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,551.47"
+    }
+  }
+}

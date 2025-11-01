@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ISH/824",
+      "invoice_date": "03/02/2025",
+      "seller": "MOBILE POINT 51/005, Gokhale Street, Bhilai 677106",
+      "client": "SAUMYA OOMMEN 649, Shroff Ganj, Karimnagar-793653",
+      "shipping_address": "H.No. 63, Venkataraman Path, Bhusawal 531762",
+      "seller_tax_id": "07DYSMK8504W1Z1",
+      "client_tax_id": "08SXOPM0843K1ZA",
+      "client_phone": "05564588297"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-110M",
+        "item_qty": "2",
+        "item_net_price": "9,628.50",
+        "item_net_worth": "19,257.00",
+        "item_vat": "18%",
+        "item_gross_worth": "22,723.26"
+      },
+      {
+        "item_desc": "Sony Headphones SON-279P",
+        "item_qty": "2",
+        "item_net_price": "93,884.08",
+        "item_net_worth": "187,768.16",
+        "item_vat": "18%",
+        "item_gross_worth": "221,566.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹207,025.16",
+      "total_vat": "₹37,264.53",
+      "total_gross_worth": "₹244,289.69",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,264.53"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/552",
+      "invoice_date": "20/02/2025",
+      "seller": "RAM ELECTRONICS 705, Dada Street, Etawah-637719",
+      "client": "ETA KRISHNAN H.No. 39, Ramakrishnan Nagar, Asansol 924436",
+      "shipping_address": "H.No. 39, Ramakrishnan Nagar, Asansol 924436",
+      "seller_tax_id": "11QYBXU5394Q1Z5",
+      "client_tax_id": "09RUIYO6599R1Z6",
+      "client_phone": "+915137087296"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-589U",
+        "item_qty": "2",
+        "item_net_price": "44,466.93",
+        "item_net_worth": "88,933.86",
+        "item_vat": "18%",
+        "item_gross_worth": "104,941.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,933.86",
+      "total_vat": "₹16,008.09",
+      "total_gross_worth": "₹104,941.95",
+      "total_cgst": "₹8,004.05",
+      "total_sgst": "₹8,004.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/965",
+      "invoice_date": "04/03/2025",
+      "seller": "SMART ELECTRONICS 031, Grewal Zila, Surendranagar Dudhrej-558048",
+      "client": "WARJAS NATARAJAN H.No. 894, Johal Zila, Howrah 888797",
+      "shipping_address": "H.No. 894, Johal Zila, Howrah 888797",
+      "seller_tax_id": "13TTOJG1330Q1ZR",
+      "client_tax_id": "26LZGAT0657P1ZV",
+      "client_phone": "01128088714"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-189D",
+        "item_qty": "1",
+        "item_net_price": "84,153.93",
+        "item_net_worth": "84,153.93",
+        "item_vat": "12%",
+        "item_gross_worth": "94,252.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹84,153.93",
+      "total_vat": "₹10,098.47",
+      "total_gross_worth": "₹94,252.40",
+      "total_cgst": "₹5,049.24",
+      "total_sgst": "₹5,049.24",
+      "total_igst": "₹0.00"
+    }
+  }
+}

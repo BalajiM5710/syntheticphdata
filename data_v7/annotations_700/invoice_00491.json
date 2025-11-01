@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OGT/467",
+      "invoice_date": "19/03/2025",
+      "seller": "STAR ELECTRONICS 20/18, Nanda Chowk, Alappuzha 029427",
+      "client": "HEMANG DUTT 42/52, Khare Zila, Sasaram 837635",
+      "shipping_address": "42/52, Khare Zila, Sasaram 837635",
+      "seller_tax_id": "26AOFIG4285S1ZA",
+      "client_tax_id": "31MANNX3562O1ZT",
+      "client_phone": "+911771835458"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-583B",
+        "item_qty": "1",
+        "item_net_price": "80,861.60",
+        "item_net_worth": "80,861.60",
+        "item_vat": "28%",
+        "item_gross_worth": "103,502.85"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-962G",
+        "item_qty": "1",
+        "item_net_price": "90,134.90",
+        "item_net_worth": "90,134.90",
+        "item_vat": "28%",
+        "item_gross_worth": "115,372.67"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-151U",
+        "item_qty": "1",
+        "item_net_price": "52,745.69",
+        "item_net_worth": "52,745.69",
+        "item_vat": "28%",
+        "item_gross_worth": "67,514.48"
+      },
+      {
+        "item_desc": "Sony Camera SON-582Z",
+        "item_qty": "1",
+        "item_net_price": "15,260.87",
+        "item_net_worth": "15,260.87",
+        "item_vat": "28%",
+        "item_gross_worth": "19,533.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹239,003.06",
+      "total_vat": "₹66,920.86",
+      "total_gross_worth": "₹305,923.92",
+      "total_cgst": "₹33,460.43",
+      "total_sgst": "₹33,460.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

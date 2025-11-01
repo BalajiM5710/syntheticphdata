@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9772",
+      "invoice_date": "14/02/2025",
+      "seller": "KUMAR TECH SOLUTIONS 86, Basak Path, Tadepalligudem-106203",
+      "client": "HARINI KAUR 53/035, Pingle, Kalyan-Dombivli-102661",
+      "shipping_address": "53/035, Pingle, Kalyan-Dombivli-102661",
+      "seller_tax_id": "36XDIUO1763P1ZE",
+      "client_tax_id": "11ZNPCH9934B1ZY",
+      "client_phone": "06103270632"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-792L",
+        "item_qty": "2",
+        "item_net_price": "48,457.25",
+        "item_net_worth": "96,914.50",
+        "item_vat": "18%",
+        "item_gross_worth": "114,359.11"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-449M",
+        "item_qty": "1",
+        "item_net_price": "50,176.60",
+        "item_net_worth": "50,176.60",
+        "item_vat": "18%",
+        "item_gross_worth": "59,208.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹147,091.10",
+      "total_vat": "₹26,476.40",
+      "total_gross_worth": "₹173,567.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,476.40"
+    }
+  }
+}

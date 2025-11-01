@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/897",
+      "invoice_date": "19/06/2025",
+      "seller": "ELECTRONICS WORLD H.No. 08, Padmanabhan Street, Nellore-575639",
+      "client": "JANANI SHERE 59, Purohit Marg, Ramagundam 832786",
+      "shipping_address": "59, Purohit Marg, Ramagundam 832786",
+      "seller_tax_id": "27DPTCU5677V1ZE",
+      "client_tax_id": "30FUFES9785F1ZA",
+      "client_phone": "+917583075666"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-133D",
+        "item_qty": "1",
+        "item_net_price": "15,409.59",
+        "item_net_worth": "15,409.59",
+        "item_vat": "12%",
+        "item_gross_worth": "17,258.74"
+      },
+      {
+        "item_desc": "Sony Headphones SON-731Q",
+        "item_qty": "1",
+        "item_net_price": "59,154.73",
+        "item_net_worth": "59,154.73",
+        "item_vat": "12%",
+        "item_gross_worth": "66,253.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,564.32",
+      "total_vat": "₹8,947.72",
+      "total_gross_worth": "₹83,512.04",
+      "total_cgst": "₹4,473.86",
+      "total_sgst": "₹4,473.86",
+      "total_igst": "₹0.00"
+    }
+  }
+}

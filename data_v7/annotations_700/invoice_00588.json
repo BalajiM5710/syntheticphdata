@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3526",
+      "invoice_date": "29/10/2025",
+      "seller": "RAM ELECTRONICS H.No. 49, Virk Circle, Surat-443343",
+      "client": "DARSH DEEP H.No. 15, Warrior Chowk, Vadodara-325522",
+      "shipping_address": "55/387, Goel Road, Gandhidham 747268",
+      "seller_tax_id": "26WHWGT4261X1ZW",
+      "client_tax_id": "35IWLTY0906C1Z1",
+      "client_phone": "3454172711"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-664U",
+        "item_qty": "1",
+        "item_net_price": "80,415.24",
+        "item_net_worth": "80,415.24",
+        "item_vat": "12%",
+        "item_gross_worth": "90,065.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹80,415.24",
+      "total_vat": "₹9,649.83",
+      "total_gross_worth": "₹90,065.07",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,649.83"
+    }
+  }
+}

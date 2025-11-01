@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QMC/867",
+      "invoice_date": "23/03/2025",
+      "seller": "ELECTRONICS WORLD 50/12, Karpe Road, Raichur 142946",
+      "client": "RIDHI SAHNI 138, Sachdeva Road, Kishanganj-299589",
+      "shipping_address": "138, Sachdeva Road, Kishanganj-299589",
+      "seller_tax_id": "35MHEXI5214X1ZB",
+      "client_tax_id": "28FSBTJ3012U1ZL",
+      "client_phone": "+915160012541"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-181S",
+        "item_qty": "2",
+        "item_net_price": "85,815.57",
+        "item_net_worth": "171,631.14",
+        "item_vat": "12%",
+        "item_gross_worth": "192,226.88"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-593B",
+        "item_qty": "2",
+        "item_net_price": "30,780.57",
+        "item_net_worth": "61,561.14",
+        "item_vat": "12%",
+        "item_gross_worth": "68,948.48"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-429T",
+        "item_qty": "2",
+        "item_net_price": "36,032.59",
+        "item_net_worth": "72,065.18",
+        "item_vat": "12%",
+        "item_gross_worth": "80,713.00"
+      },
+      {
+        "item_desc": "Sony Headphones SON-574U",
+        "item_qty": "1",
+        "item_net_price": "18,498.67",
+        "item_net_worth": "18,498.67",
+        "item_vat": "12%",
+        "item_gross_worth": "20,718.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹323,756.13",
+      "total_vat": "₹38,850.74",
+      "total_gross_worth": "₹362,606.87",
+      "total_cgst": "₹19,425.37",
+      "total_sgst": "₹19,425.37",
+      "total_igst": "₹0.00"
+    }
+  }
+}

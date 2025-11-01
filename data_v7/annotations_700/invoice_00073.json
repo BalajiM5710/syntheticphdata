@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/841",
+      "invoice_date": "11/10/2025",
+      "seller": "SINGH ELECTRONICS H.No. 403, Vala Ganj, Dewas 745537",
+      "client": "WATIKA SHENOY 62/63, Dubey Street, Hyderabad-288964",
+      "shipping_address": "99/42, Mahajan Circle, Mira-Bhayandar 761173",
+      "seller_tax_id": "07MGSCF5804O1ZQ",
+      "client_tax_id": "31BTQXU4331D1ZF",
+      "client_phone": "+918753415352"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-183U",
+        "item_qty": "1",
+        "item_net_price": "56,854.11",
+        "item_net_worth": "56,854.11",
+        "item_vat": "12%",
+        "item_gross_worth": "63,676.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹56,854.11",
+      "total_vat": "₹6,822.49",
+      "total_gross_worth": "₹63,676.60",
+      "total_cgst": "₹3,411.25",
+      "total_sgst": "₹3,411.25",
+      "total_igst": "₹0.00"
+    }
+  }
+}

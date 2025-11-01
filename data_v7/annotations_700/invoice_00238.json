@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PMW/373",
+      "invoice_date": "11/05/2025",
+      "seller": "SINGH ELECTRONICS 57/78, Murthy Path, Pudukkottai-523926",
+      "client": "HENRY MITAL 26/33, Rajan Zila, Pallavaram-864748",
+      "shipping_address": "26/33, Rajan Zila, Pallavaram-864748",
+      "seller_tax_id": "24WVJFA8198Q1ZF",
+      "client_tax_id": "34SULMH5504E1ZE",
+      "client_phone": "+911136873995"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-928D",
+        "item_qty": "2",
+        "item_net_price": "31,012.38",
+        "item_net_worth": "62,024.76",
+        "item_vat": "28%",
+        "item_gross_worth": "79,391.69"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-146L IMEI: 194909427899080",
+        "item_qty": "1",
+        "item_net_price": "91,527.82",
+        "item_net_worth": "91,527.82",
+        "item_vat": "28%",
+        "item_gross_worth": "117,155.61"
+      },
+      {
+        "item_desc": "Canon Camera CAN-250D",
+        "item_qty": "1",
+        "item_net_price": "80,524.62",
+        "item_net_worth": "80,524.62",
+        "item_vat": "28%",
+        "item_gross_worth": "103,071.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹234,077.20",
+      "total_vat": "₹65,541.62",
+      "total_gross_worth": "₹299,618.82",
+      "total_cgst": "₹32,770.81",
+      "total_sgst": "₹32,770.81",
+      "total_igst": "₹0.00"
+    }
+  }
+}

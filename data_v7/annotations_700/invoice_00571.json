@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UKY/170",
+      "invoice_date": "28/03/2025",
+      "seller": "ROYAL MOBILES 48/974, Bahri Nagar, Mangalore 349290",
+      "client": "KRITIKA GOYAL 94, Pradhan Path, Saharsa 091716",
+      "shipping_address": "94, Pradhan Path, Saharsa 091716",
+      "seller_tax_id": "17CWXNA3459Z1ZL",
+      "client_tax_id": "18UDAJV2419S1Z0",
+      "client_phone": "01159092837"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-995V",
+        "item_qty": "1",
+        "item_net_price": "17,355.29",
+        "item_net_worth": "17,355.29",
+        "item_vat": "28%",
+        "item_gross_worth": "22,214.77"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-152W",
+        "item_qty": "1",
+        "item_net_price": "24,920.05",
+        "item_net_worth": "24,920.05",
+        "item_vat": "28%",
+        "item_gross_worth": "31,897.66"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-272O IMEI: 936588950817590",
+        "item_qty": "1",
+        "item_net_price": "72,712.81",
+        "item_net_worth": "72,712.81",
+        "item_vat": "28%",
+        "item_gross_worth": "93,072.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹114,988.15",
+      "total_vat": "₹32,196.68",
+      "total_gross_worth": "₹147,184.83",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,196.68"
+    }
+  }
+}

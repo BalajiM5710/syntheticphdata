@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/108",
+      "invoice_date": "22/10/2025",
+      "seller": "GADGET GALAXY 397, Mand Marg, Amravati 482490",
+      "client": "EKTA CHOUDHURY 08/135, Lanka Circle, Sri Ganganagar 465377",
+      "shipping_address": "H.No. 048, Shetty Ganj, Pune 448863",
+      "seller_tax_id": "37YTYHK2142Q1ZW",
+      "client_tax_id": "35LBTIO0918Z1Z1",
+      "client_phone": "09204142208"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-178W",
+        "item_qty": "1",
+        "item_net_price": "53,444.51",
+        "item_net_worth": "53,444.51",
+        "item_vat": "12%",
+        "item_gross_worth": "59,857.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹53,444.51",
+      "total_vat": "₹6,413.34",
+      "total_gross_worth": "₹59,857.85",
+      "total_cgst": "₹3,206.67",
+      "total_sgst": "₹3,206.67",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9420",
+      "invoice_date": "13/06/2025",
+      "seller": "METRO TECH STORE 85/87, Handa Chowk, Sasaram-010837",
+      "client": "ANUSHA KANT H.No. 321, Karan Chowk, Bidar-861523",
+      "shipping_address": "H.No. 321, Karan Chowk, Bidar-861523",
+      "seller_tax_id": "19HSUKP8930H1ZP",
+      "client_tax_id": "17LSNIA6935P1ZY",
+      "client_phone": "01530868003"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-730Z",
+        "item_qty": "2",
+        "item_net_price": "33,141.11",
+        "item_net_worth": "66,282.22",
+        "item_vat": "28%",
+        "item_gross_worth": "84,841.24"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-128U",
+        "item_qty": "1",
+        "item_net_price": "61,200.56",
+        "item_net_worth": "61,200.56",
+        "item_vat": "28%",
+        "item_gross_worth": "78,336.72"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-508S IMEI: 459725785643411",
+        "item_qty": "2",
+        "item_net_price": "84,417.30",
+        "item_net_worth": "168,834.60",
+        "item_vat": "28%",
+        "item_gross_worth": "216,108.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,317.38",
+      "total_vat": "₹82,968.87",
+      "total_gross_worth": "₹379,286.25",
+      "total_cgst": "₹41,484.43",
+      "total_sgst": "₹41,484.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

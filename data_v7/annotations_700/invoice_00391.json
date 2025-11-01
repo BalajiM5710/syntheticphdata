@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5617",
+      "invoice_date": "08/08/2025",
+      "seller": "STAR ELECTRONICS 03/55, Dixit Road, Rajkot-045674",
+      "client": "MUGDHA KIBE 987, Gera Marg, Narasaraopet 508145",
+      "shipping_address": "987, Gera Marg, Narasaraopet 508145",
+      "seller_tax_id": "14TFPTJ9771H1ZH",
+      "client_tax_id": "17SCHPB1655F1ZE",
+      "client_phone": "6053311262"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-639N",
+        "item_qty": "2",
+        "item_net_price": "86,113.77",
+        "item_net_worth": "172,227.54",
+        "item_vat": "18%",
+        "item_gross_worth": "203,228.50"
+      },
+      {
+        "item_desc": "Sony Speaker SON-574J",
+        "item_qty": "2",
+        "item_net_price": "50,902.59",
+        "item_net_worth": "101,805.18",
+        "item_vat": "18%",
+        "item_gross_worth": "120,130.11"
+      },
+      {
+        "item_desc": "Sony Camera SON-245Z",
+        "item_qty": "1",
+        "item_net_price": "82,806.89",
+        "item_net_worth": "82,806.89",
+        "item_vat": "18%",
+        "item_gross_worth": "97,712.13"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-607X",
+        "item_qty": "2",
+        "item_net_price": "93,420.00",
+        "item_net_worth": "186,840.00",
+        "item_vat": "18%",
+        "item_gross_worth": "220,471.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹543,679.61",
+      "total_vat": "₹97,862.33",
+      "total_gross_worth": "₹641,541.94",
+      "total_cgst": "₹48,931.16",
+      "total_sgst": "₹48,931.16",
+      "total_igst": "₹0.00"
+    }
+  }
+}

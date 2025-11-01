@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4748",
+      "invoice_date": "24/10/2025",
+      "seller": "DIGITAL STORE 016, Goswami Street, Serampore-495223",
+      "client": "CHAMELI MALHOTRA 04, Randhawa Street, Bhimavaram-288894",
+      "shipping_address": "37, Batra Ganj, Raiganj 462608",
+      "seller_tax_id": "25XVHLU9923H1ZS",
+      "client_tax_id": "13NTLSL2059K1ZM",
+      "client_phone": "03869098297"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-693E",
+        "item_qty": "2",
+        "item_net_price": "36,036.36",
+        "item_net_worth": "72,072.72",
+        "item_vat": "28%",
+        "item_gross_worth": "92,253.08"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-368Q",
+        "item_qty": "1",
+        "item_net_price": "14,140.31",
+        "item_net_worth": "14,140.31",
+        "item_vat": "28%",
+        "item_gross_worth": "18,099.60"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-241L",
+        "item_qty": "2",
+        "item_net_price": "31,730.73",
+        "item_net_worth": "63,461.46",
+        "item_vat": "28%",
+        "item_gross_worth": "81,230.67"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-246C",
+        "item_qty": "1",
+        "item_net_price": "9,885.65",
+        "item_net_worth": "9,885.65",
+        "item_vat": "28%",
+        "item_gross_worth": "12,653.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹159,560.14",
+      "total_vat": "₹44,676.84",
+      "total_gross_worth": "₹204,236.98",
+      "total_cgst": "₹22,338.42",
+      "total_sgst": "₹22,338.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

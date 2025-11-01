@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8839",
+      "invoice_date": "22/03/2025",
+      "seller": "STAR ELECTRONICS 85/03, Lala Road, Ozhukarai-305385",
+      "client": "BALJIWAN REGE H.No. 44, Pall Circle, Jabalpur-216059",
+      "shipping_address": "H.No. 44, Pall Circle, Jabalpur-216059",
+      "seller_tax_id": "21XYCEC3842C1ZL",
+      "client_tax_id": "24LBTDS6218Z1Z8",
+      "client_phone": "+919183269011"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-912J",
+        "item_qty": "1",
+        "item_net_price": "13,772.79",
+        "item_net_worth": "13,772.79",
+        "item_vat": "28%",
+        "item_gross_worth": "17,629.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹13,772.79",
+      "total_vat": "₹3,856.38",
+      "total_gross_worth": "₹17,629.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹3,856.38"
+    }
+  }
+}

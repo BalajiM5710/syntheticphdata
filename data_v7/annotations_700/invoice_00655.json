@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/641",
+      "invoice_date": "05/09/2025",
+      "seller": "CITY ELECTRONICS 20/76, Oak Zila, Deoghar-829189",
+      "client": "KABIR GARDE H.No. 300, Radhakrishnan Marg, Guwahati-321659",
+      "shipping_address": "H.No. 300, Radhakrishnan Marg, Guwahati-321659",
+      "seller_tax_id": "34XVWYP3953K1ZJ",
+      "client_tax_id": "32FLRXK7488B1ZD",
+      "client_phone": "+912873598797"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-866B IMEI: 103833977627285",
+        "item_qty": "2",
+        "item_net_price": "69,542.07",
+        "item_net_worth": "139,084.14",
+        "item_vat": "18%",
+        "item_gross_worth": "164,119.29"
+      },
+      {
+        "item_desc": "TCL Television TCL-704U",
+        "item_qty": "2",
+        "item_net_price": "24,438.17",
+        "item_net_worth": "48,876.34",
+        "item_vat": "18%",
+        "item_gross_worth": "57,674.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹187,960.48",
+      "total_vat": "₹33,832.89",
+      "total_gross_worth": "₹221,793.37",
+      "total_cgst": "₹16,916.44",
+      "total_sgst": "₹16,916.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/896",
+      "invoice_date": "28/09/2025",
+      "seller": "TECH BAZAAR 90/69, Korpal Zila, Bongaigaon 249837",
+      "client": "JAIRAJ THAKUR 168, Chatterjee Road, Kolkata-044214",
+      "shipping_address": "824, Vaidya Street, Mathura 848309",
+      "seller_tax_id": "10TXUTV9843B1Z0",
+      "client_tax_id": "21VOKPB3197P1ZY",
+      "client_phone": "4897675836"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-293A",
+        "item_qty": "1",
+        "item_net_price": "32,024.81",
+        "item_net_worth": "32,024.81",
+        "item_vat": "12%",
+        "item_gross_worth": "35,867.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹32,024.81",
+      "total_vat": "₹3,842.98",
+      "total_gross_worth": "₹35,867.79",
+      "total_cgst": "₹1,921.49",
+      "total_sgst": "₹1,921.49",
+      "total_igst": "₹0.00"
+    }
+  }
+}

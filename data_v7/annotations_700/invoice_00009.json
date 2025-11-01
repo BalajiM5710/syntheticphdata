@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RFT/139",
+      "invoice_date": "06/01/2025",
+      "seller": "KUMAR TECH SOLUTIONS 440, Wali Chowk, Giridih 294639",
+      "client": "URISHILLA PURI 613, Parmer Ganj, Sambhal 462503",
+      "shipping_address": "613, Parmer Ganj, Sambhal 462503",
+      "seller_tax_id": "33ILZED2811B1ZU",
+      "client_tax_id": "27IJUGZ3023T1Z6",
+      "client_phone": "0628234541"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-844B",
+        "item_qty": "1",
+        "item_net_price": "78,086.56",
+        "item_net_worth": "78,086.56",
+        "item_vat": "28%",
+        "item_gross_worth": "99,950.80"
+      },
+      {
+        "item_desc": "Sony Television SON-505G",
+        "item_qty": "1",
+        "item_net_price": "75,945.92",
+        "item_net_worth": "75,945.92",
+        "item_vat": "28%",
+        "item_gross_worth": "97,210.78"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-584I IMEI: 740251383665449",
+        "item_qty": "1",
+        "item_net_price": "10,745.76",
+        "item_net_worth": "10,745.76",
+        "item_vat": "28%",
+        "item_gross_worth": "13,754.57"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-271G",
+        "item_qty": "2",
+        "item_net_price": "20,347.20",
+        "item_net_worth": "40,694.40",
+        "item_vat": "28%",
+        "item_gross_worth": "52,088.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹205,472.64",
+      "total_vat": "₹57,532.34",
+      "total_gross_worth": "₹263,004.98",
+      "total_cgst": "₹28,766.17",
+      "total_sgst": "₹28,766.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

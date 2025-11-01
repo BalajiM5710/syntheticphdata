@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/963",
+      "invoice_date": "13/04/2025",
+      "seller": "ELECTRONICS WORLD H.No. 65, Edwin Road, Indore 912541",
+      "client": "QUINCY VERMA H.No. 90, Andra Road, Bhusawal 837751",
+      "shipping_address": "H.No. 90, Andra Road, Bhusawal 837751",
+      "seller_tax_id": "14USJZR6941P1ZG",
+      "client_tax_id": "12GHOFU2381B1Z3",
+      "client_phone": "+914010659361"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-253M",
+        "item_qty": "1",
+        "item_net_price": "78,599.67",
+        "item_net_worth": "78,599.67",
+        "item_vat": "18%",
+        "item_gross_worth": "92,747.61"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-138H",
+        "item_qty": "2",
+        "item_net_price": "81,627.76",
+        "item_net_worth": "163,255.52",
+        "item_vat": "18%",
+        "item_gross_worth": "192,641.51"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-161K",
+        "item_qty": "1",
+        "item_net_price": "57,621.48",
+        "item_net_worth": "57,621.48",
+        "item_vat": "18%",
+        "item_gross_worth": "67,993.35"
+      },
+      {
+        "item_desc": "LG Television LG-146V",
+        "item_qty": "1",
+        "item_net_price": "36,034.94",
+        "item_net_worth": "36,034.94",
+        "item_vat": "18%",
+        "item_gross_worth": "42,521.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹335,511.61",
+      "total_vat": "₹60,392.09",
+      "total_gross_worth": "₹395,903.70",
+      "total_cgst": "₹30,196.04",
+      "total_sgst": "₹30,196.04",
+      "total_igst": "₹0.00"
+    }
+  }
+}

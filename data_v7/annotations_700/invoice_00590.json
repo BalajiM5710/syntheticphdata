@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9087",
+      "invoice_date": "07/05/2025",
+      "seller": "ROYAL MOBILES 51, Tandon Path, Vellore-902366",
+      "client": "ODIKA AGATE H.No. 604, Sekhon Ganj, Proddatur-730305",
+      "shipping_address": "67/185, Joshi Zila, Bhiwani 526692",
+      "seller_tax_id": "14TTUZH0957P1Z4",
+      "client_tax_id": "29PQITV5025N1ZE",
+      "client_phone": "6229297809"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-547K",
+        "item_qty": "1",
+        "item_net_price": "50,864.85",
+        "item_net_worth": "50,864.85",
+        "item_vat": "28%",
+        "item_gross_worth": "65,107.01"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-677C IMEI: 141906235711525",
+        "item_qty": "2",
+        "item_net_price": "86,297.35",
+        "item_net_worth": "172,594.70",
+        "item_vat": "28%",
+        "item_gross_worth": "220,921.22"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-950R",
+        "item_qty": "2",
+        "item_net_price": "49,417.83",
+        "item_net_worth": "98,835.66",
+        "item_vat": "28%",
+        "item_gross_worth": "126,509.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹322,295.21",
+      "total_vat": "₹90,242.66",
+      "total_gross_worth": "₹412,537.87",
+      "total_cgst": "₹45,121.33",
+      "total_sgst": "₹45,121.33",
+      "total_igst": "₹0.00"
+    }
+  }
+}

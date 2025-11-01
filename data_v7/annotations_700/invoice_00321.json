@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/751",
+      "invoice_date": "04/02/2025",
+      "seller": "VISHWA ELECTRONICS 272, Chada Road, Adoni 730393",
+      "client": "HARDIK VALA 49, Maharaj Zila, Bathinda-743550",
+      "shipping_address": "711, Ghose Street, Udaipur-827443",
+      "seller_tax_id": "10EBFOF6773G1ZU",
+      "client_tax_id": "06JDKOG2149H1ZB",
+      "client_phone": "+914447686042"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-462A",
+        "item_qty": "2",
+        "item_net_price": "71,957.16",
+        "item_net_worth": "143,914.32",
+        "item_vat": "28%",
+        "item_gross_worth": "184,210.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,914.32",
+      "total_vat": "₹40,296.01",
+      "total_gross_worth": "₹184,210.33",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,296.01"
+    }
+  }
+}

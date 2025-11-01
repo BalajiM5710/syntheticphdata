@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7106",
+      "invoice_date": "27/09/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 45, Maharaj Marg, Dindigul-287383",
+      "client": "VICTOR CHOPRA 86/73, Dubey Ganj, Naihati 984322",
+      "shipping_address": "86/73, Dubey Ganj, Naihati 984322",
+      "seller_tax_id": "32AEJOI0014H1ZG",
+      "client_tax_id": "31PTUDA6309B1ZC",
+      "client_phone": "+918936626339"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-186R",
+        "item_qty": "2",
+        "item_net_price": "11,851.48",
+        "item_net_worth": "23,702.96",
+        "item_vat": "18%",
+        "item_gross_worth": "27,969.49"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-307L",
+        "item_qty": "2",
+        "item_net_price": "41,664.92",
+        "item_net_worth": "83,329.84",
+        "item_vat": "18%",
+        "item_gross_worth": "98,329.21"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-182L",
+        "item_qty": "1",
+        "item_net_price": "13,577.93",
+        "item_net_worth": "13,577.93",
+        "item_vat": "18%",
+        "item_gross_worth": "16,021.96"
+      },
+      {
+        "item_desc": "Mi Television MI-493M",
+        "item_qty": "1",
+        "item_net_price": "9,126.26",
+        "item_net_worth": "9,126.26",
+        "item_vat": "18%",
+        "item_gross_worth": "10,768.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹129,736.99",
+      "total_vat": "₹23,352.66",
+      "total_gross_worth": "₹153,089.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,352.66"
+    }
+  }
+}

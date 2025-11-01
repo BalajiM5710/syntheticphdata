@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/638",
+      "invoice_date": "21/02/2025",
+      "seller": "MOBILE POINT 306, Gole Road, Guntur-085000",
+      "client": "SAMAKSH KALLA 41, Ram Ganj, Tirunelveli 509449",
+      "shipping_address": "41, Ram Ganj, Tirunelveli 509449",
+      "seller_tax_id": "18RGDTD9746H1ZP",
+      "client_tax_id": "14BHNWV8719V1ZT",
+      "client_phone": "+914210035991"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-284X",
+        "item_qty": "1",
+        "item_net_price": "13,021.31",
+        "item_net_worth": "13,021.31",
+        "item_vat": "18%",
+        "item_gross_worth": "15,365.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹13,021.31",
+      "total_vat": "₹2,343.84",
+      "total_gross_worth": "₹15,365.15",
+      "total_cgst": "₹1,171.92",
+      "total_sgst": "₹1,171.92",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/913",
+      "invoice_date": "22/02/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 08, Narula Circle, Proddatur-464768",
+      "client": "WIDISHA PATLA H.No. 229, Wadhwa Nagar, Sangli-Miraj & Kupwad-251553",
+      "shipping_address": "H.No. 229, Wadhwa Nagar, Sangli-Miraj & Kupwad-251553",
+      "seller_tax_id": "29ETZNY8916U1ZR",
+      "client_tax_id": "31ACDWF7529J1ZN",
+      "client_phone": "+911247303673"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-940F",
+        "item_qty": "1",
+        "item_net_price": "93,082.21",
+        "item_net_worth": "93,082.21",
+        "item_vat": "12%",
+        "item_gross_worth": "104,252.08"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-501N",
+        "item_qty": "1",
+        "item_net_price": "42,224.90",
+        "item_net_worth": "42,224.90",
+        "item_vat": "12%",
+        "item_gross_worth": "47,291.89"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-744Y",
+        "item_qty": "2",
+        "item_net_price": "84,163.06",
+        "item_net_worth": "168,326.12",
+        "item_vat": "12%",
+        "item_gross_worth": "188,525.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹303,633.23",
+      "total_vat": "₹36,435.99",
+      "total_gross_worth": "₹340,069.22",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹36,435.99"
+    }
+  }
+}

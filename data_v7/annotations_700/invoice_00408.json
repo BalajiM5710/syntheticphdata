@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TUR/398",
+      "invoice_date": "12/09/2025",
+      "seller": "GADGET GALAXY H.No. 76, Goyal Path, Hyderabad 301220",
+      "client": "EKANTA BATTA 40/88, Goyal Zila, Phusro 528602",
+      "shipping_address": "40/88, Goyal Zila, Phusro 528602",
+      "seller_tax_id": "37XLCZY6145W1ZD",
+      "client_tax_id": "10PBXCW0338T1ZS",
+      "client_phone": "02854571429"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-468X",
+        "item_qty": "2",
+        "item_net_price": "54,755.13",
+        "item_net_worth": "109,510.26",
+        "item_vat": "12%",
+        "item_gross_worth": "122,651.49"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-574R",
+        "item_qty": "2",
+        "item_net_price": "35,914.41",
+        "item_net_worth": "71,828.82",
+        "item_vat": "12%",
+        "item_gross_worth": "80,448.28"
+      },
+      {
+        "item_desc": "Sony Headphones SON-111M",
+        "item_qty": "2",
+        "item_net_price": "70,561.81",
+        "item_net_worth": "141,123.62",
+        "item_vat": "12%",
+        "item_gross_worth": "158,058.45"
+      },
+      {
+        "item_desc": "Apple Tablets APP-847A",
+        "item_qty": "2",
+        "item_net_price": "80,767.93",
+        "item_net_worth": "161,535.86",
+        "item_vat": "12%",
+        "item_gross_worth": "180,920.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹483,998.56",
+      "total_vat": "₹58,079.83",
+      "total_gross_worth": "₹542,078.39",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹58,079.83"
+    }
+  }
+}

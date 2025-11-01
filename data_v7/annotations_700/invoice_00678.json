@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DDG/958",
+      "invoice_date": "11/10/2025",
+      "seller": "DIGITAL STORE 73, Kade, Arrah 075806",
+      "client": "BARKHA GULATI 25/933, Deshmukh Chowk, Kollam-357280",
+      "shipping_address": "25/933, Deshmukh Chowk, Kollam-357280",
+      "seller_tax_id": "16WMDVN9187O1ZX",
+      "client_tax_id": "36TXMFQ9949E1ZA",
+      "client_phone": "00717719533"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-966Q",
+        "item_qty": "1",
+        "item_net_price": "20,512.80",
+        "item_net_worth": "20,512.80",
+        "item_vat": "12%",
+        "item_gross_worth": "22,974.34"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-547E",
+        "item_qty": "1",
+        "item_net_price": "19,034.18",
+        "item_net_worth": "19,034.18",
+        "item_vat": "12%",
+        "item_gross_worth": "21,318.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹39,546.98",
+      "total_vat": "₹4,745.64",
+      "total_gross_worth": "₹44,292.62",
+      "total_cgst": "₹2,372.82",
+      "total_sgst": "₹2,372.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

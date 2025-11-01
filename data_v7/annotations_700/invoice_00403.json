@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/381",
+      "invoice_date": "30/04/2025",
+      "seller": "SINGH ELECTRONICS 50, Tata Nagar, Delhi-570984",
+      "client": "YAMINI MOHANTY 53/36, Reddy Marg, Shivpuri-101303",
+      "shipping_address": "H.No. 83, Chawla Ganj, Sultan Pur Majra 487422",
+      "seller_tax_id": "12AEFPW4687P1Z5",
+      "client_tax_id": "35AMPYP2791X1ZU",
+      "client_phone": "9308962789"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-206V",
+        "item_qty": "2",
+        "item_net_price": "50,724.01",
+        "item_net_worth": "101,448.02",
+        "item_vat": "18%",
+        "item_gross_worth": "119,708.66"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-304E",
+        "item_qty": "2",
+        "item_net_price": "13,166.25",
+        "item_net_worth": "26,332.50",
+        "item_vat": "18%",
+        "item_gross_worth": "31,072.35"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,780.52",
+      "total_vat": "₹23,000.49",
+      "total_gross_worth": "₹150,781.01",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,000.49"
+    }
+  }
+}

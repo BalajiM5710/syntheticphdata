@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TCK/416",
+      "invoice_date": "03/06/2025",
+      "seller": "GADGET GALAXY 38/84, Dugar Marg, Medininagar 521077",
+      "client": "INDALI KANNAN 78/51, Gole Street, Pune 292477",
+      "shipping_address": "78/51, Gole Street, Pune 292477",
+      "seller_tax_id": "03NOPGC3913R1ZS",
+      "client_tax_id": "02YJXKF6778O1ZC",
+      "client_phone": "4859095545"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-568F",
+        "item_qty": "2",
+        "item_net_price": "47,388.74",
+        "item_net_worth": "94,777.48",
+        "item_vat": "18%",
+        "item_gross_worth": "111,837.43"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-319A IMEI: 352790219677114",
+        "item_qty": "1",
+        "item_net_price": "39,673.06",
+        "item_net_worth": "39,673.06",
+        "item_vat": "18%",
+        "item_gross_worth": "46,814.21"
+      },
+      {
+        "item_desc": "Sony Television SON-808P",
+        "item_qty": "1",
+        "item_net_price": "10,874.69",
+        "item_net_worth": "10,874.69",
+        "item_vat": "18%",
+        "item_gross_worth": "12,832.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹145,325.23",
+      "total_vat": "₹26,158.54",
+      "total_gross_worth": "₹171,483.77",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,158.54"
+    }
+  }
+}

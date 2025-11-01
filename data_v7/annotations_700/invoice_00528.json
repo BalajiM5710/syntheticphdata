@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/706",
+      "invoice_date": "25/09/2025",
+      "seller": "CITY ELECTRONICS H.No. 81, Naik Nagar, Raebareli 271414",
+      "client": "ZILMIL VALA 82, Madan Path, Nadiad-900198",
+      "shipping_address": "23/35, Dugar Nagar, Aligarh 343167",
+      "seller_tax_id": "11PISXT5500V1Z1",
+      "client_tax_id": "15HNRVJ0187F1ZM",
+      "client_phone": "+911781482841"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-461F",
+        "item_qty": "1",
+        "item_net_price": "94,804.92",
+        "item_net_worth": "94,804.92",
+        "item_vat": "28%",
+        "item_gross_worth": "121,350.30"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-324X",
+        "item_qty": "1",
+        "item_net_price": "68,277.55",
+        "item_net_worth": "68,277.55",
+        "item_vat": "28%",
+        "item_gross_worth": "87,395.26"
+      },
+      {
+        "item_desc": "LG Microwave LG-663D",
+        "item_qty": "1",
+        "item_net_price": "53,366.41",
+        "item_net_worth": "53,366.41",
+        "item_vat": "28%",
+        "item_gross_worth": "68,309.00"
+      },
+      {
+        "item_desc": "Apple Tablets APP-281F",
+        "item_qty": "2",
+        "item_net_price": "82,625.89",
+        "item_net_worth": "165,251.78",
+        "item_vat": "28%",
+        "item_gross_worth": "211,522.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹381,700.66",
+      "total_vat": "₹106,876.18",
+      "total_gross_worth": "₹488,576.84",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹106,876.18"
+    }
+  }
+}

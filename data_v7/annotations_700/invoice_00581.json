@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1068",
+      "invoice_date": "10/03/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 297, Kulkarni Chowk, Ratlam 496658",
+      "client": "AAYUSH SETH H.No. 48, Tandon Path, Bhatpara 332470",
+      "shipping_address": "H.No. 48, Tandon Path, Bhatpara 332470",
+      "seller_tax_id": "01HACZF4730E1ZU",
+      "client_tax_id": "16PFWWY4453U1ZP",
+      "client_phone": "03683318314"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-173A",
+        "item_qty": "2",
+        "item_net_price": "81,889.27",
+        "item_net_worth": "163,778.54",
+        "item_vat": "12%",
+        "item_gross_worth": "183,431.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹163,778.54",
+      "total_vat": "₹19,653.42",
+      "total_gross_worth": "₹183,431.96",
+      "total_cgst": "₹9,826.71",
+      "total_sgst": "₹9,826.71",
+      "total_igst": "₹0.00"
+    }
+  }
+}

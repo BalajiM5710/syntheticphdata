@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IDC/667",
+      "invoice_date": "16/05/2025",
+      "seller": "STAR ELECTRONICS H.No. 39, Bansal Nagar, Kulti 723049",
+      "client": "RADHIKA RAJ 01/34, Bajwa Chowk, Anantapur 874351",
+      "shipping_address": "01/34, Bajwa Chowk, Anantapur 874351",
+      "seller_tax_id": "20PCEIP6242A1Z9",
+      "client_tax_id": "16ZBPJO9124L1Z2",
+      "client_phone": "00920328878"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-244C",
+        "item_qty": "1",
+        "item_net_price": "48,528.79",
+        "item_net_worth": "48,528.79",
+        "item_vat": "28%",
+        "item_gross_worth": "62,116.85"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-707Y",
+        "item_qty": "1",
+        "item_net_price": "22,024.80",
+        "item_net_worth": "22,024.80",
+        "item_vat": "28%",
+        "item_gross_worth": "28,191.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹70,553.59",
+      "total_vat": "₹19,755.01",
+      "total_gross_worth": "₹90,308.60",
+      "total_cgst": "₹9,877.50",
+      "total_sgst": "₹9,877.50",
+      "total_igst": "₹0.00"
+    }
+  }
+}

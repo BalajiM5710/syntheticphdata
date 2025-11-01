@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/143",
+      "invoice_date": "30/03/2025",
+      "seller": "SMART ELECTRONICS H.No. 393, Gera Ganj, Miryalaguda-940074",
+      "client": "AADHYA SETTY 858, Handa Zila, Jamnagar 328186",
+      "shipping_address": "858, Handa Zila, Jamnagar 328186",
+      "seller_tax_id": "02HGBGT9975R1ZT",
+      "client_tax_id": "13SNCOV6236Z1ZC",
+      "client_phone": "09705007563"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-680P IMEI: 003222309007254",
+        "item_qty": "1",
+        "item_net_price": "47,562.53",
+        "item_net_worth": "47,562.53",
+        "item_vat": "18%",
+        "item_gross_worth": "56,123.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹47,562.53",
+      "total_vat": "₹8,561.26",
+      "total_gross_worth": "₹56,123.79",
+      "total_cgst": "₹4,280.63",
+      "total_sgst": "₹4,280.63",
+      "total_igst": "₹0.00"
+    }
+  }
+}

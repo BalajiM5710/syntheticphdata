@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7333",
+      "invoice_date": "31/03/2025",
+      "seller": "METRO TECH STORE 471, Borra Street, Gorakhpur-671037",
+      "client": "UBIKA MALLICK 953, Sandal Chowk, Unnao-934804",
+      "shipping_address": "H.No. 84, Rajagopalan Ganj, Bhilai 684862",
+      "seller_tax_id": "13NMWIY1846V1ZE",
+      "client_tax_id": "05CUXWU3877P1ZS",
+      "client_phone": "+913340999879"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-468P",
+        "item_qty": "1",
+        "item_net_price": "24,587.89",
+        "item_net_worth": "24,587.89",
+        "item_vat": "12%",
+        "item_gross_worth": "27,538.44"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-714C",
+        "item_qty": "1",
+        "item_net_price": "48,249.87",
+        "item_net_worth": "48,249.87",
+        "item_vat": "12%",
+        "item_gross_worth": "54,039.85"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-643C",
+        "item_qty": "2",
+        "item_net_price": "30,738.86",
+        "item_net_worth": "61,477.72",
+        "item_vat": "12%",
+        "item_gross_worth": "68,855.05"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-754O",
+        "item_qty": "1",
+        "item_net_price": "31,383.87",
+        "item_net_worth": "31,383.87",
+        "item_vat": "12%",
+        "item_gross_worth": "35,149.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹165,699.35",
+      "total_vat": "₹19,883.92",
+      "total_gross_worth": "₹185,583.27",
+      "total_cgst": "₹9,941.96",
+      "total_sgst": "₹9,941.96",
+      "total_igst": "₹0.00"
+    }
+  }
+}

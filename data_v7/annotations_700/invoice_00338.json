@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CND/896",
+      "invoice_date": "17/10/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 347, Kala Ganj, Delhi-480601",
+      "client": "AZAAN DEOL 59, Nair Marg, Fatehpur 812870",
+      "shipping_address": "59, Nair Marg, Fatehpur 812870",
+      "seller_tax_id": "16UMHXE4299Y1ZS",
+      "client_tax_id": "25FCUHL0238Y1ZW",
+      "client_phone": "3782691555"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-742G",
+        "item_qty": "1",
+        "item_net_price": "76,621.50",
+        "item_net_worth": "76,621.50",
+        "item_vat": "12%",
+        "item_gross_worth": "85,816.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹76,621.50",
+      "total_vat": "₹9,194.58",
+      "total_gross_worth": "₹85,816.08",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,194.58"
+    }
+  }
+}

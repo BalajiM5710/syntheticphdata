@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OAI/173",
+      "invoice_date": "08/04/2025",
+      "seller": "TECH BAZAAR H.No. 907, Virk Zila, Medininagar 875230",
+      "client": "CHAKRIKA LANKA 48/31, Bhalla Marg, Sagar-743587",
+      "shipping_address": "48/31, Bhalla Marg, Sagar-743587",
+      "seller_tax_id": "37LSCEX8934G1ZK",
+      "client_tax_id": "18YJVYT7148N1ZJ",
+      "client_phone": "+914114998611"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-906B",
+        "item_qty": "2",
+        "item_net_price": "80,618.84",
+        "item_net_worth": "161,237.68",
+        "item_vat": "12%",
+        "item_gross_worth": "180,586.20"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-347P IMEI: 959409753345040",
+        "item_qty": "1",
+        "item_net_price": "10,448.76",
+        "item_net_worth": "10,448.76",
+        "item_vat": "12%",
+        "item_gross_worth": "11,702.61"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-578L IMEI: 052173660792928",
+        "item_qty": "1",
+        "item_net_price": "12,221.33",
+        "item_net_worth": "12,221.33",
+        "item_vat": "12%",
+        "item_gross_worth": "13,687.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹183,907.77",
+      "total_vat": "₹22,068.93",
+      "total_gross_worth": "₹205,976.70",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,068.93"
+    }
+  }
+}

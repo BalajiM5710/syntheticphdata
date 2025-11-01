@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4294",
+      "invoice_date": "12/08/2025",
+      "seller": "FUTURE TECH H.No. 106, Lad Street, Chennai 061491",
+      "client": "RACHITA CHACKO 78/351, Sarma Chowk, Guwahati 990218",
+      "shipping_address": "78/351, Sarma Chowk, Guwahati 990218",
+      "seller_tax_id": "10YXJJY7175O1ZF",
+      "client_tax_id": "30XWRKM5079L1ZT",
+      "client_phone": "7007539722"
+    },
+    "items": [
+      {
+        "item_desc": "Motorola Smartphones MOT-819L IMEI: 245304275246960",
+        "item_qty": "2",
+        "item_net_price": "62,684.97",
+        "item_net_worth": "125,369.94",
+        "item_vat": "28%",
+        "item_gross_worth": "160,473.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹125,369.94",
+      "total_vat": "₹35,103.58",
+      "total_gross_worth": "₹160,473.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,103.58"
+    }
+  }
+}

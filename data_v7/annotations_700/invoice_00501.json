@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CKV/673",
+      "invoice_date": "13/07/2025",
+      "seller": "SMART ELECTRONICS 61/384, Narain Nagar, Durgapur 108829",
+      "client": "UDANT DOCTOR 83/714, Badami Circle, Bilaspur-634242",
+      "shipping_address": "83/714, Badami Circle, Bilaspur-634242",
+      "seller_tax_id": "36UZVED3591C1ZN",
+      "client_tax_id": "33PIMQM3313J1ZS",
+      "client_phone": "08044252208"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-836G",
+        "item_qty": "2",
+        "item_net_price": "44,165.24",
+        "item_net_worth": "88,330.48",
+        "item_vat": "28%",
+        "item_gross_worth": "113,063.01"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-467F",
+        "item_qty": "1",
+        "item_net_price": "10,720.74",
+        "item_net_worth": "10,720.74",
+        "item_vat": "28%",
+        "item_gross_worth": "13,722.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹99,051.22",
+      "total_vat": "₹27,734.34",
+      "total_gross_worth": "₹126,785.56",
+      "total_cgst": "₹13,867.17",
+      "total_sgst": "₹13,867.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/134",
+      "invoice_date": "15/03/2025",
+      "seller": "TECH BAZAAR H.No. 19, Baral Zila, Sangli-Miraj & Kupwad-473382",
+      "client": "LOPA BOSE H.No. 740, Savant Road, Sultan Pur Majra-896688",
+      "shipping_address": "H.No. 740, Savant Road, Sultan Pur Majra-896688",
+      "seller_tax_id": "05SJRDG8551F1ZQ",
+      "client_tax_id": "13DRYGH3558P1ZG",
+      "client_phone": "02369000774"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-763A IMEI: 334559670437290",
+        "item_qty": "2",
+        "item_net_price": "49,269.29",
+        "item_net_worth": "98,538.58",
+        "item_vat": "18%",
+        "item_gross_worth": "116,275.52"
+      },
+      {
+        "item_desc": "TVS Bike TVS-571J",
+        "item_qty": "1",
+        "item_net_price": "44,610.94",
+        "item_net_worth": "44,610.94",
+        "item_vat": "18%",
+        "item_gross_worth": "52,640.91"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-214F IMEI: 750888569483329",
+        "item_qty": "2",
+        "item_net_price": "58,957.72",
+        "item_net_worth": "117,915.44",
+        "item_vat": "18%",
+        "item_gross_worth": "139,140.22"
+      },
+      {
+        "item_desc": "Canon Camera CAN-236T",
+        "item_qty": "2",
+        "item_net_price": "56,042.67",
+        "item_net_worth": "112,085.34",
+        "item_vat": "18%",
+        "item_gross_worth": "132,260.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹373,150.30",
+      "total_vat": "₹67,167.05",
+      "total_gross_worth": "₹440,317.35",
+      "total_cgst": "₹33,583.53",
+      "total_sgst": "₹33,583.53",
+      "total_igst": "₹0.00"
+    }
+  }
+}

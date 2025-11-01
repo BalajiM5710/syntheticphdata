@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3549",
+      "invoice_date": "22/01/2025",
+      "seller": "PRADHAN MOBILE SHOP 24, Munshi, Singrauli 707310",
+      "client": "ODIKA VOHRA 38/624, Rajagopalan Ganj, Udaipur 378257",
+      "shipping_address": "H.No. 93, Hayer Zila, Tiruchirappalli-194725",
+      "seller_tax_id": "23WVUMB7981B1ZP",
+      "client_tax_id": "13SHIGF6621M1ZA",
+      "client_phone": "+912862498439"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-592T IMEI: 055702827586745",
+        "item_qty": "1",
+        "item_net_price": "31,233.86",
+        "item_net_worth": "31,233.86",
+        "item_vat": "28%",
+        "item_gross_worth": "39,979.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹31,233.86",
+      "total_vat": "₹8,745.48",
+      "total_gross_worth": "₹39,979.34",
+      "total_cgst": "₹4,372.74",
+      "total_sgst": "₹4,372.74",
+      "total_igst": "₹0.00"
+    }
+  }
+}

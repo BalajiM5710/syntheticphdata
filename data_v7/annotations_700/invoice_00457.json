@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TLE/917",
+      "invoice_date": "22/06/2025",
+      "seller": "TECH BAZAAR H.No. 25, Luthra Road, Mumbai 135640",
+      "client": "MAANAV DARA 30/659, Nayak, Lucknow-806446",
+      "shipping_address": "30/659, Nayak, Lucknow-806446",
+      "seller_tax_id": "27VCPGN9476X1ZD",
+      "client_tax_id": "26SZPYE9192B1ZZ",
+      "client_phone": "+917150327308"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-101U",
+        "item_qty": "2",
+        "item_net_price": "42,477.96",
+        "item_net_worth": "84,955.92",
+        "item_vat": "18%",
+        "item_gross_worth": "100,247.99"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-176G IMEI: 378461201766220",
+        "item_qty": "1",
+        "item_net_price": "11,612.39",
+        "item_net_worth": "11,612.39",
+        "item_vat": "18%",
+        "item_gross_worth": "13,702.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹96,568.31",
+      "total_vat": "₹17,382.30",
+      "total_gross_worth": "₹113,950.61",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹17,382.30"
+    }
+  }
+}

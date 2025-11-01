@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IIP/214",
+      "invoice_date": "05/07/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 762, Kalla Circle, Fatehpur 846526",
+      "client": "ISAAC PURI 246, Dugar Circle, Kavali-618911",
+      "shipping_address": "246, Dugar Circle, Kavali-618911",
+      "seller_tax_id": "06IMMQZ9968E1ZW",
+      "client_tax_id": "26KHDGQ9869Z1ZC",
+      "client_phone": "03809922860"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-792T",
+        "item_qty": "2",
+        "item_net_price": "18,595.38",
+        "item_net_worth": "37,190.76",
+        "item_vat": "28%",
+        "item_gross_worth": "47,604.17"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-858Q",
+        "item_qty": "1",
+        "item_net_price": "53,265.90",
+        "item_net_worth": "53,265.90",
+        "item_vat": "28%",
+        "item_gross_worth": "68,180.35"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹90,456.66",
+      "total_vat": "₹25,327.86",
+      "total_gross_worth": "₹115,784.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,327.86"
+    }
+  }
+}

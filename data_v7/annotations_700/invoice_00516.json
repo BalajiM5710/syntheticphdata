@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GBC/341",
+      "invoice_date": "27/09/2025",
+      "seller": "STAR ELECTRONICS 05/772, Chanda Circle, Hindupur 843772",
+      "client": "SACHI DASGUPTA 32, Mody Street, Vijayawada 435183",
+      "shipping_address": "22/18, Raju Road, Karimnagar 887171",
+      "seller_tax_id": "24RGIAB2374W1Z7",
+      "client_tax_id": "17APLMW1548G1ZA",
+      "client_phone": "+914576039442"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-196A",
+        "item_qty": "2",
+        "item_net_price": "70,724.92",
+        "item_net_worth": "141,449.84",
+        "item_vat": "18%",
+        "item_gross_worth": "166,910.81"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-843E",
+        "item_qty": "2",
+        "item_net_price": "80,734.59",
+        "item_net_worth": "161,469.18",
+        "item_vat": "18%",
+        "item_gross_worth": "190,533.63"
+      },
+      {
+        "item_desc": "Sony Speaker SON-199S",
+        "item_qty": "1",
+        "item_net_price": "62,206.77",
+        "item_net_worth": "62,206.77",
+        "item_vat": "18%",
+        "item_gross_worth": "73,403.99"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-424B",
+        "item_qty": "1",
+        "item_net_price": "23,093.85",
+        "item_net_worth": "23,093.85",
+        "item_vat": "18%",
+        "item_gross_worth": "27,250.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹388,219.64",
+      "total_vat": "₹69,879.54",
+      "total_gross_worth": "₹458,099.18",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹69,879.54"
+    }
+  }
+}

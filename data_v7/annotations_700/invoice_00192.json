@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/972",
+      "invoice_date": "07/10/2025",
+      "seller": "PATEL MOBILES H.No. 44, Roy Circle, Eluru-060789",
+      "client": "ZAYAN GANDHI 897, Aurora Chowk, Gurgaon-618872",
+      "shipping_address": "897, Aurora Chowk, Gurgaon-618872",
+      "seller_tax_id": "36VFHKG1517Z1ZQ",
+      "client_tax_id": "17CFMIR6649Q1ZH",
+      "client_phone": "4949828860"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-755K",
+        "item_qty": "2",
+        "item_net_price": "39,672.58",
+        "item_net_worth": "79,345.16",
+        "item_vat": "12%",
+        "item_gross_worth": "88,866.58"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-679Q",
+        "item_qty": "1",
+        "item_net_price": "64,188.39",
+        "item_net_worth": "64,188.39",
+        "item_vat": "12%",
+        "item_gross_worth": "71,891.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,533.55",
+      "total_vat": "₹17,224.03",
+      "total_gross_worth": "₹160,757.58",
+      "total_cgst": "₹8,612.01",
+      "total_sgst": "₹8,612.01",
+      "total_igst": "₹0.00"
+    }
+  }
+}

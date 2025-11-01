@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FCV/502",
+      "invoice_date": "21/02/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 820, Halder Chowk, Khandwa 452320",
+      "client": "BACHITTAR KAPADIA 47/123, Modi Path, Mango-224075",
+      "shipping_address": "47/123, Modi Path, Mango-224075",
+      "seller_tax_id": "01QXCIR8250R1ZT",
+      "client_tax_id": "23JFFLJ6831Q1ZS",
+      "client_phone": "04639856515"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-401C",
+        "item_qty": "1",
+        "item_net_price": "41,553.65",
+        "item_net_worth": "41,553.65",
+        "item_vat": "18%",
+        "item_gross_worth": "49,033.31"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-126A",
+        "item_qty": "2",
+        "item_net_price": "30,258.49",
+        "item_net_worth": "60,516.98",
+        "item_vat": "18%",
+        "item_gross_worth": "71,410.04"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-116O",
+        "item_qty": "1",
+        "item_net_price": "46,704.61",
+        "item_net_worth": "46,704.61",
+        "item_vat": "18%",
+        "item_gross_worth": "55,111.44"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-500U IMEI: 820246633962418",
+        "item_qty": "1",
+        "item_net_price": "91,490.42",
+        "item_net_worth": "91,490.42",
+        "item_vat": "18%",
+        "item_gross_worth": "107,958.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹240,265.66",
+      "total_vat": "₹43,247.82",
+      "total_gross_worth": "₹283,513.48",
+      "total_cgst": "₹21,623.91",
+      "total_sgst": "₹21,623.91",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/845",
+      "invoice_date": "08/06/2025",
+      "seller": "GADGET GALAXY 58/28, Dubey Nagar, Uluberia-608679",
+      "client": "EKANI DHAR 66/07, Bains, Anantapur 948387",
+      "shipping_address": "66/07, Bains, Anantapur 948387",
+      "seller_tax_id": "36ZQDTS1366B1ZL",
+      "client_tax_id": "24LMTDG8758D1ZE",
+      "client_phone": "08151048174"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-964U",
+        "item_qty": "1",
+        "item_net_price": "78,318.74",
+        "item_net_worth": "78,318.74",
+        "item_vat": "12%",
+        "item_gross_worth": "87,716.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹78,318.74",
+      "total_vat": "₹9,398.25",
+      "total_gross_worth": "₹87,716.99",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,398.25"
+    }
+  }
+}

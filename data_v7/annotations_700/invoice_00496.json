@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DFI/943",
+      "invoice_date": "31/03/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 08, Mane Path, Ludhiana 307122",
+      "client": "INDALI DE 811, Handa Chowk, Varanasi 782492",
+      "shipping_address": "811, Handa Chowk, Varanasi 782492",
+      "seller_tax_id": "08WZKZI8051X1Z2",
+      "client_tax_id": "01EEDRM5265U1ZQ",
+      "client_phone": "09131056113"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-101X IMEI: 194073562762683",
+        "item_qty": "1",
+        "item_net_price": "11,476.53",
+        "item_net_worth": "11,476.53",
+        "item_vat": "28%",
+        "item_gross_worth": "14,689.96"
+      },
+      {
+        "item_desc": "Sony Headphones SON-863N",
+        "item_qty": "1",
+        "item_net_price": "32,586.31",
+        "item_net_worth": "32,586.31",
+        "item_vat": "28%",
+        "item_gross_worth": "41,710.48"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-737C IMEI: 249711324128123",
+        "item_qty": "1",
+        "item_net_price": "18,292.50",
+        "item_net_worth": "18,292.50",
+        "item_vat": "28%",
+        "item_gross_worth": "23,414.40"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-591K IMEI: 464040053650745",
+        "item_qty": "1",
+        "item_net_price": "87,316.70",
+        "item_net_worth": "87,316.70",
+        "item_vat": "28%",
+        "item_gross_worth": "111,765.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹149,672.04",
+      "total_vat": "₹41,908.17",
+      "total_gross_worth": "₹191,580.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹41,908.17"
+    }
+  }
+}

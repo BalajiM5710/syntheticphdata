@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XYN/556",
+      "invoice_date": "06/07/2025",
+      "seller": "RAM ELECTRONICS H.No. 99, Mammen Chowk, Kurnool-860405",
+      "client": "CHRISTOPHER GOLLA 60/778, Balasubramanian Street, Jamshedpur 720819",
+      "shipping_address": "60/778, Balasubramanian Street, Jamshedpur 720819",
+      "seller_tax_id": "27MBUKK4954Z1ZG",
+      "client_tax_id": "18MRVPX0815Z1ZE",
+      "client_phone": "06773685038"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-315Z",
+        "item_qty": "1",
+        "item_net_price": "71,223.23",
+        "item_net_worth": "71,223.23",
+        "item_vat": "18%",
+        "item_gross_worth": "84,043.41"
+      },
+      {
+        "item_desc": "Sony Television SON-481Y",
+        "item_qty": "1",
+        "item_net_price": "15,914.22",
+        "item_net_worth": "15,914.22",
+        "item_vat": "18%",
+        "item_gross_worth": "18,778.78"
+      },
+      {
+        "item_desc": "Samsung Television SAM-787F",
+        "item_qty": "1",
+        "item_net_price": "64,793.11",
+        "item_net_worth": "64,793.11",
+        "item_vat": "18%",
+        "item_gross_worth": "76,455.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹151,930.56",
+      "total_vat": "₹27,347.50",
+      "total_gross_worth": "₹179,278.06",
+      "total_cgst": "₹13,673.75",
+      "total_sgst": "₹13,673.75",
+      "total_igst": "₹0.00"
+    }
+  }
+}

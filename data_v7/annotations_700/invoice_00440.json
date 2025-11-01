@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/954",
+      "invoice_date": "16/10/2025",
+      "seller": "SINGH ELECTRONICS 13/300, Walia Path, Firozabad-133898",
+      "client": "FARIS CHAUDRY 50/69, Babu Chowk, Bharatpur-241423",
+      "shipping_address": "50/69, Babu Chowk, Bharatpur-241423",
+      "seller_tax_id": "30QLUTP7235X1Z5",
+      "client_tax_id": "21HKBWB3551G1Z7",
+      "client_phone": "+918704684902"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-957A",
+        "item_qty": "1",
+        "item_net_price": "39,213.60",
+        "item_net_worth": "39,213.60",
+        "item_vat": "12%",
+        "item_gross_worth": "43,919.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹39,213.60",
+      "total_vat": "₹4,705.63",
+      "total_gross_worth": "₹43,919.23",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹4,705.63"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UPU/331",
+      "invoice_date": "29/06/2025",
+      "seller": "METRO TECH STORE 76/948, Buch Path, Jammu-798716",
+      "client": "JANAKI RAGHAVAN H.No. 61, Agate Chowk, Jorhat 727654",
+      "shipping_address": "H.No. 61, Agate Chowk, Jorhat 727654",
+      "seller_tax_id": "23ZTNII6412P1ZX",
+      "client_tax_id": "34DRNZF4876M1Z8",
+      "client_phone": "+916347139877"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-876Z",
+        "item_qty": "2",
+        "item_net_price": "47,764.04",
+        "item_net_worth": "95,528.08",
+        "item_vat": "18%",
+        "item_gross_worth": "112,723.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹95,528.08",
+      "total_vat": "₹17,195.05",
+      "total_gross_worth": "₹112,723.13",
+      "total_cgst": "₹8,597.53",
+      "total_sgst": "₹8,597.53",
+      "total_igst": "₹0.00"
+    }
+  }
+}

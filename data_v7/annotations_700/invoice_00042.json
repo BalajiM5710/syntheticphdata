@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SFR/107",
+      "invoice_date": "07/08/2025",
+      "seller": "SMART ELECTRONICS 52/693, Ram Nagar, Bulandshahr 944525",
+      "client": "KASHISH SACHDEV H.No. 494, Som Street, Moradabad-206184",
+      "shipping_address": "H.No. 494, Som Street, Moradabad-206184",
+      "seller_tax_id": "37AJADF9756V1Z0",
+      "client_tax_id": "07CEOTX1567T1ZK",
+      "client_phone": "2891083800"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-347S",
+        "item_qty": "2",
+        "item_net_price": "34,733.83",
+        "item_net_worth": "69,467.66",
+        "item_vat": "12%",
+        "item_gross_worth": "77,803.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹69,467.66",
+      "total_vat": "₹8,336.12",
+      "total_gross_worth": "₹77,803.78",
+      "total_cgst": "₹4,168.06",
+      "total_sgst": "₹4,168.06",
+      "total_igst": "₹0.00"
+    }
+  }
+}

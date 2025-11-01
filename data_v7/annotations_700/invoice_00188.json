@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/276",
+      "invoice_date": "03/06/2025",
+      "seller": "CITY ELECTRONICS 748, Chaudhuri Zila, Lucknow 709090",
+      "client": "ALEXANDER DUTT H.No. 525, Tella Ganj, North Dumdum-646904",
+      "shipping_address": "36, Sheth Circle, Loni 148005",
+      "seller_tax_id": "03WQJFL8039M1ZW",
+      "client_tax_id": "03BXBXD9122P1Z9",
+      "client_phone": "05160401707"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-278D",
+        "item_qty": "2",
+        "item_net_price": "94,135.50",
+        "item_net_worth": "188,271.00",
+        "item_vat": "12%",
+        "item_gross_worth": "210,863.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹188,271.00",
+      "total_vat": "₹22,592.52",
+      "total_gross_worth": "₹210,863.52",
+      "total_cgst": "₹11,296.26",
+      "total_sgst": "₹11,296.26",
+      "total_igst": "₹0.00"
+    }
+  }
+}

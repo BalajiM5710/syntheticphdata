@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/550",
+      "invoice_date": "17/04/2025",
+      "seller": "MOBILE POINT 177, Borra Nagar, Tenali 689904",
+      "client": "NEELIMA KAMDAR 75, Bir Street, Raipur-515432",
+      "shipping_address": "75, Bir Street, Raipur-515432",
+      "seller_tax_id": "04VLAWS1746V1ZC",
+      "client_tax_id": "32PXITD7870S1ZL",
+      "client_phone": "1083481441"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-477F",
+        "item_qty": "2",
+        "item_net_price": "73,186.77",
+        "item_net_worth": "146,373.54",
+        "item_vat": "18%",
+        "item_gross_worth": "172,720.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹146,373.54",
+      "total_vat": "₹26,347.24",
+      "total_gross_worth": "₹172,720.78",
+      "total_cgst": "₹13,173.62",
+      "total_sgst": "₹13,173.62",
+      "total_igst": "₹0.00"
+    }
+  }
+}

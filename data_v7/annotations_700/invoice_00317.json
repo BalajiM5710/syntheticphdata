@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AOP/815",
+      "invoice_date": "16/07/2025",
+      "seller": "SINGH ELECTRONICS 51/92, Vig Street, Davanagere-928628",
+      "client": "SIDDHARTH WALI 66/113, Sood Circle, Kulti-552004",
+      "shipping_address": "66/113, Sood Circle, Kulti-552004",
+      "seller_tax_id": "34RXKMI7843I1Z9",
+      "client_tax_id": "32IZLJJ3371A1ZN",
+      "client_phone": "00116092903"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-555K",
+        "item_qty": "2",
+        "item_net_price": "15,415.26",
+        "item_net_worth": "30,830.52",
+        "item_vat": "18%",
+        "item_gross_worth": "36,380.01"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-471J",
+        "item_qty": "1",
+        "item_net_price": "11,726.20",
+        "item_net_worth": "11,726.20",
+        "item_vat": "18%",
+        "item_gross_worth": "13,836.92"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-494Y",
+        "item_qty": "2",
+        "item_net_price": "29,142.94",
+        "item_net_worth": "58,285.88",
+        "item_vat": "18%",
+        "item_gross_worth": "68,777.34"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-727H",
+        "item_qty": "2",
+        "item_net_price": "28,069.48",
+        "item_net_worth": "56,138.96",
+        "item_vat": "18%",
+        "item_gross_worth": "66,243.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹156,981.56",
+      "total_vat": "₹28,256.68",
+      "total_gross_worth": "₹185,238.24",
+      "total_cgst": "₹14,128.34",
+      "total_sgst": "₹14,128.34",
+      "total_igst": "₹0.00"
+    }
+  }
+}

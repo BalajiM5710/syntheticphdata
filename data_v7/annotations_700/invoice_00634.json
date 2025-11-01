@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/527",
+      "invoice_date": "15/07/2025",
+      "seller": "STAR ELECTRONICS 65, Hegde Chowk, Nagpur 582339",
+      "client": "XALAK RAI 47, Pal Circle, Guntur 075853",
+      "shipping_address": "47, Pal Circle, Guntur 075853",
+      "seller_tax_id": "05WOUGK2090H1Z1",
+      "client_tax_id": "26ZWWCK9756Q1ZF",
+      "client_phone": "+914414685410"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-505Q",
+        "item_qty": "1",
+        "item_net_price": "37,972.24",
+        "item_net_worth": "37,972.24",
+        "item_vat": "18%",
+        "item_gross_worth": "44,807.24"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-548G",
+        "item_qty": "1",
+        "item_net_price": "71,528.66",
+        "item_net_worth": "71,528.66",
+        "item_vat": "18%",
+        "item_gross_worth": "84,403.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹109,500.90",
+      "total_vat": "₹19,710.16",
+      "total_gross_worth": "₹129,211.06",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹19,710.16"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8482",
+      "invoice_date": "28/10/2025",
+      "seller": "CITY ELECTRONICS 18, Chana Road, Darbhanga 730774",
+      "client": "ZINAL HARI 55/510, Kant Ganj, Mehsana 156617",
+      "shipping_address": "55/510, Kant Ganj, Mehsana 156617",
+      "seller_tax_id": "29EMOCK1248N1Z8",
+      "client_tax_id": "10HTFSG4154V1ZM",
+      "client_phone": "1759768372"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-918I",
+        "item_qty": "2",
+        "item_net_price": "71,645.34",
+        "item_net_worth": "143,290.68",
+        "item_vat": "18%",
+        "item_gross_worth": "169,083.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,290.68",
+      "total_vat": "₹25,792.32",
+      "total_gross_worth": "₹169,083.00",
+      "total_cgst": "₹12,896.16",
+      "total_sgst": "₹12,896.16",
+      "total_igst": "₹0.00"
+    }
+  }
+}

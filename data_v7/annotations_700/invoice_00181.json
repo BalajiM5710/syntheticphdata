@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8817",
+      "invoice_date": "29/10/2025",
+      "seller": "FUTURE TECH 66, Bhagat Zila, Bhopal 789026",
+      "client": "FAQID PUROHIT 88/919, Jha Chowk, Avadi 778282",
+      "shipping_address": "88/919, Jha Chowk, Avadi 778282",
+      "seller_tax_id": "24SORQM8552T1Z8",
+      "client_tax_id": "24YBCPQ4746D1ZC",
+      "client_phone": "+915832548183"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-572R",
+        "item_qty": "1",
+        "item_net_price": "18,793.10",
+        "item_net_worth": "18,793.10",
+        "item_vat": "28%",
+        "item_gross_worth": "24,055.17"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-373B IMEI: 436467319125798",
+        "item_qty": "2",
+        "item_net_price": "15,107.39",
+        "item_net_worth": "30,214.78",
+        "item_vat": "28%",
+        "item_gross_worth": "38,674.92"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-376P IMEI: 431408528880558",
+        "item_qty": "1",
+        "item_net_price": "86,824.83",
+        "item_net_worth": "86,824.83",
+        "item_vat": "28%",
+        "item_gross_worth": "111,135.78"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-937S",
+        "item_qty": "2",
+        "item_net_price": "72,000.92",
+        "item_net_worth": "144,001.84",
+        "item_vat": "28%",
+        "item_gross_worth": "184,322.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹279,834.55",
+      "total_vat": "₹78,353.67",
+      "total_gross_worth": "₹358,188.22",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹78,353.67"
+    }
+  }
+}

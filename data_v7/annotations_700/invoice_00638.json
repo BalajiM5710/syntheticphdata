@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/667",
+      "invoice_date": "16/05/2025",
+      "seller": "MOBILE POINT H.No. 723, Nagar Zila, Jamshedpur 687173",
+      "client": "AMAIRA RAO H.No. 338, Lanka Nagar, Varanasi-925270",
+      "shipping_address": "H.No. 338, Lanka Nagar, Varanasi-925270",
+      "seller_tax_id": "10SHWYT2956H1ZP",
+      "client_tax_id": "37QPPQD2682L1ZS",
+      "client_phone": "4298230482"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-758M",
+        "item_qty": "2",
+        "item_net_price": "51,256.02",
+        "item_net_worth": "102,512.04",
+        "item_vat": "12%",
+        "item_gross_worth": "114,813.48"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-623R",
+        "item_qty": "2",
+        "item_net_price": "31,019.54",
+        "item_net_worth": "62,039.08",
+        "item_vat": "12%",
+        "item_gross_worth": "69,483.77"
+      },
+      {
+        "item_desc": "Sony Speaker SON-624Z",
+        "item_qty": "2",
+        "item_net_price": "43,701.31",
+        "item_net_worth": "87,402.62",
+        "item_vat": "12%",
+        "item_gross_worth": "97,890.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹251,953.74",
+      "total_vat": "₹30,234.45",
+      "total_gross_worth": "₹282,188.19",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,234.45"
+    }
+  }
+}

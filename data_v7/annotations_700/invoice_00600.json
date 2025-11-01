@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/447",
+      "invoice_date": "11/09/2025",
+      "seller": "PRADHAN MOBILE SHOP 16/70, Batta Ganj, Bhimavaram 917367",
+      "client": "CHANAKYA RAJAGOPAL 802, Randhawa Marg, Ambala 851357",
+      "shipping_address": "41/830, Dhaliwal Chowk, Nellore-432000",
+      "seller_tax_id": "06OMLKX5157Z1Z6",
+      "client_tax_id": "01IMIZG6518D1Z6",
+      "client_phone": "3194313401"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-385O",
+        "item_qty": "2",
+        "item_net_price": "47,684.96",
+        "item_net_worth": "95,369.92",
+        "item_vat": "12%",
+        "item_gross_worth": "106,814.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹95,369.92",
+      "total_vat": "₹11,444.39",
+      "total_gross_worth": "₹106,814.31",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹11,444.39"
+    }
+  }
+}

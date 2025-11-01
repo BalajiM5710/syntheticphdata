@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/583",
+      "invoice_date": "20/03/2025",
+      "seller": "ELECTRONICS WORLD 64/86, Zachariah Ganj, Munger 233662",
+      "client": "YATAN BAJWA 88, Aggarwal Ganj, Gwalior 122365",
+      "shipping_address": "88, Aggarwal Ganj, Gwalior 122365",
+      "seller_tax_id": "02AHWKP8220B1ZE",
+      "client_tax_id": "13KNEFE8303Q1Z6",
+      "client_phone": "0960118599"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-991G",
+        "item_qty": "2",
+        "item_net_price": "20,863.50",
+        "item_net_worth": "41,727.00",
+        "item_vat": "28%",
+        "item_gross_worth": "53,410.56"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-743E",
+        "item_qty": "1",
+        "item_net_price": "19,825.15",
+        "item_net_worth": "19,825.15",
+        "item_vat": "28%",
+        "item_gross_worth": "25,376.19"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-659Q IMEI: 861609358019941",
+        "item_qty": "2",
+        "item_net_price": "78,361.48",
+        "item_net_worth": "156,722.96",
+        "item_vat": "28%",
+        "item_gross_worth": "200,605.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹218,275.11",
+      "total_vat": "₹61,117.03",
+      "total_gross_worth": "₹279,392.14",
+      "total_cgst": "₹30,558.52",
+      "total_sgst": "₹30,558.52",
+      "total_igst": "₹0.00"
+    }
+  }
+}

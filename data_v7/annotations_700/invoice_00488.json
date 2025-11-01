@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/837",
+      "invoice_date": "23/04/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 54, Goel Ganj, Dhule-365073",
+      "client": "LAVANYA KURUVILLA H.No. 570, Hora Ganj, Jalgaon-392752",
+      "shipping_address": "H.No. 570, Hora Ganj, Jalgaon-392752",
+      "seller_tax_id": "34BEZSH6136H1ZT",
+      "client_tax_id": "16VIYBA5631R1ZB",
+      "client_phone": "5910379756"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-979L IMEI: 493851197225477",
+        "item_qty": "1",
+        "item_net_price": "25,998.88",
+        "item_net_worth": "25,998.88",
+        "item_vat": "12%",
+        "item_gross_worth": "29,118.75"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-869P",
+        "item_qty": "2",
+        "item_net_price": "90,251.19",
+        "item_net_worth": "180,502.38",
+        "item_vat": "12%",
+        "item_gross_worth": "202,162.67"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-440U IMEI: 545397494358851",
+        "item_qty": "2",
+        "item_net_price": "70,926.88",
+        "item_net_worth": "141,853.76",
+        "item_vat": "12%",
+        "item_gross_worth": "158,876.21"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-302Z",
+        "item_qty": "1",
+        "item_net_price": "13,124.08",
+        "item_net_worth": "13,124.08",
+        "item_vat": "12%",
+        "item_gross_worth": "14,698.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹361,479.10",
+      "total_vat": "₹43,377.49",
+      "total_gross_worth": "₹404,856.59",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹43,377.49"
+    }
+  }
+}

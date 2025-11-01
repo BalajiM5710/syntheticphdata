@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7090",
+      "invoice_date": "08/06/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 631, Sane, Chinsurah-959034",
+      "client": "JACK GILL 87/11, Rege Street, Gorakhpur-444964",
+      "shipping_address": "69/64, Narasimhan Street, Danapur-271312",
+      "seller_tax_id": "22HUYIY4214J1Z7",
+      "client_tax_id": "21YOSLQ3227F1ZZ",
+      "client_phone": "0646390859"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-954I",
+        "item_qty": "1",
+        "item_net_price": "18,229.90",
+        "item_net_worth": "18,229.90",
+        "item_vat": "28%",
+        "item_gross_worth": "23,334.27"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-309T",
+        "item_qty": "2",
+        "item_net_price": "18,537.45",
+        "item_net_worth": "37,074.90",
+        "item_vat": "28%",
+        "item_gross_worth": "47,455.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹55,304.80",
+      "total_vat": "₹15,485.34",
+      "total_gross_worth": "₹70,790.14",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,485.34"
+    }
+  }
+}

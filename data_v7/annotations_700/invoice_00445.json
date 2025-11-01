@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7215",
+      "invoice_date": "09/08/2025",
+      "seller": "TECH BAZAAR H.No. 036, Mital Marg, Jehanabad 833823",
+      "client": "VEER DAR 38/58, Baral Zila, Gandhinagar 218323",
+      "shipping_address": "38/58, Baral Zila, Gandhinagar 218323",
+      "seller_tax_id": "13MKNNT5059O1ZZ",
+      "client_tax_id": "19VHLMC0545P1Z5",
+      "client_phone": "+913870171831"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-803Q IMEI: 276480379115745",
+        "item_qty": "1",
+        "item_net_price": "68,359.94",
+        "item_net_worth": "68,359.94",
+        "item_vat": "12%",
+        "item_gross_worth": "76,563.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹68,359.94",
+      "total_vat": "₹8,203.19",
+      "total_gross_worth": "₹76,563.13",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,203.19"
+    }
+  }
+}

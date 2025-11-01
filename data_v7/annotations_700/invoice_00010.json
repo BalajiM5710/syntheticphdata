@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/311",
+      "invoice_date": "25/09/2025",
+      "seller": "ROYAL MOBILES 98, Aurora, Rohtak-337753",
+      "client": "TANISH TARA 89, Bahl Nagar, Sambalpur 455013",
+      "shipping_address": "13/13, Prashad Ganj, Giridih 580799",
+      "seller_tax_id": "01FKQAT9743U1ZF",
+      "client_tax_id": "34ZRTJJ6263R1ZD",
+      "client_phone": "05715743302"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-158Y",
+        "item_qty": "1",
+        "item_net_price": "56,634.03",
+        "item_net_worth": "56,634.03",
+        "item_vat": "12%",
+        "item_gross_worth": "63,430.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹56,634.03",
+      "total_vat": "₹6,796.08",
+      "total_gross_worth": "₹63,430.11",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,796.08"
+    }
+  }
+}

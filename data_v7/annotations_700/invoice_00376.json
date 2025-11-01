@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/379",
+      "invoice_date": "14/09/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 49, Manda, Chandrapur-230018",
+      "client": "AARUSH PARMAR 573, Bandi Street, Begusarai-433156",
+      "shipping_address": "573, Bandi Street, Begusarai-433156",
+      "seller_tax_id": "33NFNHN6253Y1ZE",
+      "client_tax_id": "14PZERL3871A1ZQ",
+      "client_phone": "04941517705"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-702W IMEI: 239815708460615",
+        "item_qty": "1",
+        "item_net_price": "51,237.41",
+        "item_net_worth": "51,237.41",
+        "item_vat": "12%",
+        "item_gross_worth": "57,385.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹51,237.41",
+      "total_vat": "₹6,148.49",
+      "total_gross_worth": "₹57,385.90",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,148.49"
+    }
+  }
+}

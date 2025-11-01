@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OAP/568",
+      "invoice_date": "25/10/2025",
+      "seller": "CITY ELECTRONICS 62/203, Padmanabhan Ganj, Morena 340935",
+      "client": "EKIYA NARAYANAN 61/556, Hans Marg, Tinsukia 085991",
+      "shipping_address": "61/556, Hans Marg, Tinsukia 085991",
+      "seller_tax_id": "35LILWR9023B1ZJ",
+      "client_tax_id": "06SJVRZ6162I1ZF",
+      "client_phone": "+910559290887"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-904W",
+        "item_qty": "2",
+        "item_net_price": "66,764.97",
+        "item_net_worth": "133,529.94",
+        "item_vat": "12%",
+        "item_gross_worth": "149,553.53"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-934Z",
+        "item_qty": "2",
+        "item_net_price": "42,413.65",
+        "item_net_worth": "84,827.30",
+        "item_vat": "12%",
+        "item_gross_worth": "95,006.58"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-354B",
+        "item_qty": "1",
+        "item_net_price": "52,220.73",
+        "item_net_worth": "52,220.73",
+        "item_vat": "12%",
+        "item_gross_worth": "58,487.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹270,577.97",
+      "total_vat": "₹32,469.36",
+      "total_gross_worth": "₹303,047.33",
+      "total_cgst": "₹16,234.68",
+      "total_sgst": "₹16,234.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

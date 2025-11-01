@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VEY/800",
+      "invoice_date": "24/06/2025",
+      "seller": "KUMAR TECH SOLUTIONS 91/05, Pant Path, Sri Ganganagar-798884",
+      "client": "OESHI DOSHI 48/705, Kuruvilla Marg, Latur-027101",
+      "shipping_address": "48/705, Kuruvilla Marg, Latur-027101",
+      "seller_tax_id": "21QUBTT2636E1ZW",
+      "client_tax_id": "01GOHUE1028Z1ZX",
+      "client_phone": "3608128688"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-673S IMEI: 669790252114608",
+        "item_qty": "2",
+        "item_net_price": "47,771.31",
+        "item_net_worth": "95,542.62",
+        "item_vat": "12%",
+        "item_gross_worth": "107,007.73"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-299N",
+        "item_qty": "2",
+        "item_net_price": "15,174.49",
+        "item_net_worth": "30,348.98",
+        "item_vat": "12%",
+        "item_gross_worth": "33,990.86"
+      },
+      {
+        "item_desc": "Apple Tablets APP-623C",
+        "item_qty": "1",
+        "item_net_price": "77,357.21",
+        "item_net_worth": "77,357.21",
+        "item_vat": "12%",
+        "item_gross_worth": "86,640.08"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-943N IMEI: 956110669920092",
+        "item_qty": "2",
+        "item_net_price": "72,615.61",
+        "item_net_worth": "145,231.22",
+        "item_vat": "12%",
+        "item_gross_worth": "162,658.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹348,480.03",
+      "total_vat": "₹41,817.60",
+      "total_gross_worth": "₹390,297.63",
+      "total_cgst": "₹20,908.80",
+      "total_sgst": "₹20,908.80",
+      "total_igst": "₹0.00"
+    }
+  }
+}

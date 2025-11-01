@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IZT/546",
+      "invoice_date": "10/10/2025",
+      "seller": "SMART ELECTRONICS 65/487, Sridhar Chowk, Rajahmundry 021085",
+      "client": "UTKARSH MAMMEN 74/33, Mangal Nagar, Siwan-816253",
+      "shipping_address": "74/33, Mangal Nagar, Siwan-816253",
+      "seller_tax_id": "05BIHNT7454C1Z9",
+      "client_tax_id": "21NVVPW8371B1Z1",
+      "client_phone": "02425765305"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-845T",
+        "item_qty": "1",
+        "item_net_price": "86,430.72",
+        "item_net_worth": "86,430.72",
+        "item_vat": "18%",
+        "item_gross_worth": "101,988.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹86,430.72",
+      "total_vat": "₹15,557.53",
+      "total_gross_worth": "₹101,988.25",
+      "total_cgst": "₹7,778.76",
+      "total_sgst": "₹7,778.76",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/827",
+      "invoice_date": "11/05/2025",
+      "seller": "SUPREME ELECTRONICS 85/01, Roy Zila, Muzaffarpur 170487",
+      "client": "GEORGE SAHA 30/39, Krish Ganj, Amritsar 699691",
+      "shipping_address": "30/39, Krish Ganj, Amritsar 699691",
+      "seller_tax_id": "36RIFJH5991B1ZL",
+      "client_tax_id": "16CHJKE7061L1ZJ",
+      "client_phone": "+913603044408"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-886C",
+        "item_qty": "1",
+        "item_net_price": "32,469.30",
+        "item_net_worth": "32,469.30",
+        "item_vat": "28%",
+        "item_gross_worth": "41,560.70"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-277Q",
+        "item_qty": "2",
+        "item_net_price": "40,652.20",
+        "item_net_worth": "81,304.40",
+        "item_vat": "28%",
+        "item_gross_worth": "104,069.63"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-973Z",
+        "item_qty": "2",
+        "item_net_price": "73,029.37",
+        "item_net_worth": "146,058.74",
+        "item_vat": "28%",
+        "item_gross_worth": "186,955.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹259,832.44",
+      "total_vat": "₹72,753.08",
+      "total_gross_worth": "₹332,585.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹72,753.08"
+    }
+  }
+}

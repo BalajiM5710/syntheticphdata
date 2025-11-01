@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3262",
+      "invoice_date": "11/03/2025",
+      "seller": "SINGH ELECTRONICS 46/21, Zachariah Zila, Bhatpara-117961",
+      "client": "FALGUNI DEVI 84, Chauhan Circle, Howrah-660720",
+      "shipping_address": "84, Chauhan Circle, Howrah-660720",
+      "seller_tax_id": "24HANQK8026U1ZZ",
+      "client_tax_id": "37DJJDD2843D1ZP",
+      "client_phone": "04292953299"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-964Q",
+        "item_qty": "1",
+        "item_net_price": "31,945.44",
+        "item_net_worth": "31,945.44",
+        "item_vat": "12%",
+        "item_gross_worth": "35,778.89"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-213J IMEI: 756118190862593",
+        "item_qty": "1",
+        "item_net_price": "20,971.83",
+        "item_net_worth": "20,971.83",
+        "item_vat": "12%",
+        "item_gross_worth": "23,488.45"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-132V",
+        "item_qty": "2",
+        "item_net_price": "18,185.85",
+        "item_net_worth": "36,371.70",
+        "item_vat": "12%",
+        "item_gross_worth": "40,736.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,288.97",
+      "total_vat": "₹10,714.68",
+      "total_gross_worth": "₹100,003.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,714.68"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1617",
+      "invoice_date": "12/04/2025",
+      "seller": "MOBILE POINT 651, Dube Zila, Delhi-466507",
+      "client": "HEMANG SAHA 49, Varkey Chowk, Adoni 970741",
+      "shipping_address": "H.No. 51, Buch Ganj, Bhatpara-604556",
+      "seller_tax_id": "36ZHGLK2750Z1ZP",
+      "client_tax_id": "29CXOAZ6542P1ZJ",
+      "client_phone": "+914403378687"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-505E IMEI: 304465571653391",
+        "item_qty": "1",
+        "item_net_price": "75,227.21",
+        "item_net_worth": "75,227.21",
+        "item_vat": "12%",
+        "item_gross_worth": "84,254.48"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-947O",
+        "item_qty": "1",
+        "item_net_price": "91,575.90",
+        "item_net_worth": "91,575.90",
+        "item_vat": "12%",
+        "item_gross_worth": "102,565.01"
+      },
+      {
+        "item_desc": "TVS Bike TVS-107Y",
+        "item_qty": "1",
+        "item_net_price": "91,236.20",
+        "item_net_worth": "91,236.20",
+        "item_vat": "12%",
+        "item_gross_worth": "102,184.54"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-292C",
+        "item_qty": "1",
+        "item_net_price": "21,349.34",
+        "item_net_worth": "21,349.34",
+        "item_vat": "12%",
+        "item_gross_worth": "23,911.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹279,388.65",
+      "total_vat": "₹33,526.64",
+      "total_gross_worth": "₹312,915.29",
+      "total_cgst": "₹16,763.32",
+      "total_sgst": "₹16,763.32",
+      "total_igst": "₹0.00"
+    }
+  }
+}

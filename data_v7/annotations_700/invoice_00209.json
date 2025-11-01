@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MJF/284",
+      "invoice_date": "06/07/2025",
+      "seller": "SMART ELECTRONICS H.No. 717, Tak Path, Alwar-167037",
+      "client": "INDALI PARMER H.No. 83, Dora Street, Sambhal 745034",
+      "shipping_address": "39, Comar, Mehsana-983868",
+      "seller_tax_id": "30JFYSC9867L1ZR",
+      "client_tax_id": "31CIEAI4214D1Z1",
+      "client_phone": "9113369296"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-152X",
+        "item_qty": "1",
+        "item_net_price": "51,543.95",
+        "item_net_worth": "51,543.95",
+        "item_vat": "12%",
+        "item_gross_worth": "57,729.22"
+      },
+      {
+        "item_desc": "Canon Camera CAN-174Y",
+        "item_qty": "2",
+        "item_net_price": "46,755.54",
+        "item_net_worth": "93,511.08",
+        "item_vat": "12%",
+        "item_gross_worth": "104,732.41"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-851S",
+        "item_qty": "2",
+        "item_net_price": "21,381.68",
+        "item_net_worth": "42,763.36",
+        "item_vat": "12%",
+        "item_gross_worth": "47,894.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹187,818.39",
+      "total_vat": "₹22,538.21",
+      "total_gross_worth": "₹210,356.60",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,538.21"
+    }
+  }
+}

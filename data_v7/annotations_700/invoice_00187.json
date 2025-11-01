@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/480",
+      "invoice_date": "06/10/2025",
+      "seller": "VISHWA ELECTRONICS 831, Thakkar Nagar, Jaunpur-826813",
+      "client": "RADHA NARASIMHAN 355, Pathak Circle, Moradabad-613279",
+      "shipping_address": "355, Pathak Circle, Moradabad-613279",
+      "seller_tax_id": "09XWSQJ4839N1Z7",
+      "client_tax_id": "13RAXEH7499O1ZA",
+      "client_phone": "+910154789447"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-439I",
+        "item_qty": "2",
+        "item_net_price": "18,555.13",
+        "item_net_worth": "37,110.26",
+        "item_vat": "12%",
+        "item_gross_worth": "41,563.49"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-419E",
+        "item_qty": "2",
+        "item_net_price": "14,731.27",
+        "item_net_worth": "29,462.54",
+        "item_vat": "12%",
+        "item_gross_worth": "32,998.04"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-900I",
+        "item_qty": "2",
+        "item_net_price": "14,887.08",
+        "item_net_worth": "29,774.16",
+        "item_vat": "12%",
+        "item_gross_worth": "33,347.06"
+      },
+      {
+        "item_desc": "Apple Laptops APP-684W",
+        "item_qty": "1",
+        "item_net_price": "23,907.25",
+        "item_net_worth": "23,907.25",
+        "item_vat": "12%",
+        "item_gross_worth": "26,776.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,254.21",
+      "total_vat": "₹14,430.51",
+      "total_gross_worth": "₹134,684.72",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹14,430.51"
+    }
+  }
+}

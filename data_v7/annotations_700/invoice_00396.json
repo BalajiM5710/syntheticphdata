@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HGS/546",
+      "invoice_date": "02/04/2025",
+      "seller": "METRO TECH STORE 15/58, Rastogi Marg, Udupi 488400",
+      "client": "OMAJA KOTA 06, Gera Marg, Mirzapur-776864",
+      "shipping_address": "06, Gera Marg, Mirzapur-776864",
+      "seller_tax_id": "01KXSQH7079U1ZD",
+      "client_tax_id": "25QFXMV6199R1ZG",
+      "client_phone": "0760368104"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-238Q",
+        "item_qty": "1",
+        "item_net_price": "29,500.50",
+        "item_net_worth": "29,500.50",
+        "item_vat": "28%",
+        "item_gross_worth": "37,760.64"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-348S",
+        "item_qty": "2",
+        "item_net_price": "10,609.33",
+        "item_net_worth": "21,218.66",
+        "item_vat": "28%",
+        "item_gross_worth": "27,159.88"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-845N",
+        "item_qty": "2",
+        "item_net_price": "20,968.32",
+        "item_net_worth": "41,936.64",
+        "item_vat": "28%",
+        "item_gross_worth": "53,678.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹92,655.80",
+      "total_vat": "₹25,943.62",
+      "total_gross_worth": "₹118,599.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,943.62"
+    }
+  }
+}

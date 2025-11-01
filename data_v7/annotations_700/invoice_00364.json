@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HAN/132",
+      "invoice_date": "19/06/2025",
+      "seller": "TECH BAZAAR 739, Swamy Nagar, Nanded-200454",
+      "client": "REYANSH BASAK 84/625, Chacko Street, Moradabad-688453",
+      "shipping_address": "84/625, Chacko Street, Moradabad-688453",
+      "seller_tax_id": "01ZISAB1711D1ZL",
+      "client_tax_id": "36UOZDC2230N1Z9",
+      "client_phone": "+913543828946"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-621P",
+        "item_qty": "2",
+        "item_net_price": "94,903.35",
+        "item_net_worth": "189,806.70",
+        "item_vat": "12%",
+        "item_gross_worth": "212,583.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,806.70",
+      "total_vat": "₹22,776.80",
+      "total_gross_worth": "₹212,583.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,776.80"
+    }
+  }
+}

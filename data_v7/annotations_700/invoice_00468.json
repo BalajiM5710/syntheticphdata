@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LKK/784",
+      "invoice_date": "14/07/2025",
+      "seller": "FUTURE TECH 19/641, Khalsa Circle, Ludhiana 180401",
+      "client": "JACKSON KAPADIA 03/190, Varma, Davanagere-188814",
+      "shipping_address": "03/190, Varma, Davanagere-188814",
+      "seller_tax_id": "01XEMWI6887Q1ZG",
+      "client_tax_id": "15OTLKO2844O1ZM",
+      "client_phone": "09767478850"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-756W",
+        "item_qty": "1",
+        "item_net_price": "17,731.11",
+        "item_net_worth": "17,731.11",
+        "item_vat": "28%",
+        "item_gross_worth": "22,695.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹17,731.11",
+      "total_vat": "₹4,964.71",
+      "total_gross_worth": "₹22,695.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹4,964.71"
+    }
+  }
+}

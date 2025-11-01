@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8440",
+      "invoice_date": "10/04/2025",
+      "seller": "ELECTRONICS WORLD 63/977, Shanker, Deoghar 815357",
+      "client": "TANVI CHAUDRY 589, Basu Road, Agra-593208",
+      "shipping_address": "589, Basu Road, Agra-593208",
+      "seller_tax_id": "07UMDCS3353X1ZX",
+      "client_tax_id": "32CLLBZ8479S1ZK",
+      "client_phone": "05605245157"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-301M",
+        "item_qty": "1",
+        "item_net_price": "21,727.24",
+        "item_net_worth": "21,727.24",
+        "item_vat": "12%",
+        "item_gross_worth": "24,334.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹21,727.24",
+      "total_vat": "₹2,607.27",
+      "total_gross_worth": "₹24,334.51",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹2,607.27"
+    }
+  }
+}

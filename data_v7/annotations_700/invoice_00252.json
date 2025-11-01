@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1403",
+      "invoice_date": "20/02/2025",
+      "seller": "GADGET GALAXY H.No. 186, Badal Nagar, Pudukkottai 031267",
+      "client": "VAISHNAVI DATTA 07/418, Sengupta Ganj, Kumbakonam 427845",
+      "shipping_address": "07/418, Sengupta Ganj, Kumbakonam 427845",
+      "seller_tax_id": "02DXWAQ3083G1ZZ",
+      "client_tax_id": "35SCUKQ6693T1ZK",
+      "client_phone": "+911996238133"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-726P",
+        "item_qty": "2",
+        "item_net_price": "56,090.90",
+        "item_net_worth": "112,181.80",
+        "item_vat": "12%",
+        "item_gross_worth": "125,643.62"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-310X",
+        "item_qty": "2",
+        "item_net_price": "41,825.41",
+        "item_net_worth": "83,650.82",
+        "item_vat": "12%",
+        "item_gross_worth": "93,688.92"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-895W",
+        "item_qty": "2",
+        "item_net_price": "94,058.71",
+        "item_net_worth": "188,117.42",
+        "item_vat": "12%",
+        "item_gross_worth": "210,691.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹383,950.04",
+      "total_vat": "₹46,074.00",
+      "total_gross_worth": "₹430,024.04",
+      "total_cgst": "₹23,037.00",
+      "total_sgst": "₹23,037.00",
+      "total_igst": "₹0.00"
+    }
+  }
+}

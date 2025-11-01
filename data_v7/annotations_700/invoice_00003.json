@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4885",
+      "invoice_date": "27/02/2025",
+      "seller": "PRADHAN MOBILE SHOP 77, Wadhwa Zila, Kurnool-829111",
+      "client": "PRIYA RAVEL 521, Dugal Marg, Jehanabad-431739",
+      "shipping_address": "H.No. 58, Chawla Road, Ranchi 430933",
+      "seller_tax_id": "03ZEMBD9674P1Z4",
+      "client_tax_id": "27IJIUL2570M1ZH",
+      "client_phone": "7972636139"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-431V IMEI: 377899722757949",
+        "item_qty": "1",
+        "item_net_price": "36,119.48",
+        "item_net_worth": "36,119.48",
+        "item_vat": "12%",
+        "item_gross_worth": "40,453.82"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-317G",
+        "item_qty": "2",
+        "item_net_price": "34,713.78",
+        "item_net_worth": "69,427.56",
+        "item_vat": "12%",
+        "item_gross_worth": "77,758.87"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-884L",
+        "item_qty": "1",
+        "item_net_price": "68,686.84",
+        "item_net_worth": "68,686.84",
+        "item_vat": "12%",
+        "item_gross_worth": "76,929.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹174,233.88",
+      "total_vat": "₹20,908.07",
+      "total_gross_worth": "₹195,141.95",
+      "total_cgst": "₹10,454.03",
+      "total_sgst": "₹10,454.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

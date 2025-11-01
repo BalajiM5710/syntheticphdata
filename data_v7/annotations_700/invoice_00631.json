@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1258",
+      "invoice_date": "24/01/2025",
+      "seller": "GADGET GALAXY 25, Prakash Chowk, Unnao-280745",
+      "client": "VARENYA DOCTOR H.No. 84, Chokshi Nagar, Kishanganj-511749",
+      "shipping_address": "H.No. 84, Chokshi Nagar, Kishanganj-511749",
+      "seller_tax_id": "02QQWJJ6378U1ZR",
+      "client_tax_id": "08HNMZD1819R1ZX",
+      "client_phone": "7280420013"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-869C",
+        "item_qty": "2",
+        "item_net_price": "17,827.33",
+        "item_net_worth": "35,654.66",
+        "item_vat": "12%",
+        "item_gross_worth": "39,933.22"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-930Q",
+        "item_qty": "1",
+        "item_net_price": "38,969.14",
+        "item_net_worth": "38,969.14",
+        "item_vat": "12%",
+        "item_gross_worth": "43,645.44"
+      },
+      {
+        "item_desc": "LG Microwave LG-272Q",
+        "item_qty": "2",
+        "item_net_price": "28,167.57",
+        "item_net_worth": "56,335.14",
+        "item_vat": "12%",
+        "item_gross_worth": "63,095.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹130,958.94",
+      "total_vat": "₹15,715.07",
+      "total_gross_worth": "₹146,674.01",
+      "total_cgst": "₹7,857.54",
+      "total_sgst": "₹7,857.54",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5039",
+      "invoice_date": "09/05/2025",
+      "seller": "PATEL MOBILES 53/278, Parmar Marg, Jamalpur-121778",
+      "client": "NITESH GOLA H.No. 32, Randhawa Path, Agartala 081361",
+      "shipping_address": "H.No. 32, Randhawa Path, Agartala 081361",
+      "seller_tax_id": "33AIEAR5659Z1ZA",
+      "client_tax_id": "05YXXIZ2781E1ZW",
+      "client_phone": "04292501521"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-146H",
+        "item_qty": "1",
+        "item_net_price": "76,980.73",
+        "item_net_worth": "76,980.73",
+        "item_vat": "28%",
+        "item_gross_worth": "98,535.33"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-896D",
+        "item_qty": "1",
+        "item_net_price": "71,307.40",
+        "item_net_worth": "71,307.40",
+        "item_vat": "28%",
+        "item_gross_worth": "91,273.47"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-707U",
+        "item_qty": "1",
+        "item_net_price": "27,664.01",
+        "item_net_worth": "27,664.01",
+        "item_vat": "28%",
+        "item_gross_worth": "35,409.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹175,952.14",
+      "total_vat": "₹49,266.60",
+      "total_gross_worth": "₹225,218.74",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹49,266.60"
+    }
+  }
+}

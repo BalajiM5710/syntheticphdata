@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PSW/153",
+      "invoice_date": "18/02/2025",
+      "seller": "TECH BAZAAR 92, Sharma Marg, Gopalpur-038542",
+      "client": "OMAJA DUTTA 051, Luthra Path, Dehri 654113",
+      "shipping_address": "051, Luthra Path, Dehri 654113",
+      "seller_tax_id": "08DPIYV1660V1ZN",
+      "client_tax_id": "13LFPBL9170Z1ZW",
+      "client_phone": "1605683422"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-935Y",
+        "item_qty": "2",
+        "item_net_price": "92,032.21",
+        "item_net_worth": "184,064.42",
+        "item_vat": "18%",
+        "item_gross_worth": "217,196.02"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-234T",
+        "item_qty": "2",
+        "item_net_price": "57,040.01",
+        "item_net_worth": "114,080.02",
+        "item_vat": "18%",
+        "item_gross_worth": "134,614.42"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-876F",
+        "item_qty": "2",
+        "item_net_price": "35,423.36",
+        "item_net_worth": "70,846.72",
+        "item_vat": "18%",
+        "item_gross_worth": "83,599.13"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-767G",
+        "item_qty": "1",
+        "item_net_price": "60,370.55",
+        "item_net_worth": "60,370.55",
+        "item_vat": "18%",
+        "item_gross_worth": "71,237.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹429,361.71",
+      "total_vat": "₹77,285.11",
+      "total_gross_worth": "₹506,646.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹77,285.11"
+    }
+  }
+}

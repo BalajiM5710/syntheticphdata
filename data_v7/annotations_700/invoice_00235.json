@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/195",
+      "invoice_date": "21/10/2025",
+      "seller": "PATEL MOBILES H.No. 85, Wadhwa Nagar, Kulti 475550",
+      "client": "URMI VERMA H.No. 856, Varma Marg, Jamalpur-148289",
+      "shipping_address": "H.No. 728, Ramanathan Path, Pudukkottai-249664",
+      "seller_tax_id": "22GNMCJ5026W1ZN",
+      "client_tax_id": "20BHJLU3144H1ZP",
+      "client_phone": "+914740058239"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-484F",
+        "item_qty": "2",
+        "item_net_price": "15,679.68",
+        "item_net_worth": "31,359.36",
+        "item_vat": "18%",
+        "item_gross_worth": "37,004.04"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-329J",
+        "item_qty": "1",
+        "item_net_price": "59,893.55",
+        "item_net_worth": "59,893.55",
+        "item_vat": "18%",
+        "item_gross_worth": "70,674.39"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-492F",
+        "item_qty": "1",
+        "item_net_price": "83,940.02",
+        "item_net_worth": "83,940.02",
+        "item_vat": "18%",
+        "item_gross_worth": "99,049.22"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-955A",
+        "item_qty": "1",
+        "item_net_price": "61,648.59",
+        "item_net_worth": "61,648.59",
+        "item_vat": "18%",
+        "item_gross_worth": "72,745.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹236,841.52",
+      "total_vat": "₹42,631.47",
+      "total_gross_worth": "₹279,472.99",
+      "total_cgst": "₹21,315.74",
+      "total_sgst": "₹21,315.74",
+      "total_igst": "₹0.00"
+    }
+  }
+}

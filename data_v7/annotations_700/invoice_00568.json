@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9326",
+      "invoice_date": "02/09/2025",
+      "seller": "SMART ELECTRONICS 03, Shere Road, Jammu-626383",
+      "client": "ALEXANDER CHOKSHI 985, Batta Street, Miryalaguda 473950",
+      "shipping_address": "985, Batta Street, Miryalaguda 473950",
+      "seller_tax_id": "32CMXBP2180G1ZS",
+      "client_tax_id": "14UNDRP0503X1ZT",
+      "client_phone": "+917905497031"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-797E",
+        "item_qty": "2",
+        "item_net_price": "37,376.49",
+        "item_net_worth": "74,752.98",
+        "item_vat": "18%",
+        "item_gross_worth": "88,208.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,752.98",
+      "total_vat": "₹13,455.54",
+      "total_gross_worth": "₹88,208.52",
+      "total_cgst": "₹6,727.77",
+      "total_sgst": "₹6,727.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

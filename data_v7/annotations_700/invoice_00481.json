@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/988",
+      "invoice_date": "07/05/2025",
+      "seller": "GADGET GALAXY 95/369, Anne Path, Guntakal-843086",
+      "client": "UNNATI CHAKRABORTY 95/19, Behl Ganj, Delhi-719972",
+      "shipping_address": "95/19, Behl Ganj, Delhi-719972",
+      "seller_tax_id": "03JIGFY4843N1ZT",
+      "client_tax_id": "22PUVWU7346O1Z9",
+      "client_phone": "+917496677887"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-989Q",
+        "item_qty": "2",
+        "item_net_price": "35,718.13",
+        "item_net_worth": "71,436.26",
+        "item_vat": "18%",
+        "item_gross_worth": "84,294.79"
+      },
+      {
+        "item_desc": "Apple Tablets APP-672F",
+        "item_qty": "2",
+        "item_net_price": "8,754.04",
+        "item_net_worth": "17,508.08",
+        "item_vat": "18%",
+        "item_gross_worth": "20,659.53"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-747S",
+        "item_qty": "1",
+        "item_net_price": "8,888.86",
+        "item_net_worth": "8,888.86",
+        "item_vat": "18%",
+        "item_gross_worth": "10,488.85"
+      },
+      {
+        "item_desc": "Canon Camera CAN-296Q",
+        "item_qty": "1",
+        "item_net_price": "43,296.31",
+        "item_net_worth": "43,296.31",
+        "item_vat": "18%",
+        "item_gross_worth": "51,089.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹141,129.51",
+      "total_vat": "₹25,403.31",
+      "total_gross_worth": "₹166,532.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,403.31"
+    }
+  }
+}

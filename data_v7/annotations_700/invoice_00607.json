@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UVS/666",
+      "invoice_date": "17/06/2025",
+      "seller": "MOBILE POINT 001, Trivedi, Rajpur Sonarpur 651172",
+      "client": "AACHAL JOHAL 14/30, Dubey Zila, Amritsar-646478",
+      "shipping_address": "14/30, Dubey Zila, Amritsar-646478",
+      "seller_tax_id": "01BWZNW8296E1ZA",
+      "client_tax_id": "37CSEFT3868V1Z5",
+      "client_phone": "5989084853"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-958I",
+        "item_qty": "2",
+        "item_net_price": "41,089.45",
+        "item_net_worth": "82,178.90",
+        "item_vat": "28%",
+        "item_gross_worth": "105,188.99"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-850U",
+        "item_qty": "1",
+        "item_net_price": "24,033.89",
+        "item_net_worth": "24,033.89",
+        "item_vat": "28%",
+        "item_gross_worth": "30,763.38"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-251F",
+        "item_qty": "1",
+        "item_net_price": "92,622.98",
+        "item_net_worth": "92,622.98",
+        "item_vat": "28%",
+        "item_gross_worth": "118,557.41"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹198,835.77",
+      "total_vat": "₹55,674.02",
+      "total_gross_worth": "₹254,509.79",
+      "total_cgst": "₹27,837.01",
+      "total_sgst": "₹27,837.01",
+      "total_igst": "₹0.00"
+    }
+  }
+}

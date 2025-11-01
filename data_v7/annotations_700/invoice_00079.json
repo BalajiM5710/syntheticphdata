@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FPY/172",
+      "invoice_date": "10/01/2025",
+      "seller": "CITY ELECTRONICS 47, Mammen Zila, Kochi 961259",
+      "client": "VICTOR MANGAL 37/50, Saini, Ozhukarai-188944",
+      "shipping_address": "37/50, Saini, Ozhukarai-188944",
+      "seller_tax_id": "20MFUIC7363G1Z9",
+      "client_tax_id": "24QDUQB2234F1ZN",
+      "client_phone": "06319977855"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-274Q IMEI: 785291582806656",
+        "item_qty": "2",
+        "item_net_price": "46,419.30",
+        "item_net_worth": "92,838.60",
+        "item_vat": "18%",
+        "item_gross_worth": "109,549.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹92,838.60",
+      "total_vat": "₹16,710.95",
+      "total_gross_worth": "₹109,549.55",
+      "total_cgst": "₹8,355.47",
+      "total_sgst": "₹8,355.47",
+      "total_igst": "₹0.00"
+    }
+  }
+}

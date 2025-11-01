@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1615",
+      "invoice_date": "26/06/2025",
+      "seller": "PATEL MOBILES 271, Talwar Zila, Jorhat 775432",
+      "client": "FARHAN YADAV 70/194, Sethi Nagar, Rampur 104820",
+      "shipping_address": "70/194, Sethi Nagar, Rampur 104820",
+      "seller_tax_id": "20DZKWY4711W1ZR",
+      "client_tax_id": "26LKIXR2084L1ZU",
+      "client_phone": "05737613368"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-260L",
+        "item_qty": "1",
+        "item_net_price": "94,201.33",
+        "item_net_worth": "94,201.33",
+        "item_vat": "12%",
+        "item_gross_worth": "105,505.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹94,201.33",
+      "total_vat": "₹11,304.16",
+      "total_gross_worth": "₹105,505.49",
+      "total_cgst": "₹5,652.08",
+      "total_sgst": "₹5,652.08",
+      "total_igst": "₹0.00"
+    }
+  }
+}

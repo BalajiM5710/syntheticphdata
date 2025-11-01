@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9824",
+      "invoice_date": "17/09/2025",
+      "seller": "SINGH ELECTRONICS H.No. 496, Sethi Nagar, Bongaigaon 579848",
+      "client": "SHIVANI REGE H.No. 630, Dugar Nagar, Avadi 912337",
+      "shipping_address": "H.No. 630, Dugar Nagar, Avadi 912337",
+      "seller_tax_id": "32VUUBH6330D1Z3",
+      "client_tax_id": "29TKLLM9410O1Z3",
+      "client_phone": "06521852803"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-106T",
+        "item_qty": "1",
+        "item_net_price": "82,347.66",
+        "item_net_worth": "82,347.66",
+        "item_vat": "28%",
+        "item_gross_worth": "105,405.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹82,347.66",
+      "total_vat": "₹23,057.34",
+      "total_gross_worth": "₹105,405.00",
+      "total_cgst": "₹11,528.67",
+      "total_sgst": "₹11,528.67",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3022",
+      "invoice_date": "03/07/2025",
+      "seller": "SMART ELECTRONICS 50/52, Varghese Nagar, Tadepalligudem-860997",
+      "client": "RUSHIL CHOUDHRY 419, Acharya Nagar, Tirunelveli 055376",
+      "shipping_address": "419, Acharya Nagar, Tirunelveli 055376",
+      "seller_tax_id": "12IHOLP7884O1Z7",
+      "client_tax_id": "01DWDJD5036W1ZA",
+      "client_phone": "+915892988625"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-809Z IMEI: 495963440797553",
+        "item_qty": "1",
+        "item_net_price": "56,058.08",
+        "item_net_worth": "56,058.08",
+        "item_vat": "12%",
+        "item_gross_worth": "62,785.05"
+      },
+      {
+        "item_desc": "LG Microwave LG-521E",
+        "item_qty": "1",
+        "item_net_price": "17,930.81",
+        "item_net_worth": "17,930.81",
+        "item_vat": "12%",
+        "item_gross_worth": "20,082.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹73,988.89",
+      "total_vat": "₹8,878.67",
+      "total_gross_worth": "₹82,867.56",
+      "total_cgst": "₹4,439.33",
+      "total_sgst": "₹4,439.33",
+      "total_igst": "₹0.00"
+    }
+  }
+}

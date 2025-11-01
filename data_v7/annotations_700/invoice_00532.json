@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4694",
+      "invoice_date": "29/01/2025",
+      "seller": "PATEL MOBILES H.No. 21, Doshi Ganj, Amaravati-973437",
+      "client": "ANSH KEER 01/28, Mukherjee Street, Indore-468857",
+      "shipping_address": "H.No. 356, Parmer Street, Kurnool 585077",
+      "seller_tax_id": "01XWVCE9248C1ZA",
+      "client_tax_id": "22OKUSR5547C1ZM",
+      "client_phone": "03899510760"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-111W",
+        "item_qty": "1",
+        "item_net_price": "48,772.50",
+        "item_net_worth": "48,772.50",
+        "item_vat": "18%",
+        "item_gross_worth": "57,551.55"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-861O IMEI: 701039506977969",
+        "item_qty": "1",
+        "item_net_price": "19,124.99",
+        "item_net_worth": "19,124.99",
+        "item_vat": "18%",
+        "item_gross_worth": "22,567.49"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-712N",
+        "item_qty": "1",
+        "item_net_price": "61,578.08",
+        "item_net_worth": "61,578.08",
+        "item_vat": "18%",
+        "item_gross_worth": "72,662.13"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-303V",
+        "item_qty": "2",
+        "item_net_price": "20,529.69",
+        "item_net_worth": "41,059.38",
+        "item_vat": "18%",
+        "item_gross_worth": "48,450.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹170,534.95",
+      "total_vat": "₹30,696.29",
+      "total_gross_worth": "₹201,231.24",
+      "total_cgst": "₹15,348.15",
+      "total_sgst": "₹15,348.15",
+      "total_igst": "₹0.00"
+    }
+  }
+}

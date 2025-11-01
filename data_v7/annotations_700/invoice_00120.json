@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/796",
+      "invoice_date": "27/10/2025",
+      "seller": "CITY ELECTRONICS 53, Amble Street, Danapur 928058",
+      "client": "MOHINI KIBE 16, Bedi Marg, Jhansi 497651",
+      "shipping_address": "16, Bedi Marg, Jhansi 497651",
+      "seller_tax_id": "09MLLST5234I1Z1",
+      "client_tax_id": "37BOKDY3554B1Z6",
+      "client_phone": "09229878425"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-715L",
+        "item_qty": "1",
+        "item_net_price": "69,711.19",
+        "item_net_worth": "69,711.19",
+        "item_vat": "18%",
+        "item_gross_worth": "82,259.20"
+      },
+      {
+        "item_desc": "TVS Bike TVS-116G",
+        "item_qty": "1",
+        "item_net_price": "22,409.14",
+        "item_net_worth": "22,409.14",
+        "item_vat": "18%",
+        "item_gross_worth": "26,442.79"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-775R",
+        "item_qty": "1",
+        "item_net_price": "87,761.08",
+        "item_net_worth": "87,761.08",
+        "item_vat": "18%",
+        "item_gross_worth": "103,558.07"
+      },
+      {
+        "item_desc": "TVS Bike TVS-621H",
+        "item_qty": "2",
+        "item_net_price": "56,713.87",
+        "item_net_worth": "113,427.74",
+        "item_vat": "18%",
+        "item_gross_worth": "133,844.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹293,309.15",
+      "total_vat": "₹52,795.65",
+      "total_gross_worth": "₹346,104.80",
+      "total_cgst": "₹26,397.82",
+      "total_sgst": "₹26,397.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

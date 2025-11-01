@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3270",
+      "invoice_date": "04/09/2025",
+      "seller": "ROYAL MOBILES H.No. 696, Narayan Ganj, Patiala 523048",
+      "client": "GOPAL BAHRI H.No. 178, Bose Nagar, Sasaram 224588",
+      "shipping_address": "H.No. 178, Bose Nagar, Sasaram 224588",
+      "seller_tax_id": "23HUMSY3095C1ZH",
+      "client_tax_id": "09OTEFX0654X1ZW",
+      "client_phone": "03258126865"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-444T",
+        "item_qty": "1",
+        "item_net_price": "89,560.09",
+        "item_net_worth": "89,560.09",
+        "item_vat": "12%",
+        "item_gross_worth": "100,307.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,560.09",
+      "total_vat": "₹10,747.21",
+      "total_gross_worth": "₹100,307.30",
+      "total_cgst": "₹5,373.61",
+      "total_sgst": "₹5,373.61",
+      "total_igst": "₹0.00"
+    }
+  }
+}

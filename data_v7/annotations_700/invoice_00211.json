@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/706",
+      "invoice_date": "10/06/2025",
+      "seller": "ROYAL MOBILES H.No. 52, Tara Ganj, Firozabad-309144",
+      "client": "MAYA NAGI 947, Vig Road, Bhusawal-433369",
+      "shipping_address": "947, Vig Road, Bhusawal-433369",
+      "seller_tax_id": "07GLSYP7205O1ZT",
+      "client_tax_id": "18APBRE8167C1ZR",
+      "client_phone": "4459195860"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-611D",
+        "item_qty": "1",
+        "item_net_price": "29,525.77",
+        "item_net_worth": "29,525.77",
+        "item_vat": "28%",
+        "item_gross_worth": "37,792.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹29,525.77",
+      "total_vat": "₹8,267.22",
+      "total_gross_worth": "₹37,792.99",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,267.22"
+    }
+  }
+}

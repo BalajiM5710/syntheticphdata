@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IGJ/666",
+      "invoice_date": "20/02/2025",
+      "seller": "MOBILE POINT 65/511, Bali Zila, Bhagalpur-967894",
+      "client": "OMAJA BALI 59, Taneja Ganj, Sonipat-726181",
+      "shipping_address": "59, Taneja Ganj, Sonipat-726181",
+      "seller_tax_id": "10SJCYN8961J1ZX",
+      "client_tax_id": "21WKSUK5564C1ZP",
+      "client_phone": "0062877631"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-794P",
+        "item_qty": "1",
+        "item_net_price": "30,788.81",
+        "item_net_worth": "30,788.81",
+        "item_vat": "12%",
+        "item_gross_worth": "34,483.47"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-635V",
+        "item_qty": "2",
+        "item_net_price": "31,314.27",
+        "item_net_worth": "62,628.54",
+        "item_vat": "12%",
+        "item_gross_worth": "70,143.96"
+      },
+      {
+        "item_desc": "TCL Television TCL-919M",
+        "item_qty": "2",
+        "item_net_price": "91,149.36",
+        "item_net_worth": "182,298.72",
+        "item_vat": "12%",
+        "item_gross_worth": "204,174.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹275,716.07",
+      "total_vat": "₹33,085.93",
+      "total_gross_worth": "₹308,802.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹33,085.93"
+    }
+  }
+}

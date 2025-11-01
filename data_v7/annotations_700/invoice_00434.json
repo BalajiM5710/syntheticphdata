@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2973",
+      "invoice_date": "29/01/2025",
+      "seller": "PATEL MOBILES 10, Goel Nagar, Begusarai-998103",
+      "client": "YUTIKA KATA H.No. 939, Kannan Zila, Madhyamgram 523969",
+      "shipping_address": "H.No. 939, Kannan Zila, Madhyamgram 523969",
+      "seller_tax_id": "07NWBAZ3803E1ZQ",
+      "client_tax_id": "18PCCUZ3790A1Z0",
+      "client_phone": "+914735448948"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-639F",
+        "item_qty": "2",
+        "item_net_price": "64,670.44",
+        "item_net_worth": "129,340.88",
+        "item_vat": "12%",
+        "item_gross_worth": "144,861.79"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-424L",
+        "item_qty": "2",
+        "item_net_price": "72,986.72",
+        "item_net_worth": "145,973.44",
+        "item_vat": "12%",
+        "item_gross_worth": "163,490.25"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-683Y",
+        "item_qty": "2",
+        "item_net_price": "33,748.07",
+        "item_net_worth": "67,496.14",
+        "item_vat": "12%",
+        "item_gross_worth": "75,595.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹342,810.46",
+      "total_vat": "₹41,137.26",
+      "total_gross_worth": "₹383,947.72",
+      "total_cgst": "₹20,568.63",
+      "total_sgst": "₹20,568.63",
+      "total_igst": "₹0.00"
+    }
+  }
+}

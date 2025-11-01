@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZJD/401",
+      "invoice_date": "30/07/2025",
+      "seller": "STAR ELECTRONICS 376, Sathe Zila, Begusarai-741360",
+      "client": "INDALI AURORA 70, Konda, Kochi 601842",
+      "shipping_address": "70, Konda, Kochi 601842",
+      "seller_tax_id": "10WRWSU1150G1ZG",
+      "client_tax_id": "31HEEUV8411K1Z3",
+      "client_phone": "+918088139828"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-818E",
+        "item_qty": "2",
+        "item_net_price": "60,737.08",
+        "item_net_worth": "121,474.16",
+        "item_vat": "28%",
+        "item_gross_worth": "155,486.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹121,474.16",
+      "total_vat": "₹34,012.76",
+      "total_gross_worth": "₹155,486.92",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹34,012.76"
+    }
+  }
+}

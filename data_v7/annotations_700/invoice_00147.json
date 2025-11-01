@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/700",
+      "invoice_date": "29/08/2025",
+      "seller": "SMART ELECTRONICS H.No. 863, Thaman Road, Rajahmundry-475770",
+      "client": "MAANAV SURI 93, Subramaniam Ganj, South Dumdum 311994",
+      "shipping_address": "502, Kumar Nagar, Nandyal 752316",
+      "seller_tax_id": "28WNFKT1750B1ZY",
+      "client_tax_id": "32SNQMQ8223P1ZS",
+      "client_phone": "08986262056"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-557N",
+        "item_qty": "1",
+        "item_net_price": "28,308.02",
+        "item_net_worth": "28,308.02",
+        "item_vat": "12%",
+        "item_gross_worth": "31,704.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹28,308.02",
+      "total_vat": "₹3,396.96",
+      "total_gross_worth": "₹31,704.98",
+      "total_cgst": "₹1,698.48",
+      "total_sgst": "₹1,698.48",
+      "total_igst": "₹0.00"
+    }
+  }
+}

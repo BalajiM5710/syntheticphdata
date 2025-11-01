@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/284",
+      "invoice_date": "30/09/2025",
+      "seller": "GADGET GALAXY H.No. 14, Kant, Dehri-907145",
+      "client": "WAKEETA BORAH H.No. 034, Mishra Path, Bhilai-037380",
+      "shipping_address": "94/835, Khare Ganj, Satara-591879",
+      "seller_tax_id": "07AXNIY5739E1Z8",
+      "client_tax_id": "10EOJMR1659S1ZA",
+      "client_phone": "+919798568739"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-189M",
+        "item_qty": "1",
+        "item_net_price": "37,782.89",
+        "item_net_worth": "37,782.89",
+        "item_vat": "28%",
+        "item_gross_worth": "48,362.10"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-689P",
+        "item_qty": "1",
+        "item_net_price": "26,141.72",
+        "item_net_worth": "26,141.72",
+        "item_vat": "28%",
+        "item_gross_worth": "33,461.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹63,924.61",
+      "total_vat": "₹17,898.89",
+      "total_gross_worth": "₹81,823.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹17,898.89"
+    }
+  }
+}

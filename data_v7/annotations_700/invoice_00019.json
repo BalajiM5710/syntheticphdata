@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9460",
+      "invoice_date": "15/10/2025",
+      "seller": "TECH BAZAAR 015, Ramaswamy Ganj, Raiganj 834132",
+      "client": "YAHVI CHAUDHARY 71, Sampath, Phusro 581623",
+      "shipping_address": "71, Sampath, Phusro 581623",
+      "seller_tax_id": "01FZVEB3536S1Z2",
+      "client_tax_id": "36IEIOQ1330J1ZU",
+      "client_phone": "1886367685"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-294S",
+        "item_qty": "1",
+        "item_net_price": "84,408.68",
+        "item_net_worth": "84,408.68",
+        "item_vat": "28%",
+        "item_gross_worth": "108,043.11"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-378K IMEI: 695710659187606",
+        "item_qty": "2",
+        "item_net_price": "75,693.31",
+        "item_net_worth": "151,386.62",
+        "item_vat": "28%",
+        "item_gross_worth": "193,774.87"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-737S",
+        "item_qty": "1",
+        "item_net_price": "25,504.20",
+        "item_net_worth": "25,504.20",
+        "item_vat": "28%",
+        "item_gross_worth": "32,645.38"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹261,299.50",
+      "total_vat": "₹73,163.86",
+      "total_gross_worth": "₹334,463.36",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹73,163.86"
+    }
+  }
+}

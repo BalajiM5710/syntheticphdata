@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/637",
+      "invoice_date": "11/06/2025",
+      "seller": "ROYAL MOBILES 44, Kara Ganj, Meerut 137966",
+      "client": "SAI SARRAF 73, Deshmukh Nagar, Mau 374729",
+      "shipping_address": "H.No. 985, Dugar Zila, Bardhaman-078999",
+      "seller_tax_id": "11PBAXV6939O1ZE",
+      "client_tax_id": "24UJTZO7592A1ZE",
+      "client_phone": "2317584071"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-868R",
+        "item_qty": "1",
+        "item_net_price": "12,288.51",
+        "item_net_worth": "12,288.51",
+        "item_vat": "12%",
+        "item_gross_worth": "13,763.13"
+      },
+      {
+        "item_desc": "Apple Laptops APP-518M",
+        "item_qty": "2",
+        "item_net_price": "11,734.50",
+        "item_net_worth": "23,469.00",
+        "item_vat": "12%",
+        "item_gross_worth": "26,285.28"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-122R",
+        "item_qty": "1",
+        "item_net_price": "20,213.87",
+        "item_net_worth": "20,213.87",
+        "item_vat": "12%",
+        "item_gross_worth": "22,639.53"
+      },
+      {
+        "item_desc": "Sony Camera SON-887J",
+        "item_qty": "2",
+        "item_net_price": "86,505.85",
+        "item_net_worth": "173,011.70",
+        "item_vat": "12%",
+        "item_gross_worth": "193,773.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹228,983.08",
+      "total_vat": "₹27,477.97",
+      "total_gross_worth": "₹256,461.05",
+      "total_cgst": "₹13,738.98",
+      "total_sgst": "₹13,738.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

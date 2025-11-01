@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8175",
+      "invoice_date": "02/07/2025",
+      "seller": "ELECTRONICS WORLD 744, Sridhar, Bikaner 584990",
+      "client": "JALSA SAVANT H.No. 461, Jayaraman Chowk, Akola-747694",
+      "shipping_address": "H.No. 461, Jayaraman Chowk, Akola-747694",
+      "seller_tax_id": "22FNICB4759F1ZK",
+      "client_tax_id": "17PEMEX2379W1ZN",
+      "client_phone": "5338903758"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-695Y",
+        "item_qty": "1",
+        "item_net_price": "79,060.96",
+        "item_net_worth": "79,060.96",
+        "item_vat": "18%",
+        "item_gross_worth": "93,291.93"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-533Z",
+        "item_qty": "1",
+        "item_net_price": "18,080.06",
+        "item_net_worth": "18,080.06",
+        "item_vat": "18%",
+        "item_gross_worth": "21,334.47"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-259J",
+        "item_qty": "2",
+        "item_net_price": "75,478.86",
+        "item_net_worth": "150,957.72",
+        "item_vat": "18%",
+        "item_gross_worth": "178,130.11"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-350H",
+        "item_qty": "2",
+        "item_net_price": "41,460.72",
+        "item_net_worth": "82,921.44",
+        "item_vat": "18%",
+        "item_gross_worth": "97,847.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹331,020.18",
+      "total_vat": "₹59,583.63",
+      "total_gross_worth": "₹390,603.81",
+      "total_cgst": "₹29,791.82",
+      "total_sgst": "₹29,791.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

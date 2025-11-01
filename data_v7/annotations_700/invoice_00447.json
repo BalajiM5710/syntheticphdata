@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VSU/326",
+      "invoice_date": "13/07/2025",
+      "seller": "TECH BAZAAR 83/808, Dave Marg, Tiruvottiyur 704764",
+      "client": "OSHA CHEEMA 198, Varghese Circle, Bhagalpur-887791",
+      "shipping_address": "198, Varghese Circle, Bhagalpur-887791",
+      "seller_tax_id": "10VBLQG3988D1Z3",
+      "client_tax_id": "15PEDDA9114M1ZE",
+      "client_phone": "02532669495"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-417U",
+        "item_qty": "2",
+        "item_net_price": "68,708.18",
+        "item_net_worth": "137,416.36",
+        "item_vat": "18%",
+        "item_gross_worth": "162,151.30"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-997G",
+        "item_qty": "2",
+        "item_net_price": "94,493.93",
+        "item_net_worth": "188,987.86",
+        "item_vat": "18%",
+        "item_gross_worth": "223,005.67"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-991F",
+        "item_qty": "2",
+        "item_net_price": "66,898.33",
+        "item_net_worth": "133,796.66",
+        "item_vat": "18%",
+        "item_gross_worth": "157,880.06"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-161A",
+        "item_qty": "1",
+        "item_net_price": "77,797.36",
+        "item_net_worth": "77,797.36",
+        "item_vat": "18%",
+        "item_gross_worth": "91,800.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹537,998.24",
+      "total_vat": "₹96,839.68",
+      "total_gross_worth": "₹634,837.92",
+      "total_cgst": "₹48,419.84",
+      "total_sgst": "₹48,419.84",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AAP/929",
+      "invoice_date": "15/03/2025",
+      "seller": "RAM ELECTRONICS 290, Mitra Zila, Lucknow-998306",
+      "client": "AYUSH RAMA 65, Bakshi Zila, Dehri-122398",
+      "shipping_address": "H.No. 204, Sangha Marg, Bhiwandi-311368",
+      "seller_tax_id": "16JLRNN8744W1ZZ",
+      "client_tax_id": "10BFVLV5793Y1ZQ",
+      "client_phone": "05773595863"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-893Z IMEI: 669472078951865",
+        "item_qty": "1",
+        "item_net_price": "52,942.88",
+        "item_net_worth": "52,942.88",
+        "item_vat": "12%",
+        "item_gross_worth": "59,296.03"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-154M",
+        "item_qty": "1",
+        "item_net_price": "18,421.17",
+        "item_net_worth": "18,421.17",
+        "item_vat": "12%",
+        "item_gross_worth": "20,631.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹71,364.05",
+      "total_vat": "₹8,563.69",
+      "total_gross_worth": "₹79,927.74",
+      "total_cgst": "₹4,281.84",
+      "total_sgst": "₹4,281.84",
+      "total_igst": "₹0.00"
+    }
+  }
+}

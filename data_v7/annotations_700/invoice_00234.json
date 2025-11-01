@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4263",
+      "invoice_date": "12/01/2025",
+      "seller": "FUTURE TECH H.No. 869, Sami Marg, Sambalpur 225998",
+      "client": "KAI DEVI 81, Pant, Bidar 924584",
+      "shipping_address": "H.No. 60, Koshy Ganj, Bettiah-035273",
+      "seller_tax_id": "07DIPLF5764A1ZM",
+      "client_tax_id": "25MEGAE9224P1ZY",
+      "client_phone": "4169275825"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-371J",
+        "item_qty": "2",
+        "item_net_price": "63,022.19",
+        "item_net_worth": "126,044.38",
+        "item_vat": "18%",
+        "item_gross_worth": "148,732.37"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-238L",
+        "item_qty": "2",
+        "item_net_price": "90,661.81",
+        "item_net_worth": "181,323.62",
+        "item_vat": "18%",
+        "item_gross_worth": "213,961.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹307,368.00",
+      "total_vat": "₹55,326.24",
+      "total_gross_worth": "₹362,694.24",
+      "total_cgst": "₹27,663.12",
+      "total_sgst": "₹27,663.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

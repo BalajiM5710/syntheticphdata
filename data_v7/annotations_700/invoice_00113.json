@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8203",
+      "invoice_date": "09/06/2025",
+      "seller": "DIGITAL STORE 85/05, Bali, Ongole 089386",
+      "client": "NITESH RAJ H.No. 72, Gole Street, Kurnool 326266",
+      "shipping_address": "H.No. 72, Gole Street, Kurnool 326266",
+      "seller_tax_id": "27CVYBG0123B1ZK",
+      "client_tax_id": "10ZHGBI1514F1Z2",
+      "client_phone": "09897047757"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-612U",
+        "item_qty": "1",
+        "item_net_price": "12,866.82",
+        "item_net_worth": "12,866.82",
+        "item_vat": "18%",
+        "item_gross_worth": "15,182.85"
+      },
+      {
+        "item_desc": "Apple Tablets APP-986Q",
+        "item_qty": "1",
+        "item_net_price": "70,258.32",
+        "item_net_worth": "70,258.32",
+        "item_vat": "18%",
+        "item_gross_worth": "82,904.82"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-736T IMEI: 620640522629504",
+        "item_qty": "2",
+        "item_net_price": "85,476.80",
+        "item_net_worth": "170,953.60",
+        "item_vat": "18%",
+        "item_gross_worth": "201,725.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,078.74",
+      "total_vat": "₹45,734.17",
+      "total_gross_worth": "₹299,812.91",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹45,734.17"
+    }
+  }
+}

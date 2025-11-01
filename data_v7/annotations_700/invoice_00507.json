@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/235",
+      "invoice_date": "01/10/2025",
+      "seller": "ROYAL MOBILES 662, Nayar Nagar, Narasaraopet 180144",
+      "client": "ZAID NAZARETH 49, Dhawan, Maheshtala 060613",
+      "shipping_address": "49, Dhawan, Maheshtala 060613",
+      "seller_tax_id": "34HDDOP7908S1Z0",
+      "client_tax_id": "12OGLEN3710F1Z7",
+      "client_phone": "04946232041"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-722C",
+        "item_qty": "1",
+        "item_net_price": "71,330.59",
+        "item_net_worth": "71,330.59",
+        "item_vat": "28%",
+        "item_gross_worth": "91,303.16"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-181V",
+        "item_qty": "1",
+        "item_net_price": "92,227.78",
+        "item_net_worth": "92,227.78",
+        "item_vat": "28%",
+        "item_gross_worth": "118,051.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹163,558.37",
+      "total_vat": "₹45,796.34",
+      "total_gross_worth": "₹209,354.71",
+      "total_cgst": "₹22,898.17",
+      "total_sgst": "₹22,898.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

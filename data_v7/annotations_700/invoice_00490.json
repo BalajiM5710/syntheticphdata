@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9616",
+      "invoice_date": "12/08/2025",
+      "seller": "GADGET GALAXY H.No. 923, Choudhry Marg, Gurgaon-149693",
+      "client": "BIMALA DUTT H.No. 795, Mandal Street, Deoghar 147061",
+      "shipping_address": "H.No. 795, Mandal Street, Deoghar 147061",
+      "seller_tax_id": "14CRURM8692T1ZK",
+      "client_tax_id": "02TZNIR9802Y1ZL",
+      "client_phone": "+917577865500"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-294E IMEI: 585380958097153",
+        "item_qty": "2",
+        "item_net_price": "89,518.89",
+        "item_net_worth": "179,037.78",
+        "item_vat": "12%",
+        "item_gross_worth": "200,522.31"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-232O",
+        "item_qty": "1",
+        "item_net_price": "77,081.34",
+        "item_net_worth": "77,081.34",
+        "item_vat": "12%",
+        "item_gross_worth": "86,331.10"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-891M",
+        "item_qty": "2",
+        "item_net_price": "84,794.69",
+        "item_net_worth": "169,589.38",
+        "item_vat": "12%",
+        "item_gross_worth": "189,940.11"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-780E",
+        "item_qty": "1",
+        "item_net_price": "8,003.38",
+        "item_net_worth": "8,003.38",
+        "item_vat": "12%",
+        "item_gross_worth": "8,963.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹433,711.88",
+      "total_vat": "₹52,045.43",
+      "total_gross_worth": "₹485,757.31",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹52,045.43"
+    }
+  }
+}

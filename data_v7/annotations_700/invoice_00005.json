@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/922",
+      "invoice_date": "27/02/2025",
+      "seller": "FUTURE TECH H.No. 927, Choudhary Zila, Gudivada-304690",
+      "client": "VRISHTI MURTHY 10/010, Chandran Road, Durgapur 091180",
+      "shipping_address": "10/010, Chandran Road, Durgapur 091180",
+      "seller_tax_id": "03BDEJG9234Z1Z6",
+      "client_tax_id": "24VEDES3047X1ZT",
+      "client_phone": "8796854892"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-467X",
+        "item_qty": "2",
+        "item_net_price": "18,904.63",
+        "item_net_worth": "37,809.26",
+        "item_vat": "12%",
+        "item_gross_worth": "42,346.37"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-247O",
+        "item_qty": "1",
+        "item_net_price": "47,297.12",
+        "item_net_worth": "47,297.12",
+        "item_vat": "12%",
+        "item_gross_worth": "52,972.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹85,106.38",
+      "total_vat": "₹10,212.77",
+      "total_gross_worth": "₹95,319.15",
+      "total_cgst": "₹5,106.38",
+      "total_sgst": "₹5,106.38",
+      "total_igst": "₹0.00"
+    }
+  }
+}

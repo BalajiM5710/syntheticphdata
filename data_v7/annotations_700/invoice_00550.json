@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/980",
+      "invoice_date": "14/01/2025",
+      "seller": "GADGET GALAXY 64, Mukhopadhyay Marg, Allahabad-440481",
+      "client": "GEETIKA RAJAGOPAL 40/868, Roy Nagar, Allahabad-007042",
+      "shipping_address": "40/868, Roy Nagar, Allahabad-007042",
+      "seller_tax_id": "17UGJIZ5201E1Z2",
+      "client_tax_id": "22DCJDU3301W1ZM",
+      "client_phone": "7367957832"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-351C",
+        "item_qty": "2",
+        "item_net_price": "20,685.55",
+        "item_net_worth": "41,371.10",
+        "item_vat": "12%",
+        "item_gross_worth": "46,335.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹41,371.10",
+      "total_vat": "₹4,964.53",
+      "total_gross_worth": "₹46,335.63",
+      "total_cgst": "₹2,482.27",
+      "total_sgst": "₹2,482.27",
+      "total_igst": "₹0.00"
+    }
+  }
+}

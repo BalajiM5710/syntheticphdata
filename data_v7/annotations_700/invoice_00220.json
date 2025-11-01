@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9087",
+      "invoice_date": "24/02/2025",
+      "seller": "PATEL MOBILES 36, Narain, Tinsukia 593840",
+      "client": "ADVIKA REGE H.No. 896, Mangal Marg, Raiganj-011653",
+      "shipping_address": "158, Wali Road, Patna 106503",
+      "seller_tax_id": "25RKJAI9483R1ZR",
+      "client_tax_id": "31KSYCI4894J1Z8",
+      "client_phone": "4917528013"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-175Z",
+        "item_qty": "1",
+        "item_net_price": "38,862.01",
+        "item_net_worth": "38,862.01",
+        "item_vat": "28%",
+        "item_gross_worth": "49,743.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹38,862.01",
+      "total_vat": "₹10,881.36",
+      "total_gross_worth": "₹49,743.37",
+      "total_cgst": "₹5,440.68",
+      "total_sgst": "₹5,440.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

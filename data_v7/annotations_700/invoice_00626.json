@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/651",
+      "invoice_date": "26/03/2025",
+      "seller": "SUPREME ELECTRONICS 519, Walia Street, Ratlam-584234",
+      "client": "ONKAR AHLUWALIA 32, Lalla Ganj, Khandwa 710036",
+      "shipping_address": "26, Goswami Nagar, Karawal Nagar 571252",
+      "seller_tax_id": "19RNLLG2550N1ZG",
+      "client_tax_id": "23YAKOQ6914U1ZW",
+      "client_phone": "08605630570"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-655C",
+        "item_qty": "2",
+        "item_net_price": "35,231.88",
+        "item_net_worth": "70,463.76",
+        "item_vat": "12%",
+        "item_gross_worth": "78,919.41"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-223V",
+        "item_qty": "2",
+        "item_net_price": "48,943.16",
+        "item_net_worth": "97,886.32",
+        "item_vat": "12%",
+        "item_gross_worth": "109,632.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹168,350.08",
+      "total_vat": "₹20,202.01",
+      "total_gross_worth": "₹188,552.09",
+      "total_cgst": "₹10,101.00",
+      "total_sgst": "₹10,101.00",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2110",
+      "invoice_date": "07/05/2025",
+      "seller": "VISHWA ELECTRONICS 01/14, Dubey Zila, Gangtok-535797",
+      "client": "HARINAKSHI VARKEY 283, Chander Street, Tinsukia 210044",
+      "shipping_address": "283, Chander Street, Tinsukia 210044",
+      "seller_tax_id": "34MKXOC5107P1ZB",
+      "client_tax_id": "30WAPQD4575T1ZZ",
+      "client_phone": "+917497422342"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-763T",
+        "item_qty": "1",
+        "item_net_price": "69,639.10",
+        "item_net_worth": "69,639.10",
+        "item_vat": "18%",
+        "item_gross_worth": "82,174.14"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-511M",
+        "item_qty": "2",
+        "item_net_price": "56,740.29",
+        "item_net_worth": "113,480.58",
+        "item_vat": "18%",
+        "item_gross_worth": "133,907.08"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-414J",
+        "item_qty": "1",
+        "item_net_price": "89,821.99",
+        "item_net_worth": "89,821.99",
+        "item_vat": "18%",
+        "item_gross_worth": "105,989.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹272,941.67",
+      "total_vat": "₹49,129.50",
+      "total_gross_worth": "₹322,071.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹49,129.50"
+    }
+  }
+}

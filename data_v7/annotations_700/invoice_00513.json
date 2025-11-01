@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HWE/782",
+      "invoice_date": "01/07/2025",
+      "seller": "MOBILE POINT H.No. 798, Trivedi Street, Mirzapur 487086",
+      "client": "IMARAN GOLLA H.No. 245, Warrior Road, Pudukkottai-559373",
+      "shipping_address": "H.No. 245, Warrior Road, Pudukkottai-559373",
+      "seller_tax_id": "12PQDQL5210F1ZM",
+      "client_tax_id": "26KMLZT8102Y1Z0",
+      "client_phone": "9841332297"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-646P",
+        "item_qty": "1",
+        "item_net_price": "22,624.43",
+        "item_net_worth": "22,624.43",
+        "item_vat": "12%",
+        "item_gross_worth": "25,339.36"
+      },
+      {
+        "item_desc": "Apple Tablets APP-197L",
+        "item_qty": "2",
+        "item_net_price": "80,867.24",
+        "item_net_worth": "161,734.48",
+        "item_vat": "12%",
+        "item_gross_worth": "181,142.62"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-991H",
+        "item_qty": "2",
+        "item_net_price": "88,561.49",
+        "item_net_worth": "177,122.98",
+        "item_vat": "12%",
+        "item_gross_worth": "198,377.74"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-775P",
+        "item_qty": "2",
+        "item_net_price": "72,626.12",
+        "item_net_worth": "145,252.24",
+        "item_vat": "12%",
+        "item_gross_worth": "162,682.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹506,734.13",
+      "total_vat": "₹60,808.10",
+      "total_gross_worth": "₹567,542.23",
+      "total_cgst": "₹30,404.05",
+      "total_sgst": "₹30,404.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

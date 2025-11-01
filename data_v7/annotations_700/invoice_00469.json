@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/732",
+      "invoice_date": "04/09/2025",
+      "seller": "ROYAL MOBILES H.No. 485, Lanka, Bidhannagar 818889",
+      "client": "YASHODA ATWAL 10, Bhatti Street, Junagadh-184180",
+      "shipping_address": "H.No. 768, Dhingra Road, Bellary 965542",
+      "seller_tax_id": "24UWXBW0183B1ZW",
+      "client_tax_id": "28SKAEL5704F1Z5",
+      "client_phone": "+914358271121"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-874F",
+        "item_qty": "1",
+        "item_net_price": "46,782.51",
+        "item_net_worth": "46,782.51",
+        "item_vat": "28%",
+        "item_gross_worth": "59,881.61"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-943C",
+        "item_qty": "1",
+        "item_net_price": "47,749.13",
+        "item_net_worth": "47,749.13",
+        "item_vat": "28%",
+        "item_gross_worth": "61,118.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹94,531.64",
+      "total_vat": "₹26,468.86",
+      "total_gross_worth": "₹121,000.50",
+      "total_cgst": "₹13,234.43",
+      "total_sgst": "₹13,234.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

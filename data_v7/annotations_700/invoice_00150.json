@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2345",
+      "invoice_date": "25/06/2025",
+      "seller": "TECH BAZAAR H.No. 597, Mall Path, Rewa 631035",
+      "client": "NANDINI DADA 18/591, Dave Circle, Silchar 991687",
+      "shipping_address": "18/591, Dave Circle, Silchar 991687",
+      "seller_tax_id": "10MZCQU0094R1Z9",
+      "client_tax_id": "27FYMPL9010S1ZU",
+      "client_phone": "7289990928"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-174Q",
+        "item_qty": "1",
+        "item_net_price": "64,546.16",
+        "item_net_worth": "64,546.16",
+        "item_vat": "12%",
+        "item_gross_worth": "72,291.70"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-425B IMEI: 283452782419638",
+        "item_qty": "1",
+        "item_net_price": "79,549.38",
+        "item_net_worth": "79,549.38",
+        "item_vat": "12%",
+        "item_gross_worth": "89,095.31"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-781N IMEI: 566694846744729",
+        "item_qty": "2",
+        "item_net_price": "49,992.76",
+        "item_net_worth": "99,985.52",
+        "item_vat": "12%",
+        "item_gross_worth": "111,983.78"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-330O",
+        "item_qty": "1",
+        "item_net_price": "31,630.55",
+        "item_net_worth": "31,630.55",
+        "item_vat": "12%",
+        "item_gross_worth": "35,426.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹275,711.61",
+      "total_vat": "₹33,085.39",
+      "total_gross_worth": "₹308,797.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹33,085.39"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WJQ/813",
+      "invoice_date": "02/02/2025",
+      "seller": "VISHWA ELECTRONICS 893, Palla Street, Bhiwani-198568",
+      "client": "ZAYAN PRASHAD H.No. 84, Rau Road, Dhanbad 829358",
+      "shipping_address": "368, Bhagat Marg, Ambala-136940",
+      "seller_tax_id": "03YWURF7843U1Z9",
+      "client_tax_id": "24UPYTI9513K1ZH",
+      "client_phone": "4343379014"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-832M",
+        "item_qty": "1",
+        "item_net_price": "78,412.84",
+        "item_net_worth": "78,412.84",
+        "item_vat": "12%",
+        "item_gross_worth": "87,822.38"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-792O IMEI: 714854663893062",
+        "item_qty": "2",
+        "item_net_price": "12,789.75",
+        "item_net_worth": "25,579.50",
+        "item_vat": "12%",
+        "item_gross_worth": "28,649.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹103,992.34",
+      "total_vat": "₹12,479.08",
+      "total_gross_worth": "₹116,471.42",
+      "total_cgst": "₹6,239.54",
+      "total_sgst": "₹6,239.54",
+      "total_igst": "₹0.00"
+    }
+  }
+}

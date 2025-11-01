@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OSJ/498",
+      "invoice_date": "24/03/2025",
+      "seller": "DIGITAL STORE 04, Varughese Zila, Tadepalligudem 768173",
+      "client": "KEYA DHINGRA H.No. 314, Ravi Ganj, Bahraich-209225",
+      "shipping_address": "H.No. 314, Ravi Ganj, Bahraich-209225",
+      "seller_tax_id": "18DATAD5806W1Z8",
+      "client_tax_id": "27RZSYZ3050T1ZG",
+      "client_phone": "09548717248"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-324Z",
+        "item_qty": "2",
+        "item_net_price": "59,731.59",
+        "item_net_worth": "119,463.18",
+        "item_vat": "28%",
+        "item_gross_worth": "152,912.87"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-684I",
+        "item_qty": "2",
+        "item_net_price": "85,259.00",
+        "item_net_worth": "170,518.00",
+        "item_vat": "28%",
+        "item_gross_worth": "218,263.04"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-498G",
+        "item_qty": "2",
+        "item_net_price": "32,752.46",
+        "item_net_worth": "65,504.92",
+        "item_vat": "28%",
+        "item_gross_worth": "83,846.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹355,486.10",
+      "total_vat": "₹99,536.11",
+      "total_gross_worth": "₹455,022.21",
+      "total_cgst": "₹49,768.05",
+      "total_sgst": "₹49,768.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YGK/137",
+      "invoice_date": "12/03/2025",
+      "seller": "VISHWA ELECTRONICS 55, Kapadia Street, Nashik-770229",
+      "client": "PETER PAL H.No. 97, Basu Road, Gandhidham 384972",
+      "shipping_address": "20, Ramakrishnan Road, Kirari Suleman Nagar 773596",
+      "seller_tax_id": "18UFOXK1402D1Z0",
+      "client_tax_id": "06GJIZQ0024A1ZD",
+      "client_phone": "08064443626"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-806S",
+        "item_qty": "2",
+        "item_net_price": "37,728.81",
+        "item_net_worth": "75,457.62",
+        "item_vat": "18%",
+        "item_gross_worth": "89,039.99"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-364L",
+        "item_qty": "2",
+        "item_net_price": "57,805.25",
+        "item_net_worth": "115,610.50",
+        "item_vat": "18%",
+        "item_gross_worth": "136,420.39"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-518K",
+        "item_qty": "2",
+        "item_net_price": "27,739.02",
+        "item_net_worth": "55,478.04",
+        "item_vat": "18%",
+        "item_gross_worth": "65,464.09"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-597E",
+        "item_qty": "2",
+        "item_net_price": "82,391.38",
+        "item_net_worth": "164,782.76",
+        "item_vat": "18%",
+        "item_gross_worth": "194,443.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹411,328.92",
+      "total_vat": "₹74,039.21",
+      "total_gross_worth": "₹485,368.13",
+      "total_cgst": "₹37,019.60",
+      "total_sgst": "₹37,019.60",
+      "total_igst": "₹0.00"
+    }
+  }
+}

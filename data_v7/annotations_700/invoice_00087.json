@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7363",
+      "invoice_date": "01/02/2025",
+      "seller": "SUPREME ELECTRONICS 78/72, Sengupta Marg, Kumbakonam 111136",
+      "client": "DEVIKA SRINIVAS H.No. 81, Ghose Chowk, Vasai-Virar-241883",
+      "shipping_address": "884, Kala Zila, Loni 720971",
+      "seller_tax_id": "30BRYTT7182L1ZC",
+      "client_tax_id": "09ORRNO7712J1Z7",
+      "client_phone": "+918502794373"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-153Y",
+        "item_qty": "1",
+        "item_net_price": "43,336.13",
+        "item_net_worth": "43,336.13",
+        "item_vat": "12%",
+        "item_gross_worth": "48,536.47"
+      },
+      {
+        "item_desc": "Apple Tablets APP-993O",
+        "item_qty": "1",
+        "item_net_price": "91,290.61",
+        "item_net_worth": "91,290.61",
+        "item_vat": "12%",
+        "item_gross_worth": "102,245.48"
+      },
+      {
+        "item_desc": "LG Television LG-441X",
+        "item_qty": "2",
+        "item_net_price": "85,863.09",
+        "item_net_worth": "171,726.18",
+        "item_vat": "12%",
+        "item_gross_worth": "192,333.32"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-128E",
+        "item_qty": "1",
+        "item_net_price": "36,158.94",
+        "item_net_worth": "36,158.94",
+        "item_vat": "12%",
+        "item_gross_worth": "40,498.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹342,511.86",
+      "total_vat": "₹41,101.42",
+      "total_gross_worth": "₹383,613.28",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹41,101.42"
+    }
+  }
+}

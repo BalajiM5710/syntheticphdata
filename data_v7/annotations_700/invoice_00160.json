@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/493",
+      "invoice_date": "08/01/2025",
+      "seller": "PATEL MOBILES 414, Ray Street, Mau-107453",
+      "client": "CHANCHAL LOKE 99/865, Sule Nagar, Katihar 966491",
+      "shipping_address": "99/865, Sule Nagar, Katihar 966491",
+      "seller_tax_id": "33IMYXM5885K1Z8",
+      "client_tax_id": "06QJFAR6809Y1ZF",
+      "client_phone": "4560942953"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-186W",
+        "item_qty": "1",
+        "item_net_price": "49,557.78",
+        "item_net_worth": "49,557.78",
+        "item_vat": "28%",
+        "item_gross_worth": "63,433.96"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-483H",
+        "item_qty": "2",
+        "item_net_price": "69,742.52",
+        "item_net_worth": "139,485.04",
+        "item_vat": "28%",
+        "item_gross_worth": "178,540.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,042.82",
+      "total_vat": "₹52,931.99",
+      "total_gross_worth": "₹241,974.81",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹52,931.99"
+    }
+  }
+}

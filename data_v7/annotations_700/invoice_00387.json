@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3009",
+      "invoice_date": "02/05/2025",
+      "seller": "GADGET GALAXY H.No. 51, Dhar Circle, Anantapur 518051",
+      "client": "HEMANI PRASAD 855, Nagy Road, Pallavaram 955385",
+      "shipping_address": "855, Nagy Road, Pallavaram 955385",
+      "seller_tax_id": "23MISQT7405A1Z8",
+      "client_tax_id": "31SPECL9677I1ZG",
+      "client_phone": "07908730482"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-896P",
+        "item_qty": "2",
+        "item_net_price": "29,490.15",
+        "item_net_worth": "58,980.30",
+        "item_vat": "18%",
+        "item_gross_worth": "69,596.75"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-977X IMEI: 823578423113417",
+        "item_qty": "1",
+        "item_net_price": "86,874.65",
+        "item_net_worth": "86,874.65",
+        "item_vat": "18%",
+        "item_gross_worth": "102,512.09"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-158V",
+        "item_qty": "1",
+        "item_net_price": "24,173.56",
+        "item_net_worth": "24,173.56",
+        "item_vat": "18%",
+        "item_gross_worth": "28,524.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹170,028.51",
+      "total_vat": "₹30,605.13",
+      "total_gross_worth": "₹200,633.64",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,605.13"
+    }
+  }
+}

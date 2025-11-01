@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6990",
+      "invoice_date": "01/02/2025",
+      "seller": "PATEL MOBILES H.No. 898, Rana Street, Bilaspur-220962",
+      "client": "ORINDER PALLA 688, Dara Zila, Katihar 603254",
+      "shipping_address": "688, Dara Zila, Katihar 603254",
+      "seller_tax_id": "13BJSOM7248E1ZZ",
+      "client_tax_id": "37TJWWN4833Q1ZN",
+      "client_phone": "02989910060"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-642Z",
+        "item_qty": "1",
+        "item_net_price": "49,420.33",
+        "item_net_worth": "49,420.33",
+        "item_vat": "18%",
+        "item_gross_worth": "58,315.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹49,420.33",
+      "total_vat": "₹8,895.66",
+      "total_gross_worth": "₹58,315.99",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,895.66"
+    }
+  }
+}

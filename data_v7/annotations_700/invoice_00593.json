@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7881",
+      "invoice_date": "19/07/2025",
+      "seller": "SINGH ELECTRONICS 99/550, Contractor Zila, Amaravati-885090",
+      "client": "DIVYA SAMI 85/325, Chowdhury, Durg 778278",
+      "shipping_address": "H.No. 648, Narayanan Road, Panchkula-063564",
+      "seller_tax_id": "26QIPQC9462Y1ZA",
+      "client_tax_id": "21ASEQK8531U1ZU",
+      "client_phone": "6611968556"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-461Z",
+        "item_qty": "1",
+        "item_net_price": "46,696.95",
+        "item_net_worth": "46,696.95",
+        "item_vat": "28%",
+        "item_gross_worth": "59,772.10"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-212R",
+        "item_qty": "1",
+        "item_net_price": "67,975.29",
+        "item_net_worth": "67,975.29",
+        "item_vat": "28%",
+        "item_gross_worth": "87,008.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹114,672.24",
+      "total_vat": "₹32,108.23",
+      "total_gross_worth": "₹146,780.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,108.23"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/460",
+      "invoice_date": "25/10/2025",
+      "seller": "PRADHAN MOBILE SHOP 766, Goyal Street, Thane-447031",
+      "client": "UNNI CHOKSHI 60, Khare Path, Jaipur 286457",
+      "shipping_address": "60, Khare Path, Jaipur 286457",
+      "seller_tax_id": "35UVZMN3120R1ZU",
+      "client_tax_id": "10YSXLW3821E1ZB",
+      "client_phone": "01762819807"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-492W",
+        "item_qty": "1",
+        "item_net_price": "90,410.71",
+        "item_net_worth": "90,410.71",
+        "item_vat": "18%",
+        "item_gross_worth": "106,684.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹90,410.71",
+      "total_vat": "₹16,273.93",
+      "total_gross_worth": "₹106,684.64",
+      "total_cgst": "₹8,136.96",
+      "total_sgst": "₹8,136.96",
+      "total_igst": "₹0.00"
+    }
+  }
+}

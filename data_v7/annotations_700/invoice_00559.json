@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/161",
+      "invoice_date": "15/01/2025",
+      "seller": "KUMAR TECH SOLUTIONS 65, Walia Marg, Noida-643387",
+      "client": "BALVAN BANERJEE H.No. 26, Kala Path, Kurnool-706325",
+      "shipping_address": "H.No. 26, Kala Path, Kurnool-706325",
+      "seller_tax_id": "13GPYHA5479C1Z6",
+      "client_tax_id": "36NWUZI2685P1ZH",
+      "client_phone": "+916879801590"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-952E",
+        "item_qty": "1",
+        "item_net_price": "13,366.71",
+        "item_net_worth": "13,366.71",
+        "item_vat": "18%",
+        "item_gross_worth": "15,772.72"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-650H",
+        "item_qty": "2",
+        "item_net_price": "39,958.90",
+        "item_net_worth": "79,917.80",
+        "item_vat": "18%",
+        "item_gross_worth": "94,303.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹93,284.51",
+      "total_vat": "₹16,791.21",
+      "total_gross_worth": "₹110,075.72",
+      "total_cgst": "₹8,395.61",
+      "total_sgst": "₹8,395.61",
+      "total_igst": "₹0.00"
+    }
+  }
+}

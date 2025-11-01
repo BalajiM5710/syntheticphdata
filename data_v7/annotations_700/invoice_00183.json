@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/645",
+      "invoice_date": "27/03/2025",
+      "seller": "STAR ELECTRONICS H.No. 608, More, Yamunanagar-139487",
+      "client": "WAZIR SANDHU 781, Dhingra Path, Noida 196997",
+      "shipping_address": "91/076, Parmar Road, Panipat 139575",
+      "seller_tax_id": "18WOLRH3334F1ZH",
+      "client_tax_id": "31TXQUN7773S1Z2",
+      "client_phone": "00681456963"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-123H",
+        "item_qty": "2",
+        "item_net_price": "50,195.41",
+        "item_net_worth": "100,390.82",
+        "item_vat": "12%",
+        "item_gross_worth": "112,437.72"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-460P",
+        "item_qty": "2",
+        "item_net_price": "52,390.47",
+        "item_net_worth": "104,780.94",
+        "item_vat": "12%",
+        "item_gross_worth": "117,354.65"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-968O",
+        "item_qty": "2",
+        "item_net_price": "33,071.48",
+        "item_net_worth": "66,142.96",
+        "item_vat": "12%",
+        "item_gross_worth": "74,080.12"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-393B",
+        "item_qty": "2",
+        "item_net_price": "19,889.88",
+        "item_net_worth": "39,779.76",
+        "item_vat": "12%",
+        "item_gross_worth": "44,553.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹311,094.48",
+      "total_vat": "₹37,331.34",
+      "total_gross_worth": "₹348,425.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,331.34"
+    }
+  }
+}

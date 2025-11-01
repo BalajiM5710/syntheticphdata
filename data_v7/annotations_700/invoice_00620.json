@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/959",
+      "invoice_date": "01/01/2025",
+      "seller": "GADGET GALAXY 248, Singhal Road, Gopalpur-083019",
+      "client": "ANUSHA DATE 25, Dani Street, Kamarhati 567958",
+      "shipping_address": "25, Dani Street, Kamarhati 567958",
+      "seller_tax_id": "27XIEVK1939O1ZN",
+      "client_tax_id": "30VGGLO8760W1Z8",
+      "client_phone": "7985624467"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-439K",
+        "item_qty": "1",
+        "item_net_price": "19,694.55",
+        "item_net_worth": "19,694.55",
+        "item_vat": "28%",
+        "item_gross_worth": "25,209.02"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-950X",
+        "item_qty": "2",
+        "item_net_price": "51,928.92",
+        "item_net_worth": "103,857.84",
+        "item_vat": "28%",
+        "item_gross_worth": "132,938.04"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-783M",
+        "item_qty": "2",
+        "item_net_price": "30,439.73",
+        "item_net_worth": "60,879.46",
+        "item_vat": "28%",
+        "item_gross_worth": "77,925.71"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-795A",
+        "item_qty": "2",
+        "item_net_price": "39,474.63",
+        "item_net_worth": "78,949.26",
+        "item_vat": "28%",
+        "item_gross_worth": "101,055.05"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹263,381.11",
+      "total_vat": "₹73,746.71",
+      "total_gross_worth": "₹337,127.82",
+      "total_cgst": "₹36,873.36",
+      "total_sgst": "₹36,873.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

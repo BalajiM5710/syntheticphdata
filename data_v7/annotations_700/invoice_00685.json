@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/930",
+      "invoice_date": "14/08/2025",
+      "seller": "METRO TECH STORE 60, Krishna, Pune 464213",
+      "client": "YAGNESH SHETTY 27/782, Sundaram Nagar, Singrauli-201204",
+      "shipping_address": "11/944, Garg Street, Bhatpara-771456",
+      "seller_tax_id": "17QZNUT4287M1ZR",
+      "client_tax_id": "02DXLGM7027V1ZW",
+      "client_phone": "+910917126126"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-448T",
+        "item_qty": "1",
+        "item_net_price": "41,580.84",
+        "item_net_worth": "41,580.84",
+        "item_vat": "18%",
+        "item_gross_worth": "49,065.39"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-395A",
+        "item_qty": "2",
+        "item_net_price": "88,096.49",
+        "item_net_worth": "176,192.98",
+        "item_vat": "18%",
+        "item_gross_worth": "207,907.72"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-383Q",
+        "item_qty": "2",
+        "item_net_price": "46,098.17",
+        "item_net_worth": "92,196.34",
+        "item_vat": "18%",
+        "item_gross_worth": "108,791.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹309,970.16",
+      "total_vat": "₹55,794.63",
+      "total_gross_worth": "₹365,764.79",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹55,794.63"
+    }
+  }
+}

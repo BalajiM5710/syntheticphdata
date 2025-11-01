@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/392",
+      "invoice_date": "10/03/2025",
+      "seller": "CITY ELECTRONICS H.No. 791, Kaul Street, Ghaziabad-556558",
+      "client": "MITALI NAIDU H.No. 931, Zachariah Zila, Bhagalpur-551521",
+      "shipping_address": "H.No. 931, Zachariah Zila, Bhagalpur-551521",
+      "seller_tax_id": "08WFVDU3205U1ZA",
+      "client_tax_id": "25WOTOO8849T1ZU",
+      "client_phone": "00476535426"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-465T IMEI: 649950679556885",
+        "item_qty": "2",
+        "item_net_price": "67,252.78",
+        "item_net_worth": "134,505.56",
+        "item_vat": "18%",
+        "item_gross_worth": "158,716.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹134,505.56",
+      "total_vat": "₹24,211.00",
+      "total_gross_worth": "₹158,716.56",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,211.00"
+    }
+  }
+}

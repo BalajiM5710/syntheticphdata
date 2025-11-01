@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/110",
+      "invoice_date": "10/06/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 541, Ramanathan Street, Bhopal-819011",
+      "client": "YAGNESH BUTALA H.No. 293, Talwar Path, Tadipatri 037962",
+      "shipping_address": "67/583, Batra Ganj, Ambarnath-608530",
+      "seller_tax_id": "20PEJND4904T1ZK",
+      "client_tax_id": "32WJODI7402I1ZB",
+      "client_phone": "+919508062221"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-843P",
+        "item_qty": "2",
+        "item_net_price": "10,204.79",
+        "item_net_worth": "20,409.58",
+        "item_vat": "18%",
+        "item_gross_worth": "24,083.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹20,409.58",
+      "total_vat": "₹3,673.72",
+      "total_gross_worth": "₹24,083.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹3,673.72"
+    }
+  }
+}

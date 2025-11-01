@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5155",
+      "invoice_date": "01/06/2025",
+      "seller": "SMART ELECTRONICS 58/63, Dhar Chowk, Miryalaguda 586091",
+      "client": "BALJIWAN KHALSA H.No. 321, Ratti Nagar, Varanasi-496676",
+      "shipping_address": "H.No. 304, Rana Marg, Haldia-631875",
+      "seller_tax_id": "01OGZKU7929U1ZV",
+      "client_tax_id": "31CMGOU6858Q1ZQ",
+      "client_phone": "9341528673"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-798T",
+        "item_qty": "2",
+        "item_net_price": "94,048.16",
+        "item_net_worth": "188,096.32",
+        "item_vat": "12%",
+        "item_gross_worth": "210,667.88"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-354V",
+        "item_qty": "1",
+        "item_net_price": "94,567.24",
+        "item_net_worth": "94,567.24",
+        "item_vat": "12%",
+        "item_gross_worth": "105,915.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹282,663.56",
+      "total_vat": "₹33,919.63",
+      "total_gross_worth": "₹316,583.19",
+      "total_cgst": "₹16,959.81",
+      "total_sgst": "₹16,959.81",
+      "total_igst": "₹0.00"
+    }
+  }
+}

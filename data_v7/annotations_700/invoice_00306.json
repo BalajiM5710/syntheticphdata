@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8419",
+      "invoice_date": "28/06/2025",
+      "seller": "SINGH ELECTRONICS 053, Khanna Circle, Bhatpara 285578",
+      "client": "AARNAV KIBE 246, Chokshi Marg, Bellary-032774",
+      "shipping_address": "246, Chokshi Marg, Bellary-032774",
+      "seller_tax_id": "01APDKJ9690Q1ZY",
+      "client_tax_id": "04MFYUR9625O1ZK",
+      "client_phone": "08763874604"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-685H",
+        "item_qty": "2",
+        "item_net_price": "25,457.91",
+        "item_net_worth": "50,915.82",
+        "item_vat": "28%",
+        "item_gross_worth": "65,172.25"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-634L",
+        "item_qty": "1",
+        "item_net_price": "31,751.10",
+        "item_net_worth": "31,751.10",
+        "item_vat": "28%",
+        "item_gross_worth": "40,641.41"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-842H",
+        "item_qty": "2",
+        "item_net_price": "76,399.01",
+        "item_net_worth": "152,798.02",
+        "item_vat": "28%",
+        "item_gross_worth": "195,581.47"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-777U",
+        "item_qty": "1",
+        "item_net_price": "53,093.11",
+        "item_net_worth": "53,093.11",
+        "item_vat": "28%",
+        "item_gross_worth": "67,959.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹288,558.05",
+      "total_vat": "₹80,796.25",
+      "total_gross_worth": "₹369,354.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹80,796.25"
+    }
+  }
+}

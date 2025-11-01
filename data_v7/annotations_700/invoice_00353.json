@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RKD/926",
+      "invoice_date": "09/06/2025",
+      "seller": "MOBILE POINT 32/13, Rama Marg, Bhusawal-030362",
+      "client": "AGASTYA BANSAL H.No. 51, Dutta Circle, Bhilwara-462692",
+      "shipping_address": "H.No. 51, Dutta Circle, Bhilwara-462692",
+      "seller_tax_id": "01SDCBW6230L1Z2",
+      "client_tax_id": "24XGJND4817N1ZZ",
+      "client_phone": "+915461946892"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-291S",
+        "item_qty": "1",
+        "item_net_price": "38,966.95",
+        "item_net_worth": "38,966.95",
+        "item_vat": "18%",
+        "item_gross_worth": "45,981.00"
+      },
+      {
+        "item_desc": "Apple Tablets APP-109H",
+        "item_qty": "2",
+        "item_net_price": "94,385.72",
+        "item_net_worth": "188,771.44",
+        "item_vat": "18%",
+        "item_gross_worth": "222,750.30"
+      },
+      {
+        "item_desc": "Sony Headphones SON-771D",
+        "item_qty": "1",
+        "item_net_price": "31,653.49",
+        "item_net_worth": "31,653.49",
+        "item_vat": "18%",
+        "item_gross_worth": "37,351.12"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-553J",
+        "item_qty": "2",
+        "item_net_price": "33,445.98",
+        "item_net_worth": "66,891.96",
+        "item_vat": "18%",
+        "item_gross_worth": "78,932.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹326,283.84",
+      "total_vat": "₹58,731.09",
+      "total_gross_worth": "₹385,014.93",
+      "total_cgst": "₹29,365.55",
+      "total_sgst": "₹29,365.55",
+      "total_igst": "₹0.00"
+    }
+  }
+}

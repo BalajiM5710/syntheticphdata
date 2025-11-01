@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YNB/567",
+      "invoice_date": "10/02/2025",
+      "seller": "MOBILE POINT 088, Thaker, Sagar 691678",
+      "client": "JACK KHALSA 621, Verma Road, Raebareli-005141",
+      "shipping_address": "621, Verma Road, Raebareli-005141",
+      "seller_tax_id": "20AVWHH1859C1ZB",
+      "client_tax_id": "34TIICH4445F1Z5",
+      "client_phone": "00417759925"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-281J",
+        "item_qty": "2",
+        "item_net_price": "22,814.70",
+        "item_net_worth": "45,629.40",
+        "item_vat": "28%",
+        "item_gross_worth": "58,405.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹45,629.40",
+      "total_vat": "₹12,776.23",
+      "total_gross_worth": "₹58,405.63",
+      "total_cgst": "₹6,388.12",
+      "total_sgst": "₹6,388.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

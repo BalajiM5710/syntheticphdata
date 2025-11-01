@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LHH/724",
+      "invoice_date": "20/02/2025",
+      "seller": "SMART ELECTRONICS 023, Nagarajan Zila, Panvel-713119",
+      "client": "WARJAS SOLANKI H.No. 675, Balasubramanian Marg, Kulti 074235",
+      "shipping_address": "669, Dada Chowk, Pallavaram 411598",
+      "seller_tax_id": "31RMGMZ0860V1ZY",
+      "client_tax_id": "29DGMBX9855L1ZY",
+      "client_phone": "+915078464460"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-458W",
+        "item_qty": "2",
+        "item_net_price": "81,603.39",
+        "item_net_worth": "163,206.78",
+        "item_vat": "28%",
+        "item_gross_worth": "208,904.68"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-310Z",
+        "item_qty": "2",
+        "item_net_price": "21,077.49",
+        "item_net_worth": "42,154.98",
+        "item_vat": "28%",
+        "item_gross_worth": "53,958.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹205,361.76",
+      "total_vat": "₹57,501.29",
+      "total_gross_worth": "₹262,863.05",
+      "total_cgst": "₹28,750.65",
+      "total_sgst": "₹28,750.65",
+      "total_igst": "₹0.00"
+    }
+  }
+}

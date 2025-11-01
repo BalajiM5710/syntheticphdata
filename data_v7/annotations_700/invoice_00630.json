@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IJC/517",
+      "invoice_date": "22/07/2025",
+      "seller": "SINGH ELECTRONICS 31, Tailor Path, Jalgaon-372570",
+      "client": "GUNEET BERA H.No. 24, Kurian Circle, Ghaziabad 692258",
+      "shipping_address": "H.No. 24, Kurian Circle, Ghaziabad 692258",
+      "seller_tax_id": "33MZRIC6360H1ZX",
+      "client_tax_id": "21EXDVJ8413F1ZD",
+      "client_phone": "+916826324653"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-571Y",
+        "item_qty": "2",
+        "item_net_price": "64,232.37",
+        "item_net_worth": "128,464.74",
+        "item_vat": "28%",
+        "item_gross_worth": "164,434.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹128,464.74",
+      "total_vat": "₹35,970.13",
+      "total_gross_worth": "₹164,434.87",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,970.13"
+    }
+  }
+}

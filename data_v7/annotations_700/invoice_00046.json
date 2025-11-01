@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QIN/779",
+      "invoice_date": "05/09/2025",
+      "seller": "FUTURE TECH 330, Warrior Circle, Imphal-145711",
+      "client": "RAKSHA SEN 99/367, Maharaj Zila, Vellore 574132",
+      "shipping_address": "99/367, Maharaj Zila, Vellore 574132",
+      "seller_tax_id": "36KEWTS2064S1Z6",
+      "client_tax_id": "07FYIYS4531A1ZD",
+      "client_phone": "2340998365"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-660O",
+        "item_qty": "2",
+        "item_net_price": "18,403.79",
+        "item_net_worth": "36,807.58",
+        "item_vat": "18%",
+        "item_gross_worth": "43,432.94"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-561K",
+        "item_qty": "2",
+        "item_net_price": "81,080.39",
+        "item_net_worth": "162,160.78",
+        "item_vat": "18%",
+        "item_gross_worth": "191,349.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹198,968.36",
+      "total_vat": "₹35,814.30",
+      "total_gross_worth": "₹234,782.66",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,814.30"
+    }
+  }
+}

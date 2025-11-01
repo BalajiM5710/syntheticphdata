@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4333",
+      "invoice_date": "23/02/2025",
+      "seller": "ROYAL MOBILES 35, Ramaswamy Street, Motihari-220752",
+      "client": "ZARNA KAUR 31/02, Sabharwal Road, Noida 279026",
+      "shipping_address": "H.No. 025, Hari, Lucknow-305498",
+      "seller_tax_id": "05KZWRP6213K1Z3",
+      "client_tax_id": "32LEFWW5058D1ZG",
+      "client_phone": "04343021088"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-322J",
+        "item_qty": "1",
+        "item_net_price": "22,105.95",
+        "item_net_worth": "22,105.95",
+        "item_vat": "12%",
+        "item_gross_worth": "24,758.66"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-429T",
+        "item_qty": "1",
+        "item_net_price": "53,766.09",
+        "item_net_worth": "53,766.09",
+        "item_vat": "12%",
+        "item_gross_worth": "60,218.02"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-749H",
+        "item_qty": "2",
+        "item_net_price": "38,240.75",
+        "item_net_worth": "76,481.50",
+        "item_vat": "12%",
+        "item_gross_worth": "85,659.28"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-958E",
+        "item_qty": "1",
+        "item_net_price": "89,962.94",
+        "item_net_worth": "89,962.94",
+        "item_vat": "12%",
+        "item_gross_worth": "100,758.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹242,316.48",
+      "total_vat": "₹29,077.98",
+      "total_gross_worth": "₹271,394.46",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,077.98"
+    }
+  }
+}

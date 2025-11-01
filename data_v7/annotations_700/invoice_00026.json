@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/216",
+      "invoice_date": "23/03/2025",
+      "seller": "FUTURE TECH 24, Peri Street, Shivpuri-488840",
+      "client": "SAUMYA DIXIT H.No. 97, Goswami Road, Gandhinagar 863157",
+      "shipping_address": "H.No. 97, Goswami Road, Gandhinagar 863157",
+      "seller_tax_id": "35UCIVO2843M1ZX",
+      "client_tax_id": "17EQAPW5328R1ZU",
+      "client_phone": "+911535856867"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-585D",
+        "item_qty": "1",
+        "item_net_price": "46,696.31",
+        "item_net_worth": "46,696.31",
+        "item_vat": "18%",
+        "item_gross_worth": "55,101.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,696.31",
+      "total_vat": "₹8,405.34",
+      "total_gross_worth": "₹55,101.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,405.34"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7853",
+      "invoice_date": "21/06/2025",
+      "seller": "DIGITAL STORE H.No. 209, Jaggi, Rohtak 934461",
+      "client": "YASHODHARA TELLA 17, Sehgal Chowk, Nashik 089059",
+      "shipping_address": "17, Sehgal Chowk, Nashik 089059",
+      "seller_tax_id": "02MEPTW3232I1Z9",
+      "client_tax_id": "30EROLU1748Q1ZY",
+      "client_phone": "3008574545"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-216H",
+        "item_qty": "2",
+        "item_net_price": "69,195.37",
+        "item_net_worth": "138,390.74",
+        "item_vat": "18%",
+        "item_gross_worth": "163,301.07"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-278D",
+        "item_qty": "1",
+        "item_net_price": "80,448.89",
+        "item_net_worth": "80,448.89",
+        "item_vat": "18%",
+        "item_gross_worth": "94,929.69"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-243K",
+        "item_qty": "2",
+        "item_net_price": "24,173.35",
+        "item_net_worth": "48,346.70",
+        "item_vat": "18%",
+        "item_gross_worth": "57,049.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹267,186.33",
+      "total_vat": "₹48,093.54",
+      "total_gross_worth": "₹315,279.87",
+      "total_cgst": "₹24,046.77",
+      "total_sgst": "₹24,046.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

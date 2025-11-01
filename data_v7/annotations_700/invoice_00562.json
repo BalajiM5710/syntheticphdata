@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/902",
+      "invoice_date": "12/10/2025",
+      "seller": "METRO TECH STORE H.No. 855, Kapadia Street, Buxar 375193",
+      "client": "ARYAN BHARDWAJ 628, Kapoor Nagar, Chandrapur-645903",
+      "shipping_address": "628, Kapoor Nagar, Chandrapur-645903",
+      "seller_tax_id": "18VYGJB3539U1ZW",
+      "client_tax_id": "25NGAZU6333K1ZX",
+      "client_phone": "+914320376075"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-761I",
+        "item_qty": "2",
+        "item_net_price": "14,468.00",
+        "item_net_worth": "28,936.00",
+        "item_vat": "18%",
+        "item_gross_worth": "34,144.48"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-895U",
+        "item_qty": "2",
+        "item_net_price": "77,265.87",
+        "item_net_worth": "154,531.74",
+        "item_vat": "18%",
+        "item_gross_worth": "182,347.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹183,467.74",
+      "total_vat": "₹33,024.19",
+      "total_gross_worth": "₹216,491.93",
+      "total_cgst": "₹16,512.10",
+      "total_sgst": "₹16,512.10",
+      "total_igst": "₹0.00"
+    }
+  }
+}

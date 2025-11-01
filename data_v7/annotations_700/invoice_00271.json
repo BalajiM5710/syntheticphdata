@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/380",
+      "invoice_date": "09/05/2025",
+      "seller": "ELECTRONICS WORLD H.No. 29, Anand Path, Purnia 927650",
+      "client": "BISHAKHA SACHDEVA H.No. 70, Anne Ganj, Hazaribagh 508686",
+      "shipping_address": "H.No. 70, Anne Ganj, Hazaribagh 508686",
+      "seller_tax_id": "13GWJSC4373H1Z2",
+      "client_tax_id": "36BFYLW4621J1ZZ",
+      "client_phone": "+915722689380"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-285E",
+        "item_qty": "1",
+        "item_net_price": "89,219.94",
+        "item_net_worth": "89,219.94",
+        "item_vat": "28%",
+        "item_gross_worth": "114,201.52"
+      },
+      {
+        "item_desc": "Apple Tablets APP-445P",
+        "item_qty": "2",
+        "item_net_price": "24,585.87",
+        "item_net_worth": "49,171.74",
+        "item_vat": "28%",
+        "item_gross_worth": "62,939.83"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-841A",
+        "item_qty": "1",
+        "item_net_price": "38,059.92",
+        "item_net_worth": "38,059.92",
+        "item_vat": "28%",
+        "item_gross_worth": "48,716.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹176,451.60",
+      "total_vat": "₹49,406.45",
+      "total_gross_worth": "₹225,858.05",
+      "total_cgst": "₹24,703.22",
+      "total_sgst": "₹24,703.22",
+      "total_igst": "₹0.00"
+    }
+  }
+}

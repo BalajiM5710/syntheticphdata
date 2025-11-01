@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/782",
+      "invoice_date": "31/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 772, Hora Circle, Cuttack-227533",
+      "client": "ANVI PRAKASH 46, Mangat Circle, Morbi 228060",
+      "shipping_address": "710, Goswami Circle, Tumkur 338094",
+      "seller_tax_id": "29XOXPV4497H1Z3",
+      "client_tax_id": "30GKPDL1896Y1Z9",
+      "client_phone": "+911363496970"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-422B",
+        "item_qty": "1",
+        "item_net_price": "30,827.64",
+        "item_net_worth": "30,827.64",
+        "item_vat": "12%",
+        "item_gross_worth": "34,526.96"
+      },
+      {
+        "item_desc": "Apple Tablets APP-579J",
+        "item_qty": "1",
+        "item_net_price": "37,757.63",
+        "item_net_worth": "37,757.63",
+        "item_vat": "12%",
+        "item_gross_worth": "42,288.55"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-919N",
+        "item_qty": "2",
+        "item_net_price": "24,026.18",
+        "item_net_worth": "48,052.36",
+        "item_vat": "12%",
+        "item_gross_worth": "53,818.64"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-609J",
+        "item_qty": "2",
+        "item_net_price": "59,460.04",
+        "item_net_worth": "118,920.08",
+        "item_vat": "12%",
+        "item_gross_worth": "133,190.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹235,557.71",
+      "total_vat": "₹28,266.93",
+      "total_gross_worth": "₹263,824.64",
+      "total_cgst": "₹14,133.46",
+      "total_sgst": "₹14,133.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

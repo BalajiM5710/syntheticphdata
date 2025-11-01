@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8893",
+      "invoice_date": "14/02/2025",
+      "seller": "PATEL MOBILES H.No. 632, Gola, Giridih 666466",
+      "client": "NETRA OZA 30, Aggarwal Path, Mango-735374",
+      "shipping_address": "30, Aggarwal Path, Mango-735374",
+      "seller_tax_id": "30UKDLS0546T1ZR",
+      "client_tax_id": "26QGJTI5895O1ZF",
+      "client_phone": "03443556240"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-465L",
+        "item_qty": "1",
+        "item_net_price": "31,155.31",
+        "item_net_worth": "31,155.31",
+        "item_vat": "12%",
+        "item_gross_worth": "34,893.95"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-973Q",
+        "item_qty": "2",
+        "item_net_price": "84,228.39",
+        "item_net_worth": "168,456.78",
+        "item_vat": "12%",
+        "item_gross_worth": "188,671.59"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-367D IMEI: 230979067355532",
+        "item_qty": "2",
+        "item_net_price": "35,811.43",
+        "item_net_worth": "71,622.86",
+        "item_vat": "12%",
+        "item_gross_worth": "80,217.60"
+      },
+      {
+        "item_desc": "Sony Camera SON-168R",
+        "item_qty": "1",
+        "item_net_price": "41,772.93",
+        "item_net_worth": "41,772.93",
+        "item_vat": "12%",
+        "item_gross_worth": "46,785.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹313,007.88",
+      "total_vat": "₹37,560.95",
+      "total_gross_worth": "₹350,568.83",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,560.95"
+    }
+  }
+}

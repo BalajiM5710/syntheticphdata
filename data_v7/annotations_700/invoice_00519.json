@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OTP/344",
+      "invoice_date": "13/03/2025",
+      "seller": "ELECTRONICS WORLD 42/005, Viswanathan Street, Hajipur 963705",
+      "client": "WAIDA DAS 00, Sami Circle, Kottayam-698510",
+      "shipping_address": "00, Sami Circle, Kottayam-698510",
+      "seller_tax_id": "18ZTDXH3995P1ZL",
+      "client_tax_id": "27CCKZD6765E1ZX",
+      "client_phone": "+916740805866"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-321M",
+        "item_qty": "1",
+        "item_net_price": "88,156.12",
+        "item_net_worth": "88,156.12",
+        "item_vat": "28%",
+        "item_gross_worth": "112,839.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,156.12",
+      "total_vat": "₹24,683.71",
+      "total_gross_worth": "₹112,839.83",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,683.71"
+    }
+  }
+}

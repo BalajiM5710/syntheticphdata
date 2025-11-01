@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/960",
+      "invoice_date": "29/10/2025",
+      "seller": "KUMAR TECH SOLUTIONS 55/25, Krishnan Road, Bangalore 855068",
+      "client": "CHAMPAK WAGLE H.No. 07, Dasgupta Street, Bellary 751430",
+      "shipping_address": "H.No. 07, Dasgupta Street, Bellary 751430",
+      "seller_tax_id": "09GETFI3489V1Z2",
+      "client_tax_id": "05QNZUR8947C1ZL",
+      "client_phone": "+911793297657"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-399A",
+        "item_qty": "1",
+        "item_net_price": "73,550.15",
+        "item_net_worth": "73,550.15",
+        "item_vat": "28%",
+        "item_gross_worth": "94,144.19"
+      },
+      {
+        "item_desc": "Hero Bike HER-348H",
+        "item_qty": "2",
+        "item_net_price": "60,384.19",
+        "item_net_worth": "120,768.38",
+        "item_vat": "28%",
+        "item_gross_worth": "154,583.53"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-729Q",
+        "item_qty": "2",
+        "item_net_price": "91,420.22",
+        "item_net_worth": "182,840.44",
+        "item_vat": "28%",
+        "item_gross_worth": "234,035.76"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-470T",
+        "item_qty": "2",
+        "item_net_price": "48,185.69",
+        "item_net_worth": "96,371.38",
+        "item_vat": "28%",
+        "item_gross_worth": "123,355.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹473,530.35",
+      "total_vat": "₹132,588.50",
+      "total_gross_worth": "₹606,118.85",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹132,588.50"
+    }
+  }
+}

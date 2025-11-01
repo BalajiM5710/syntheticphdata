@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/524",
+      "invoice_date": "04/05/2025",
+      "seller": "SINGH ELECTRONICS 42, Sarkar Ganj, Burhanpur 218736",
+      "client": "CHAITALY BARIA H.No. 997, Kari Nagar, Farrukhabad-662096",
+      "shipping_address": "42, Ratta, Bilaspur-614992",
+      "seller_tax_id": "37FUCDF4561Y1Z8",
+      "client_tax_id": "13WITGQ0635O1Z7",
+      "client_phone": "00797245943"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-270K",
+        "item_qty": "2",
+        "item_net_price": "18,259.15",
+        "item_net_worth": "36,518.30",
+        "item_vat": "18%",
+        "item_gross_worth": "43,091.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹36,518.30",
+      "total_vat": "₹6,573.29",
+      "total_gross_worth": "₹43,091.59",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,573.29"
+    }
+  }
+}

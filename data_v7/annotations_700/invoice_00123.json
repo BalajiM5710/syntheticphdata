@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1068",
+      "invoice_date": "11/10/2025",
+      "seller": "ELECTRONICS WORLD 50/79, Setty Street, Bhubaneswar-788963",
+      "client": "LAKSH BALAN 09/947, Sharma Nagar, Dhule 638564",
+      "shipping_address": "94/61, Gopal Path, Nizamabad 342982",
+      "seller_tax_id": "10YJVMT7790Y1ZX",
+      "client_tax_id": "30VYRTL5813F1ZZ",
+      "client_phone": "1318663098"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-641L",
+        "item_qty": "1",
+        "item_net_price": "88,115.86",
+        "item_net_worth": "88,115.86",
+        "item_vat": "18%",
+        "item_gross_worth": "103,976.71"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-791I",
+        "item_qty": "2",
+        "item_net_price": "85,839.74",
+        "item_net_worth": "171,679.48",
+        "item_vat": "18%",
+        "item_gross_worth": "202,581.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹259,795.34",
+      "total_vat": "₹46,763.16",
+      "total_gross_worth": "₹306,558.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,763.16"
+    }
+  }
+}

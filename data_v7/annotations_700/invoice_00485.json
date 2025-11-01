@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5656",
+      "invoice_date": "31/08/2025",
+      "seller": "SINGH ELECTRONICS H.No. 14, Balakrishnan Ganj, Visakhapatnam-242975",
+      "client": "ONVEER HEGDE H.No. 71, Bora Chowk, Malegaon 491684",
+      "shipping_address": "H.No. 71, Bora Chowk, Malegaon 491684",
+      "seller_tax_id": "31EMLVT0289G1ZX",
+      "client_tax_id": "01FZAKN1283S1ZU",
+      "client_phone": "+917763615666"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-156K",
+        "item_qty": "1",
+        "item_net_price": "83,844.18",
+        "item_net_worth": "83,844.18",
+        "item_vat": "18%",
+        "item_gross_worth": "98,936.13"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-320K",
+        "item_qty": "2",
+        "item_net_price": "93,797.17",
+        "item_net_worth": "187,594.34",
+        "item_vat": "18%",
+        "item_gross_worth": "221,361.32"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-832F",
+        "item_qty": "1",
+        "item_net_price": "23,505.28",
+        "item_net_worth": "23,505.28",
+        "item_vat": "18%",
+        "item_gross_worth": "27,736.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹294,943.80",
+      "total_vat": "₹53,089.88",
+      "total_gross_worth": "₹348,033.68",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹53,089.88"
+    }
+  }
+}

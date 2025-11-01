@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1037",
+      "invoice_date": "02/10/2025",
+      "seller": "GADGET GALAXY 47/51, Tak Nagar, Bathinda-783320",
+      "client": "IMARAN KARAN 73/828, Chahal Path, Thoothukudi-649820",
+      "shipping_address": "73/828, Chahal Path, Thoothukudi-649820",
+      "seller_tax_id": "19CLACL9753P1ZY",
+      "client_tax_id": "28OOSOW2995F1Z4",
+      "client_phone": "09125766300"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-549E",
+        "item_qty": "1",
+        "item_net_price": "54,427.26",
+        "item_net_worth": "54,427.26",
+        "item_vat": "28%",
+        "item_gross_worth": "69,666.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹54,427.26",
+      "total_vat": "₹15,239.63",
+      "total_gross_worth": "₹69,666.89",
+      "total_cgst": "₹7,619.82",
+      "total_sgst": "₹7,619.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

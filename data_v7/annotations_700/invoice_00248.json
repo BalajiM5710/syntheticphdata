@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/442",
+      "invoice_date": "17/08/2025",
+      "seller": "SMART ELECTRONICS 52/49, Chandra Chowk, Bahraich 725933",
+      "client": "FITAN PANDEY 255, Dua Marg, Karimnagar 886095",
+      "shipping_address": "54/33, Ramanathan Chowk, Guwahati 941853",
+      "seller_tax_id": "07IUZXM7472F1ZM",
+      "client_tax_id": "13SWAJS9912Y1ZV",
+      "client_phone": "01894169531"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-263A",
+        "item_qty": "2",
+        "item_net_price": "61,946.05",
+        "item_net_worth": "123,892.10",
+        "item_vat": "12%",
+        "item_gross_worth": "138,759.15"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-276V",
+        "item_qty": "2",
+        "item_net_price": "42,292.98",
+        "item_net_worth": "84,585.96",
+        "item_vat": "12%",
+        "item_gross_worth": "94,736.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹208,478.06",
+      "total_vat": "₹25,017.37",
+      "total_gross_worth": "₹233,495.43",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,017.37"
+    }
+  }
+}

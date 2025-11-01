@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/919",
+      "invoice_date": "31/05/2025",
+      "seller": "TECH BAZAAR 98/93, Bansal Marg, Saharanpur 693079",
+      "client": "JANANI PALLA 56, Khurana Zila, Danapur 702747",
+      "shipping_address": "56, Khurana Zila, Danapur 702747",
+      "seller_tax_id": "27JXPLG4075W1ZG",
+      "client_tax_id": "02JLSED0103O1ZT",
+      "client_phone": "4562979983"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-471M",
+        "item_qty": "2",
+        "item_net_price": "42,204.33",
+        "item_net_worth": "84,408.66",
+        "item_vat": "18%",
+        "item_gross_worth": "99,602.22"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-669N",
+        "item_qty": "2",
+        "item_net_price": "15,123.84",
+        "item_net_worth": "30,247.68",
+        "item_vat": "18%",
+        "item_gross_worth": "35,692.26"
+      },
+      {
+        "item_desc": "LG Microwave LG-596E",
+        "item_qty": "1",
+        "item_net_price": "77,494.53",
+        "item_net_worth": "77,494.53",
+        "item_vat": "18%",
+        "item_gross_worth": "91,443.55"
+      },
+      {
+        "item_desc": "Samsung Television SAM-445M",
+        "item_qty": "2",
+        "item_net_price": "88,856.58",
+        "item_net_worth": "177,713.16",
+        "item_vat": "18%",
+        "item_gross_worth": "209,701.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹369,864.03",
+      "total_vat": "₹66,575.53",
+      "total_gross_worth": "₹436,439.56",
+      "total_cgst": "₹33,287.76",
+      "total_sgst": "₹33,287.76",
+      "total_igst": "₹0.00"
+    }
+  }
+}

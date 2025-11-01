@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/758",
+      "invoice_date": "20/07/2025",
+      "seller": "STAR ELECTRONICS 976, Borde Nagar, Coimbatore-542943",
+      "client": "SIYA SIDHU 951, Iyengar Ganj, Maheshtala 673562",
+      "shipping_address": "H.No. 67, Modi Marg, Nagpur 199868",
+      "seller_tax_id": "03CNNIX9975H1ZZ",
+      "client_tax_id": "18FFRTP3311W1ZY",
+      "client_phone": "3494958048"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-928T",
+        "item_qty": "2",
+        "item_net_price": "86,510.48",
+        "item_net_worth": "173,020.96",
+        "item_vat": "12%",
+        "item_gross_worth": "193,783.48"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-891G",
+        "item_qty": "1",
+        "item_net_price": "84,077.02",
+        "item_net_worth": "84,077.02",
+        "item_vat": "12%",
+        "item_gross_worth": "94,166.26"
+      },
+      {
+        "item_desc": "Sony Television SON-589K",
+        "item_qty": "1",
+        "item_net_price": "64,652.70",
+        "item_net_worth": "64,652.70",
+        "item_vat": "12%",
+        "item_gross_worth": "72,411.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹321,750.68",
+      "total_vat": "₹38,610.08",
+      "total_gross_worth": "₹360,360.76",
+      "total_cgst": "₹19,305.04",
+      "total_sgst": "₹19,305.04",
+      "total_igst": "₹0.00"
+    }
+  }
+}

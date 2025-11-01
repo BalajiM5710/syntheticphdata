@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/260",
+      "invoice_date": "16/02/2025",
+      "seller": "FUTURE TECH H.No. 094, Mistry Path, Phagwara 903301",
+      "client": "MADHAV SOMAN 457, Bassi Road, Sirsa 890189",
+      "shipping_address": "457, Bassi Road, Sirsa 890189",
+      "seller_tax_id": "13CSDTL1108T1ZJ",
+      "client_tax_id": "21HYMKN0283K1Z6",
+      "client_phone": "+913276657164"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-746P",
+        "item_qty": "2",
+        "item_net_price": "74,010.16",
+        "item_net_worth": "148,020.32",
+        "item_vat": "12%",
+        "item_gross_worth": "165,782.76"
+      },
+      {
+        "item_desc": "Sony Camera SON-616H",
+        "item_qty": "2",
+        "item_net_price": "94,118.23",
+        "item_net_worth": "188,236.46",
+        "item_vat": "12%",
+        "item_gross_worth": "210,824.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹336,256.78",
+      "total_vat": "₹40,350.81",
+      "total_gross_worth": "₹376,607.59",
+      "total_cgst": "₹20,175.41",
+      "total_sgst": "₹20,175.41",
+      "total_igst": "₹0.00"
+    }
+  }
+}

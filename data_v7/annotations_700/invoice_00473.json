@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/493",
+      "invoice_date": "30/03/2025",
+      "seller": "RAM ELECTRONICS 10/95, Dass Nagar, Rajpur Sonarpur-147803",
+      "client": "VYANJANA TRIPATHI 79/70, Vaidya Ganj, Tumkur 541501",
+      "shipping_address": "79/70, Vaidya Ganj, Tumkur 541501",
+      "seller_tax_id": "04PVSOY6704W1ZC",
+      "client_tax_id": "30HDSIB1754X1Z5",
+      "client_phone": "8506472879"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-693E",
+        "item_qty": "2",
+        "item_net_price": "53,512.03",
+        "item_net_worth": "107,024.06",
+        "item_vat": "18%",
+        "item_gross_worth": "126,288.39"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-723W",
+        "item_qty": "2",
+        "item_net_price": "31,664.45",
+        "item_net_worth": "63,328.90",
+        "item_vat": "18%",
+        "item_gross_worth": "74,728.10"
+      },
+      {
+        "item_desc": "Sony Speaker SON-687Z",
+        "item_qty": "2",
+        "item_net_price": "76,694.28",
+        "item_net_worth": "153,388.56",
+        "item_vat": "18%",
+        "item_gross_worth": "180,998.50"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-849T",
+        "item_qty": "1",
+        "item_net_price": "90,373.98",
+        "item_net_worth": "90,373.98",
+        "item_vat": "18%",
+        "item_gross_worth": "106,641.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹414,115.50",
+      "total_vat": "₹74,540.79",
+      "total_gross_worth": "₹488,656.29",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹74,540.79"
+    }
+  }
+}

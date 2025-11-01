@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3488",
+      "invoice_date": "29/07/2025",
+      "seller": "ROYAL MOBILES 56/537, Bajaj Chowk, Ahmedabad-329151",
+      "client": "ORINDER BAKSHI 12/12, Korpal Path, Raiganj-808454",
+      "shipping_address": "12/12, Korpal Path, Raiganj-808454",
+      "seller_tax_id": "30NXZAH2759R1ZT",
+      "client_tax_id": "14WEASY5699Q1Z6",
+      "client_phone": "+914892976012"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-759K",
+        "item_qty": "1",
+        "item_net_price": "28,174.07",
+        "item_net_worth": "28,174.07",
+        "item_vat": "12%",
+        "item_gross_worth": "31,554.96"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-552O",
+        "item_qty": "1",
+        "item_net_price": "75,245.02",
+        "item_net_worth": "75,245.02",
+        "item_vat": "12%",
+        "item_gross_worth": "84,274.42"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-760O",
+        "item_qty": "1",
+        "item_net_price": "63,355.61",
+        "item_net_worth": "63,355.61",
+        "item_vat": "12%",
+        "item_gross_worth": "70,958.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,774.70",
+      "total_vat": "₹20,012.96",
+      "total_gross_worth": "₹186,787.66",
+      "total_cgst": "₹10,006.48",
+      "total_sgst": "₹10,006.48",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/538",
+      "invoice_date": "04/07/2025",
+      "seller": "ELECTRONICS WORLD 77/87, Bava, Jalandhar 232269",
+      "client": "ZANSI OOMMEN H.No. 80, Balay Marg, Malegaon-539342",
+      "shipping_address": "H.No. 80, Balay Marg, Malegaon-539342",
+      "seller_tax_id": "21FJNGX5085O1Z9",
+      "client_tax_id": "20KTEVY1248T1ZL",
+      "client_phone": "08528649867"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-916S",
+        "item_qty": "1",
+        "item_net_price": "81,934.37",
+        "item_net_worth": "81,934.37",
+        "item_vat": "12%",
+        "item_gross_worth": "91,766.49"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-239C",
+        "item_qty": "2",
+        "item_net_price": "79,446.68",
+        "item_net_worth": "158,893.36",
+        "item_vat": "12%",
+        "item_gross_worth": "177,960.56"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-926D",
+        "item_qty": "1",
+        "item_net_price": "18,787.17",
+        "item_net_worth": "18,787.17",
+        "item_vat": "12%",
+        "item_gross_worth": "21,041.63"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-183H",
+        "item_qty": "1",
+        "item_net_price": "56,027.47",
+        "item_net_worth": "56,027.47",
+        "item_vat": "12%",
+        "item_gross_worth": "62,750.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹315,642.37",
+      "total_vat": "₹37,877.08",
+      "total_gross_worth": "₹353,519.45",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,877.08"
+    }
+  }
+}

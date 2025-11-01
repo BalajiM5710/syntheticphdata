@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/364",
+      "invoice_date": "02/04/2025",
+      "seller": "PATEL MOBILES 18/37, Khalsa Zila, Bardhaman-203522",
+      "client": "HARRISON BORA 032, Amble Nagar, Kharagpur-903039",
+      "shipping_address": "032, Amble Nagar, Kharagpur-903039",
+      "seller_tax_id": "09EGJEG2020X1ZQ",
+      "client_tax_id": "19EVUOB5581S1Z0",
+      "client_phone": "+915549384163"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-439L",
+        "item_qty": "1",
+        "item_net_price": "57,718.64",
+        "item_net_worth": "57,718.64",
+        "item_vat": "12%",
+        "item_gross_worth": "64,644.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹57,718.64",
+      "total_vat": "₹6,926.24",
+      "total_gross_worth": "₹64,644.88",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,926.24"
+    }
+  }
+}

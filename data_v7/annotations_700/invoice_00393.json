@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/289",
+      "invoice_date": "26/08/2025",
+      "seller": "STAR ELECTRONICS 04/350, Pandey Road, Ballia 190979",
+      "client": "WARDA DUGAR 95/971, Arora Circle, Sasaram 123921",
+      "shipping_address": "95/971, Arora Circle, Sasaram 123921",
+      "seller_tax_id": "07TTLAD7886L1Z4",
+      "client_tax_id": "11BYSEH5444A1ZR",
+      "client_phone": "+916933242776"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-559G IMEI: 344839518102135",
+        "item_qty": "2",
+        "item_net_price": "14,747.89",
+        "item_net_worth": "29,495.78",
+        "item_vat": "18%",
+        "item_gross_worth": "34,805.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹29,495.78",
+      "total_vat": "₹5,309.24",
+      "total_gross_worth": "₹34,805.02",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹5,309.24"
+    }
+  }
+}

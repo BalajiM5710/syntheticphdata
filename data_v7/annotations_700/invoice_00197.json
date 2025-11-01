@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9935",
+      "invoice_date": "08/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS 07, Ganesh Circle, Serampore 166149",
+      "client": "PRATYUSH REDDY 39, Gara Nagar, Begusarai 477964",
+      "shipping_address": "H.No. 422, Dewan Ganj, Surendranagar Dudhrej-159127",
+      "seller_tax_id": "09CWSMZ8923J1ZZ",
+      "client_tax_id": "15OYVIM3126M1ZM",
+      "client_phone": "3817400183"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-120W",
+        "item_qty": "2",
+        "item_net_price": "20,152.13",
+        "item_net_worth": "40,304.26",
+        "item_vat": "18%",
+        "item_gross_worth": "47,559.03"
+      },
+      {
+        "item_desc": "Hero Bike HER-417D",
+        "item_qty": "2",
+        "item_net_price": "92,771.09",
+        "item_net_worth": "185,542.18",
+        "item_vat": "18%",
+        "item_gross_worth": "218,939.77"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-822I",
+        "item_qty": "2",
+        "item_net_price": "48,968.33",
+        "item_net_worth": "97,936.66",
+        "item_vat": "18%",
+        "item_gross_worth": "115,565.26"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-583V",
+        "item_qty": "2",
+        "item_net_price": "78,989.31",
+        "item_net_worth": "157,978.62",
+        "item_vat": "18%",
+        "item_gross_worth": "186,414.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹481,761.72",
+      "total_vat": "₹86,717.11",
+      "total_gross_worth": "₹568,478.83",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹86,717.11"
+    }
+  }
+}

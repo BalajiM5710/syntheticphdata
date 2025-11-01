@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/654",
+      "invoice_date": "01/08/2025",
+      "seller": "FUTURE TECH 20/15, Sehgal Chowk, Indore-252651",
+      "client": "LIAM GILL 547, Sinha, Bhiwandi 322575",
+      "shipping_address": "547, Sinha, Bhiwandi 322575",
+      "seller_tax_id": "28JAOFA5644Z1ZR",
+      "client_tax_id": "15CXIXA2805T1ZQ",
+      "client_phone": "07809355454"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-491F",
+        "item_qty": "1",
+        "item_net_price": "51,867.84",
+        "item_net_worth": "51,867.84",
+        "item_vat": "12%",
+        "item_gross_worth": "58,091.98"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-204G",
+        "item_qty": "1",
+        "item_net_price": "26,935.92",
+        "item_net_worth": "26,935.92",
+        "item_vat": "12%",
+        "item_gross_worth": "30,168.23"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-923Q",
+        "item_qty": "2",
+        "item_net_price": "66,566.53",
+        "item_net_worth": "133,133.06",
+        "item_vat": "12%",
+        "item_gross_worth": "149,109.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹211,936.82",
+      "total_vat": "₹25,432.42",
+      "total_gross_worth": "₹237,369.24",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,432.42"
+    }
+  }
+}

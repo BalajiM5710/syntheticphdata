@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8459",
+      "invoice_date": "07/06/2025",
+      "seller": "DIGITAL STORE 21/987, Sharma Street, Sambalpur 911357",
+      "client": "FIYAZ KOTHARI H.No. 853, Ghosh Ganj, Kottayam-304656",
+      "shipping_address": "H.No. 507, Konda Street, Tirunelveli 081408",
+      "seller_tax_id": "16GAEBW1739S1Z1",
+      "client_tax_id": "26UKVTW7783E1ZK",
+      "client_phone": "04059184171"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-156C",
+        "item_qty": "1",
+        "item_net_price": "17,498.36",
+        "item_net_worth": "17,498.36",
+        "item_vat": "12%",
+        "item_gross_worth": "19,598.16"
+      },
+      {
+        "item_desc": "Sony Camera SON-588S",
+        "item_qty": "2",
+        "item_net_price": "88,753.00",
+        "item_net_worth": "177,506.00",
+        "item_vat": "12%",
+        "item_gross_worth": "198,806.72"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-926C",
+        "item_qty": "1",
+        "item_net_price": "44,345.35",
+        "item_net_worth": "44,345.35",
+        "item_vat": "12%",
+        "item_gross_worth": "49,666.79"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-620L",
+        "item_qty": "2",
+        "item_net_price": "22,172.00",
+        "item_net_worth": "44,344.00",
+        "item_vat": "12%",
+        "item_gross_worth": "49,665.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹283,693.71",
+      "total_vat": "₹34,043.25",
+      "total_gross_worth": "₹317,736.96",
+      "total_cgst": "₹17,021.62",
+      "total_sgst": "₹17,021.62",
+      "total_igst": "₹0.00"
+    }
+  }
+}

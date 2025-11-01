@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/675",
+      "invoice_date": "16/05/2025",
+      "seller": "MOBILE POINT H.No. 17, Ray Nagar, Nagpur 017570",
+      "client": "MATTHEW MANDER 11/969, Deol Path, Bhind 824065",
+      "shipping_address": "H.No. 483, Sandhu Road, Etawah 517558",
+      "seller_tax_id": "20XUNPJ8175G1Z7",
+      "client_tax_id": "24HTMFD3017G1ZK",
+      "client_phone": "+918915133106"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-170Y",
+        "item_qty": "2",
+        "item_net_price": "25,692.00",
+        "item_net_worth": "51,384.00",
+        "item_vat": "18%",
+        "item_gross_worth": "60,633.12"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-325L",
+        "item_qty": "2",
+        "item_net_price": "94,383.05",
+        "item_net_worth": "188,766.10",
+        "item_vat": "18%",
+        "item_gross_worth": "222,744.00"
+      },
+      {
+        "item_desc": "Hero Bike HER-686V",
+        "item_qty": "1",
+        "item_net_price": "9,299.48",
+        "item_net_worth": "9,299.48",
+        "item_vat": "18%",
+        "item_gross_worth": "10,973.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹249,449.58",
+      "total_vat": "₹44,900.92",
+      "total_gross_worth": "₹294,350.50",
+      "total_cgst": "₹22,450.46",
+      "total_sgst": "₹22,450.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

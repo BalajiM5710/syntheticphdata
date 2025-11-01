@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MKE/295",
+      "invoice_date": "01/01/2025",
+      "seller": "SMART ELECTRONICS 37/182, Malhotra, Haldia 172001",
+      "client": "FARIQ DESHPANDE 021, Goyal Nagar, Etawah-179122",
+      "shipping_address": "021, Goyal Nagar, Etawah-179122",
+      "seller_tax_id": "29TNVQF0444J1ZN",
+      "client_tax_id": "03HUIIO8962V1ZM",
+      "client_phone": "5474619621"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-154U",
+        "item_qty": "2",
+        "item_net_price": "41,831.84",
+        "item_net_worth": "83,663.68",
+        "item_vat": "18%",
+        "item_gross_worth": "98,723.14"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-307P",
+        "item_qty": "1",
+        "item_net_price": "58,012.71",
+        "item_net_worth": "58,012.71",
+        "item_vat": "18%",
+        "item_gross_worth": "68,455.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹141,676.39",
+      "total_vat": "₹25,501.75",
+      "total_gross_worth": "₹167,178.14",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,501.75"
+    }
+  }
+}

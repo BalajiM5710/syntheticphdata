@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7854",
+      "invoice_date": "14/03/2025",
+      "seller": "MOBILE POINT 24/93, Walia Nagar, Miryalaguda 465287",
+      "client": "ORINDER GANESH H.No. 67, Gandhi Road, Suryapet-633308",
+      "shipping_address": "H.No. 67, Gandhi Road, Suryapet-633308",
+      "seller_tax_id": "05UJNEQ6104Y1Z5",
+      "client_tax_id": "37BWAKP1120P1ZN",
+      "client_phone": "4340601678"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-228Z",
+        "item_qty": "2",
+        "item_net_price": "34,006.33",
+        "item_net_worth": "68,012.66",
+        "item_vat": "12%",
+        "item_gross_worth": "76,174.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹68,012.66",
+      "total_vat": "₹8,161.52",
+      "total_gross_worth": "₹76,174.18",
+      "total_cgst": "₹4,080.76",
+      "total_sgst": "₹4,080.76",
+      "total_igst": "₹0.00"
+    }
+  }
+}

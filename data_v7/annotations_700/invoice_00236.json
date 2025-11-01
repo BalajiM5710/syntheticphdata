@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9907",
+      "invoice_date": "15/05/2025",
+      "seller": "VISHWA ELECTRONICS 37/31, Aurora Marg, Jammu-597314",
+      "client": "BAKHSHI REDDY H.No. 15, Bora Road, Raiganj-043862",
+      "shipping_address": "H.No. 15, Bora Road, Raiganj-043862",
+      "seller_tax_id": "35TTXGQ6293X1ZP",
+      "client_tax_id": "13BEPUC1024E1ZB",
+      "client_phone": "+912750854393"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-757K",
+        "item_qty": "2",
+        "item_net_price": "73,144.92",
+        "item_net_worth": "146,289.84",
+        "item_vat": "18%",
+        "item_gross_worth": "172,622.01"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-283J",
+        "item_qty": "1",
+        "item_net_price": "46,767.28",
+        "item_net_worth": "46,767.28",
+        "item_vat": "18%",
+        "item_gross_worth": "55,185.39"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-972N IMEI: 303064362604220",
+        "item_qty": "2",
+        "item_net_price": "51,885.23",
+        "item_net_worth": "103,770.46",
+        "item_vat": "18%",
+        "item_gross_worth": "122,449.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,827.58",
+      "total_vat": "₹53,428.96",
+      "total_gross_worth": "₹350,256.54",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹53,428.96"
+    }
+  }
+}

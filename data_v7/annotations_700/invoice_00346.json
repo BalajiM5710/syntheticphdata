@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/165",
+      "invoice_date": "04/04/2025",
+      "seller": "GADGET GALAXY 96/79, Bobal, Kolhapur-006749",
+      "client": "DANIEL BASSI 305, Ratta Nagar, Vijayawada-326887",
+      "shipping_address": "H.No. 506, Swaminathan Path, Gangtok-932780",
+      "seller_tax_id": "27ZNKXI8354D1ZB",
+      "client_tax_id": "04WKZFL3544S1Z2",
+      "client_phone": "0237218655"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-420A",
+        "item_qty": "2",
+        "item_net_price": "65,924.01",
+        "item_net_worth": "131,848.02",
+        "item_vat": "12%",
+        "item_gross_worth": "147,669.78"
+      },
+      {
+        "item_desc": "Apple Laptops APP-192S",
+        "item_qty": "1",
+        "item_net_price": "33,470.85",
+        "item_net_worth": "33,470.85",
+        "item_vat": "12%",
+        "item_gross_worth": "37,487.35"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-285Q",
+        "item_qty": "2",
+        "item_net_price": "83,253.16",
+        "item_net_worth": "166,506.32",
+        "item_vat": "12%",
+        "item_gross_worth": "186,487.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹331,825.19",
+      "total_vat": "₹39,819.02",
+      "total_gross_worth": "₹371,644.21",
+      "total_cgst": "₹19,909.51",
+      "total_sgst": "₹19,909.51",
+      "total_igst": "₹0.00"
+    }
+  }
+}

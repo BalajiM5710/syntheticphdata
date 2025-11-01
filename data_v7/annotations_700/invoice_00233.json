@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7509",
+      "invoice_date": "22/06/2025",
+      "seller": "KUMAR TECH SOLUTIONS 72/361, Goyal Ganj, Sagar 864425",
+      "client": "RANBIR RAM 40, Kurian Ganj, Sagar 844547",
+      "shipping_address": "40, Kurian Ganj, Sagar 844547",
+      "seller_tax_id": "34IINDM1070S1ZN",
+      "client_tax_id": "03JZOWD0478T1Z3",
+      "client_phone": "08152796075"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-428C",
+        "item_qty": "1",
+        "item_net_price": "91,359.99",
+        "item_net_worth": "91,359.99",
+        "item_vat": "12%",
+        "item_gross_worth": "102,323.19"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-677Y",
+        "item_qty": "2",
+        "item_net_price": "44,215.16",
+        "item_net_worth": "88,430.32",
+        "item_vat": "12%",
+        "item_gross_worth": "99,041.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,790.31",
+      "total_vat": "₹21,574.84",
+      "total_gross_worth": "₹201,365.15",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹21,574.84"
+    }
+  }
+}

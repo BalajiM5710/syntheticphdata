@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6200",
+      "invoice_date": "14/07/2025",
+      "seller": "SINGH ELECTRONICS 61, Ramaswamy Street, Panchkula-363430",
+      "client": "EKANTIKA PAI 866, Misra, Ramagundam-196938",
+      "shipping_address": "866, Misra, Ramagundam-196938",
+      "seller_tax_id": "07DBBAB5240H1Z8",
+      "client_tax_id": "36FIQSU4716R1ZX",
+      "client_phone": "+915450020117"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-206B",
+        "item_qty": "1",
+        "item_net_price": "34,593.10",
+        "item_net_worth": "34,593.10",
+        "item_vat": "28%",
+        "item_gross_worth": "44,279.17"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-153Q",
+        "item_qty": "2",
+        "item_net_price": "51,008.04",
+        "item_net_worth": "102,016.08",
+        "item_vat": "28%",
+        "item_gross_worth": "130,580.58"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-230G",
+        "item_qty": "1",
+        "item_net_price": "35,451.87",
+        "item_net_worth": "35,451.87",
+        "item_vat": "28%",
+        "item_gross_worth": "45,378.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,061.05",
+      "total_vat": "₹48,177.09",
+      "total_gross_worth": "₹220,238.14",
+      "total_cgst": "₹24,088.55",
+      "total_sgst": "₹24,088.55",
+      "total_igst": "₹0.00"
+    }
+  }
+}

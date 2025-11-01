@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UGT/247",
+      "invoice_date": "23/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS 555, Vohra Zila, Bilaspur-240903",
+      "client": "CHARITA AMBLE 24, Sibal Circle, Anantapur-970280",
+      "shipping_address": "24, Sibal Circle, Anantapur-970280",
+      "seller_tax_id": "24UPDUG1217K1ZW",
+      "client_tax_id": "06JLYZV1416N1ZA",
+      "client_phone": "2599088926"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-135E",
+        "item_qty": "2",
+        "item_net_price": "29,379.04",
+        "item_net_worth": "58,758.08",
+        "item_vat": "18%",
+        "item_gross_worth": "69,334.53"
+      },
+      {
+        "item_desc": "Sony Speaker SON-980M",
+        "item_qty": "2",
+        "item_net_price": "23,583.33",
+        "item_net_worth": "47,166.66",
+        "item_vat": "18%",
+        "item_gross_worth": "55,656.66"
+      },
+      {
+        "item_desc": "TCL Television TCL-941C",
+        "item_qty": "2",
+        "item_net_price": "50,841.29",
+        "item_net_worth": "101,682.58",
+        "item_vat": "18%",
+        "item_gross_worth": "119,985.44"
+      },
+      {
+        "item_desc": "LG Microwave LG-769O",
+        "item_qty": "1",
+        "item_net_price": "81,813.95",
+        "item_net_worth": "81,813.95",
+        "item_vat": "18%",
+        "item_gross_worth": "96,540.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹289,421.27",
+      "total_vat": "₹52,095.83",
+      "total_gross_worth": "₹341,517.10",
+      "total_cgst": "₹26,047.91",
+      "total_sgst": "₹26,047.91",
+      "total_igst": "₹0.00"
+    }
+  }
+}

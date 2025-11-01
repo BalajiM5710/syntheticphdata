@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7754",
+      "invoice_date": "06/10/2025",
+      "seller": "GADGET GALAXY 13/872, Kala Path, Avadi-379093",
+      "client": "EKAVIR VORA 36, Batta Path, Jaipur 385415",
+      "shipping_address": "36, Batta Path, Jaipur 385415",
+      "seller_tax_id": "30TGPNT5521V1ZK",
+      "client_tax_id": "17SNOJV7724R1ZE",
+      "client_phone": "+912433655545"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-265B",
+        "item_qty": "1",
+        "item_net_price": "18,410.40",
+        "item_net_worth": "18,410.40",
+        "item_vat": "18%",
+        "item_gross_worth": "21,724.27"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-971Y",
+        "item_qty": "1",
+        "item_net_price": "52,092.26",
+        "item_net_worth": "52,092.26",
+        "item_vat": "18%",
+        "item_gross_worth": "61,468.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹70,502.66",
+      "total_vat": "₹12,690.48",
+      "total_gross_worth": "₹83,193.14",
+      "total_cgst": "₹6,345.24",
+      "total_sgst": "₹6,345.24",
+      "total_igst": "₹0.00"
+    }
+  }
+}

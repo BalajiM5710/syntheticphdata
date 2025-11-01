@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JOW/691",
+      "invoice_date": "07/02/2025",
+      "seller": "DIGITAL STORE H.No. 366, Borah, Ramagundam-434668",
+      "client": "OJAS DEO 701, Nigam Ganj, Hajipur-069223",
+      "shipping_address": "701, Nigam Ganj, Hajipur-069223",
+      "seller_tax_id": "03RMMNN0146K1ZE",
+      "client_tax_id": "20NRJJA6845T1ZY",
+      "client_phone": "+913494457527"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-522Z",
+        "item_qty": "1",
+        "item_net_price": "89,711.18",
+        "item_net_worth": "89,711.18",
+        "item_vat": "28%",
+        "item_gross_worth": "114,830.31"
+      },
+      {
+        "item_desc": "HP Laptops HP-753E",
+        "item_qty": "1",
+        "item_net_price": "77,146.63",
+        "item_net_worth": "77,146.63",
+        "item_vat": "28%",
+        "item_gross_worth": "98,747.69"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-758N",
+        "item_qty": "1",
+        "item_net_price": "82,770.94",
+        "item_net_worth": "82,770.94",
+        "item_vat": "28%",
+        "item_gross_worth": "105,946.80"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-589J",
+        "item_qty": "2",
+        "item_net_price": "14,283.15",
+        "item_net_worth": "28,566.30",
+        "item_vat": "28%",
+        "item_gross_worth": "36,564.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹278,195.05",
+      "total_vat": "₹77,894.61",
+      "total_gross_worth": "₹356,089.66",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹77,894.61"
+    }
+  }
+}

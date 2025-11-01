@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/102",
+      "invoice_date": "18/08/2025",
+      "seller": "CITY ELECTRONICS 70/584, Sandal Chowk, Jalandhar-355596",
+      "client": "EKAJA KRISH 78/18, Raval Zila, Amravati-939793",
+      "shipping_address": "78/18, Raval Zila, Amravati-939793",
+      "seller_tax_id": "22PQHSY3737Y1ZR",
+      "client_tax_id": "22DNVCW0972C1ZU",
+      "client_phone": "+917869134033"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-603F",
+        "item_qty": "2",
+        "item_net_price": "77,199.98",
+        "item_net_worth": "154,399.96",
+        "item_vat": "28%",
+        "item_gross_worth": "197,631.95"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-441C",
+        "item_qty": "1",
+        "item_net_price": "62,574.32",
+        "item_net_worth": "62,574.32",
+        "item_vat": "28%",
+        "item_gross_worth": "80,095.13"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-245X",
+        "item_qty": "2",
+        "item_net_price": "72,259.19",
+        "item_net_worth": "144,518.38",
+        "item_vat": "28%",
+        "item_gross_worth": "184,983.53"
+      },
+      {
+        "item_desc": "TVS Bike TVS-177E",
+        "item_qty": "2",
+        "item_net_price": "83,149.35",
+        "item_net_worth": "166,298.70",
+        "item_vat": "28%",
+        "item_gross_worth": "212,862.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹527,791.36",
+      "total_vat": "₹147,781.58",
+      "total_gross_worth": "₹675,572.94",
+      "total_cgst": "₹73,890.79",
+      "total_sgst": "₹73,890.79",
+      "total_igst": "₹0.00"
+    }
+  }
+}

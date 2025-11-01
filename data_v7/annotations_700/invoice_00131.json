@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YTC/883",
+      "invoice_date": "03/09/2025",
+      "seller": "MOBILE POINT H.No. 35, Oommen Marg, Jalgaon-340768",
+      "client": "FORUM RAU H.No. 257, Gour Ganj, Sangli-Miraj & Kupwad-429824",
+      "shipping_address": "69, Sarin Chowk, Karawal Nagar-779979",
+      "seller_tax_id": "06SFOOH1493O1ZV",
+      "client_tax_id": "20FANDW8769N1ZR",
+      "client_phone": "+916344637070"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-456O",
+        "item_qty": "2",
+        "item_net_price": "23,983.97",
+        "item_net_worth": "47,967.94",
+        "item_vat": "18%",
+        "item_gross_worth": "56,602.17"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-807I IMEI: 499213215795930",
+        "item_qty": "2",
+        "item_net_price": "56,602.56",
+        "item_net_worth": "113,205.12",
+        "item_vat": "18%",
+        "item_gross_worth": "133,582.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹161,173.06",
+      "total_vat": "₹29,011.15",
+      "total_gross_worth": "₹190,184.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,011.15"
+    }
+  }
+}

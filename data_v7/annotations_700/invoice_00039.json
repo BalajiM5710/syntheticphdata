@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CGI/853",
+      "invoice_date": "16/09/2025",
+      "seller": "PATEL MOBILES 08/905, Sachdev Marg, Imphal 127135",
+      "client": "BAGHYAWATI BHAKTA 44, Chopra Circle, Gwalior-380868",
+      "shipping_address": "227, Sankar Nagar, Buxar-731619",
+      "seller_tax_id": "11MMNCL5248Q1ZE",
+      "client_tax_id": "12ZNNAC7192G1ZG",
+      "client_phone": "1049206725"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-688R",
+        "item_qty": "1",
+        "item_net_price": "13,963.36",
+        "item_net_worth": "13,963.36",
+        "item_vat": "12%",
+        "item_gross_worth": "15,638.96"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-594K",
+        "item_qty": "1",
+        "item_net_price": "88,290.48",
+        "item_net_worth": "88,290.48",
+        "item_vat": "12%",
+        "item_gross_worth": "98,885.34"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-531V",
+        "item_qty": "1",
+        "item_net_price": "25,176.50",
+        "item_net_worth": "25,176.50",
+        "item_vat": "12%",
+        "item_gross_worth": "28,197.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,430.34",
+      "total_vat": "₹15,291.64",
+      "total_gross_worth": "₹142,721.98",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,291.64"
+    }
+  }
+}

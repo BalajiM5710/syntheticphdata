@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/150",
+      "invoice_date": "13/09/2025",
+      "seller": "PATEL MOBILES H.No. 707, Rajagopalan Circle, Kozhikode-514689",
+      "client": "QARIN MITAL 54, Sharma Nagar, Ratlam 075611",
+      "shipping_address": "H.No. 88, Kar Circle, Dehradun 595905",
+      "seller_tax_id": "05SUNTI7380B1ZK",
+      "client_tax_id": "30XHLDH5793R1ZH",
+      "client_phone": "7798618484"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-844Q",
+        "item_qty": "2",
+        "item_net_price": "26,633.22",
+        "item_net_worth": "53,266.44",
+        "item_vat": "28%",
+        "item_gross_worth": "68,181.04"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-707E",
+        "item_qty": "2",
+        "item_net_price": "26,049.30",
+        "item_net_worth": "52,098.60",
+        "item_vat": "28%",
+        "item_gross_worth": "66,686.21"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-866Z",
+        "item_qty": "2",
+        "item_net_price": "10,725.28",
+        "item_net_worth": "21,450.56",
+        "item_vat": "28%",
+        "item_gross_worth": "27,456.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹126,815.60",
+      "total_vat": "₹35,508.37",
+      "total_gross_worth": "₹162,323.97",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,508.37"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YUF/238",
+      "invoice_date": "14/04/2025",
+      "seller": "GADGET GALAXY H.No. 38, Kota Ganj, Orai-757055",
+      "client": "NATHANIEL MOHAN 63/30, Saxena, Faridabad-960273",
+      "shipping_address": "63/30, Saxena, Faridabad-960273",
+      "seller_tax_id": "16KMOCA4927E1Z1",
+      "client_tax_id": "30BNYXH6394F1ZQ",
+      "client_phone": "07924784789"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-335W",
+        "item_qty": "2",
+        "item_net_price": "36,878.52",
+        "item_net_worth": "73,757.04",
+        "item_vat": "18%",
+        "item_gross_worth": "87,033.31"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-567X",
+        "item_qty": "2",
+        "item_net_price": "16,897.88",
+        "item_net_worth": "33,795.76",
+        "item_vat": "18%",
+        "item_gross_worth": "39,879.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹107,552.80",
+      "total_vat": "₹19,359.50",
+      "total_gross_worth": "₹126,912.30",
+      "total_cgst": "₹9,679.75",
+      "total_sgst": "₹9,679.75",
+      "total_igst": "₹0.00"
+    }
+  }
+}

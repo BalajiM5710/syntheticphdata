@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4475",
+      "invoice_date": "14/02/2025",
+      "seller": "STAR ELECTRONICS 37/86, Dyal Path, Ulhasnagar-402458",
+      "client": "ADYA RAJA 57/020, Bhatnagar Marg, Jammu-251759",
+      "shipping_address": "43/90, Nori Zila, Hospet-304890",
+      "seller_tax_id": "03FFTRB3351D1ZF",
+      "client_tax_id": "07NDACL3368K1ZR",
+      "client_phone": "1752802558"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-728F",
+        "item_qty": "2",
+        "item_net_price": "63,522.18",
+        "item_net_worth": "127,044.36",
+        "item_vat": "18%",
+        "item_gross_worth": "149,912.34"
+      },
+      {
+        "item_desc": "Sony Speaker SON-766D",
+        "item_qty": "1",
+        "item_net_price": "26,845.35",
+        "item_net_worth": "26,845.35",
+        "item_vat": "18%",
+        "item_gross_worth": "31,677.51"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-226Z",
+        "item_qty": "1",
+        "item_net_price": "89,883.20",
+        "item_net_worth": "89,883.20",
+        "item_vat": "18%",
+        "item_gross_worth": "106,062.18"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-455D",
+        "item_qty": "2",
+        "item_net_price": "78,160.93",
+        "item_net_worth": "156,321.86",
+        "item_vat": "18%",
+        "item_gross_worth": "184,459.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹400,094.77",
+      "total_vat": "₹72,017.06",
+      "total_gross_worth": "₹472,111.83",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹72,017.06"
+    }
+  }
+}

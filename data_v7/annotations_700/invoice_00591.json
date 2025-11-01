@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2984",
+      "invoice_date": "21/10/2025",
+      "seller": "CITY ELECTRONICS H.No. 77, Chaudry Chowk, Alappuzha 898597",
+      "client": "DHRUV GOPAL 666, Bajwa Zila, Phagwara 941700",
+      "shipping_address": "999, Chopra Ganj, Kochi 713082",
+      "seller_tax_id": "26IRKZV2164O1Z4",
+      "client_tax_id": "22MTSPW3562A1ZN",
+      "client_phone": "+918559286894"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-700W",
+        "item_qty": "1",
+        "item_net_price": "71,123.68",
+        "item_net_worth": "71,123.68",
+        "item_vat": "18%",
+        "item_gross_worth": "83,925.94"
+      },
+      {
+        "item_desc": "Sony Speaker SON-921H",
+        "item_qty": "1",
+        "item_net_price": "70,781.03",
+        "item_net_worth": "70,781.03",
+        "item_vat": "18%",
+        "item_gross_worth": "83,521.62"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-516T",
+        "item_qty": "1",
+        "item_net_price": "78,714.10",
+        "item_net_worth": "78,714.10",
+        "item_vat": "18%",
+        "item_gross_worth": "92,882.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹220,618.81",
+      "total_vat": "₹39,711.39",
+      "total_gross_worth": "₹260,330.20",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,711.39"
+    }
+  }
+}

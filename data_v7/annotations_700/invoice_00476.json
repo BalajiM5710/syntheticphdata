@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/576",
+      "invoice_date": "24/05/2025",
+      "seller": "TECH BAZAAR 794, Vala Path, Aurangabad-326371",
+      "client": "RIA CONTRACTOR 68/720, Barad Chowk, Tirupati-502284",
+      "shipping_address": "96/505, Dube Street, Hazaribagh 456819",
+      "seller_tax_id": "28XAIZS8575S1Z4",
+      "client_tax_id": "13XCVPE0449M1ZN",
+      "client_phone": "4068965574"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-904H",
+        "item_qty": "2",
+        "item_net_price": "58,658.92",
+        "item_net_worth": "117,317.84",
+        "item_vat": "12%",
+        "item_gross_worth": "131,395.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹117,317.84",
+      "total_vat": "₹14,078.14",
+      "total_gross_worth": "₹131,395.98",
+      "total_cgst": "₹7,039.07",
+      "total_sgst": "₹7,039.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

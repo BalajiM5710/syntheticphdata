@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/655",
+      "invoice_date": "07/09/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 11, Krishnan Ganj, Bathinda-893313",
+      "client": "KIAAN MAGAR 614, Khanna Zila, Bilaspur 078441",
+      "shipping_address": "614, Khanna Zila, Bilaspur 078441",
+      "seller_tax_id": "24TTWPP7423L1ZZ",
+      "client_tax_id": "18LTSZA4052U1ZU",
+      "client_phone": "01832240137"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-203J",
+        "item_qty": "2",
+        "item_net_price": "21,598.84",
+        "item_net_worth": "43,197.68",
+        "item_vat": "12%",
+        "item_gross_worth": "48,381.40"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-815H",
+        "item_qty": "2",
+        "item_net_price": "54,358.21",
+        "item_net_worth": "108,716.42",
+        "item_vat": "12%",
+        "item_gross_worth": "121,762.39"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-691C",
+        "item_qty": "2",
+        "item_net_price": "60,324.99",
+        "item_net_worth": "120,649.98",
+        "item_vat": "12%",
+        "item_gross_worth": "135,127.98"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-505A",
+        "item_qty": "1",
+        "item_net_price": "70,601.41",
+        "item_net_worth": "70,601.41",
+        "item_vat": "12%",
+        "item_gross_worth": "79,073.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹343,165.49",
+      "total_vat": "₹41,179.86",
+      "total_gross_worth": "₹384,345.35",
+      "total_cgst": "₹20,589.93",
+      "total_sgst": "₹20,589.93",
+      "total_igst": "₹0.00"
+    }
+  }
+}

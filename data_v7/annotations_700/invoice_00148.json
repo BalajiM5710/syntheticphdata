@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5025",
+      "invoice_date": "05/05/2025",
+      "seller": "CITY ELECTRONICS H.No. 51, Garde Street, Serampore 239904",
+      "client": "UCCHAL KOHLI H.No. 81, Sathe Chowk, Sultan Pur Majra 795164",
+      "shipping_address": "H.No. 81, Sathe Chowk, Sultan Pur Majra 795164",
+      "seller_tax_id": "31VAPNF3295Z1ZE",
+      "client_tax_id": "20EERGP3687F1ZF",
+      "client_phone": "+918003128611"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-522B",
+        "item_qty": "2",
+        "item_net_price": "35,314.41",
+        "item_net_worth": "70,628.82",
+        "item_vat": "18%",
+        "item_gross_worth": "83,342.01"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-509P",
+        "item_qty": "2",
+        "item_net_price": "78,946.73",
+        "item_net_worth": "157,893.46",
+        "item_vat": "18%",
+        "item_gross_worth": "186,314.28"
+      },
+      {
+        "item_desc": "LG Microwave LG-867D",
+        "item_qty": "1",
+        "item_net_price": "25,706.97",
+        "item_net_worth": "25,706.97",
+        "item_vat": "18%",
+        "item_gross_worth": "30,334.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,229.25",
+      "total_vat": "₹45,761.26",
+      "total_gross_worth": "₹299,990.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹45,761.26"
+    }
+  }
+}

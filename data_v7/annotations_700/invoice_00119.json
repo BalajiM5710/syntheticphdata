@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KDK/311",
+      "invoice_date": "23/09/2025",
+      "seller": "SMART ELECTRONICS H.No. 89, Chandran Marg, Rohtak 347685",
+      "client": "CHATURA DUBE H.No. 460, Ganesh Circle, Bhubaneswar 029544",
+      "shipping_address": "H.No. 460, Ganesh Circle, Bhubaneswar 029544",
+      "seller_tax_id": "04YJHFH5827B1Z1",
+      "client_tax_id": "03QIRJY0039C1ZD",
+      "client_phone": "+915962117644"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-861P",
+        "item_qty": "2",
+        "item_net_price": "83,923.44",
+        "item_net_worth": "167,846.88",
+        "item_vat": "28%",
+        "item_gross_worth": "214,844.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,846.88",
+      "total_vat": "₹46,997.13",
+      "total_gross_worth": "₹214,844.01",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,997.13"
+    }
+  }
+}

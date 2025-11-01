@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/485",
+      "invoice_date": "18/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 127, Kar Nagar, Shimoga 750904",
+      "client": "TRIYA JHA 87/77, Tara Road, Singrauli-237426",
+      "shipping_address": "87/77, Tara Road, Singrauli-237426",
+      "seller_tax_id": "20UOFEL5067Z1ZB",
+      "client_tax_id": "19EYJQD2646F1Z5",
+      "client_phone": "+918146937001"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-107Y",
+        "item_qty": "2",
+        "item_net_price": "48,903.86",
+        "item_net_worth": "97,807.72",
+        "item_vat": "28%",
+        "item_gross_worth": "125,193.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,807.72",
+      "total_vat": "₹27,386.16",
+      "total_gross_worth": "₹125,193.88",
+      "total_cgst": "₹13,693.08",
+      "total_sgst": "₹13,693.08",
+      "total_igst": "₹0.00"
+    }
+  }
+}

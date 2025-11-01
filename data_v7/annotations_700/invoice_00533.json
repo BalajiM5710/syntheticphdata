@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/648",
+      "invoice_date": "20/08/2025",
+      "seller": "RAM ELECTRONICS 59/94, Uppal Path, Cuttack 267068",
+      "client": "DIYA NATARAJAN 55/922, Bhardwaj Road, Begusarai 266313",
+      "shipping_address": "55/922, Bhardwaj Road, Begusarai 266313",
+      "seller_tax_id": "17YHWAN0815D1Z5",
+      "client_tax_id": "21TPCMF0330S1ZC",
+      "client_phone": "+916801736421"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-860W",
+        "item_qty": "1",
+        "item_net_price": "34,099.22",
+        "item_net_worth": "34,099.22",
+        "item_vat": "12%",
+        "item_gross_worth": "38,191.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹34,099.22",
+      "total_vat": "₹4,091.91",
+      "total_gross_worth": "₹38,191.13",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹4,091.91"
+    }
+  }
+}

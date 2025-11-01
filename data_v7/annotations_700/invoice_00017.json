@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7798",
+      "invoice_date": "14/10/2025",
+      "seller": "CITY ELECTRONICS 53, Sarkar Path, Alwar-975212",
+      "client": "EKALINGA KARNIK H.No. 765, Lanka Road, Guwahati-092102",
+      "shipping_address": "H.No. 765, Lanka Road, Guwahati-092102",
+      "seller_tax_id": "22WHYWF8743X1ZP",
+      "client_tax_id": "30OJQSS4331S1Z8",
+      "client_phone": "9478176676"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-168Y",
+        "item_qty": "1",
+        "item_net_price": "31,633.61",
+        "item_net_worth": "31,633.61",
+        "item_vat": "18%",
+        "item_gross_worth": "37,327.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹31,633.61",
+      "total_vat": "₹5,694.05",
+      "total_gross_worth": "₹37,327.66",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹5,694.05"
+    }
+  }
+}

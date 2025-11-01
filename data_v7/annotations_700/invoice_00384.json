@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/852",
+      "invoice_date": "19/10/2025",
+      "seller": "ROYAL MOBILES 218, Buch Ganj, Jamshedpur 262970",
+      "client": "DAKSHESH DARA H.No. 761, Wadhwa Nagar, Sultan Pur Majra-385586",
+      "shipping_address": "H.No. 761, Wadhwa Nagar, Sultan Pur Majra-385586",
+      "seller_tax_id": "06LJGZN3115H1ZJ",
+      "client_tax_id": "29QHAIE9450V1ZE",
+      "client_phone": "6075716304"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-765M",
+        "item_qty": "2",
+        "item_net_price": "51,572.87",
+        "item_net_worth": "103,145.74",
+        "item_vat": "12%",
+        "item_gross_worth": "115,523.23"
+      },
+      {
+        "item_desc": "Sony Television SON-723S",
+        "item_qty": "1",
+        "item_net_price": "82,725.52",
+        "item_net_worth": "82,725.52",
+        "item_vat": "12%",
+        "item_gross_worth": "92,652.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹185,871.26",
+      "total_vat": "₹22,304.55",
+      "total_gross_worth": "₹208,175.81",
+      "total_cgst": "₹11,152.28",
+      "total_sgst": "₹11,152.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

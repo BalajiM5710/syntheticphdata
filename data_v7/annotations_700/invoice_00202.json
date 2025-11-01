@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5960",
+      "invoice_date": "03/01/2025",
+      "seller": "SINGH ELECTRONICS 283, Kala Marg, Alwar-461050",
+      "client": "GAUTAM WAGLE 815, Kibe Marg, Varanasi-711929",
+      "shipping_address": "815, Kibe Marg, Varanasi-711929",
+      "seller_tax_id": "15TCHBA0226A1ZH",
+      "client_tax_id": "12NPBEY1790T1ZW",
+      "client_phone": "+917511092770"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-426O",
+        "item_qty": "1",
+        "item_net_price": "41,549.16",
+        "item_net_worth": "41,549.16",
+        "item_vat": "18%",
+        "item_gross_worth": "49,028.01"
+      },
+      {
+        "item_desc": "Sony Television SON-187M",
+        "item_qty": "2",
+        "item_net_price": "59,488.44",
+        "item_net_worth": "118,976.88",
+        "item_vat": "18%",
+        "item_gross_worth": "140,392.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹160,526.04",
+      "total_vat": "₹28,894.69",
+      "total_gross_worth": "₹189,420.73",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,894.69"
+    }
+  }
+}

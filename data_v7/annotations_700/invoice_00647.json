@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KDH/716",
+      "invoice_date": "04/01/2025",
+      "seller": "RAM ELECTRONICS 91, Sura Nagar, Tiruvottiyur-241758",
+      "client": "BRIJESH WALIA 71/87, Karnik Chowk, Vijayawada 882009",
+      "shipping_address": "71/87, Karnik Chowk, Vijayawada 882009",
+      "seller_tax_id": "27RTWHH0935C1ZB",
+      "client_tax_id": "37VDBMO6758A1Z9",
+      "client_phone": "06495472684"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-356W",
+        "item_qty": "2",
+        "item_net_price": "86,582.09",
+        "item_net_worth": "173,164.18",
+        "item_vat": "28%",
+        "item_gross_worth": "221,650.15"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-619P IMEI: 628787221636784",
+        "item_qty": "2",
+        "item_net_price": "73,083.30",
+        "item_net_worth": "146,166.60",
+        "item_vat": "28%",
+        "item_gross_worth": "187,093.25"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-293U",
+        "item_qty": "1",
+        "item_net_price": "48,573.29",
+        "item_net_worth": "48,573.29",
+        "item_vat": "28%",
+        "item_gross_worth": "62,173.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹367,904.07",
+      "total_vat": "₹103,013.14",
+      "total_gross_worth": "₹470,917.21",
+      "total_cgst": "₹51,506.57",
+      "total_sgst": "₹51,506.57",
+      "total_igst": "₹0.00"
+    }
+  }
+}

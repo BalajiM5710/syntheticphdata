@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5932",
+      "invoice_date": "27/06/2025",
+      "seller": "SUPREME ELECTRONICS 74/396, Nagi Ganj, Nizamabad-546959",
+      "client": "KASHISH BALAN 622, Aggarwal Marg, Jorhat 463884",
+      "shipping_address": "622, Aggarwal Marg, Jorhat 463884",
+      "seller_tax_id": "20ZWAQD8947S1ZW",
+      "client_tax_id": "22CVGFI1707I1ZS",
+      "client_phone": "06658538837"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-148R",
+        "item_qty": "1",
+        "item_net_price": "56,113.72",
+        "item_net_worth": "56,113.72",
+        "item_vat": "12%",
+        "item_gross_worth": "62,847.37"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-590J",
+        "item_qty": "2",
+        "item_net_price": "79,377.19",
+        "item_net_worth": "158,754.38",
+        "item_vat": "12%",
+        "item_gross_worth": "177,804.91"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-528T",
+        "item_qty": "2",
+        "item_net_price": "62,363.79",
+        "item_net_worth": "124,727.58",
+        "item_vat": "12%",
+        "item_gross_worth": "139,694.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹339,595.68",
+      "total_vat": "₹40,751.48",
+      "total_gross_worth": "₹380,347.16",
+      "total_cgst": "₹20,375.74",
+      "total_sgst": "₹20,375.74",
+      "total_igst": "₹0.00"
+    }
+  }
+}

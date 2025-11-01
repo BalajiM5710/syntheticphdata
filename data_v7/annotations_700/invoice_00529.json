@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UAW/945",
+      "invoice_date": "02/03/2025",
+      "seller": "FUTURE TECH 05, Kapur, Tiruppur 362750",
+      "client": "AYUSH BOSE 328, Srinivasan Street, Bhiwani-592864",
+      "shipping_address": "328, Srinivasan Street, Bhiwani-592864",
+      "seller_tax_id": "13BYAFD2193J1Z5",
+      "client_tax_id": "18QCDNI5301W1Z5",
+      "client_phone": "+917733108625"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-708F",
+        "item_qty": "2",
+        "item_net_price": "70,158.83",
+        "item_net_worth": "140,317.66",
+        "item_vat": "18%",
+        "item_gross_worth": "165,574.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹140,317.66",
+      "total_vat": "₹25,257.18",
+      "total_gross_worth": "₹165,574.84",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,257.18"
+    }
+  }
+}

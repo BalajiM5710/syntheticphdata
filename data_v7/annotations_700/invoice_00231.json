@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3105",
+      "invoice_date": "03/05/2025",
+      "seller": "VISHWA ELECTRONICS 63/783, Gokhale Path, Tezpur-036379",
+      "client": "MICHAEL SOMAN 697, Mandal, Morena 599843",
+      "shipping_address": "697, Mandal, Morena 599843",
+      "seller_tax_id": "30SWSIQ3792Q1ZT",
+      "client_tax_id": "31MLPZN9858Y1Z1",
+      "client_phone": "5163255552"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-379B",
+        "item_qty": "1",
+        "item_net_price": "68,230.23",
+        "item_net_worth": "68,230.23",
+        "item_vat": "18%",
+        "item_gross_worth": "80,511.67"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-655R",
+        "item_qty": "1",
+        "item_net_price": "41,008.69",
+        "item_net_worth": "41,008.69",
+        "item_vat": "18%",
+        "item_gross_worth": "48,390.25"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-126B",
+        "item_qty": "2",
+        "item_net_price": "74,482.38",
+        "item_net_worth": "148,964.76",
+        "item_vat": "18%",
+        "item_gross_worth": "175,778.42"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-200Z",
+        "item_qty": "1",
+        "item_net_price": "32,557.70",
+        "item_net_worth": "32,557.70",
+        "item_vat": "18%",
+        "item_gross_worth": "38,418.09"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹290,761.38",
+      "total_vat": "₹52,337.05",
+      "total_gross_worth": "₹343,098.43",
+      "total_cgst": "₹26,168.52",
+      "total_sgst": "₹26,168.52",
+      "total_igst": "₹0.00"
+    }
+  }
+}

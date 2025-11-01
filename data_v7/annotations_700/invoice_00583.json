@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/259",
+      "invoice_date": "31/07/2025",
+      "seller": "SINGH ELECTRONICS 93, Srivastava Marg, Gurgaon-465361",
+      "client": "MEGHA BHALLA H.No. 52, Balasubramanian Marg, Raichur-037335",
+      "shipping_address": "H.No. 52, Balasubramanian Marg, Raichur-037335",
+      "seller_tax_id": "31DDXWR7397G1Z4",
+      "client_tax_id": "34RVDGI7122X1ZX",
+      "client_phone": "2027164135"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-310C",
+        "item_qty": "2",
+        "item_net_price": "82,980.03",
+        "item_net_worth": "165,960.06",
+        "item_vat": "18%",
+        "item_gross_worth": "195,832.87"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-802T",
+        "item_qty": "2",
+        "item_net_price": "45,828.83",
+        "item_net_worth": "91,657.66",
+        "item_vat": "18%",
+        "item_gross_worth": "108,156.04"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-964H",
+        "item_qty": "2",
+        "item_net_price": "88,365.58",
+        "item_net_worth": "176,731.16",
+        "item_vat": "18%",
+        "item_gross_worth": "208,542.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹434,348.88",
+      "total_vat": "₹78,182.80",
+      "total_gross_worth": "₹512,531.68",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹78,182.80"
+    }
+  }
+}

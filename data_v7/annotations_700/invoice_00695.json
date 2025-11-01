@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JKQ/877",
+      "invoice_date": "06/06/2025",
+      "seller": "RAM ELECTRONICS 83/293, Kalita, Raichur 354240",
+      "client": "NEHA BOASE H.No. 93, Kant Marg, Katihar-866556",
+      "shipping_address": "H.No. 93, Kant Marg, Katihar-866556",
+      "seller_tax_id": "31MJZVN7487A1ZK",
+      "client_tax_id": "25ZEMPN9205T1ZR",
+      "client_phone": "8748294707"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-239V",
+        "item_qty": "1",
+        "item_net_price": "35,070.06",
+        "item_net_worth": "35,070.06",
+        "item_vat": "28%",
+        "item_gross_worth": "44,889.68"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-887L IMEI: 952773727008413",
+        "item_qty": "2",
+        "item_net_price": "19,716.64",
+        "item_net_worth": "39,433.28",
+        "item_vat": "28%",
+        "item_gross_worth": "50,474.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,503.34",
+      "total_vat": "₹20,860.94",
+      "total_gross_worth": "₹95,364.28",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹20,860.94"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CFW/787",
+      "invoice_date": "30/03/2025",
+      "seller": "SMART ELECTRONICS 271, Tripathi Ganj, Guntakal-445980",
+      "client": "PANINI VARTY 23/08, Mitter Chowk, Jorhat-161446",
+      "shipping_address": "23/08, Mitter Chowk, Jorhat-161446",
+      "seller_tax_id": "26KCLSZ6639G1Z7",
+      "client_tax_id": "18YPMJZ0785F1Z1",
+      "client_phone": "+915846231098"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-117F",
+        "item_qty": "1",
+        "item_net_price": "66,302.75",
+        "item_net_worth": "66,302.75",
+        "item_vat": "12%",
+        "item_gross_worth": "74,259.08"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-161X",
+        "item_qty": "1",
+        "item_net_price": "9,453.61",
+        "item_net_worth": "9,453.61",
+        "item_vat": "12%",
+        "item_gross_worth": "10,588.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,756.36",
+      "total_vat": "₹9,090.76",
+      "total_gross_worth": "₹84,847.12",
+      "total_cgst": "₹4,545.38",
+      "total_sgst": "₹4,545.38",
+      "total_igst": "₹0.00"
+    }
+  }
+}

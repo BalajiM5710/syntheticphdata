@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7550",
+      "invoice_date": "14/02/2025",
+      "seller": "FUTURE TECH 42, Chakrabarti Path, Phusro-447546",
+      "client": "SAMESH SANKAR 45/60, Sheth Path, Udupi 993798",
+      "shipping_address": "27/04, Arora Nagar, Kakinada 316879",
+      "seller_tax_id": "35QOERL6582W1Z4",
+      "client_tax_id": "32PDUPO7022Z1Z4",
+      "client_phone": "+911590742696"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-735S",
+        "item_qty": "2",
+        "item_net_price": "88,387.52",
+        "item_net_worth": "176,775.04",
+        "item_vat": "28%",
+        "item_gross_worth": "226,272.05"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹176,775.04",
+      "total_vat": "₹49,497.01",
+      "total_gross_worth": "₹226,272.05",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹49,497.01"
+    }
+  }
+}

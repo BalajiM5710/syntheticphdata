@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8417",
+      "invoice_date": "24/06/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 80, Borah Ganj, Tiruppur 779058",
+      "client": "KEYA MALLICK 57/79, Bhalla Road, Thiruvananthapuram-931651",
+      "shipping_address": "57/79, Bhalla Road, Thiruvananthapuram-931651",
+      "seller_tax_id": "34LSIWP6097Y1Z1",
+      "client_tax_id": "20WCHSX0562F1Z3",
+      "client_phone": "3001764483"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-142Z",
+        "item_qty": "1",
+        "item_net_price": "46,560.34",
+        "item_net_worth": "46,560.34",
+        "item_vat": "12%",
+        "item_gross_worth": "52,147.58"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-572K",
+        "item_qty": "1",
+        "item_net_price": "53,803.05",
+        "item_net_worth": "53,803.05",
+        "item_vat": "12%",
+        "item_gross_worth": "60,259.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹100,363.39",
+      "total_vat": "₹12,043.61",
+      "total_gross_worth": "₹112,407.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹12,043.61"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7892",
+      "invoice_date": "14/04/2025",
+      "seller": "GADGET GALAXY 844, Subramaniam Zila, Kirari Suleman Nagar-493355",
+      "client": "ABHA OZA H.No. 78, Misra Nagar, Saharsa-566724",
+      "shipping_address": "H.No. 78, Misra Nagar, Saharsa-566724",
+      "seller_tax_id": "17NFKLM0046T1ZP",
+      "client_tax_id": "31CIQNM2687O1Z3",
+      "client_phone": "+914511491448"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-476P",
+        "item_qty": "1",
+        "item_net_price": "34,026.23",
+        "item_net_worth": "34,026.23",
+        "item_vat": "12%",
+        "item_gross_worth": "38,109.38"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-386G",
+        "item_qty": "2",
+        "item_net_price": "54,595.49",
+        "item_net_worth": "109,190.98",
+        "item_vat": "12%",
+        "item_gross_worth": "122,293.90"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-773Q",
+        "item_qty": "2",
+        "item_net_price": "84,514.04",
+        "item_net_worth": "169,028.08",
+        "item_vat": "12%",
+        "item_gross_worth": "189,311.45"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-537F",
+        "item_qty": "1",
+        "item_net_price": "93,781.31",
+        "item_net_worth": "93,781.31",
+        "item_vat": "12%",
+        "item_gross_worth": "105,035.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹406,026.60",
+      "total_vat": "₹48,723.19",
+      "total_gross_worth": "₹454,749.79",
+      "total_cgst": "₹24,361.60",
+      "total_sgst": "₹24,361.60",
+      "total_igst": "₹0.00"
+    }
+  }
+}

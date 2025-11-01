@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1458",
+      "invoice_date": "11/03/2025",
+      "seller": "SINGH ELECTRONICS H.No. 66, Dhillon Chowk, Tadepalligudem-833060",
+      "client": "MANYA PRAKASH 26/541, Sridhar Street, New Delhi 076355",
+      "shipping_address": "26/541, Sridhar Street, New Delhi 076355",
+      "seller_tax_id": "14RCWXX2678E1ZY",
+      "client_tax_id": "23RRPWQ3907P1ZY",
+      "client_phone": "09489403224"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-355D",
+        "item_qty": "1",
+        "item_net_price": "8,509.73",
+        "item_net_worth": "8,509.73",
+        "item_vat": "28%",
+        "item_gross_worth": "10,892.45"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-297E IMEI: 142817665849974",
+        "item_qty": "2",
+        "item_net_price": "38,393.89",
+        "item_net_worth": "76,787.78",
+        "item_vat": "28%",
+        "item_gross_worth": "98,288.36"
+      },
+      {
+        "item_desc": "Sony Television SON-314P",
+        "item_qty": "1",
+        "item_net_price": "60,743.20",
+        "item_net_worth": "60,743.20",
+        "item_vat": "28%",
+        "item_gross_worth": "77,751.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹146,040.71",
+      "total_vat": "₹40,891.40",
+      "total_gross_worth": "₹186,932.11",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,891.40"
+    }
+  }
+}

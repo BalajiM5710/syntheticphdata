@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KDH/153",
+      "invoice_date": "19/05/2025",
+      "seller": "ROYAL MOBILES H.No. 721, Goswami Circle, Gopalpur-540248",
+      "client": "EKAJA RAJ 13/80, Vohra Path, Ambarnath 146312",
+      "shipping_address": "H.No. 101, Sathe Nagar, Siliguri-648467",
+      "seller_tax_id": "28SOQAF0130B1ZK",
+      "client_tax_id": "12UGIVE8343N1Z4",
+      "client_phone": "5661616526"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-681E",
+        "item_qty": "2",
+        "item_net_price": "62,861.01",
+        "item_net_worth": "125,722.02",
+        "item_vat": "28%",
+        "item_gross_worth": "160,924.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹125,722.02",
+      "total_vat": "₹35,202.17",
+      "total_gross_worth": "₹160,924.19",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,202.17"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6425",
+      "invoice_date": "28/05/2025",
+      "seller": "PATEL MOBILES H.No. 59, Dua, North Dumdum-479004",
+      "client": "ZASHIL DEO 07/87, Kalita Ganj, Surat-086212",
+      "shipping_address": "07/87, Kalita Ganj, Surat-086212",
+      "seller_tax_id": "02HFJUZ7270X1ZK",
+      "client_tax_id": "10GUIMF3216S1ZC",
+      "client_phone": "1125440339"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-743G",
+        "item_qty": "1",
+        "item_net_price": "15,367.29",
+        "item_net_worth": "15,367.29",
+        "item_vat": "18%",
+        "item_gross_worth": "18,133.40"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-519J",
+        "item_qty": "1",
+        "item_net_price": "12,128.05",
+        "item_net_worth": "12,128.05",
+        "item_vat": "18%",
+        "item_gross_worth": "14,311.10"
+      },
+      {
+        "item_desc": "Sony Speaker SON-125Z",
+        "item_qty": "2",
+        "item_net_price": "88,130.09",
+        "item_net_worth": "176,260.18",
+        "item_vat": "18%",
+        "item_gross_worth": "207,987.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,755.52",
+      "total_vat": "₹36,675.99",
+      "total_gross_worth": "₹240,431.51",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹36,675.99"
+    }
+  }
+}

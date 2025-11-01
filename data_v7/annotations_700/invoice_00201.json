@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9548",
+      "invoice_date": "10/09/2025",
+      "seller": "RAM ELECTRONICS H.No. 49, Shankar Chowk, Pimpri-Chinchwad-078087",
+      "client": "TARAK PILLAI H.No. 71, Manne Chowk, Tinsukia-444678",
+      "shipping_address": "H.No. 71, Manne Chowk, Tinsukia-444678",
+      "seller_tax_id": "13MBFMQ2474C1ZX",
+      "client_tax_id": "25GBZXD6408K1ZU",
+      "client_phone": "05127527486"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-969W",
+        "item_qty": "1",
+        "item_net_price": "51,006.97",
+        "item_net_worth": "51,006.97",
+        "item_vat": "18%",
+        "item_gross_worth": "60,188.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹51,006.97",
+      "total_vat": "₹9,181.25",
+      "total_gross_worth": "₹60,188.22",
+      "total_cgst": "₹4,590.63",
+      "total_sgst": "₹4,590.63",
+      "total_igst": "₹0.00"
+    }
+  }
+}

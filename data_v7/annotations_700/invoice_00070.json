@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EBE/812",
+      "invoice_date": "21/03/2025",
+      "seller": "STAR ELECTRONICS 94, Tank Path, Unnao 914161",
+      "client": "FIYAZ NARASIMHAN 886, More Street, Bally 182949",
+      "shipping_address": "H.No. 384, Chanda, Sagar 561969",
+      "seller_tax_id": "28AVPCI1075N1Z7",
+      "client_tax_id": "18GVJGQ5499R1Z3",
+      "client_phone": "04917915460"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-919V",
+        "item_qty": "2",
+        "item_net_price": "38,414.96",
+        "item_net_worth": "76,829.92",
+        "item_vat": "28%",
+        "item_gross_worth": "98,342.30"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-349S",
+        "item_qty": "2",
+        "item_net_price": "50,781.74",
+        "item_net_worth": "101,563.48",
+        "item_vat": "28%",
+        "item_gross_worth": "130,001.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹178,393.40",
+      "total_vat": "₹49,950.15",
+      "total_gross_worth": "₹228,343.55",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹49,950.15"
+    }
+  }
+}

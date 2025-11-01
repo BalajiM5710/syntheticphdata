@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XKU/749",
+      "invoice_date": "18/05/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 890, Som Road, Rewa 093360",
+      "client": "NAKUL CHAUDHURI 57, Gokhale Chowk, Bathinda 266116",
+      "shipping_address": "57, Gokhale Chowk, Bathinda 266116",
+      "seller_tax_id": "21IHZAJ6938J1Z5",
+      "client_tax_id": "14LHAUJ1676S1ZT",
+      "client_phone": "00968897180"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-277T",
+        "item_qty": "1",
+        "item_net_price": "88,937.08",
+        "item_net_worth": "88,937.08",
+        "item_vat": "28%",
+        "item_gross_worth": "113,839.46"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-189C",
+        "item_qty": "1",
+        "item_net_price": "66,687.25",
+        "item_net_worth": "66,687.25",
+        "item_vat": "28%",
+        "item_gross_worth": "85,359.68"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-598Y",
+        "item_qty": "2",
+        "item_net_price": "79,265.54",
+        "item_net_worth": "158,531.08",
+        "item_vat": "28%",
+        "item_gross_worth": "202,919.78"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-291I",
+        "item_qty": "1",
+        "item_net_price": "9,761.28",
+        "item_net_worth": "9,761.28",
+        "item_vat": "28%",
+        "item_gross_worth": "12,494.44"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹323,916.69",
+      "total_vat": "₹90,696.67",
+      "total_gross_worth": "₹414,613.36",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹90,696.67"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7503",
+      "invoice_date": "22/02/2025",
+      "seller": "SMART ELECTRONICS 695, Chandran Chowk, Kolhapur-088672",
+      "client": "DAYAMAI BANDI H.No. 28, Sekhon Zila, Nadiad-939362",
+      "shipping_address": "H.No. 28, Sekhon Zila, Nadiad-939362",
+      "seller_tax_id": "01XYDBC1111C1ZU",
+      "client_tax_id": "02NGVYJ0037A1Z6",
+      "client_phone": "00140147845"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-505T",
+        "item_qty": "1",
+        "item_net_price": "39,818.92",
+        "item_net_worth": "39,818.92",
+        "item_vat": "28%",
+        "item_gross_worth": "50,968.22"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-549R",
+        "item_qty": "1",
+        "item_net_price": "18,661.61",
+        "item_net_worth": "18,661.61",
+        "item_vat": "28%",
+        "item_gross_worth": "23,886.86"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-461O",
+        "item_qty": "2",
+        "item_net_price": "22,621.18",
+        "item_net_worth": "45,242.36",
+        "item_vat": "28%",
+        "item_gross_worth": "57,910.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹103,722.89",
+      "total_vat": "₹29,042.41",
+      "total_gross_worth": "₹132,765.30",
+      "total_cgst": "₹14,521.20",
+      "total_sgst": "₹14,521.20",
+      "total_igst": "₹0.00"
+    }
+  }
+}

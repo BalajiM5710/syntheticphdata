@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/817",
+      "invoice_date": "21/08/2025",
+      "seller": "VISHWA ELECTRONICS 31/88, Ravi Zila, Jhansi 495526",
+      "client": "DIPTA HALDER H.No. 792, Mistry Circle, Farrukhabad 620524",
+      "shipping_address": "23/21, Nigam Road, Tiruppur 400379",
+      "seller_tax_id": "13VITRN1508X1ZZ",
+      "client_tax_id": "25KFROP4654L1ZD",
+      "client_phone": "02858040825"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Smartphones XIA-583H IMEI: 740632217149922",
+        "item_qty": "2",
+        "item_net_price": "41,259.91",
+        "item_net_worth": "82,519.82",
+        "item_vat": "18%",
+        "item_gross_worth": "97,373.39"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-108B",
+        "item_qty": "1",
+        "item_net_price": "10,999.53",
+        "item_net_worth": "10,999.53",
+        "item_vat": "18%",
+        "item_gross_worth": "12,979.45"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-276V",
+        "item_qty": "2",
+        "item_net_price": "68,903.25",
+        "item_net_worth": "137,806.50",
+        "item_vat": "18%",
+        "item_gross_worth": "162,611.67"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-780X",
+        "item_qty": "2",
+        "item_net_price": "64,158.78",
+        "item_net_worth": "128,317.56",
+        "item_vat": "18%",
+        "item_gross_worth": "151,414.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹359,643.41",
+      "total_vat": "₹64,735.81",
+      "total_gross_worth": "₹424,379.22",
+      "total_cgst": "₹32,367.91",
+      "total_sgst": "₹32,367.91",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/214",
+      "invoice_date": "22/04/2025",
+      "seller": "SMART ELECTRONICS 65/257, Rajagopalan Path, Allahabad-654752",
+      "client": "FARIQ DASH 985, Parsa, Rajahmundry 599848",
+      "shipping_address": "985, Parsa, Rajahmundry 599848",
+      "seller_tax_id": "02HFFCV1486M1Z6",
+      "client_tax_id": "21GJCUD7814L1ZS",
+      "client_phone": "+914698296299"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-642O",
+        "item_qty": "2",
+        "item_net_price": "22,180.23",
+        "item_net_worth": "44,360.46",
+        "item_vat": "28%",
+        "item_gross_worth": "56,781.39"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-765C",
+        "item_qty": "1",
+        "item_net_price": "33,332.93",
+        "item_net_worth": "33,332.93",
+        "item_vat": "28%",
+        "item_gross_worth": "42,666.15"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-163Q IMEI: 881420207904656",
+        "item_qty": "1",
+        "item_net_price": "18,897.75",
+        "item_net_worth": "18,897.75",
+        "item_vat": "28%",
+        "item_gross_worth": "24,189.12"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-630Y",
+        "item_qty": "2",
+        "item_net_price": "34,595.76",
+        "item_net_worth": "69,191.52",
+        "item_vat": "28%",
+        "item_gross_worth": "88,565.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹165,782.66",
+      "total_vat": "₹46,419.14",
+      "total_gross_worth": "₹212,201.80",
+      "total_cgst": "₹23,209.57",
+      "total_sgst": "₹23,209.57",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5968",
+      "invoice_date": "26/09/2025",
+      "seller": "KUMAR TECH SOLUTIONS 331, Krishnamurthy Marg, Thrissur-591679",
+      "client": "INDRAJIT DANI 40, Badami, Ambarnath 185046",
+      "shipping_address": "40, Badami, Ambarnath 185046",
+      "seller_tax_id": "32YPXVB2015H1ZT",
+      "client_tax_id": "29GINBT0575A1Z5",
+      "client_phone": "07767869820"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-931U",
+        "item_qty": "2",
+        "item_net_price": "40,743.08",
+        "item_net_worth": "81,486.16",
+        "item_vat": "12%",
+        "item_gross_worth": "91,264.50"
+      },
+      {
+        "item_desc": "Canon Camera CAN-882G",
+        "item_qty": "2",
+        "item_net_price": "30,615.40",
+        "item_net_worth": "61,230.80",
+        "item_vat": "12%",
+        "item_gross_worth": "68,578.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,716.96",
+      "total_vat": "₹17,126.04",
+      "total_gross_worth": "₹159,843.00",
+      "total_cgst": "₹8,563.02",
+      "total_sgst": "₹8,563.02",
+      "total_igst": "₹0.00"
+    }
+  }
+}

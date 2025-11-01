@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/572",
+      "invoice_date": "03/03/2025",
+      "seller": "MOBILE POINT H.No. 98, Dhaliwal Path, Dharmavaram 120947",
+      "client": "NIMRAT CHACKO 538, Bath Road, Ujjain-038561",
+      "shipping_address": "798, Gokhale Street, Anand-183822",
+      "seller_tax_id": "07DPIVF4841S1ZL",
+      "client_tax_id": "30DNYTS3337P1ZD",
+      "client_phone": "00768186315"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-113S",
+        "item_qty": "1",
+        "item_net_price": "86,860.06",
+        "item_net_worth": "86,860.06",
+        "item_vat": "28%",
+        "item_gross_worth": "111,180.88"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-326V",
+        "item_qty": "1",
+        "item_net_price": "81,384.60",
+        "item_net_worth": "81,384.60",
+        "item_vat": "28%",
+        "item_gross_worth": "104,172.29"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-174A",
+        "item_qty": "2",
+        "item_net_price": "87,600.85",
+        "item_net_worth": "175,201.70",
+        "item_vat": "28%",
+        "item_gross_worth": "224,258.18"
+      },
+      {
+        "item_desc": "LG Television LG-783Q",
+        "item_qty": "1",
+        "item_net_price": "59,902.99",
+        "item_net_worth": "59,902.99",
+        "item_vat": "28%",
+        "item_gross_worth": "76,675.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹403,349.35",
+      "total_vat": "₹112,937.82",
+      "total_gross_worth": "₹516,287.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹112,937.82"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9654",
+      "invoice_date": "26/09/2025",
+      "seller": "SINGH ELECTRONICS 52/26, Dhar Marg, Bathinda 007939",
+      "client": "VEDA GOLA 99/27, Chada Circle, Ambarnath 121828",
+      "shipping_address": "99/27, Chada Circle, Ambarnath 121828",
+      "seller_tax_id": "34IBWPD4730H1ZV",
+      "client_tax_id": "08RVZSC6481I1ZA",
+      "client_phone": "+910376429008"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-142H",
+        "item_qty": "2",
+        "item_net_price": "54,597.50",
+        "item_net_worth": "109,195.00",
+        "item_vat": "12%",
+        "item_gross_worth": "122,298.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹109,195.00",
+      "total_vat": "₹13,103.40",
+      "total_gross_worth": "₹122,298.40",
+      "total_cgst": "₹6,551.70",
+      "total_sgst": "₹6,551.70",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/687",
+      "invoice_date": "01/03/2025",
+      "seller": "GADGET GALAXY 08/26, Mander Marg, Jalna-034503",
+      "client": "ADVAITH MAHAL 715, Uppal Path, Gandhidham-980636",
+      "shipping_address": "341, Wadhwa Road, Kota-402912",
+      "seller_tax_id": "29AMMTE5669F1Z7",
+      "client_tax_id": "26SGXYP7662X1ZJ",
+      "client_phone": "09890343958"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-739N",
+        "item_qty": "2",
+        "item_net_price": "61,803.81",
+        "item_net_worth": "123,607.62",
+        "item_vat": "28%",
+        "item_gross_worth": "158,217.75"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-868N",
+        "item_qty": "1",
+        "item_net_price": "12,489.99",
+        "item_net_worth": "12,489.99",
+        "item_vat": "28%",
+        "item_gross_worth": "15,987.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹136,097.61",
+      "total_vat": "₹38,107.33",
+      "total_gross_worth": "₹174,204.94",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹38,107.33"
+    }
+  }
+}

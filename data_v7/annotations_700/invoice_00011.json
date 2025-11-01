@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/893",
+      "invoice_date": "07/08/2025",
+      "seller": "FUTURE TECH 036, Kadakia Street, Kulti 748493",
+      "client": "YUVRAJ OM 81, Din Path, Raiganj-379228",
+      "shipping_address": "81, Din Path, Raiganj-379228",
+      "seller_tax_id": "17HDHNF8180C1ZQ",
+      "client_tax_id": "01GPYRM9706I1ZX",
+      "client_phone": "7742634640"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-397L IMEI: 800492370330248",
+        "item_qty": "1",
+        "item_net_price": "22,700.61",
+        "item_net_worth": "22,700.61",
+        "item_vat": "12%",
+        "item_gross_worth": "25,424.68"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-989Q",
+        "item_qty": "1",
+        "item_net_price": "56,503.41",
+        "item_net_worth": "56,503.41",
+        "item_vat": "12%",
+        "item_gross_worth": "63,283.82"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-436Q IMEI: 148521469428750",
+        "item_qty": "1",
+        "item_net_price": "18,076.96",
+        "item_net_worth": "18,076.96",
+        "item_vat": "12%",
+        "item_gross_worth": "20,246.20"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-265X IMEI: 475354446089056",
+        "item_qty": "1",
+        "item_net_price": "84,707.04",
+        "item_net_worth": "84,707.04",
+        "item_vat": "12%",
+        "item_gross_worth": "94,871.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹181,988.02",
+      "total_vat": "₹21,838.56",
+      "total_gross_worth": "₹203,826.58",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹21,838.56"
+    }
+  }
+}

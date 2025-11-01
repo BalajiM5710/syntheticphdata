@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/933",
+      "invoice_date": "02/03/2025",
+      "seller": "SINGH ELECTRONICS H.No. 37, Ramaswamy Chowk, Thane 205255",
+      "client": "ZANSI DEVAN H.No. 68, Mittal Ganj, Agartala-482241",
+      "shipping_address": "42, Sule Circle, Hosur-911131",
+      "seller_tax_id": "18NXKVX4171O1ZU",
+      "client_tax_id": "35DCUSD5899F1Z7",
+      "client_phone": "08600875834"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-625C",
+        "item_qty": "1",
+        "item_net_price": "30,203.67",
+        "item_net_worth": "30,203.67",
+        "item_vat": "18%",
+        "item_gross_worth": "35,640.33"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-374R IMEI: 763386087008031",
+        "item_qty": "2",
+        "item_net_price": "35,593.96",
+        "item_net_worth": "71,187.92",
+        "item_vat": "18%",
+        "item_gross_worth": "84,001.75"
+      },
+      {
+        "item_desc": "Canon Camera CAN-409L",
+        "item_qty": "1",
+        "item_net_price": "13,239.95",
+        "item_net_worth": "13,239.95",
+        "item_vat": "18%",
+        "item_gross_worth": "15,623.14"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-207P",
+        "item_qty": "1",
+        "item_net_price": "75,632.73",
+        "item_net_worth": "75,632.73",
+        "item_vat": "18%",
+        "item_gross_worth": "89,246.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹190,264.27",
+      "total_vat": "₹34,247.57",
+      "total_gross_worth": "₹224,511.84",
+      "total_cgst": "₹17,123.78",
+      "total_sgst": "₹17,123.78",
+      "total_igst": "₹0.00"
+    }
+  }
+}

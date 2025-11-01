@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4856",
+      "invoice_date": "25/04/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 49, Chaudry Chowk, Madanapalle-668677",
+      "client": "KALA BARAD H.No. 32, Parsa, Avadi 110306",
+      "shipping_address": "H.No. 02, Dalal Marg, Bharatpur 445158",
+      "seller_tax_id": "31MPBIW1239S1Z5",
+      "client_tax_id": "14SEBGT4787L1ZY",
+      "client_phone": "+916196140368"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-696W",
+        "item_qty": "1",
+        "item_net_price": "22,804.89",
+        "item_net_worth": "22,804.89",
+        "item_vat": "28%",
+        "item_gross_worth": "29,190.26"
+      },
+      {
+        "item_desc": "Sony Camera SON-208M",
+        "item_qty": "2",
+        "item_net_price": "35,846.87",
+        "item_net_worth": "71,693.74",
+        "item_vat": "28%",
+        "item_gross_worth": "91,767.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹94,498.63",
+      "total_vat": "₹26,459.62",
+      "total_gross_worth": "₹120,958.25",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,459.62"
+    }
+  }
+}

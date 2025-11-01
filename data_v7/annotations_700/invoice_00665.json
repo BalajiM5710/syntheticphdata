@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FCI/906",
+      "invoice_date": "05/07/2025",
+      "seller": "SINGH ELECTRONICS 42, Ranganathan Zila, Motihari-887119",
+      "client": "KALPIT JAGGI 60/17, Pandey Ganj, Panchkula 114933",
+      "shipping_address": "60/17, Pandey Ganj, Panchkula 114933",
+      "seller_tax_id": "24LSLSH9303A1ZN",
+      "client_tax_id": "05ZSESF0988E1Z4",
+      "client_phone": "04499553231"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-931U",
+        "item_qty": "2",
+        "item_net_price": "38,952.90",
+        "item_net_worth": "77,905.80",
+        "item_vat": "28%",
+        "item_gross_worth": "99,719.42"
+      },
+      {
+        "item_desc": "Sony Camera SON-695O",
+        "item_qty": "1",
+        "item_net_price": "28,796.24",
+        "item_net_worth": "28,796.24",
+        "item_vat": "28%",
+        "item_gross_worth": "36,859.19"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-541F",
+        "item_qty": "2",
+        "item_net_price": "93,361.53",
+        "item_net_worth": "186,723.06",
+        "item_vat": "28%",
+        "item_gross_worth": "239,005.52"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹293,425.10",
+      "total_vat": "₹82,159.03",
+      "total_gross_worth": "₹375,584.13",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹82,159.03"
+    }
+  }
+}

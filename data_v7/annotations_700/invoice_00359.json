@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PZW/797",
+      "invoice_date": "06/04/2025",
+      "seller": "VISHWA ELECTRONICS 859, Barman, Alappuzha-759666",
+      "client": "CHATURA VORA 55/71, Mukherjee Nagar, Panvel-850574",
+      "shipping_address": "885, Loyal, Baranagar 271918",
+      "seller_tax_id": "33NVVQJ3048N1ZA",
+      "client_tax_id": "32SPFRO3580B1ZE",
+      "client_phone": "04803958653"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-536K",
+        "item_qty": "2",
+        "item_net_price": "8,665.83",
+        "item_net_worth": "17,331.66",
+        "item_vat": "12%",
+        "item_gross_worth": "19,411.46"
+      },
+      {
+        "item_desc": "Sony Headphones SON-460E",
+        "item_qty": "1",
+        "item_net_price": "78,382.57",
+        "item_net_worth": "78,382.57",
+        "item_vat": "12%",
+        "item_gross_worth": "87,788.48"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-660T",
+        "item_qty": "2",
+        "item_net_price": "92,392.71",
+        "item_net_worth": "184,785.42",
+        "item_vat": "12%",
+        "item_gross_worth": "206,959.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹280,499.65",
+      "total_vat": "₹33,659.96",
+      "total_gross_worth": "₹314,159.61",
+      "total_cgst": "₹16,829.98",
+      "total_sgst": "₹16,829.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

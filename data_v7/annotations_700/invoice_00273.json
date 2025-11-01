@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9151",
+      "invoice_date": "15/01/2025",
+      "seller": "FUTURE TECH 689, Nath Zila, Saharanpur 913224",
+      "client": "OVIYA BATTA 648, Gala Zila, Bellary 415988",
+      "shipping_address": "48, Arya Circle, Indore 948702",
+      "seller_tax_id": "05PVPZJ2142X1ZR",
+      "client_tax_id": "23NTYEK3714U1Z9",
+      "client_phone": "+919454305654"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-347K",
+        "item_qty": "1",
+        "item_net_price": "20,716.35",
+        "item_net_worth": "20,716.35",
+        "item_vat": "18%",
+        "item_gross_worth": "24,445.29"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-932V",
+        "item_qty": "1",
+        "item_net_price": "70,808.49",
+        "item_net_worth": "70,808.49",
+        "item_vat": "18%",
+        "item_gross_worth": "83,554.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹91,524.84",
+      "total_vat": "₹16,474.47",
+      "total_gross_worth": "₹107,999.31",
+      "total_cgst": "₹8,237.24",
+      "total_sgst": "₹8,237.24",
+      "total_igst": "₹0.00"
+    }
+  }
+}

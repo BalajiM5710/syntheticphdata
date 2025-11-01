@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/502",
+      "invoice_date": "03/05/2025",
+      "seller": "GADGET GALAXY 70, Sawhney Path, New Delhi-273488",
+      "client": "UBIKA BALA 077, Naidu Chowk, Chandrapur 132147",
+      "shipping_address": "077, Naidu Chowk, Chandrapur 132147",
+      "seller_tax_id": "01MZUEG6106P1ZV",
+      "client_tax_id": "34GGEMO9918X1ZV",
+      "client_phone": "6564164386"
+    },
+    "items": [
+      {
+        "item_desc": "HP Laptops HP-523H",
+        "item_qty": "1",
+        "item_net_price": "17,433.44",
+        "item_net_worth": "17,433.44",
+        "item_vat": "18%",
+        "item_gross_worth": "20,571.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹17,433.44",
+      "total_vat": "₹3,138.02",
+      "total_gross_worth": "₹20,571.46",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹3,138.02"
+    }
+  }
+}

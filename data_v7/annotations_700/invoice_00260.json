@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EDF/398",
+      "invoice_date": "22/07/2025",
+      "seller": "PATEL MOBILES 00, Sidhu Road, Hapur-075328",
+      "client": "DANIEL BHASIN H.No. 61, Om Marg, Mathura 396708",
+      "shipping_address": "H.No. 61, Om Marg, Mathura 396708",
+      "seller_tax_id": "02OAYVJ4557L1ZJ",
+      "client_tax_id": "05WKTNU3457F1ZK",
+      "client_phone": "0080565922"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-136J",
+        "item_qty": "1",
+        "item_net_price": "68,675.54",
+        "item_net_worth": "68,675.54",
+        "item_vat": "18%",
+        "item_gross_worth": "81,037.14"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-183L",
+        "item_qty": "1",
+        "item_net_price": "91,072.82",
+        "item_net_worth": "91,072.82",
+        "item_vat": "18%",
+        "item_gross_worth": "107,465.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹159,748.36",
+      "total_vat": "₹28,754.70",
+      "total_gross_worth": "₹188,503.06",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,754.70"
+    }
+  }
+}

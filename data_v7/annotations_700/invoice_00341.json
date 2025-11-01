@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1728",
+      "invoice_date": "11/08/2025",
+      "seller": "SMART ELECTRONICS H.No. 254, Kibe Road, Kishanganj 525427",
+      "client": "ROBERT SHENOY 26/904, Ranganathan, Akola-034903",
+      "shipping_address": "26/904, Ranganathan, Akola-034903",
+      "seller_tax_id": "22MQJHE3873K1ZY",
+      "client_tax_id": "37SIRJO5928K1ZQ",
+      "client_phone": "4937717289"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-730N",
+        "item_qty": "1",
+        "item_net_price": "73,049.38",
+        "item_net_worth": "73,049.38",
+        "item_vat": "28%",
+        "item_gross_worth": "93,503.21"
+      },
+      {
+        "item_desc": "LG Microwave LG-883D",
+        "item_qty": "1",
+        "item_net_price": "16,298.30",
+        "item_net_worth": "16,298.30",
+        "item_vat": "28%",
+        "item_gross_worth": "20,861.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,347.68",
+      "total_vat": "₹25,017.35",
+      "total_gross_worth": "₹114,365.03",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,017.35"
+    }
+  }
+}

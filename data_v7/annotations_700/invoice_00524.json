@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QED/395",
+      "invoice_date": "26/04/2025",
+      "seller": "PATEL MOBILES 38/77, Ramakrishnan, Chittoor 625996",
+      "client": "SIMON BHAVSAR 932, Modi Chowk, Rourkela-513693",
+      "shipping_address": "95, Sami Zila, Junagadh-622715",
+      "seller_tax_id": "15ZJZHU9601O1ZT",
+      "client_tax_id": "03RTGUA7509B1ZD",
+      "client_phone": "02337911422"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-199C",
+        "item_qty": "2",
+        "item_net_price": "92,590.15",
+        "item_net_worth": "185,180.30",
+        "item_vat": "18%",
+        "item_gross_worth": "218,512.75"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-533M",
+        "item_qty": "2",
+        "item_net_price": "27,847.00",
+        "item_net_worth": "55,694.00",
+        "item_vat": "18%",
+        "item_gross_worth": "65,718.92"
+      },
+      {
+        "item_desc": "HP Laptops HP-847Q",
+        "item_qty": "1",
+        "item_net_price": "78,121.96",
+        "item_net_worth": "78,121.96",
+        "item_vat": "18%",
+        "item_gross_worth": "92,183.91"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-507S",
+        "item_qty": "1",
+        "item_net_price": "92,644.90",
+        "item_net_worth": "92,644.90",
+        "item_vat": "18%",
+        "item_gross_worth": "109,320.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹411,641.16",
+      "total_vat": "₹74,095.41",
+      "total_gross_worth": "₹485,736.57",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹74,095.41"
+    }
+  }
+}

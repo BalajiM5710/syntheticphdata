@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/227",
+      "invoice_date": "26/10/2025",
+      "seller": "FUTURE TECH 11, Chokshi Circle, Surat-387838",
+      "client": "VEDA NAZARETH 95/247, Sastry Marg, Gulbarga-034598",
+      "shipping_address": "95/247, Sastry Marg, Gulbarga-034598",
+      "seller_tax_id": "10ZVQRD7245I1ZN",
+      "client_tax_id": "34VERQM0155L1Z0",
+      "client_phone": "1279074701"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-943P",
+        "item_qty": "1",
+        "item_net_price": "18,719.18",
+        "item_net_worth": "18,719.18",
+        "item_vat": "28%",
+        "item_gross_worth": "23,960.55"
+      },
+      {
+        "item_desc": "HP Laptops HP-364K",
+        "item_qty": "1",
+        "item_net_price": "22,371.64",
+        "item_net_worth": "22,371.64",
+        "item_vat": "28%",
+        "item_gross_worth": "28,635.70"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-992K",
+        "item_qty": "2",
+        "item_net_price": "63,026.95",
+        "item_net_worth": "126,053.90",
+        "item_vat": "28%",
+        "item_gross_worth": "161,348.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,144.72",
+      "total_vat": "₹46,800.52",
+      "total_gross_worth": "₹213,945.24",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,800.52"
+    }
+  }
+}

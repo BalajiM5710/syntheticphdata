@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MJG/559",
+      "invoice_date": "25/04/2025",
+      "seller": "ROYAL MOBILES 24/44, Modi Path, Jorhat 817608",
+      "client": "NITARA SACHDEVA 90, Mangal Zila, Adoni-732076",
+      "shipping_address": "H.No. 51, Kalita Chowk, Ghaziabad 574801",
+      "seller_tax_id": "04KIWTI6642S1ZF",
+      "client_tax_id": "29HQQXB8585B1ZP",
+      "client_phone": "2762259482"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-142M",
+        "item_qty": "2",
+        "item_net_price": "36,450.97",
+        "item_net_worth": "72,901.94",
+        "item_vat": "18%",
+        "item_gross_worth": "86,024.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹72,901.94",
+      "total_vat": "₹13,122.35",
+      "total_gross_worth": "₹86,024.29",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,122.35"
+    }
+  }
+}

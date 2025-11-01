@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3536",
+      "invoice_date": "26/08/2025",
+      "seller": "METRO TECH STORE 74, Aurora Marg, Guwahati 160539",
+      "client": "AVI NADIG 43/941, Modi Street, Rajahmundry-596763",
+      "shipping_address": "43/941, Modi Street, Rajahmundry-596763",
+      "seller_tax_id": "29YQBML5939D1ZA",
+      "client_tax_id": "06INTXY8721M1Z5",
+      "client_phone": "8430360849"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-833W",
+        "item_qty": "2",
+        "item_net_price": "67,464.75",
+        "item_net_worth": "134,929.50",
+        "item_vat": "28%",
+        "item_gross_worth": "172,709.76"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-663Y",
+        "item_qty": "2",
+        "item_net_price": "18,901.42",
+        "item_net_worth": "37,802.84",
+        "item_vat": "28%",
+        "item_gross_worth": "48,387.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,732.34",
+      "total_vat": "₹48,365.06",
+      "total_gross_worth": "₹221,097.40",
+      "total_cgst": "₹24,182.53",
+      "total_sgst": "₹24,182.53",
+      "total_igst": "₹0.00"
+    }
+  }
+}

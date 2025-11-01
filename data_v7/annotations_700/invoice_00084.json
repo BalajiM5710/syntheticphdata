@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1030",
+      "invoice_date": "21/01/2025",
+      "seller": "DIGITAL STORE H.No. 387, Gour Path, Dhule-680451",
+      "client": "RAYAAN PANDIT 59/75, Narang Road, Junagadh 870918",
+      "shipping_address": "59/75, Narang Road, Junagadh 870918",
+      "seller_tax_id": "31ONCOG3775B1Z5",
+      "client_tax_id": "25NWJYA6599H1ZC",
+      "client_phone": "+917360188437"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-680J",
+        "item_qty": "1",
+        "item_net_price": "82,361.92",
+        "item_net_worth": "82,361.92",
+        "item_vat": "28%",
+        "item_gross_worth": "105,423.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹82,361.92",
+      "total_vat": "₹23,061.34",
+      "total_gross_worth": "₹105,423.26",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,061.34"
+    }
+  }
+}

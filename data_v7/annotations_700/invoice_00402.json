@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7743",
+      "invoice_date": "25/10/2025",
+      "seller": "METRO TECH STORE 72/777, Zachariah Road, Nagercoil 240843",
+      "client": "ANSH SARAN 60, Gole Chowk, Bhind 925262",
+      "shipping_address": "60, Gole Chowk, Bhind 925262",
+      "seller_tax_id": "37UHGWV8497G1ZB",
+      "client_tax_id": "12YSEHU6402B1ZL",
+      "client_phone": "7534172368"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-880H",
+        "item_qty": "2",
+        "item_net_price": "12,382.68",
+        "item_net_worth": "24,765.36",
+        "item_vat": "18%",
+        "item_gross_worth": "29,223.12"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-615E",
+        "item_qty": "1",
+        "item_net_price": "94,316.67",
+        "item_net_worth": "94,316.67",
+        "item_vat": "18%",
+        "item_gross_worth": "111,293.67"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-135Q",
+        "item_qty": "2",
+        "item_net_price": "52,431.24",
+        "item_net_worth": "104,862.48",
+        "item_vat": "18%",
+        "item_gross_worth": "123,737.73"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-518C",
+        "item_qty": "1",
+        "item_net_price": "24,366.41",
+        "item_net_worth": "24,366.41",
+        "item_vat": "18%",
+        "item_gross_worth": "28,752.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹248,310.92",
+      "total_vat": "₹44,695.97",
+      "total_gross_worth": "₹293,006.89",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹44,695.97"
+    }
+  }
+}

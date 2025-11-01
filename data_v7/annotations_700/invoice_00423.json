@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2154",
+      "invoice_date": "23/09/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 493, Baral Road, Kolhapur 234181",
+      "client": "HARSHIL DAYAL 16, Dutt Road, Avadi-903326",
+      "shipping_address": "820, Misra Ganj, Varanasi 844083",
+      "seller_tax_id": "11LIEBS8069O1Z8",
+      "client_tax_id": "07RPNAK0299Y1ZQ",
+      "client_phone": "09053454387"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-795H",
+        "item_qty": "1",
+        "item_net_price": "86,509.47",
+        "item_net_worth": "86,509.47",
+        "item_vat": "18%",
+        "item_gross_worth": "102,081.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹86,509.47",
+      "total_vat": "₹15,571.70",
+      "total_gross_worth": "₹102,081.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹15,571.70"
+    }
+  }
+}

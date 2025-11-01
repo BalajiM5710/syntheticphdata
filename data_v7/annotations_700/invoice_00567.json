@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2463",
+      "invoice_date": "29/08/2025",
+      "seller": "PATEL MOBILES 667, Chaudhuri Circle, Korba 861048",
+      "client": "YASHASVI SARAN H.No. 74, Krishnan Marg, Jamnagar 932218",
+      "shipping_address": "H.No. 74, Krishnan Marg, Jamnagar 932218",
+      "seller_tax_id": "10LAQVX4001W1ZP",
+      "client_tax_id": "36EDTAV1071G1ZU",
+      "client_phone": "03337481968"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-740R",
+        "item_qty": "1",
+        "item_net_price": "46,956.35",
+        "item_net_worth": "46,956.35",
+        "item_vat": "18%",
+        "item_gross_worth": "55,408.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,956.35",
+      "total_vat": "₹8,452.14",
+      "total_gross_worth": "₹55,408.49",
+      "total_cgst": "₹4,226.07",
+      "total_sgst": "₹4,226.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

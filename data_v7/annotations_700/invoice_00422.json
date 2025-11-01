@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7760",
+      "invoice_date": "01/08/2025",
+      "seller": "MOBILE POINT 18, Uppal Ganj, Pali-880077",
+      "client": "AARAV GOKHALE 71, Date Chowk, Bhilwara-720288",
+      "shipping_address": "735, Sule Path, Tinsukia 419462",
+      "seller_tax_id": "24ZYZEQ6439R1ZX",
+      "client_tax_id": "18GMITA8689C1Z4",
+      "client_phone": "3730918295"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-335B",
+        "item_qty": "1",
+        "item_net_price": "80,865.02",
+        "item_net_worth": "80,865.02",
+        "item_vat": "18%",
+        "item_gross_worth": "95,420.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹80,865.02",
+      "total_vat": "₹14,555.70",
+      "total_gross_worth": "₹95,420.72",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹14,555.70"
+    }
+  }
+}

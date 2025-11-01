@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RFY/784",
+      "invoice_date": "19/04/2025",
+      "seller": "METRO TECH STORE H.No. 991, Swaminathan Ganj, Nizamabad-989638",
+      "client": "AGASTYA NANDA 37/142, Verma, Surendranagar Dudhrej-004104",
+      "shipping_address": "H.No. 571, Mukhopadhyay Ganj, Ongole-721963",
+      "seller_tax_id": "10LNBFY9832R1Z5",
+      "client_tax_id": "17QMSQQ4788J1ZT",
+      "client_phone": "04358883215"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-580V",
+        "item_qty": "2",
+        "item_net_price": "69,157.78",
+        "item_net_worth": "138,315.56",
+        "item_vat": "18%",
+        "item_gross_worth": "163,212.36"
+      },
+      {
+        "item_desc": "TCL Television TCL-459R",
+        "item_qty": "2",
+        "item_net_price": "20,518.56",
+        "item_net_worth": "41,037.12",
+        "item_vat": "18%",
+        "item_gross_worth": "48,423.80"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-351K",
+        "item_qty": "1",
+        "item_net_price": "30,415.26",
+        "item_net_worth": "30,415.26",
+        "item_vat": "18%",
+        "item_gross_worth": "35,890.01"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-147O",
+        "item_qty": "2",
+        "item_net_price": "54,558.58",
+        "item_net_worth": "109,117.16",
+        "item_vat": "18%",
+        "item_gross_worth": "128,758.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹318,885.10",
+      "total_vat": "₹57,399.32",
+      "total_gross_worth": "₹376,284.42",
+      "total_cgst": "₹28,699.66",
+      "total_sgst": "₹28,699.66",
+      "total_igst": "₹0.00"
+    }
+  }
+}

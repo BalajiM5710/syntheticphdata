@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7652",
+      "invoice_date": "05/01/2025",
+      "seller": "RAM ELECTRONICS 07/48, Gaba Chowk, Bhind 783837",
+      "client": "IMARAN TATA H.No. 08, Pathak, Delhi-798868",
+      "shipping_address": "H.No. 688, Rattan Zila, Katihar-987333",
+      "seller_tax_id": "03JNZSM3958F1Z6",
+      "client_tax_id": "31LQSJU3655H1ZE",
+      "client_phone": "0785593870"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-775H",
+        "item_qty": "2",
+        "item_net_price": "14,300.41",
+        "item_net_worth": "28,600.82",
+        "item_vat": "12%",
+        "item_gross_worth": "32,032.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹28,600.82",
+      "total_vat": "₹3,432.10",
+      "total_gross_worth": "₹32,032.92",
+      "total_cgst": "₹1,716.05",
+      "total_sgst": "₹1,716.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

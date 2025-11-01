@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8096",
+      "invoice_date": "28/04/2025",
+      "seller": "DIGITAL STORE H.No. 549, Palla Road, Belgaum 802313",
+      "client": "EESHA DESAI H.No. 586, Krishnamurthy Zila, Cuttack 601453",
+      "shipping_address": "H.No. 884, Rastogi Street, Purnia-130816",
+      "seller_tax_id": "13DXBTA2983W1ZB",
+      "client_tax_id": "08OSKVR1776Y1ZH",
+      "client_phone": "+917111553396"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-212M",
+        "item_qty": "2",
+        "item_net_price": "76,146.68",
+        "item_net_worth": "152,293.36",
+        "item_vat": "12%",
+        "item_gross_worth": "170,568.56"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-390P IMEI: 546399167492304",
+        "item_qty": "2",
+        "item_net_price": "81,829.99",
+        "item_net_worth": "163,659.98",
+        "item_vat": "12%",
+        "item_gross_worth": "183,299.18"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-205H",
+        "item_qty": "2",
+        "item_net_price": "83,523.67",
+        "item_net_worth": "167,047.34",
+        "item_vat": "12%",
+        "item_gross_worth": "187,093.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹483,000.68",
+      "total_vat": "₹57,960.08",
+      "total_gross_worth": "₹540,960.76",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹57,960.08"
+    }
+  }
+}

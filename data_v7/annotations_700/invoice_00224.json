@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PQI/398",
+      "invoice_date": "08/10/2025",
+      "seller": "SINGH ELECTRONICS 72/622, Khanna Marg, Sri Ganganagar-994367",
+      "client": "AMRITA CHERIAN 427, Boase Chowk, Kota 326151",
+      "shipping_address": "427, Boase Chowk, Kota 326151",
+      "seller_tax_id": "25PDDUI4410B1ZL",
+      "client_tax_id": "10GEJGJ9708H1Z6",
+      "client_phone": "+916627767234"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-505I",
+        "item_qty": "2",
+        "item_net_price": "35,256.77",
+        "item_net_worth": "70,513.54",
+        "item_vat": "12%",
+        "item_gross_worth": "78,975.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹70,513.54",
+      "total_vat": "₹8,461.62",
+      "total_gross_worth": "₹78,975.16",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,461.62"
+    }
+  }
+}

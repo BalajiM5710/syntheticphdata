@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/507",
+      "invoice_date": "01/01/2025",
+      "seller": "DIGITAL STORE 86, Agate, Adoni 266476",
+      "client": "WARINDER DASGUPTA 08/246, Merchant Nagar, Darbhanga 134170",
+      "shipping_address": "H.No. 703, Thakur Path, Tinsukia-768120",
+      "seller_tax_id": "30VZIWM9886H1ZN",
+      "client_tax_id": "26ADDZF9402F1ZR",
+      "client_phone": "06811156336"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-669E IMEI: 009285143422556",
+        "item_qty": "2",
+        "item_net_price": "33,415.23",
+        "item_net_worth": "66,830.46",
+        "item_vat": "18%",
+        "item_gross_worth": "78,859.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹66,830.46",
+      "total_vat": "₹12,029.48",
+      "total_gross_worth": "₹78,859.94",
+      "total_cgst": "₹6,014.74",
+      "total_sgst": "₹6,014.74",
+      "total_igst": "₹0.00"
+    }
+  }
+}

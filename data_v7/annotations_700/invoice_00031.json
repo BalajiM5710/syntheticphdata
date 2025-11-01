@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/675",
+      "invoice_date": "11/04/2025",
+      "seller": "SMART ELECTRONICS H.No. 063, Chawla Street, Gurgaon-080377",
+      "client": "JALSA NIGAM 807, Bhardwaj Marg, Farrukhabad-177739",
+      "shipping_address": "807, Bhardwaj Marg, Farrukhabad-177739",
+      "seller_tax_id": "31LFSZB5715W1ZH",
+      "client_tax_id": "19FOKUZ8018J1ZA",
+      "client_phone": "3743872963"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-187X",
+        "item_qty": "1",
+        "item_net_price": "63,589.27",
+        "item_net_worth": "63,589.27",
+        "item_vat": "18%",
+        "item_gross_worth": "75,035.34"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-406U",
+        "item_qty": "1",
+        "item_net_price": "57,329.55",
+        "item_net_worth": "57,329.55",
+        "item_vat": "18%",
+        "item_gross_worth": "67,648.87"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-690Y",
+        "item_qty": "1",
+        "item_net_price": "82,593.10",
+        "item_net_worth": "82,593.10",
+        "item_vat": "18%",
+        "item_gross_worth": "97,459.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,511.92",
+      "total_vat": "₹36,632.15",
+      "total_gross_worth": "₹240,144.07",
+      "total_cgst": "₹18,316.07",
+      "total_sgst": "₹18,316.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

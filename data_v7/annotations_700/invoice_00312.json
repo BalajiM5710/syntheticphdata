@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6293",
+      "invoice_date": "27/06/2025",
+      "seller": "SINGH ELECTRONICS H.No. 82, Ben Zila, Jalandhar 164580",
+      "client": "BACHITTAR WAGLE 604, Datta Ganj, Bhavnagar-584502",
+      "shipping_address": "604, Datta Ganj, Bhavnagar-584502",
+      "seller_tax_id": "27HRKBL1852X1ZD",
+      "client_tax_id": "15MRVRN8652O1ZQ",
+      "client_phone": "02029506894"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-970Q",
+        "item_qty": "1",
+        "item_net_price": "73,652.51",
+        "item_net_worth": "73,652.51",
+        "item_vat": "28%",
+        "item_gross_worth": "94,275.21"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-346O",
+        "item_qty": "2",
+        "item_net_price": "47,523.57",
+        "item_net_worth": "95,047.14",
+        "item_vat": "28%",
+        "item_gross_worth": "121,660.34"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-548M",
+        "item_qty": "2",
+        "item_net_price": "50,041.28",
+        "item_net_worth": "100,082.56",
+        "item_vat": "28%",
+        "item_gross_worth": "128,105.68"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-118O",
+        "item_qty": "1",
+        "item_net_price": "37,455.62",
+        "item_net_worth": "37,455.62",
+        "item_vat": "28%",
+        "item_gross_worth": "47,943.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹306,237.83",
+      "total_vat": "₹85,746.59",
+      "total_gross_worth": "₹391,984.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹85,746.59"
+    }
+  }
+}

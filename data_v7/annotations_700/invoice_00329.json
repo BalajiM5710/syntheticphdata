@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BZQ/159",
+      "invoice_date": "11/02/2025",
+      "seller": "RAM ELECTRONICS H.No. 133, Ghosh, Karawal Nagar-613687",
+      "client": "ABDUL NIGAM 08/302, Sathe Zila, Delhi-800954",
+      "shipping_address": "08/302, Sathe Zila, Delhi-800954",
+      "seller_tax_id": "15VFTTW6075C1ZK",
+      "client_tax_id": "31SNIIY0708G1ZH",
+      "client_phone": "+919318203249"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-670P",
+        "item_qty": "2",
+        "item_net_price": "52,560.20",
+        "item_net_worth": "105,120.40",
+        "item_vat": "12%",
+        "item_gross_worth": "117,734.85"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-368V",
+        "item_qty": "1",
+        "item_net_price": "55,638.02",
+        "item_net_worth": "55,638.02",
+        "item_vat": "12%",
+        "item_gross_worth": "62,314.58"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-983U",
+        "item_qty": "2",
+        "item_net_price": "16,187.11",
+        "item_net_worth": "32,374.22",
+        "item_vat": "12%",
+        "item_gross_worth": "36,259.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹193,132.64",
+      "total_vat": "₹23,175.92",
+      "total_gross_worth": "₹216,308.56",
+      "total_cgst": "₹11,587.96",
+      "total_sgst": "₹11,587.96",
+      "total_igst": "₹0.00"
+    }
+  }
+}

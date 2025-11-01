@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6584",
+      "invoice_date": "26/09/2025",
+      "seller": "CITY ELECTRONICS 84/71, Rout Marg, Bangalore 212456",
+      "client": "AKSHAY KIBE 04, Johal Zila, Uluberia-082373",
+      "shipping_address": "977, Maharaj Zila, Gwalior-812914",
+      "seller_tax_id": "34IMCTJ1379W1ZR",
+      "client_tax_id": "17KQUEK8430P1ZK",
+      "client_phone": "05085456852"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-930I",
+        "item_qty": "1",
+        "item_net_price": "80,537.17",
+        "item_net_worth": "80,537.17",
+        "item_vat": "18%",
+        "item_gross_worth": "95,033.86"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-725J",
+        "item_qty": "1",
+        "item_net_price": "39,626.97",
+        "item_net_worth": "39,626.97",
+        "item_vat": "18%",
+        "item_gross_worth": "46,759.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,164.14",
+      "total_vat": "₹21,629.55",
+      "total_gross_worth": "₹141,793.69",
+      "total_cgst": "₹10,814.77",
+      "total_sgst": "₹10,814.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/772",
+      "invoice_date": "02/03/2025",
+      "seller": "RAM ELECTRONICS 709, Bhavsar Road, Arrah-470233",
+      "client": "INDRAJIT NORI 23/707, Bumb Road, Khandwa 012550",
+      "shipping_address": "94, Halder Zila, Mumbai-923256",
+      "seller_tax_id": "21XHDDE5285Z1ZJ",
+      "client_tax_id": "33GTHOP2586J1ZC",
+      "client_phone": "7084422257"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-572C",
+        "item_qty": "1",
+        "item_net_price": "22,430.56",
+        "item_net_worth": "22,430.56",
+        "item_vat": "18%",
+        "item_gross_worth": "26,468.06"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-733D",
+        "item_qty": "2",
+        "item_net_price": "78,562.46",
+        "item_net_worth": "157,124.92",
+        "item_vat": "18%",
+        "item_gross_worth": "185,407.41"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,555.48",
+      "total_vat": "₹32,319.99",
+      "total_gross_worth": "₹211,875.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,319.99"
+    }
+  }
+}

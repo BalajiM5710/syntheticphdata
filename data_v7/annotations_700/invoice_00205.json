@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KAM/113",
+      "invoice_date": "11/05/2025",
+      "seller": "METRO TECH STORE 26/02, Lall Nagar, Deoghar-861058",
+      "client": "NIKITA OM H.No. 754, Varma Road, Mira-Bhayandar-424716",
+      "shipping_address": "17/40, Borde Ganj, Mahbubnagar-453680",
+      "seller_tax_id": "23IWUFX2930E1ZU",
+      "client_tax_id": "09UOMGF9259A1ZP",
+      "client_phone": "02547079149"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-453K IMEI: 511276338338104",
+        "item_qty": "2",
+        "item_net_price": "19,822.99",
+        "item_net_worth": "39,645.98",
+        "item_vat": "18%",
+        "item_gross_worth": "46,782.26"
+      },
+      {
+        "item_desc": "HP Laptops HP-396P",
+        "item_qty": "1",
+        "item_net_price": "40,873.61",
+        "item_net_worth": "40,873.61",
+        "item_vat": "18%",
+        "item_gross_worth": "48,230.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹80,519.59",
+      "total_vat": "₹14,493.53",
+      "total_gross_worth": "₹95,013.12",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹14,493.53"
+    }
+  }
+}

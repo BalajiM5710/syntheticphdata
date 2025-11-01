@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RDP/956",
+      "invoice_date": "02/02/2025",
+      "seller": "RAM ELECTRONICS 91/464, Kant Zila, Thanjavur-753871",
+      "client": "CHATURA BEN 85, Hayer Ganj, Naihati-929789",
+      "shipping_address": "72/39, Thaman Chowk, Junagadh-082041",
+      "seller_tax_id": "37ODYCR7283T1ZX",
+      "client_tax_id": "35GKJIU5874I1ZL",
+      "client_phone": "9945323442"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-178J",
+        "item_qty": "2",
+        "item_net_price": "61,971.94",
+        "item_net_worth": "123,943.88",
+        "item_vat": "28%",
+        "item_gross_worth": "158,648.17"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-441P",
+        "item_qty": "2",
+        "item_net_price": "60,343.83",
+        "item_net_worth": "120,687.66",
+        "item_vat": "28%",
+        "item_gross_worth": "154,480.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹244,631.54",
+      "total_vat": "₹68,496.83",
+      "total_gross_worth": "₹313,128.37",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹68,496.83"
+    }
+  }
+}

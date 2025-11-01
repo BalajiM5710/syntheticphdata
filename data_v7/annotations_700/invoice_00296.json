@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3091",
+      "invoice_date": "26/03/2025",
+      "seller": "PRADHAN MOBILE SHOP 89, Agarwal Nagar, Jaipur 270028",
+      "client": "UNNI KARAN 20/34, Om Nagar, Bangalore-561688",
+      "shipping_address": "20/34, Om Nagar, Bangalore-561688",
+      "seller_tax_id": "33YPIZN9673K1ZH",
+      "client_tax_id": "24TVFLY3895M1ZZ",
+      "client_phone": "01534957095"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-652J",
+        "item_qty": "1",
+        "item_net_price": "78,939.70",
+        "item_net_worth": "78,939.70",
+        "item_vat": "28%",
+        "item_gross_worth": "101,042.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹78,939.70",
+      "total_vat": "₹22,103.12",
+      "total_gross_worth": "₹101,042.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,103.12"
+    }
+  }
+}

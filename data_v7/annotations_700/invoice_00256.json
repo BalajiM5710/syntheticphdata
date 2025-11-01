@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/424",
+      "invoice_date": "09/01/2025",
+      "seller": "CITY ELECTRONICS H.No. 848, Sagar Circle, Gopalpur 009473",
+      "client": "LIPIKA SHARAF 33, Randhawa Ganj, Bidhannagar 444360",
+      "shipping_address": "33, Randhawa Ganj, Bidhannagar 444360",
+      "seller_tax_id": "27DXUTW8295H1Z2",
+      "client_tax_id": "37AHOFX6386E1ZN",
+      "client_phone": "08428509634"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-400D",
+        "item_qty": "1",
+        "item_net_price": "37,040.35",
+        "item_net_worth": "37,040.35",
+        "item_vat": "28%",
+        "item_gross_worth": "47,411.65"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-504I",
+        "item_qty": "2",
+        "item_net_price": "11,384.89",
+        "item_net_worth": "22,769.78",
+        "item_vat": "28%",
+        "item_gross_worth": "29,145.32"
+      },
+      {
+        "item_desc": "Sony Television SON-937U",
+        "item_qty": "2",
+        "item_net_price": "48,617.83",
+        "item_net_worth": "97,235.66",
+        "item_vat": "28%",
+        "item_gross_worth": "124,461.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹157,045.79",
+      "total_vat": "₹43,972.82",
+      "total_gross_worth": "₹201,018.61",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹43,972.82"
+    }
+  }
+}

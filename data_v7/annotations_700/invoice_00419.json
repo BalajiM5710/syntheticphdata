@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6349",
+      "invoice_date": "04/07/2025",
+      "seller": "FUTURE TECH 79/818, Bhatti Street, Kolhapur-500909",
+      "client": "KAI JOSHI 749, Butala Road, Dewas 436787",
+      "shipping_address": "46, Patla Road, Noida 176315",
+      "seller_tax_id": "19NGVEC0230B1ZQ",
+      "client_tax_id": "10LMMHQ6884Q1ZD",
+      "client_phone": "7016908052"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-646C",
+        "item_qty": "2",
+        "item_net_price": "76,228.96",
+        "item_net_worth": "152,457.92",
+        "item_vat": "28%",
+        "item_gross_worth": "195,146.14"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-436F",
+        "item_qty": "1",
+        "item_net_price": "66,621.42",
+        "item_net_worth": "66,621.42",
+        "item_vat": "28%",
+        "item_gross_worth": "85,275.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹219,079.34",
+      "total_vat": "₹61,342.22",
+      "total_gross_worth": "₹280,421.56",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹61,342.22"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TLO/664",
+      "invoice_date": "09/10/2025",
+      "seller": "VISHWA ELECTRONICS 48, Kant, Bharatpur 693660",
+      "client": "CHATRESH NARAYANAN 58/73, Om Circle, Danapur 382049",
+      "shipping_address": "58/73, Om Circle, Danapur 382049",
+      "seller_tax_id": "03KVUPV1041V1Z5",
+      "client_tax_id": "16UGFBK9451C1ZT",
+      "client_phone": "03192197633"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-607R",
+        "item_qty": "1",
+        "item_net_price": "22,532.17",
+        "item_net_worth": "22,532.17",
+        "item_vat": "12%",
+        "item_gross_worth": "25,236.03"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-712A",
+        "item_qty": "2",
+        "item_net_price": "56,580.40",
+        "item_net_worth": "113,160.80",
+        "item_vat": "12%",
+        "item_gross_worth": "126,740.10"
+      },
+      {
+        "item_desc": "TVS Bike TVS-139B",
+        "item_qty": "1",
+        "item_net_price": "62,058.24",
+        "item_net_worth": "62,058.24",
+        "item_vat": "12%",
+        "item_gross_worth": "69,505.23"
+      },
+      {
+        "item_desc": "Hero Bike HER-533Z",
+        "item_qty": "2",
+        "item_net_price": "64,448.37",
+        "item_net_worth": "128,896.74",
+        "item_vat": "12%",
+        "item_gross_worth": "144,364.35"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹326,647.95",
+      "total_vat": "₹39,197.75",
+      "total_gross_worth": "₹365,845.70",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,197.75"
+    }
+  }
+}

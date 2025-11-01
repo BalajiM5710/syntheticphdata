@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7961",
+      "invoice_date": "23/01/2025",
+      "seller": "ELECTRONICS WORLD 40, Keer Zila, Durg-312707",
+      "client": "AGASTYA RAMANATHAN 95/516, Palla Circle, Katihar 069181",
+      "shipping_address": "95/516, Palla Circle, Katihar 069181",
+      "seller_tax_id": "04SHWNS9394B1Z2",
+      "client_tax_id": "12HVKTY9086X1ZV",
+      "client_phone": "+913129299793"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-319U",
+        "item_qty": "1",
+        "item_net_price": "11,770.30",
+        "item_net_worth": "11,770.30",
+        "item_vat": "28%",
+        "item_gross_worth": "15,065.98"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-708G",
+        "item_qty": "1",
+        "item_net_price": "85,766.12",
+        "item_net_worth": "85,766.12",
+        "item_vat": "28%",
+        "item_gross_worth": "109,780.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,536.42",
+      "total_vat": "₹27,310.20",
+      "total_gross_worth": "₹124,846.62",
+      "total_cgst": "₹13,655.10",
+      "total_sgst": "₹13,655.10",
+      "total_igst": "₹0.00"
+    }
+  }
+}

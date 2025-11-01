@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ASL/395",
+      "invoice_date": "03/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 871, Behl Path, Arrah-698070",
+      "client": "POOJA TANDON H.No. 68, Krish Chowk, Dibrugarh 363582",
+      "shipping_address": "H.No. 68, Krish Chowk, Dibrugarh 363582",
+      "seller_tax_id": "37WZCUY8981A1ZA",
+      "client_tax_id": "14INDON5375T1ZU",
+      "client_phone": "2785159783"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-336S",
+        "item_qty": "2",
+        "item_net_price": "49,262.46",
+        "item_net_worth": "98,524.92",
+        "item_vat": "18%",
+        "item_gross_worth": "116,259.41"
+      },
+      {
+        "item_desc": "Sony Camera SON-160E",
+        "item_qty": "2",
+        "item_net_price": "66,466.75",
+        "item_net_worth": "132,933.50",
+        "item_vat": "18%",
+        "item_gross_worth": "156,861.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹231,458.42",
+      "total_vat": "₹41,662.52",
+      "total_gross_worth": "₹273,120.94",
+      "total_cgst": "₹20,831.26",
+      "total_sgst": "₹20,831.26",
+      "total_igst": "₹0.00"
+    }
+  }
+}

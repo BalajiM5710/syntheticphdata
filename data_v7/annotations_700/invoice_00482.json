@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VVQ/795",
+      "invoice_date": "25/10/2025",
+      "seller": "METRO TECH STORE H.No. 761, Dey Path, Unnao 573091",
+      "client": "BALVEER DOCTOR 383, Varkey Circle, Anand-405510",
+      "shipping_address": "383, Varkey Circle, Anand-405510",
+      "seller_tax_id": "28ZZPCK7455S1Z6",
+      "client_tax_id": "29TJHXU9867V1ZK",
+      "client_phone": "4271381071"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-557H",
+        "item_qty": "1",
+        "item_net_price": "62,476.92",
+        "item_net_worth": "62,476.92",
+        "item_vat": "28%",
+        "item_gross_worth": "79,970.46"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-995V IMEI: 869665399027633",
+        "item_qty": "2",
+        "item_net_price": "84,121.13",
+        "item_net_worth": "168,242.26",
+        "item_vat": "28%",
+        "item_gross_worth": "215,350.09"
+      },
+      {
+        "item_desc": "Sony Headphones SON-170H",
+        "item_qty": "1",
+        "item_net_price": "50,930.10",
+        "item_net_worth": "50,930.10",
+        "item_vat": "28%",
+        "item_gross_worth": "65,190.53"
+      },
+      {
+        "item_desc": "TVS Bike TVS-125J",
+        "item_qty": "1",
+        "item_net_price": "80,413.84",
+        "item_net_worth": "80,413.84",
+        "item_vat": "28%",
+        "item_gross_worth": "102,929.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹362,063.12",
+      "total_vat": "₹101,377.67",
+      "total_gross_worth": "₹463,440.79",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹101,377.67"
+    }
+  }
+}

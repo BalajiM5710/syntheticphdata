@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3128",
+      "invoice_date": "02/02/2025",
+      "seller": "PRADHAN MOBILE SHOP 11/013, Bhatti Marg, Suryapet-453400",
+      "client": "VINAYA DHAR 54, Kapadia Road, Mangalore-261946",
+      "shipping_address": "H.No. 047, Sunder Street, Pondicherry-459382",
+      "seller_tax_id": "30QVDVB6037A1Z1",
+      "client_tax_id": "28NBQOU7974S1ZZ",
+      "client_phone": "5877107383"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-244W",
+        "item_qty": "1",
+        "item_net_price": "24,730.70",
+        "item_net_worth": "24,730.70",
+        "item_vat": "28%",
+        "item_gross_worth": "31,655.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹24,730.70",
+      "total_vat": "₹6,924.60",
+      "total_gross_worth": "₹31,655.30",
+      "total_cgst": "₹3,462.30",
+      "total_sgst": "₹3,462.30",
+      "total_igst": "₹0.00"
+    }
+  }
+}

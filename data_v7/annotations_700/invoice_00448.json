@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/427",
+      "invoice_date": "20/01/2025",
+      "seller": "SMART ELECTRONICS H.No. 08, Sahota Marg, Coimbatore 863863",
+      "client": "MEGHANA WASON 28, Rattan Circle, Kochi 056939",
+      "shipping_address": "28, Rattan Circle, Kochi 056939",
+      "seller_tax_id": "16DJKMS2719G1ZW",
+      "client_tax_id": "13AORQV6576P1ZK",
+      "client_phone": "+913251002308"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-897Z",
+        "item_qty": "1",
+        "item_net_price": "48,459.53",
+        "item_net_worth": "48,459.53",
+        "item_vat": "18%",
+        "item_gross_worth": "57,182.25"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-696J",
+        "item_qty": "2",
+        "item_net_price": "13,688.84",
+        "item_net_worth": "27,377.68",
+        "item_vat": "18%",
+        "item_gross_worth": "32,305.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,837.21",
+      "total_vat": "₹13,650.70",
+      "total_gross_worth": "₹89,487.91",
+      "total_cgst": "₹6,825.35",
+      "total_sgst": "₹6,825.35",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "DYV/318",
+      "invoice_date": "19/07/2025",
+      "seller": "SUPREME ELECTRONICS 27/911, Raju Circle, Amravati 050701",
+      "client": "HENRY VERMA 855, Barad Nagar, Warangal 067285",
+      "shipping_address": "11, Lala, Morbi-842975",
+      "seller_tax_id": "25LSVYK5914X1Z0",
+      "client_tax_id": "34AIYAC7251U1ZF",
+      "client_phone": "1669479965"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-676D",
+        "item_qty": "2",
+        "item_net_price": "91,483.87",
+        "item_net_worth": "182,967.74",
+        "item_vat": "18%",
+        "item_gross_worth": "215,901.93"
+      },
+      {
+        "item_desc": "Sony Speaker SON-979B",
+        "item_qty": "2",
+        "item_net_price": "50,835.60",
+        "item_net_worth": "101,671.20",
+        "item_vat": "18%",
+        "item_gross_worth": "119,972.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹284,638.94",
+      "total_vat": "₹51,235.01",
+      "total_gross_worth": "₹335,873.95",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹51,235.01"
+    }
+  }
+}

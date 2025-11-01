@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/209",
+      "invoice_date": "21/10/2025",
+      "seller": "PATEL MOBILES 318, Sachar, Gurgaon-614168",
+      "client": "GOPAL SUNDER 15, D’Alia, Tirunelveli 120008",
+      "shipping_address": "15, D’Alia, Tirunelveli 120008",
+      "seller_tax_id": "23YXKEB6746S1ZC",
+      "client_tax_id": "33MLLOY3301H1ZD",
+      "client_phone": "08775267348"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-318W",
+        "item_qty": "1",
+        "item_net_price": "65,540.02",
+        "item_net_worth": "65,540.02",
+        "item_vat": "18%",
+        "item_gross_worth": "77,337.22"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-375R",
+        "item_qty": "2",
+        "item_net_price": "50,791.49",
+        "item_net_worth": "101,582.98",
+        "item_vat": "18%",
+        "item_gross_worth": "119,867.92"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-890S",
+        "item_qty": "1",
+        "item_net_price": "72,393.95",
+        "item_net_worth": "72,393.95",
+        "item_vat": "18%",
+        "item_gross_worth": "85,424.86"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-967X",
+        "item_qty": "1",
+        "item_net_price": "89,878.19",
+        "item_net_worth": "89,878.19",
+        "item_vat": "18%",
+        "item_gross_worth": "106,056.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹329,395.14",
+      "total_vat": "₹59,291.13",
+      "total_gross_worth": "₹388,686.27",
+      "total_cgst": "₹29,645.56",
+      "total_sgst": "₹29,645.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

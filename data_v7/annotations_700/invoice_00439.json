@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7890",
+      "invoice_date": "03/09/2025",
+      "seller": "RAM ELECTRONICS 76/28, Pillay Street, Uluberia-976045",
+      "client": "NIDRA BARIA 823, Chaudry Chowk, Phusro 207306",
+      "shipping_address": "823, Chaudry Chowk, Phusro 207306",
+      "seller_tax_id": "03EUIGZ2412G1Z7",
+      "client_tax_id": "29EUMTT3611E1Z3",
+      "client_phone": "5286627860"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-414P",
+        "item_qty": "1",
+        "item_net_price": "34,890.09",
+        "item_net_worth": "34,890.09",
+        "item_vat": "12%",
+        "item_gross_worth": "39,076.90"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-624G",
+        "item_qty": "1",
+        "item_net_price": "48,163.78",
+        "item_net_worth": "48,163.78",
+        "item_vat": "12%",
+        "item_gross_worth": "53,943.43"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-411W",
+        "item_qty": "1",
+        "item_net_price": "15,399.17",
+        "item_net_worth": "15,399.17",
+        "item_vat": "12%",
+        "item_gross_worth": "17,247.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹98,453.04",
+      "total_vat": "₹11,814.36",
+      "total_gross_worth": "₹110,267.40",
+      "total_cgst": "₹5,907.18",
+      "total_sgst": "₹5,907.18",
+      "total_igst": "₹0.00"
+    }
+  }
+}

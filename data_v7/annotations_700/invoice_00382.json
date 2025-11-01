@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/377",
+      "invoice_date": "07/09/2025",
+      "seller": "MOBILE POINT H.No. 10, Butala Ganj, Aurangabad-882808",
+      "client": "AARNAV MITTER H.No. 208, Oak, Silchar-526236",
+      "shipping_address": "H.No. 208, Oak, Silchar-526236",
+      "seller_tax_id": "07LWYAN7079W1Z2",
+      "client_tax_id": "12PDQAV3350S1ZD",
+      "client_phone": "4242787299"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-291T",
+        "item_qty": "2",
+        "item_net_price": "43,987.59",
+        "item_net_worth": "87,975.18",
+        "item_vat": "12%",
+        "item_gross_worth": "98,532.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹87,975.18",
+      "total_vat": "₹10,557.02",
+      "total_gross_worth": "₹98,532.20",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,557.02"
+    }
+  }
+}

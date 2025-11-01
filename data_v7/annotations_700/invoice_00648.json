@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9732",
+      "invoice_date": "24/10/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 235, Dyal Ganj, Dhule 609859",
+      "client": "IRYA COMAR H.No. 62, Nath, Ratlam 880472",
+      "shipping_address": "H.No. 558, Nayar Path, Hospet-930801",
+      "seller_tax_id": "07DYNBS6738K1Z7",
+      "client_tax_id": "08YPYUD4012Y1ZG",
+      "client_phone": "+918715487137"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-261P",
+        "item_qty": "1",
+        "item_net_price": "76,870.25",
+        "item_net_worth": "76,870.25",
+        "item_vat": "18%",
+        "item_gross_worth": "90,706.89"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-293C",
+        "item_qty": "2",
+        "item_net_price": "63,538.01",
+        "item_net_worth": "127,076.02",
+        "item_vat": "18%",
+        "item_gross_worth": "149,949.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,946.27",
+      "total_vat": "₹36,710.33",
+      "total_gross_worth": "₹240,656.60",
+      "total_cgst": "₹18,355.16",
+      "total_sgst": "₹18,355.16",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/201",
+      "invoice_date": "11/09/2025",
+      "seller": "FUTURE TECH H.No. 75, Keer Path, Naihati 259424",
+      "client": "MAX KAKAR H.No. 798, Setty Marg, Yamunanagar-595524",
+      "shipping_address": "H.No. 798, Setty Marg, Yamunanagar-595524",
+      "seller_tax_id": "14NKGWJ7411A1Z6",
+      "client_tax_id": "13OAPTI7618T1ZK",
+      "client_phone": "08713611535"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-629K",
+        "item_qty": "2",
+        "item_net_price": "29,352.23",
+        "item_net_worth": "58,704.46",
+        "item_vat": "18%",
+        "item_gross_worth": "69,271.26"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-976G",
+        "item_qty": "1",
+        "item_net_price": "70,807.63",
+        "item_net_worth": "70,807.63",
+        "item_vat": "18%",
+        "item_gross_worth": "83,553.00"
+      },
+      {
+        "item_desc": "Mi Television MI-267N",
+        "item_qty": "2",
+        "item_net_price": "21,724.68",
+        "item_net_worth": "43,449.36",
+        "item_vat": "18%",
+        "item_gross_worth": "51,270.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,961.45",
+      "total_vat": "₹31,133.06",
+      "total_gross_worth": "₹204,094.51",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹31,133.06"
+    }
+  }
+}

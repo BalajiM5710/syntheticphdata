@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KCZ/725",
+      "invoice_date": "16/06/2025",
+      "seller": "STAR ELECTRONICS 94/294, Bhagat Marg, Gaya 365720",
+      "client": "ABHIRAM SAMPATH H.No. 54, Krishnamurthy Nagar, Ghaziabad-226657",
+      "shipping_address": "47/954, Deep Road, Kochi-955371",
+      "seller_tax_id": "25NGZIZ1428D1ZY",
+      "client_tax_id": "02DSYJH6187E1ZL",
+      "client_phone": "9652640616"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-554S",
+        "item_qty": "2",
+        "item_net_price": "39,087.89",
+        "item_net_worth": "78,175.78",
+        "item_vat": "18%",
+        "item_gross_worth": "92,247.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹78,175.78",
+      "total_vat": "₹14,071.64",
+      "total_gross_worth": "₹92,247.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹14,071.64"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/498",
+      "invoice_date": "29/05/2025",
+      "seller": "ROYAL MOBILES H.No. 649, Chokshi, Mango 743980",
+      "client": "WARINDER MITTAL 86, Sandal Marg, Raurkela Industrial Township-222213",
+      "shipping_address": "H.No. 71, Bhagat Chowk, Surendranagar Dudhrej-704836",
+      "seller_tax_id": "21MDUID6095W1ZS",
+      "client_tax_id": "32LJICE8273E1ZB",
+      "client_phone": "06928221925"
+    },
+    "items": [
+      {
+        "item_desc": "Motorola Smartphones MOT-130S IMEI: 558568982462846",
+        "item_qty": "1",
+        "item_net_price": "31,921.95",
+        "item_net_worth": "31,921.95",
+        "item_vat": "28%",
+        "item_gross_worth": "40,860.10"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-992O",
+        "item_qty": "1",
+        "item_net_price": "8,986.86",
+        "item_net_worth": "8,986.86",
+        "item_vat": "28%",
+        "item_gross_worth": "11,503.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹40,908.81",
+      "total_vat": "₹11,454.47",
+      "total_gross_worth": "₹52,363.28",
+      "total_cgst": "₹5,727.23",
+      "total_sgst": "₹5,727.23",
+      "total_igst": "₹0.00"
+    }
+  }
+}

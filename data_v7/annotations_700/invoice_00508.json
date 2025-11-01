@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UXX/978",
+      "invoice_date": "10/01/2025",
+      "seller": "PATEL MOBILES 989, Shah, Nagaon 729536",
+      "client": "KIAAN YOHANNAN 39/630, Ratta Street, Ichalkaranji 097013",
+      "shipping_address": "39/630, Ratta Street, Ichalkaranji 097013",
+      "seller_tax_id": "27WFSSP6752B1ZE",
+      "client_tax_id": "14UCGSJ2340G1ZM",
+      "client_phone": "7265412297"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-356F",
+        "item_qty": "1",
+        "item_net_price": "21,728.95",
+        "item_net_worth": "21,728.95",
+        "item_vat": "12%",
+        "item_gross_worth": "24,336.42"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-355C",
+        "item_qty": "2",
+        "item_net_price": "82,354.01",
+        "item_net_worth": "164,708.02",
+        "item_vat": "12%",
+        "item_gross_worth": "184,472.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹186,436.97",
+      "total_vat": "₹22,372.44",
+      "total_gross_worth": "₹208,809.41",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,372.44"
+    }
+  }
+}

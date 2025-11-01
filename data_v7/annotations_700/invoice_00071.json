@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5370",
+      "invoice_date": "02/01/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 80, Behl Marg, Kota 692827",
+      "client": "ARJUN DAS 73/539, Sami Nagar, Chinsurah 672371",
+      "shipping_address": "73/539, Sami Nagar, Chinsurah 672371",
+      "seller_tax_id": "31HQQDU8083Y1ZQ",
+      "client_tax_id": "04CVGOL3217B1ZN",
+      "client_phone": "+919750602441"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-219L",
+        "item_qty": "2",
+        "item_net_price": "25,741.89",
+        "item_net_worth": "51,483.78",
+        "item_vat": "12%",
+        "item_gross_worth": "57,661.83"
+      },
+      {
+        "item_desc": "Hero Bike HER-806H",
+        "item_qty": "2",
+        "item_net_price": "61,386.59",
+        "item_net_worth": "122,773.18",
+        "item_vat": "12%",
+        "item_gross_worth": "137,505.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹174,256.96",
+      "total_vat": "₹20,910.84",
+      "total_gross_worth": "₹195,167.80",
+      "total_cgst": "₹10,455.42",
+      "total_sgst": "₹10,455.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3734",
+      "invoice_date": "04/09/2025",
+      "seller": "STAR ELECTRONICS 00/497, Kata Zila, Panipat-775363",
+      "client": "VASUDHA SENGUPTA H.No. 79, Mukherjee Road, Panipat 593193",
+      "shipping_address": "29/15, Prashad Marg, Ramagundam-301535",
+      "seller_tax_id": "08AVQRJ6945Q1ZR",
+      "client_tax_id": "24XJKYI5730U1ZT",
+      "client_phone": "2104819668"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-254N",
+        "item_qty": "1",
+        "item_net_price": "62,620.61",
+        "item_net_worth": "62,620.61",
+        "item_vat": "28%",
+        "item_gross_worth": "80,154.38"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-798S",
+        "item_qty": "1",
+        "item_net_price": "13,123.55",
+        "item_net_worth": "13,123.55",
+        "item_vat": "28%",
+        "item_gross_worth": "16,798.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,744.16",
+      "total_vat": "₹21,208.36",
+      "total_gross_worth": "₹96,952.52",
+      "total_cgst": "₹10,604.18",
+      "total_sgst": "₹10,604.18",
+      "total_igst": "₹0.00"
+    }
+  }
+}

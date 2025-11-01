@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/754",
+      "invoice_date": "23/01/2025",
+      "seller": "CITY ELECTRONICS H.No. 14, Gupta Circle, Solapur 413366",
+      "client": "UPMA PATLA H.No. 12, Lal Circle, Gangtok-047514",
+      "shipping_address": "H.No. 12, Lal Circle, Gangtok-047514",
+      "seller_tax_id": "11GGXOB5327W1ZU",
+      "client_tax_id": "03WIWVG2375L1ZV",
+      "client_phone": "+916817545212"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-102P",
+        "item_qty": "1",
+        "item_net_price": "91,002.14",
+        "item_net_worth": "91,002.14",
+        "item_vat": "28%",
+        "item_gross_worth": "116,482.74"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-450E IMEI: 535751770680943",
+        "item_qty": "2",
+        "item_net_price": "84,855.92",
+        "item_net_worth": "169,711.84",
+        "item_vat": "28%",
+        "item_gross_worth": "217,231.16"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-607X",
+        "item_qty": "1",
+        "item_net_price": "65,151.52",
+        "item_net_worth": "65,151.52",
+        "item_vat": "28%",
+        "item_gross_worth": "83,393.95"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-842M",
+        "item_qty": "2",
+        "item_net_price": "30,657.20",
+        "item_net_worth": "61,314.40",
+        "item_vat": "28%",
+        "item_gross_worth": "78,482.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹387,179.90",
+      "total_vat": "₹108,410.37",
+      "total_gross_worth": "₹495,590.27",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹108,410.37"
+    }
+  }
+}

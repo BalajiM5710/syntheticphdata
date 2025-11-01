@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5125",
+      "invoice_date": "19/10/2025",
+      "seller": "SINGH ELECTRONICS H.No. 807, Naidu Zila, Bhiwani-962416",
+      "client": "YASTI CHAUDHARI 01/20, Pandey Road, Warangal 248055",
+      "shipping_address": "01/20, Pandey Road, Warangal 248055",
+      "seller_tax_id": "20OCFZW2720Q1Z0",
+      "client_tax_id": "13JSIBT9953F1ZH",
+      "client_phone": "05760437168"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-160H",
+        "item_qty": "2",
+        "item_net_price": "79,045.63",
+        "item_net_worth": "158,091.26",
+        "item_vat": "18%",
+        "item_gross_worth": "186,547.69"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-654Z",
+        "item_qty": "1",
+        "item_net_price": "25,104.50",
+        "item_net_worth": "25,104.50",
+        "item_vat": "18%",
+        "item_gross_worth": "29,623.31"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-671Z",
+        "item_qty": "2",
+        "item_net_price": "22,486.93",
+        "item_net_worth": "44,973.86",
+        "item_vat": "18%",
+        "item_gross_worth": "53,069.15"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-825M IMEI: 543149214470084",
+        "item_qty": "2",
+        "item_net_price": "82,032.97",
+        "item_net_worth": "164,065.94",
+        "item_vat": "18%",
+        "item_gross_worth": "193,597.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹392,235.56",
+      "total_vat": "₹70,602.40",
+      "total_gross_worth": "₹462,837.96",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹70,602.40"
+    }
+  }
+}

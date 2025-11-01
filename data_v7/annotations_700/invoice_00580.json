@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/114",
+      "invoice_date": "10/06/2025",
+      "seller": "DIGITAL STORE H.No. 940, Bhatt Street, Mehsana 153367",
+      "client": "HARINI MANDAL 73/17, Maharaj Path, Adoni-843745",
+      "shipping_address": "73/17, Maharaj Path, Adoni-843745",
+      "seller_tax_id": "34VIENL8963B1ZF",
+      "client_tax_id": "17YBRWA7115A1ZS",
+      "client_phone": "3619402121"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-985J",
+        "item_qty": "2",
+        "item_net_price": "93,340.13",
+        "item_net_worth": "186,680.26",
+        "item_vat": "18%",
+        "item_gross_worth": "220,282.71"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-499X",
+        "item_qty": "1",
+        "item_net_price": "73,841.13",
+        "item_net_worth": "73,841.13",
+        "item_vat": "18%",
+        "item_gross_worth": "87,132.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹260,521.39",
+      "total_vat": "₹46,893.85",
+      "total_gross_worth": "₹307,415.24",
+      "total_cgst": "₹23,446.93",
+      "total_sgst": "₹23,446.93",
+      "total_igst": "₹0.00"
+    }
+  }
+}

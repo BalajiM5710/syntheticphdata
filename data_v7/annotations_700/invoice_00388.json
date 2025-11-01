@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/315",
+      "invoice_date": "28/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS 83/59, Sharaf Marg, Etawah 486128",
+      "client": "CHAKRIKA SUBRAMANIAM 513, Pall, Danapur 853050",
+      "shipping_address": "513, Pall, Danapur 853050",
+      "seller_tax_id": "14GXFEQ5911B1Z7",
+      "client_tax_id": "07UIKUM5520X1ZZ",
+      "client_phone": "1331025849"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-949H",
+        "item_qty": "2",
+        "item_net_price": "23,718.31",
+        "item_net_worth": "47,436.62",
+        "item_vat": "18%",
+        "item_gross_worth": "55,975.21"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-878L",
+        "item_qty": "1",
+        "item_net_price": "84,773.83",
+        "item_net_worth": "84,773.83",
+        "item_vat": "18%",
+        "item_gross_worth": "100,033.12"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-648H",
+        "item_qty": "2",
+        "item_net_price": "88,117.45",
+        "item_net_worth": "176,234.90",
+        "item_vat": "18%",
+        "item_gross_worth": "207,957.18"
+      },
+      {
+        "item_desc": "Hero Bike HER-424P",
+        "item_qty": "1",
+        "item_net_price": "93,556.57",
+        "item_net_worth": "93,556.57",
+        "item_vat": "18%",
+        "item_gross_worth": "110,396.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹402,001.92",
+      "total_vat": "₹72,360.35",
+      "total_gross_worth": "₹474,362.27",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹72,360.35"
+    }
+  }
+}

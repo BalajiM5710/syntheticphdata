@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/628",
+      "invoice_date": "20/08/2025",
+      "seller": "SMART ELECTRONICS 590, Agate Nagar, Anantapur-210665",
+      "client": "RIYA NARAYAN 66/439, Kanda Street, Shimla-194319",
+      "shipping_address": "59/25, Patil Street, Imphal-887058",
+      "seller_tax_id": "15NIVNY1558F1ZQ",
+      "client_tax_id": "34USBEK2458H1Z5",
+      "client_phone": "08642359119"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-313I",
+        "item_qty": "2",
+        "item_net_price": "60,275.24",
+        "item_net_worth": "120,550.48",
+        "item_vat": "28%",
+        "item_gross_worth": "154,304.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,550.48",
+      "total_vat": "₹33,754.13",
+      "total_gross_worth": "₹154,304.61",
+      "total_cgst": "₹16,877.07",
+      "total_sgst": "₹16,877.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

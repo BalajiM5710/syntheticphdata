@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/655",
+      "invoice_date": "23/05/2025",
+      "seller": "TECH BAZAAR H.No. 90, Yohannan Circle, Ahmedabad-578266",
+      "client": "BIMALA D’ALIA H.No. 699, Barad Street, Sonipat 926926",
+      "shipping_address": "53/316, Gala Circle, Bhind 190824",
+      "seller_tax_id": "33ZNNNR6691U1ZV",
+      "client_tax_id": "17LTRND0112K1ZJ",
+      "client_phone": "1384617681"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-396P",
+        "item_qty": "1",
+        "item_net_price": "84,501.01",
+        "item_net_worth": "84,501.01",
+        "item_vat": "18%",
+        "item_gross_worth": "99,711.19"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-938N",
+        "item_qty": "2",
+        "item_net_price": "33,061.39",
+        "item_net_worth": "66,122.78",
+        "item_vat": "18%",
+        "item_gross_worth": "78,024.88"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-484D",
+        "item_qty": "1",
+        "item_net_price": "43,219.43",
+        "item_net_worth": "43,219.43",
+        "item_vat": "18%",
+        "item_gross_worth": "50,998.93"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-249I",
+        "item_qty": "2",
+        "item_net_price": "49,330.60",
+        "item_net_worth": "98,661.20",
+        "item_vat": "18%",
+        "item_gross_worth": "116,420.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹292,504.42",
+      "total_vat": "₹52,650.80",
+      "total_gross_worth": "₹345,155.22",
+      "total_cgst": "₹26,325.40",
+      "total_sgst": "₹26,325.40",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/912",
+      "invoice_date": "10/05/2025",
+      "seller": "STAR ELECTRONICS H.No. 517, Sura Zila, Bhusawal-229388",
+      "client": "REVA SANGHA 48/31, Pai, Jorhat-162580",
+      "shipping_address": "48/31, Pai, Jorhat-162580",
+      "seller_tax_id": "02TVFCA2699J1ZL",
+      "client_tax_id": "23UVGAJ0316E1ZE",
+      "client_phone": "+913033238428"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-964Q",
+        "item_qty": "2",
+        "item_net_price": "34,619.07",
+        "item_net_worth": "69,238.14",
+        "item_vat": "12%",
+        "item_gross_worth": "77,546.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹69,238.14",
+      "total_vat": "₹8,308.58",
+      "total_gross_worth": "₹77,546.72",
+      "total_cgst": "₹4,154.29",
+      "total_sgst": "₹4,154.29",
+      "total_igst": "₹0.00"
+    }
+  }
+}

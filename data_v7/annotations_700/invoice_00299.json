@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5017",
+      "invoice_date": "27/06/2025",
+      "seller": "GADGET GALAXY 97/141, Nagar Path, North Dumdum 249530",
+      "client": "NIHARIKA BORA 24/186, Bansal Nagar, Proddatur 677506",
+      "shipping_address": "90/46, Sandhu Road, Meerut 879394",
+      "seller_tax_id": "05VOUJP8207T1Z9",
+      "client_tax_id": "16BGVTD7132M1ZD",
+      "client_phone": "05712178419"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-666Q",
+        "item_qty": "1",
+        "item_net_price": "27,235.78",
+        "item_net_worth": "27,235.78",
+        "item_vat": "12%",
+        "item_gross_worth": "30,504.07"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-537B",
+        "item_qty": "2",
+        "item_net_price": "52,403.42",
+        "item_net_worth": "104,806.84",
+        "item_vat": "12%",
+        "item_gross_worth": "117,383.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹132,042.62",
+      "total_vat": "₹15,845.11",
+      "total_gross_worth": "₹147,887.73",
+      "total_cgst": "₹7,922.56",
+      "total_sgst": "₹7,922.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

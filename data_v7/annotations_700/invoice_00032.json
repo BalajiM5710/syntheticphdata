@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WJM/414",
+      "invoice_date": "08/05/2025",
+      "seller": "SUPREME ELECTRONICS 38/597, Bala, Panipat-600250",
+      "client": "VANSHA KAUL 267, Goda Chowk, Malegaon-861775",
+      "shipping_address": "H.No. 83, Jaggi Circle, Dibrugarh 448488",
+      "seller_tax_id": "16GWJDI2303L1ZC",
+      "client_tax_id": "22QHTMN7413T1ZR",
+      "client_phone": "05402997683"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-844K",
+        "item_qty": "2",
+        "item_net_price": "75,202.18",
+        "item_net_worth": "150,404.36",
+        "item_vat": "18%",
+        "item_gross_worth": "177,477.14"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-373D",
+        "item_qty": "2",
+        "item_net_price": "35,529.78",
+        "item_net_worth": "71,059.56",
+        "item_vat": "18%",
+        "item_gross_worth": "83,850.28"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-442Q",
+        "item_qty": "1",
+        "item_net_price": "46,252.49",
+        "item_net_worth": "46,252.49",
+        "item_vat": "18%",
+        "item_gross_worth": "54,577.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹267,716.41",
+      "total_vat": "₹48,188.95",
+      "total_gross_worth": "₹315,905.36",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹48,188.95"
+    }
+  }
+}

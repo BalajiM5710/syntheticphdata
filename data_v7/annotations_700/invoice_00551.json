@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/284",
+      "invoice_date": "03/01/2025",
+      "seller": "SINGH ELECTRONICS H.No. 95, Vaidya Nagar, Hyderabad-998327",
+      "client": "YASHVI DUGAL 703, Dash Ganj, Jehanabad 937431",
+      "shipping_address": "703, Dash Ganj, Jehanabad 937431",
+      "seller_tax_id": "18IQCPB6228Z1Z4",
+      "client_tax_id": "37WGPMX7511M1ZS",
+      "client_phone": "07366721882"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-575Z",
+        "item_qty": "1",
+        "item_net_price": "11,194.12",
+        "item_net_worth": "11,194.12",
+        "item_vat": "18%",
+        "item_gross_worth": "13,209.06"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-725T",
+        "item_qty": "1",
+        "item_net_price": "12,406.35",
+        "item_net_worth": "12,406.35",
+        "item_vat": "18%",
+        "item_gross_worth": "14,639.49"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-327M",
+        "item_qty": "2",
+        "item_net_price": "54,360.90",
+        "item_net_worth": "108,721.80",
+        "item_vat": "18%",
+        "item_gross_worth": "128,291.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹132,322.27",
+      "total_vat": "₹23,818.01",
+      "total_gross_worth": "₹156,140.28",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,818.01"
+    }
+  }
+}

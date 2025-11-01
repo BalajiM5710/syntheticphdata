@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2396",
+      "invoice_date": "09/01/2025",
+      "seller": "PATEL MOBILES H.No. 95, Koshy Nagar, Hapur 341917",
+      "client": "GANGA KANT H.No. 293, Halder Nagar, Ranchi-449405",
+      "shipping_address": "H.No. 293, Halder Nagar, Ranchi-449405",
+      "seller_tax_id": "16BUGKF3806I1Z2",
+      "client_tax_id": "36SERBW8204S1Z1",
+      "client_phone": "01025881184"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-456Q",
+        "item_qty": "2",
+        "item_net_price": "50,472.86",
+        "item_net_worth": "100,945.72",
+        "item_vat": "28%",
+        "item_gross_worth": "129,210.52"
+      },
+      {
+        "item_desc": "Sony Speaker SON-390I",
+        "item_qty": "1",
+        "item_net_price": "34,407.12",
+        "item_net_worth": "34,407.12",
+        "item_vat": "28%",
+        "item_gross_worth": "44,041.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹135,352.84",
+      "total_vat": "₹37,898.80",
+      "total_gross_worth": "₹173,251.64",
+      "total_cgst": "₹18,949.40",
+      "total_sgst": "₹18,949.40",
+      "total_igst": "₹0.00"
+    }
+  }
+}

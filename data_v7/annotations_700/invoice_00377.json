@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3253",
+      "invoice_date": "06/09/2025",
+      "seller": "PRADHAN MOBILE SHOP 61/929, Bajwa Street, Kozhikode-552781",
+      "client": "PRATYUSH KUMER 727, Shere Ganj, Raebareli 169301",
+      "shipping_address": "H.No. 52, Chacko Marg, Faridabad 137961",
+      "seller_tax_id": "32QEUTI3393E1ZZ",
+      "client_tax_id": "08NRBCU7780Z1ZA",
+      "client_phone": "3457038501"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-124P",
+        "item_qty": "2",
+        "item_net_price": "20,757.91",
+        "item_net_worth": "41,515.82",
+        "item_vat": "18%",
+        "item_gross_worth": "48,988.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹41,515.82",
+      "total_vat": "₹7,472.85",
+      "total_gross_worth": "₹48,988.67",
+      "total_cgst": "₹3,736.42",
+      "total_sgst": "₹3,736.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

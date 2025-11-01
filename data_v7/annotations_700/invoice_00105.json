@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4570",
+      "invoice_date": "02/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS 21, Bail Chowk, Raebareli 270421",
+      "client": "TURVI GHOSE 30/484, Raghavan Zila, Mysore-195365",
+      "shipping_address": "30/484, Raghavan Zila, Mysore-195365",
+      "seller_tax_id": "04OEXIT7567C1Z4",
+      "client_tax_id": "36WYSLR8277B1ZC",
+      "client_phone": "9405687861"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-400U",
+        "item_qty": "2",
+        "item_net_price": "13,916.28",
+        "item_net_worth": "27,832.56",
+        "item_vat": "18%",
+        "item_gross_worth": "32,842.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹27,832.56",
+      "total_vat": "₹5,009.86",
+      "total_gross_worth": "₹32,842.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹5,009.86"
+    }
+  }
+}

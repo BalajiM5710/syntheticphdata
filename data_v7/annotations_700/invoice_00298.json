@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/883",
+      "invoice_date": "09/09/2025",
+      "seller": "MOBILE POINT 29, Jani Street, Vasai-Virar-505949",
+      "client": "KASHVI SAWHNEY 12, Saxena Ganj, Imphal 040426",
+      "shipping_address": "44/88, Kibe Path, Khora  598768",
+      "seller_tax_id": "31UOHYJ3915N1ZV",
+      "client_tax_id": "01NKWSN5367P1Z3",
+      "client_phone": "+917846369495"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-928N",
+        "item_qty": "2",
+        "item_net_price": "68,675.65",
+        "item_net_worth": "137,351.30",
+        "item_vat": "18%",
+        "item_gross_worth": "162,074.53"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-809R",
+        "item_qty": "1",
+        "item_net_price": "26,348.99",
+        "item_net_worth": "26,348.99",
+        "item_vat": "18%",
+        "item_gross_worth": "31,091.81"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-263N",
+        "item_qty": "1",
+        "item_net_price": "62,678.12",
+        "item_net_worth": "62,678.12",
+        "item_vat": "18%",
+        "item_gross_worth": "73,960.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹226,378.41",
+      "total_vat": "₹40,748.11",
+      "total_gross_worth": "₹267,126.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,748.11"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2920",
+      "invoice_date": "06/09/2025",
+      "seller": "PRADHAN MOBILE SHOP 40/740, Sha Circle, Jhansi 868188",
+      "client": "YASHODHARA TALWAR H.No. 321, Nori Marg, Sirsa-685361",
+      "shipping_address": "H.No. 321, Nori Marg, Sirsa-685361",
+      "seller_tax_id": "11CTHWB4120U1ZN",
+      "client_tax_id": "01PYTKR0068B1ZC",
+      "client_phone": "06287018805"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-125T",
+        "item_qty": "2",
+        "item_net_price": "55,420.79",
+        "item_net_worth": "110,841.58",
+        "item_vat": "18%",
+        "item_gross_worth": "130,793.06"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-586D",
+        "item_qty": "1",
+        "item_net_price": "56,855.96",
+        "item_net_worth": "56,855.96",
+        "item_vat": "18%",
+        "item_gross_worth": "67,090.03"
+      },
+      {
+        "item_desc": "Sony Camera SON-776D",
+        "item_qty": "1",
+        "item_net_price": "28,100.19",
+        "item_net_worth": "28,100.19",
+        "item_vat": "18%",
+        "item_gross_worth": "33,158.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹195,797.73",
+      "total_vat": "₹35,243.59",
+      "total_gross_worth": "₹231,041.32",
+      "total_cgst": "₹17,621.80",
+      "total_sgst": "₹17,621.80",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/972",
+      "invoice_date": "23/03/2025",
+      "seller": "CITY ELECTRONICS 98/25, Chawla Path, Kharagpur 067694",
+      "client": "GAURI KUMER H.No. 82, Seshadri Zila, Agartala 911488",
+      "shipping_address": "13, Dhaliwal Ganj, Kozhikode 801399",
+      "seller_tax_id": "09SBSHI7382Q1ZY",
+      "client_tax_id": "37MJDQG4370D1ZW",
+      "client_phone": "+918556726149"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-653X",
+        "item_qty": "1",
+        "item_net_price": "87,131.97",
+        "item_net_worth": "87,131.97",
+        "item_vat": "12%",
+        "item_gross_worth": "97,587.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹87,131.97",
+      "total_vat": "₹10,455.84",
+      "total_gross_worth": "₹97,587.81",
+      "total_cgst": "₹5,227.92",
+      "total_sgst": "₹5,227.92",
+      "total_igst": "₹0.00"
+    }
+  }
+}

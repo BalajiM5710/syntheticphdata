@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/238",
+      "invoice_date": "25/06/2025",
+      "seller": "DIGITAL STORE 34, Sem Zila, Mumbai-079617",
+      "client": "FARAS PALLA 766, Date Circle, Muzaffarpur 321460",
+      "shipping_address": "766, Date Circle, Muzaffarpur 321460",
+      "seller_tax_id": "10NFCXL7583R1ZZ",
+      "client_tax_id": "36BLLDU7629U1ZX",
+      "client_phone": "+917742398360"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-999A",
+        "item_qty": "1",
+        "item_net_price": "38,163.76",
+        "item_net_worth": "38,163.76",
+        "item_vat": "12%",
+        "item_gross_worth": "42,743.41"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-458S IMEI: 966093529472266",
+        "item_qty": "2",
+        "item_net_price": "25,949.04",
+        "item_net_worth": "51,898.08",
+        "item_vat": "12%",
+        "item_gross_worth": "58,125.85"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-995P",
+        "item_qty": "2",
+        "item_net_price": "8,095.86",
+        "item_net_worth": "16,191.72",
+        "item_vat": "12%",
+        "item_gross_worth": "18,134.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹106,253.56",
+      "total_vat": "₹12,750.43",
+      "total_gross_worth": "₹119,003.99",
+      "total_cgst": "₹6,375.21",
+      "total_sgst": "₹6,375.21",
+      "total_igst": "₹0.00"
+    }
+  }
+}

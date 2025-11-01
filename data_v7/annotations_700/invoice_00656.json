@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/188",
+      "invoice_date": "10/10/2025",
+      "seller": "SMART ELECTRONICS 81/26, Wason Circle, Srinagar 740548",
+      "client": "MAX HAYRE 47/968, Kara Nagar, Pondicherry-625686",
+      "shipping_address": "47/968, Kara Nagar, Pondicherry-625686",
+      "seller_tax_id": "30AJDPQ7105P1ZK",
+      "client_tax_id": "37IGUPP7812N1ZW",
+      "client_phone": "05322925684"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-580C",
+        "item_qty": "1",
+        "item_net_price": "8,455.96",
+        "item_net_worth": "8,455.96",
+        "item_vat": "18%",
+        "item_gross_worth": "9,978.03"
+      },
+      {
+        "item_desc": "Sony Camera SON-729I",
+        "item_qty": "2",
+        "item_net_price": "79,379.92",
+        "item_net_worth": "158,759.84",
+        "item_vat": "18%",
+        "item_gross_worth": "187,336.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,215.80",
+      "total_vat": "₹30,098.84",
+      "total_gross_worth": "₹197,314.64",
+      "total_cgst": "₹15,049.42",
+      "total_sgst": "₹15,049.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

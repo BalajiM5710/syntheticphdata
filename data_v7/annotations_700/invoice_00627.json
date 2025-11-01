@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3416",
+      "invoice_date": "08/06/2025",
+      "seller": "FUTURE TECH 31, Pillai Street, New Delhi-558076",
+      "client": "BHAVIKA JANI 69/891, Agarwal Ganj, Solapur 538653",
+      "shipping_address": "69/891, Agarwal Ganj, Solapur 538653",
+      "seller_tax_id": "12WFNSH3804S1Z1",
+      "client_tax_id": "33NSBHY5465D1ZC",
+      "client_phone": "08008017388"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-763K",
+        "item_qty": "2",
+        "item_net_price": "65,410.14",
+        "item_net_worth": "130,820.28",
+        "item_vat": "18%",
+        "item_gross_worth": "154,367.93"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-702A",
+        "item_qty": "1",
+        "item_net_price": "48,198.54",
+        "item_net_worth": "48,198.54",
+        "item_vat": "18%",
+        "item_gross_worth": "56,874.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,018.82",
+      "total_vat": "₹32,223.39",
+      "total_gross_worth": "₹211,242.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,223.39"
+    }
+  }
+}

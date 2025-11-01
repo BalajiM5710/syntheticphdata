@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NOJ/300",
+      "invoice_date": "22/09/2025",
+      "seller": "METRO TECH STORE 38/98, Padmanabhan, Aurangabad 177107",
+      "client": "WYATT MURTY H.No. 62, Bahri Nagar, Chandrapur 250085",
+      "shipping_address": "H.No. 62, Bahri Nagar, Chandrapur 250085",
+      "seller_tax_id": "23JZZJC7894U1ZW",
+      "client_tax_id": "32VKFFZ0855W1Z1",
+      "client_phone": "09058636284"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-909X",
+        "item_qty": "1",
+        "item_net_price": "47,164.27",
+        "item_net_worth": "47,164.27",
+        "item_vat": "18%",
+        "item_gross_worth": "55,653.84"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-542O",
+        "item_qty": "2",
+        "item_net_price": "23,599.08",
+        "item_net_worth": "47,198.16",
+        "item_vat": "18%",
+        "item_gross_worth": "55,693.83"
+      },
+      {
+        "item_desc": "Sony Television SON-254B",
+        "item_qty": "2",
+        "item_net_price": "68,657.48",
+        "item_net_worth": "137,314.96",
+        "item_vat": "18%",
+        "item_gross_worth": "162,031.65"
+      },
+      {
+        "item_desc": "LG Microwave LG-485S",
+        "item_qty": "1",
+        "item_net_price": "94,405.56",
+        "item_net_worth": "94,405.56",
+        "item_vat": "18%",
+        "item_gross_worth": "111,398.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹326,082.95",
+      "total_vat": "₹58,694.93",
+      "total_gross_worth": "₹384,777.88",
+      "total_cgst": "₹29,347.47",
+      "total_sgst": "₹29,347.47",
+      "total_igst": "₹0.00"
+    }
+  }
+}

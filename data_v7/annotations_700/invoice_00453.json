@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/855",
+      "invoice_date": "10/07/2025",
+      "seller": "SMART ELECTRONICS 56/82, Srinivasan Chowk, Jehanabad-941581",
+      "client": "UCCHAL BALAKRISHNAN 735, Anand Path, Hindupur-454743",
+      "shipping_address": "735, Anand Path, Hindupur-454743",
+      "seller_tax_id": "11QNUHG9908O1ZR",
+      "client_tax_id": "10OFXXF7282P1ZW",
+      "client_phone": "1307344422"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-562V",
+        "item_qty": "2",
+        "item_net_price": "25,980.37",
+        "item_net_worth": "51,960.74",
+        "item_vat": "18%",
+        "item_gross_worth": "61,313.67"
+      },
+      {
+        "item_desc": "Sony Headphones SON-103G",
+        "item_qty": "1",
+        "item_net_price": "68,554.55",
+        "item_net_worth": "68,554.55",
+        "item_vat": "18%",
+        "item_gross_worth": "80,894.37"
+      },
+      {
+        "item_desc": "Sony Headphones SON-266X",
+        "item_qty": "2",
+        "item_net_price": "8,020.40",
+        "item_net_worth": "16,040.80",
+        "item_vat": "18%",
+        "item_gross_worth": "18,928.14"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-638R",
+        "item_qty": "2",
+        "item_net_price": "30,462.32",
+        "item_net_worth": "60,924.64",
+        "item_vat": "18%",
+        "item_gross_worth": "71,891.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹197,480.73",
+      "total_vat": "₹35,546.53",
+      "total_gross_worth": "₹233,027.26",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,546.53"
+    }
+  }
+}

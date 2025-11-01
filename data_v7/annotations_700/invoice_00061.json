@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XMG/504",
+      "invoice_date": "13/01/2025",
+      "seller": "ROYAL MOBILES H.No. 69, Dhar Path, Nellore 152246",
+      "client": "DEV MURTY H.No. 08, Goyal Marg, Phagwara 111840",
+      "shipping_address": "H.No. 08, Goyal Marg, Phagwara 111840",
+      "seller_tax_id": "33QPKXF4710N1ZX",
+      "client_tax_id": "29JRVZU2336G1ZE",
+      "client_phone": "5635289730"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-934C",
+        "item_qty": "2",
+        "item_net_price": "36,408.61",
+        "item_net_worth": "72,817.22",
+        "item_vat": "12%",
+        "item_gross_worth": "81,555.29"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-682A",
+        "item_qty": "2",
+        "item_net_price": "79,911.08",
+        "item_net_worth": "159,822.16",
+        "item_vat": "12%",
+        "item_gross_worth": "179,000.82"
+      },
+      {
+        "item_desc": "Hero Bike HER-147Q",
+        "item_qty": "1",
+        "item_net_price": "60,584.23",
+        "item_net_worth": "60,584.23",
+        "item_vat": "12%",
+        "item_gross_worth": "67,854.34"
+      },
+      {
+        "item_desc": "Sony Speaker SON-845E",
+        "item_qty": "2",
+        "item_net_price": "35,361.81",
+        "item_net_worth": "70,723.62",
+        "item_vat": "12%",
+        "item_gross_worth": "79,210.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹363,947.23",
+      "total_vat": "₹43,673.67",
+      "total_gross_worth": "₹407,620.90",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹43,673.67"
+    }
+  }
+}

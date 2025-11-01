@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4853",
+      "invoice_date": "03/01/2025",
+      "seller": "DIGITAL STORE H.No. 14, Peri Chowk, Pudukkottai-184405",
+      "client": "RAAGINI GANESAN H.No. 844, Tara, Muzaffarnagar 157237",
+      "shipping_address": "H.No. 844, Tara, Muzaffarnagar 157237",
+      "seller_tax_id": "06BHFDR6795H1ZF",
+      "client_tax_id": "12IANBR0243F1ZP",
+      "client_phone": "+914911065258"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-342Q",
+        "item_qty": "1",
+        "item_net_price": "9,912.46",
+        "item_net_worth": "9,912.46",
+        "item_vat": "12%",
+        "item_gross_worth": "11,101.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹9,912.46",
+      "total_vat": "₹1,189.50",
+      "total_gross_worth": "₹11,101.96",
+      "total_cgst": "₹594.75",
+      "total_sgst": "₹594.75",
+      "total_igst": "₹0.00"
+    }
+  }
+}

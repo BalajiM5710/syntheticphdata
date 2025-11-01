@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4641",
+      "invoice_date": "24/01/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 175, Deshmukh Ganj, Anantapur-323506",
+      "client": "VAMAKSHI TANDON H.No. 969, Chatterjee Ganj, Vijayanagaram 876019",
+      "shipping_address": "H.No. 969, Chatterjee Ganj, Vijayanagaram 876019",
+      "seller_tax_id": "37EINPH1253B1Z0",
+      "client_tax_id": "28EFPLZ2400R1ZN",
+      "client_phone": "01368395102"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-917S",
+        "item_qty": "1",
+        "item_net_price": "56,272.76",
+        "item_net_worth": "56,272.76",
+        "item_vat": "12%",
+        "item_gross_worth": "63,025.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹56,272.76",
+      "total_vat": "₹6,752.73",
+      "total_gross_worth": "₹63,025.49",
+      "total_cgst": "₹3,376.37",
+      "total_sgst": "₹3,376.37",
+      "total_igst": "₹0.00"
+    }
+  }
+}

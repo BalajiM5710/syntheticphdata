@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YQP/504",
+      "invoice_date": "31/03/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 22, Goswami, Jodhpur-505290",
+      "client": "GAURANGI RAJAGOPAL 71/207, Sibal Chowk, Surendranagar Dudhrej-850905",
+      "shipping_address": "71/207, Sibal Chowk, Surendranagar Dudhrej-850905",
+      "seller_tax_id": "27EVPTH2828E1ZD",
+      "client_tax_id": "05ZZHCB5961T1Z7",
+      "client_phone": "+915530961052"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-226W",
+        "item_qty": "1",
+        "item_net_price": "26,469.45",
+        "item_net_worth": "26,469.45",
+        "item_vat": "28%",
+        "item_gross_worth": "33,880.90"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-379X",
+        "item_qty": "2",
+        "item_net_price": "86,068.44",
+        "item_net_worth": "172,136.88",
+        "item_vat": "28%",
+        "item_gross_worth": "220,335.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹198,606.33",
+      "total_vat": "₹55,609.77",
+      "total_gross_worth": "₹254,216.10",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹55,609.77"
+    }
+  }
+}

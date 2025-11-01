@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5686",
+      "invoice_date": "11/02/2025",
+      "seller": "DIGITAL STORE 355, Krishnamurthy Zila, Jabalpur-576842",
+      "client": "YASHASVI KAMDAR 93/91, Pandit Chowk, Visakhapatnam-672277",
+      "shipping_address": "93/91, Pandit Chowk, Visakhapatnam-672277",
+      "seller_tax_id": "24LQFZF0854H1ZM",
+      "client_tax_id": "18VTDHA1312D1ZZ",
+      "client_phone": "02059658076"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-213G",
+        "item_qty": "1",
+        "item_net_price": "71,285.25",
+        "item_net_worth": "71,285.25",
+        "item_vat": "18%",
+        "item_gross_worth": "84,116.60"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-476N",
+        "item_qty": "2",
+        "item_net_price": "68,526.16",
+        "item_net_worth": "137,052.32",
+        "item_vat": "18%",
+        "item_gross_worth": "161,721.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹208,337.57",
+      "total_vat": "₹37,500.76",
+      "total_gross_worth": "₹245,838.33",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,500.76"
+    }
+  }
+}

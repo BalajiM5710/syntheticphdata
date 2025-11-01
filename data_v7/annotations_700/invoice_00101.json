@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2307",
+      "invoice_date": "17/04/2025",
+      "seller": "TECH BAZAAR 62/135, Mandal Chowk, Shivpuri-438683",
+      "client": "URMI KURUVILLA H.No. 426, Sahni Ganj, Saharsa-348476",
+      "shipping_address": "H.No. 426, Sahni Ganj, Saharsa-348476",
+      "seller_tax_id": "16AGHIZ7960E1ZZ",
+      "client_tax_id": "24EQRZE2597V1ZG",
+      "client_phone": "+916998176458"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-639C",
+        "item_qty": "2",
+        "item_net_price": "18,594.15",
+        "item_net_worth": "37,188.30",
+        "item_vat": "12%",
+        "item_gross_worth": "41,650.90"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-344F",
+        "item_qty": "1",
+        "item_net_price": "52,336.86",
+        "item_net_worth": "52,336.86",
+        "item_vat": "12%",
+        "item_gross_worth": "58,617.28"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-332N",
+        "item_qty": "2",
+        "item_net_price": "50,708.68",
+        "item_net_worth": "101,417.36",
+        "item_vat": "12%",
+        "item_gross_worth": "113,587.44"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹190,942.52",
+      "total_vat": "₹22,913.10",
+      "total_gross_worth": "₹213,855.62",
+      "total_cgst": "₹11,456.55",
+      "total_sgst": "₹11,456.55",
+      "total_igst": "₹0.00"
+    }
+  }
+}

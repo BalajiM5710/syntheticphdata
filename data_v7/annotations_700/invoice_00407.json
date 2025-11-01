@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FYY/204",
+      "invoice_date": "11/07/2025",
+      "seller": "ELECTRONICS WORLD 007, Nayar Ganj, Siliguri-215897",
+      "client": "ZAYAN REDDY 70/62, Parikh Path, Haridwar 649968",
+      "shipping_address": "70/62, Parikh Path, Haridwar 649968",
+      "seller_tax_id": "23PNJBD3385B1ZL",
+      "client_tax_id": "18VGXXB6675E1ZC",
+      "client_phone": "1048902259"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-920G",
+        "item_qty": "1",
+        "item_net_price": "83,902.93",
+        "item_net_worth": "83,902.93",
+        "item_vat": "28%",
+        "item_gross_worth": "107,395.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹83,902.93",
+      "total_vat": "₹23,492.82",
+      "total_gross_worth": "₹107,395.75",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,492.82"
+    }
+  }
+}

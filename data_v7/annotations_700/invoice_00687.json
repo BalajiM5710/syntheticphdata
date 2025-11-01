@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HDJ/475",
+      "invoice_date": "15/02/2025",
+      "seller": "TECH BAZAAR 33/499, Sahota Circle, Surendranagar Dudhrej 889084",
+      "client": "NITARA MANI 04/456, Saran Street, Kota-925116",
+      "shipping_address": "91/602, Chaudhary Road, Udaipur-373505",
+      "seller_tax_id": "36GRLLC0399F1ZG",
+      "client_tax_id": "33CHRES4049B1ZT",
+      "client_phone": "01436321373"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-919X",
+        "item_qty": "2",
+        "item_net_price": "68,224.95",
+        "item_net_worth": "136,449.90",
+        "item_vat": "28%",
+        "item_gross_worth": "174,655.87"
+      },
+      {
+        "item_desc": "Sony Headphones SON-174Z",
+        "item_qty": "1",
+        "item_net_price": "41,839.49",
+        "item_net_worth": "41,839.49",
+        "item_vat": "28%",
+        "item_gross_worth": "53,554.55"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-780Z",
+        "item_qty": "1",
+        "item_net_price": "87,289.07",
+        "item_net_worth": "87,289.07",
+        "item_vat": "28%",
+        "item_gross_worth": "111,730.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹265,578.46",
+      "total_vat": "₹74,361.97",
+      "total_gross_worth": "₹339,940.43",
+      "total_cgst": "₹37,180.98",
+      "total_sgst": "₹37,180.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4492",
+      "invoice_date": "09/02/2025",
+      "seller": "CITY ELECTRONICS H.No. 932, Kade Road, Etawah-326016",
+      "client": "LIAM KASHYAP 98/11, Kapadia Street, Bokaro-493267",
+      "shipping_address": "98/11, Kapadia Street, Bokaro-493267",
+      "seller_tax_id": "24SGJQJ1000Y1ZP",
+      "client_tax_id": "01UWKYY7975H1ZB",
+      "client_phone": "+915360836758"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-204S",
+        "item_qty": "1",
+        "item_net_price": "46,950.84",
+        "item_net_worth": "46,950.84",
+        "item_vat": "28%",
+        "item_gross_worth": "60,097.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,950.84",
+      "total_vat": "₹13,146.24",
+      "total_gross_worth": "₹60,097.08",
+      "total_cgst": "₹6,573.12",
+      "total_sgst": "₹6,573.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

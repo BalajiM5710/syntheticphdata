@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5188",
+      "invoice_date": "01/06/2025",
+      "seller": "PATEL MOBILES H.No. 454, Borde Street, Rohtak-291539",
+      "client": "GUNBIR TOOR 817, Salvi Marg, Gulbarga-331953",
+      "shipping_address": "H.No. 29, Parsa Road, Guntakal 372427",
+      "seller_tax_id": "02RIVXD0154M1Z1",
+      "client_tax_id": "35XHOEQ2606D1Z8",
+      "client_phone": "5774939185"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-750V",
+        "item_qty": "2",
+        "item_net_price": "68,652.70",
+        "item_net_worth": "137,305.40",
+        "item_vat": "12%",
+        "item_gross_worth": "153,782.05"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-673U",
+        "item_qty": "1",
+        "item_net_price": "80,287.67",
+        "item_net_worth": "80,287.67",
+        "item_vat": "12%",
+        "item_gross_worth": "89,922.19"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-134N",
+        "item_qty": "2",
+        "item_net_price": "18,291.40",
+        "item_net_worth": "36,582.80",
+        "item_vat": "12%",
+        "item_gross_worth": "40,972.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,175.87",
+      "total_vat": "₹30,501.10",
+      "total_gross_worth": "₹284,676.97",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,501.10"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BDN/736",
+      "invoice_date": "25/07/2025",
+      "seller": "RAM ELECTRONICS 98/77, Chanda Chowk, Medininagar 930708",
+      "client": "KASHVI NARANG H.No. 578, Nadkarni, Shimoga 609725",
+      "shipping_address": "H.No. 578, Nadkarni, Shimoga 609725",
+      "seller_tax_id": "27CSJYK2931E1ZZ",
+      "client_tax_id": "03XKHQR5013F1Z1",
+      "client_phone": "+913478677957"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-527W",
+        "item_qty": "2",
+        "item_net_price": "39,021.43",
+        "item_net_worth": "78,042.86",
+        "item_vat": "18%",
+        "item_gross_worth": "92,090.57"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-150M",
+        "item_qty": "2",
+        "item_net_price": "43,769.62",
+        "item_net_worth": "87,539.24",
+        "item_vat": "18%",
+        "item_gross_worth": "103,296.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹165,582.10",
+      "total_vat": "₹29,804.78",
+      "total_gross_worth": "₹195,386.88",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,804.78"
+    }
+  }
+}

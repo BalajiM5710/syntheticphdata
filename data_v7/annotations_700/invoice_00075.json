@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5634",
+      "invoice_date": "22/09/2025",
+      "seller": "PATEL MOBILES H.No. 64, Kata Street, Alappuzha-226985",
+      "client": "JEREMIAH HAYER 760, Patil Road, Kavali-601950",
+      "shipping_address": "622, Lad Ganj, Amritsar-177810",
+      "seller_tax_id": "03AFVQC7353S1ZC",
+      "client_tax_id": "19IUQIL7488G1ZT",
+      "client_phone": "+918342546418"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-948M",
+        "item_qty": "1",
+        "item_net_price": "84,822.07",
+        "item_net_worth": "84,822.07",
+        "item_vat": "12%",
+        "item_gross_worth": "95,000.72"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-376W",
+        "item_qty": "2",
+        "item_net_price": "40,074.26",
+        "item_net_worth": "80,148.52",
+        "item_vat": "12%",
+        "item_gross_worth": "89,766.34"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-522U",
+        "item_qty": "1",
+        "item_net_price": "38,922.34",
+        "item_net_worth": "38,922.34",
+        "item_vat": "12%",
+        "item_gross_worth": "43,593.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹203,892.93",
+      "total_vat": "₹24,467.15",
+      "total_gross_worth": "₹228,360.08",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,467.15"
+    }
+  }
+}

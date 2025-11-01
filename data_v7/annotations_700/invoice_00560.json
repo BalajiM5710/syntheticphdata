@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ULR/426",
+      "invoice_date": "26/09/2025",
+      "seller": "SINGH ELECTRONICS H.No. 216, Sodhi Circle, Berhampur-435523",
+      "client": "FARHAN RAJAGOPALAN H.No. 74, Mane Circle, Karaikudi 916947",
+      "shipping_address": "84/001, Garg, Amritsar-300738",
+      "seller_tax_id": "36YAJDL4341O1ZQ",
+      "client_tax_id": "16PZFXL5945P1Z4",
+      "client_phone": "+915453777300"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-650Z",
+        "item_qty": "2",
+        "item_net_price": "12,917.74",
+        "item_net_worth": "25,835.48",
+        "item_vat": "28%",
+        "item_gross_worth": "33,069.41"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-843S",
+        "item_qty": "1",
+        "item_net_price": "92,427.56",
+        "item_net_worth": "92,427.56",
+        "item_vat": "28%",
+        "item_gross_worth": "118,307.28"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-839R IMEI: 302007674679110",
+        "item_qty": "2",
+        "item_net_price": "46,170.63",
+        "item_net_worth": "92,341.26",
+        "item_vat": "28%",
+        "item_gross_worth": "118,196.81"
+      },
+      {
+        "item_desc": "LG Microwave LG-530T",
+        "item_qty": "2",
+        "item_net_price": "8,327.49",
+        "item_net_worth": "16,654.98",
+        "item_vat": "28%",
+        "item_gross_worth": "21,318.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹227,259.28",
+      "total_vat": "₹63,632.60",
+      "total_gross_worth": "₹290,891.88",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹63,632.60"
+    }
+  }
+}

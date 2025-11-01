@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/147",
+      "invoice_date": "20/03/2025",
+      "seller": "ROYAL MOBILES 96/201, Sankaran, Kumbakonam 835027",
+      "client": "HEMA WALI 45, Mohanty Nagar, Phagwara 060188",
+      "shipping_address": "45, Mohanty Nagar, Phagwara 060188",
+      "seller_tax_id": "12LSPNQ8618D1ZK",
+      "client_tax_id": "01ZGPKY1438Z1ZU",
+      "client_phone": "8908895597"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-193P",
+        "item_qty": "2",
+        "item_net_price": "47,668.71",
+        "item_net_worth": "95,337.42",
+        "item_vat": "28%",
+        "item_gross_worth": "122,031.90"
+      },
+      {
+        "item_desc": "Apple Tablets APP-495R",
+        "item_qty": "2",
+        "item_net_price": "38,242.09",
+        "item_net_worth": "76,484.18",
+        "item_vat": "28%",
+        "item_gross_worth": "97,899.75"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-294P",
+        "item_qty": "2",
+        "item_net_price": "67,139.08",
+        "item_net_worth": "134,278.16",
+        "item_vat": "28%",
+        "item_gross_worth": "171,876.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹306,099.76",
+      "total_vat": "₹85,707.93",
+      "total_gross_worth": "₹391,807.69",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹85,707.93"
+    }
+  }
+}

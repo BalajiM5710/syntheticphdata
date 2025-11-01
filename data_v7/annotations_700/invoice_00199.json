@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/217",
+      "invoice_date": "06/03/2025",
+      "seller": "PATEL MOBILES 07, Ahuja Circle, Ramgarh-443734",
+      "client": "AKSHAY MALHOTRA 35/55, Malhotra Nagar, Guwahati-980233",
+      "shipping_address": "35/55, Malhotra Nagar, Guwahati-980233",
+      "seller_tax_id": "15WIRFL0332D1ZB",
+      "client_tax_id": "16UMSLP9750P1ZU",
+      "client_phone": "+914313504295"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-810A",
+        "item_qty": "1",
+        "item_net_price": "35,544.84",
+        "item_net_worth": "35,544.84",
+        "item_vat": "12%",
+        "item_gross_worth": "39,810.22"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-704Y",
+        "item_qty": "1",
+        "item_net_price": "10,543.67",
+        "item_net_worth": "10,543.67",
+        "item_vat": "12%",
+        "item_gross_worth": "11,808.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹46,088.51",
+      "total_vat": "₹5,530.62",
+      "total_gross_worth": "₹51,619.13",
+      "total_cgst": "₹2,765.31",
+      "total_sgst": "₹2,765.31",
+      "total_igst": "₹0.00"
+    }
+  }
+}

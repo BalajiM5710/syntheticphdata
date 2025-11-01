@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/932",
+      "invoice_date": "05/07/2025",
+      "seller": "RAM ELECTRONICS 31, Gopal Circle, Rajkot 729849",
+      "client": "HARINAKSHI NARANG 504, Gola Zila, Gulbarga 356454",
+      "shipping_address": "504, Gola Zila, Gulbarga 356454",
+      "seller_tax_id": "02ZMPJF5582Z1ZY",
+      "client_tax_id": "05SPJPX4964E1ZD",
+      "client_phone": "7286204582"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-627C IMEI: 063516226318032",
+        "item_qty": "2",
+        "item_net_price": "85,587.67",
+        "item_net_worth": "171,175.34",
+        "item_vat": "28%",
+        "item_gross_worth": "219,104.44"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹171,175.34",
+      "total_vat": "₹47,929.10",
+      "total_gross_worth": "₹219,104.44",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹47,929.10"
+    }
+  }
+}

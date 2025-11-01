@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/128",
+      "invoice_date": "12/08/2025",
+      "seller": "SINGH ELECTRONICS 34/953, Krishnamurthy Street, Parbhani-622384",
+      "client": "DEV KARI 05, Setty Path, Bhilwara 710347",
+      "shipping_address": "63, Sem Street, Haridwar-065564",
+      "seller_tax_id": "16YQCCW9084F1ZB",
+      "client_tax_id": "03IDGOR8360F1ZW",
+      "client_phone": "05175098354"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-573B",
+        "item_qty": "1",
+        "item_net_price": "59,449.72",
+        "item_net_worth": "59,449.72",
+        "item_vat": "28%",
+        "item_gross_worth": "76,095.64"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-408H",
+        "item_qty": "2",
+        "item_net_price": "39,285.16",
+        "item_net_worth": "78,570.32",
+        "item_vat": "28%",
+        "item_gross_worth": "100,570.01"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-833Y",
+        "item_qty": "2",
+        "item_net_price": "65,088.52",
+        "item_net_worth": "130,177.04",
+        "item_vat": "28%",
+        "item_gross_worth": "166,626.61"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-387C",
+        "item_qty": "1",
+        "item_net_price": "48,596.53",
+        "item_net_worth": "48,596.53",
+        "item_vat": "28%",
+        "item_gross_worth": "62,203.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹316,793.61",
+      "total_vat": "₹88,702.21",
+      "total_gross_worth": "₹405,495.82",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹88,702.21"
+    }
+  }
+}

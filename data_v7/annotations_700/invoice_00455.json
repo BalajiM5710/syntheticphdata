@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2825",
+      "invoice_date": "03/09/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 19, Gola Ganj, Bhilai-839673",
+      "client": "KAI VARMA 14/66, Kapur, Rampur-557859",
+      "shipping_address": "14/66, Kapur, Rampur-557859",
+      "seller_tax_id": "30VCDAK1858B1ZF",
+      "client_tax_id": "14BXKCF3261U1ZT",
+      "client_phone": "03093093858"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-125Z",
+        "item_qty": "1",
+        "item_net_price": "43,938.76",
+        "item_net_worth": "43,938.76",
+        "item_vat": "28%",
+        "item_gross_worth": "56,241.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹43,938.76",
+      "total_vat": "₹12,302.85",
+      "total_gross_worth": "₹56,241.61",
+      "total_cgst": "₹6,151.43",
+      "total_sgst": "₹6,151.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

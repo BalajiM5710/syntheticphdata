@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1887",
+      "invoice_date": "24/05/2025",
+      "seller": "RAM ELECTRONICS H.No. 11, Chaudry Zila, Satna-050881",
+      "client": "EKANSH MINHAS H.No. 422, Natarajan Chowk, Tiruppur 030941",
+      "shipping_address": "H.No. 422, Natarajan Chowk, Tiruppur 030941",
+      "seller_tax_id": "16EROYV8308R1ZU",
+      "client_tax_id": "15CPRKI6351Z1ZR",
+      "client_phone": "+918149653866"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-870F IMEI: 511877511551236",
+        "item_qty": "1",
+        "item_net_price": "48,159.00",
+        "item_net_worth": "48,159.00",
+        "item_vat": "18%",
+        "item_gross_worth": "56,827.62"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-972D IMEI: 281201154062926",
+        "item_qty": "1",
+        "item_net_price": "76,622.85",
+        "item_net_worth": "76,622.85",
+        "item_vat": "18%",
+        "item_gross_worth": "90,414.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹124,781.85",
+      "total_vat": "₹22,460.73",
+      "total_gross_worth": "₹147,242.58",
+      "total_cgst": "₹11,230.37",
+      "total_sgst": "₹11,230.37",
+      "total_igst": "₹0.00"
+    }
+  }
+}

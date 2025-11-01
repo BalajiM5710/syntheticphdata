@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5849",
+      "invoice_date": "30/09/2025",
+      "seller": "ROYAL MOBILES 14/02, Kalla Street, Tiruppur 303335",
+      "client": "PRISHA LANKA H.No. 372, Saha Ganj, Nanded 684421",
+      "shipping_address": "H.No. 372, Saha Ganj, Nanded 684421",
+      "seller_tax_id": "12XWDZM0974U1ZT",
+      "client_tax_id": "32FMSSH4065D1ZU",
+      "client_phone": "8171623695"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-311T",
+        "item_qty": "2",
+        "item_net_price": "66,836.54",
+        "item_net_worth": "133,673.08",
+        "item_vat": "12%",
+        "item_gross_worth": "149,713.85"
+      },
+      {
+        "item_desc": "Canon Camera CAN-462F",
+        "item_qty": "2",
+        "item_net_price": "47,728.20",
+        "item_net_worth": "95,456.40",
+        "item_vat": "12%",
+        "item_gross_worth": "106,911.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹229,129.48",
+      "total_vat": "₹27,495.54",
+      "total_gross_worth": "₹256,625.02",
+      "total_cgst": "₹13,747.77",
+      "total_sgst": "₹13,747.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

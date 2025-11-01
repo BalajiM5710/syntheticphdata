@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9789",
+      "invoice_date": "29/10/2025",
+      "seller": "GADGET GALAXY H.No. 39, Sandal Chowk, Bhubaneswar-218784",
+      "client": "ISAAC SHETH 17, Kapadia Ganj, Bhusawal 361130",
+      "shipping_address": "17, Kapadia Ganj, Bhusawal 361130",
+      "seller_tax_id": "30OCVRA8830I1ZJ",
+      "client_tax_id": "24ABCQD1576W1Z1",
+      "client_phone": "+917734144607"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-927Q",
+        "item_qty": "2",
+        "item_net_price": "20,864.11",
+        "item_net_worth": "41,728.22",
+        "item_vat": "18%",
+        "item_gross_worth": "49,239.30"
+      },
+      {
+        "item_desc": "Canon Camera CAN-644V",
+        "item_qty": "2",
+        "item_net_price": "67,841.16",
+        "item_net_worth": "135,682.32",
+        "item_vat": "18%",
+        "item_gross_worth": "160,105.14"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-495U",
+        "item_qty": "1",
+        "item_net_price": "50,901.59",
+        "item_net_worth": "50,901.59",
+        "item_vat": "18%",
+        "item_gross_worth": "60,063.88"
+      },
+      {
+        "item_desc": "Sony Speaker SON-384Q",
+        "item_qty": "1",
+        "item_net_price": "33,203.72",
+        "item_net_worth": "33,203.72",
+        "item_vat": "18%",
+        "item_gross_worth": "39,180.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹261,515.85",
+      "total_vat": "₹47,072.85",
+      "total_gross_worth": "₹308,588.70",
+      "total_cgst": "₹23,536.43",
+      "total_sgst": "₹23,536.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

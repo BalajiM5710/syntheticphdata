@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6243",
+      "invoice_date": "23/01/2025",
+      "seller": "PATEL MOBILES 23/37, Raj Nagar, Jalna-237690",
+      "client": "TANVI SABHARWAL 67/20, Batra Zila, Nizamabad 502062",
+      "shipping_address": "26/843, Behl Road, Karaikudi-710179",
+      "seller_tax_id": "13WPJME9677V1Z0",
+      "client_tax_id": "15CPMMH7437J1ZL",
+      "client_phone": "5999183074"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-800O",
+        "item_qty": "2",
+        "item_net_price": "58,153.55",
+        "item_net_worth": "116,307.10",
+        "item_vat": "12%",
+        "item_gross_worth": "130,263.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹116,307.10",
+      "total_vat": "₹13,956.85",
+      "total_gross_worth": "₹130,263.95",
+      "total_cgst": "₹6,978.43",
+      "total_sgst": "₹6,978.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

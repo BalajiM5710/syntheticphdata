@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/804",
+      "invoice_date": "02/09/2025",
+      "seller": "SMART ELECTRONICS H.No. 300, Din Street, Patiala-619316",
+      "client": "YUVRAJ KAKAR H.No. 93, Kaur, Noida-038722",
+      "shipping_address": "60/47, Jhaveri Path, Amravati-228049",
+      "seller_tax_id": "27SGVST4218Q1ZJ",
+      "client_tax_id": "27SBPCB2991W1Z4",
+      "client_phone": "8707981034"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-738U",
+        "item_qty": "2",
+        "item_net_price": "24,175.59",
+        "item_net_worth": "48,351.18",
+        "item_vat": "28%",
+        "item_gross_worth": "61,889.51"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-964U",
+        "item_qty": "2",
+        "item_net_price": "12,289.58",
+        "item_net_worth": "24,579.16",
+        "item_vat": "28%",
+        "item_gross_worth": "31,461.32"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-266E",
+        "item_qty": "2",
+        "item_net_price": "17,964.36",
+        "item_net_worth": "35,928.72",
+        "item_vat": "28%",
+        "item_gross_worth": "45,988.76"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-725Q",
+        "item_qty": "1",
+        "item_net_price": "10,480.00",
+        "item_net_worth": "10,480.00",
+        "item_vat": "28%",
+        "item_gross_worth": "13,414.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹119,339.06",
+      "total_vat": "₹33,414.94",
+      "total_gross_worth": "₹152,754.00",
+      "total_cgst": "₹16,707.47",
+      "total_sgst": "₹16,707.47",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/653",
+      "invoice_date": "23/01/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 18, Wagle Street, Tiruvottiyur-540463",
+      "client": "AADI DUBE H.No. 757, Gill Marg, Tumkur-085497",
+      "shipping_address": "H.No. 757, Gill Marg, Tumkur-085497",
+      "seller_tax_id": "33LKDYT5969P1Z6",
+      "client_tax_id": "12QUSSQ0701F1ZD",
+      "client_phone": "1111537234"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-339N IMEI: 373407274309495",
+        "item_qty": "2",
+        "item_net_price": "88,347.33",
+        "item_net_worth": "176,694.66",
+        "item_vat": "12%",
+        "item_gross_worth": "197,898.02"
+      },
+      {
+        "item_desc": "Sony Speaker SON-348D",
+        "item_qty": "1",
+        "item_net_price": "20,243.89",
+        "item_net_worth": "20,243.89",
+        "item_vat": "12%",
+        "item_gross_worth": "22,673.16"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-842A",
+        "item_qty": "1",
+        "item_net_price": "89,644.65",
+        "item_net_worth": "89,644.65",
+        "item_vat": "12%",
+        "item_gross_worth": "100,402.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹286,583.20",
+      "total_vat": "₹34,389.98",
+      "total_gross_worth": "₹320,973.18",
+      "total_cgst": "₹17,194.99",
+      "total_sgst": "₹17,194.99",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/195",
+      "invoice_date": "07/04/2025",
+      "seller": "VISHWA ELECTRONICS 91/602, Sachdeva Ganj, Ramgarh-700359",
+      "client": "UCCHAL PARSA H.No. 84, Agrawal Circle, Siwan-619227",
+      "shipping_address": "63/058, Wable Chowk, Bulandshahr 085021",
+      "seller_tax_id": "37ELHXG4089N1ZL",
+      "client_tax_id": "24DRBYN7940D1ZB",
+      "client_phone": "03543976070"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-537I",
+        "item_qty": "2",
+        "item_net_price": "60,183.00",
+        "item_net_worth": "120,366.00",
+        "item_vat": "28%",
+        "item_gross_worth": "154,068.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,366.00",
+      "total_vat": "₹33,702.48",
+      "total_gross_worth": "₹154,068.48",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹33,702.48"
+    }
+  }
+}

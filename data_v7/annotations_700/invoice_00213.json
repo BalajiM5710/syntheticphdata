@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5648",
+      "invoice_date": "31/01/2025",
+      "seller": "PATEL MOBILES 91/74, Gola Road, Vellore 491428",
+      "client": "YAGNESH COMAR H.No. 757, Dube Zila, Gandhidham-685907",
+      "shipping_address": "H.No. 757, Dube Zila, Gandhidham-685907",
+      "seller_tax_id": "25HODUF2444J1ZZ",
+      "client_tax_id": "31CMYCN3225U1ZV",
+      "client_phone": "+919377204440"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-808L",
+        "item_qty": "2",
+        "item_net_price": "35,277.27",
+        "item_net_worth": "70,554.54",
+        "item_vat": "12%",
+        "item_gross_worth": "79,021.08"
+      },
+      {
+        "item_desc": "Hero Bike HER-343H",
+        "item_qty": "2",
+        "item_net_price": "92,347.87",
+        "item_net_worth": "184,695.74",
+        "item_vat": "12%",
+        "item_gross_worth": "206,859.23"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-605J",
+        "item_qty": "1",
+        "item_net_price": "54,091.69",
+        "item_net_worth": "54,091.69",
+        "item_vat": "12%",
+        "item_gross_worth": "60,582.69"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-295V",
+        "item_qty": "2",
+        "item_net_price": "34,442.56",
+        "item_net_worth": "68,885.12",
+        "item_vat": "12%",
+        "item_gross_worth": "77,151.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹378,227.09",
+      "total_vat": "₹45,387.25",
+      "total_gross_worth": "₹423,614.34",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹45,387.25"
+    }
+  }
+}

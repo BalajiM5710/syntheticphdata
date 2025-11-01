@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/936",
+      "invoice_date": "16/06/2025",
+      "seller": "VISHWA ELECTRONICS 87/66, Bains Chowk, Ramagundam 807304",
+      "client": "GAURANGI MISRA H.No. 84, Sangha Road, Jhansi-729801",
+      "shipping_address": "33, Kant Zila, Bikaner-345446",
+      "seller_tax_id": "06MYTUD5710S1ZY",
+      "client_tax_id": "08YCUZQ2596G1ZS",
+      "client_phone": "3166684727"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-880B",
+        "item_qty": "1",
+        "item_net_price": "93,440.35",
+        "item_net_worth": "93,440.35",
+        "item_vat": "18%",
+        "item_gross_worth": "110,259.61"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-385J",
+        "item_qty": "2",
+        "item_net_price": "52,895.22",
+        "item_net_worth": "105,790.44",
+        "item_vat": "18%",
+        "item_gross_worth": "124,832.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹199,230.79",
+      "total_vat": "₹35,861.54",
+      "total_gross_worth": "₹235,092.33",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,861.54"
+    }
+  }
+}

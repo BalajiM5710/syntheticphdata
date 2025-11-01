@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CLQ/855",
+      "invoice_date": "01/02/2025",
+      "seller": "CITY ELECTRONICS H.No. 446, Chad Street, Vellore-583255",
+      "client": "URVI YOHANNAN H.No. 99, Sane Nagar, Guna 826679",
+      "shipping_address": "H.No. 99, Sane Nagar, Guna 826679",
+      "seller_tax_id": "14RJWJY3161K1ZX",
+      "client_tax_id": "11OCHPR3381R1Z9",
+      "client_phone": "+910324802469"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-780G",
+        "item_qty": "2",
+        "item_net_price": "81,394.81",
+        "item_net_worth": "162,789.62",
+        "item_vat": "18%",
+        "item_gross_worth": "192,091.75"
+      },
+      {
+        "item_desc": "LG Television LG-715Z",
+        "item_qty": "2",
+        "item_net_price": "69,100.80",
+        "item_net_worth": "138,201.60",
+        "item_vat": "18%",
+        "item_gross_worth": "163,077.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹300,991.22",
+      "total_vat": "₹54,178.42",
+      "total_gross_worth": "₹355,169.64",
+      "total_cgst": "₹27,089.21",
+      "total_sgst": "₹27,089.21",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HMP/624",
+      "invoice_date": "26/07/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 48, Batta Path, Junagadh-591800",
+      "client": "FITAN DAVE H.No. 406, Tank Street, Chapra-743373",
+      "shipping_address": "H.No. 406, Tank Street, Chapra-743373",
+      "seller_tax_id": "28JEQHY9397L1ZD",
+      "client_tax_id": "31KFGCS7496U1ZG",
+      "client_phone": "+913274546502"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-208O",
+        "item_qty": "2",
+        "item_net_price": "69,009.20",
+        "item_net_worth": "138,018.40",
+        "item_vat": "12%",
+        "item_gross_worth": "154,580.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹138,018.40",
+      "total_vat": "₹16,562.21",
+      "total_gross_worth": "₹154,580.61",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹16,562.21"
+    }
+  }
+}

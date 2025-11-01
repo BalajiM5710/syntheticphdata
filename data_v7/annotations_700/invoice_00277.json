@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ELE/555",
+      "invoice_date": "03/09/2025",
+      "seller": "MOBILE POINT 23/787, Sant Circle, Howrah 344422",
+      "client": "OESHI PUROHIT 71/39, Ramanathan Ganj, Dehri 791588",
+      "shipping_address": "48, Sani Nagar, Satara 327074",
+      "seller_tax_id": "16LVLAJ5275Y1ZH",
+      "client_tax_id": "12VCUOV8183H1ZH",
+      "client_phone": "+916534713178"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-302P",
+        "item_qty": "1",
+        "item_net_price": "71,154.67",
+        "item_net_worth": "71,154.67",
+        "item_vat": "28%",
+        "item_gross_worth": "91,077.98"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-242L",
+        "item_qty": "1",
+        "item_net_price": "82,120.43",
+        "item_net_worth": "82,120.43",
+        "item_vat": "28%",
+        "item_gross_worth": "105,114.15"
+      },
+      {
+        "item_desc": "Hero Bike HER-735W",
+        "item_qty": "2",
+        "item_net_price": "60,318.48",
+        "item_net_worth": "120,636.96",
+        "item_vat": "28%",
+        "item_gross_worth": "154,415.31"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-292P",
+        "item_qty": "2",
+        "item_net_price": "62,520.27",
+        "item_net_worth": "125,040.54",
+        "item_vat": "28%",
+        "item_gross_worth": "160,051.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹398,952.60",
+      "total_vat": "₹111,706.73",
+      "total_gross_worth": "₹510,659.33",
+      "total_cgst": "₹55,853.36",
+      "total_sgst": "₹55,853.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

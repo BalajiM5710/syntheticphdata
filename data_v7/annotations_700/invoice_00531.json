@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "WXP/677",
+      "invoice_date": "17/10/2025",
+      "seller": "DIGITAL STORE 74/527, Raman Circle, Morena-360780",
+      "client": "INDRAJIT BALI H.No. 23, Ramanathan Marg, Sri Ganganagar 441652",
+      "shipping_address": "H.No. 56, Mahal Ganj, Tiruvottiyur 854330",
+      "seller_tax_id": "01BUCYV4852P1ZE",
+      "client_tax_id": "29ZLSJT1261E1ZW",
+      "client_phone": "1394116719"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-732B",
+        "item_qty": "2",
+        "item_net_price": "87,740.74",
+        "item_net_worth": "175,481.48",
+        "item_vat": "18%",
+        "item_gross_worth": "207,068.15"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-498N",
+        "item_qty": "1",
+        "item_net_price": "34,036.50",
+        "item_net_worth": "34,036.50",
+        "item_vat": "18%",
+        "item_gross_worth": "40,163.07"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-879T",
+        "item_qty": "1",
+        "item_net_price": "31,535.45",
+        "item_net_worth": "31,535.45",
+        "item_vat": "18%",
+        "item_gross_worth": "37,211.83"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-385D",
+        "item_qty": "1",
+        "item_net_price": "25,840.62",
+        "item_net_worth": "25,840.62",
+        "item_vat": "18%",
+        "item_gross_worth": "30,491.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹266,894.05",
+      "total_vat": "₹48,040.93",
+      "total_gross_worth": "₹314,934.98",
+      "total_cgst": "₹24,020.46",
+      "total_sgst": "₹24,020.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HOW/542",
+      "invoice_date": "24/02/2025",
+      "seller": "SMART ELECTRONICS 48/50, Babu Marg, Hapur-246941",
+      "client": "QARIN SEM 81, Nagarajan Road, Tiruppur 284510",
+      "shipping_address": "H.No. 24, Shenoy Chowk, Mumbai 972953",
+      "seller_tax_id": "27DYKOL2541H1Z2",
+      "client_tax_id": "16GJZRP4312S1Z3",
+      "client_phone": "7348870738"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-419D",
+        "item_qty": "1",
+        "item_net_price": "23,313.08",
+        "item_net_worth": "23,313.08",
+        "item_vat": "18%",
+        "item_gross_worth": "27,509.43"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-965D",
+        "item_qty": "2",
+        "item_net_price": "64,109.17",
+        "item_net_worth": "128,218.34",
+        "item_vat": "18%",
+        "item_gross_worth": "151,297.64"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-183O",
+        "item_qty": "2",
+        "item_net_price": "73,020.51",
+        "item_net_worth": "146,041.02",
+        "item_vat": "18%",
+        "item_gross_worth": "172,328.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹297,572.44",
+      "total_vat": "₹53,563.04",
+      "total_gross_worth": "₹351,135.48",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹53,563.04"
+    }
+  }
+}

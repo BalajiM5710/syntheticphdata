@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TFV/739",
+      "invoice_date": "29/07/2025",
+      "seller": "SINGH ELECTRONICS 31/13, Raghavan Path, Coimbatore 464735",
+      "client": "PRANAV VOHRA 10/201, Iyengar Nagar, Rewa 253644",
+      "shipping_address": "26, Ramaswamy Path, Kollam-345770",
+      "seller_tax_id": "29FABBE2750E1ZN",
+      "client_tax_id": "30NIJUQ6194E1ZC",
+      "client_phone": "3390659960"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-562X",
+        "item_qty": "2",
+        "item_net_price": "74,843.18",
+        "item_net_worth": "149,686.36",
+        "item_vat": "12%",
+        "item_gross_worth": "167,648.72"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-196N",
+        "item_qty": "2",
+        "item_net_price": "70,622.23",
+        "item_net_worth": "141,244.46",
+        "item_vat": "12%",
+        "item_gross_worth": "158,193.80"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹290,930.82",
+      "total_vat": "₹34,911.70",
+      "total_gross_worth": "₹325,842.52",
+      "total_cgst": "₹17,455.85",
+      "total_sgst": "₹17,455.85",
+      "total_igst": "₹0.00"
+    }
+  }
+}

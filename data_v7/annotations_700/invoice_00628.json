@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VOC/450",
+      "invoice_date": "01/08/2025",
+      "seller": "MOBILE POINT H.No. 356, Saini Street, Jamshedpur 048888",
+      "client": "RISHI TANK 54/64, Raju Marg, Ajmer 088277",
+      "shipping_address": "H.No. 61, Mahajan Ganj, Bardhaman 294182",
+      "seller_tax_id": "26MRNJK5026O1ZE",
+      "client_tax_id": "24ZYYOC0926R1ZR",
+      "client_phone": "+912123381570"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-491L IMEI: 224353816564470",
+        "item_qty": "2",
+        "item_net_price": "81,260.03",
+        "item_net_worth": "162,520.06",
+        "item_vat": "12%",
+        "item_gross_worth": "182,022.47"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-224G",
+        "item_qty": "1",
+        "item_net_price": "27,705.81",
+        "item_net_worth": "27,705.81",
+        "item_vat": "12%",
+        "item_gross_worth": "31,030.51"
+      },
+      {
+        "item_desc": "Apple Tablets APP-113M",
+        "item_qty": "2",
+        "item_net_price": "48,911.69",
+        "item_net_worth": "97,823.38",
+        "item_vat": "12%",
+        "item_gross_worth": "109,562.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹288,049.25",
+      "total_vat": "₹34,565.91",
+      "total_gross_worth": "₹322,615.16",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹34,565.91"
+    }
+  }
+}

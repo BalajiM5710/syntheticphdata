@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6451",
+      "invoice_date": "13/07/2025",
+      "seller": "ELECTRONICS WORLD 05, Kalita Chowk, Guwahati-223013",
+      "client": "ANIKA KRISHNAN H.No. 920, Khatri Nagar, Gangtok-231467",
+      "shipping_address": "H.No. 920, Khatri Nagar, Gangtok-231467",
+      "seller_tax_id": "13HJSRA8107S1Z0",
+      "client_tax_id": "17KFVRM5760B1Z5",
+      "client_phone": "+918490481723"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-530H",
+        "item_qty": "1",
+        "item_net_price": "44,912.74",
+        "item_net_worth": "44,912.74",
+        "item_vat": "12%",
+        "item_gross_worth": "50,302.27"
+      },
+      {
+        "item_desc": "Mi Television MI-720R",
+        "item_qty": "1",
+        "item_net_price": "43,504.60",
+        "item_net_worth": "43,504.60",
+        "item_vat": "12%",
+        "item_gross_worth": "48,725.15"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-832S",
+        "item_qty": "2",
+        "item_net_price": "54,939.91",
+        "item_net_worth": "109,879.82",
+        "item_vat": "12%",
+        "item_gross_worth": "123,065.40"
+      },
+      {
+        "item_desc": "Sony Headphones SON-189K",
+        "item_qty": "2",
+        "item_net_price": "41,509.85",
+        "item_net_worth": "83,019.70",
+        "item_vat": "12%",
+        "item_gross_worth": "92,982.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹281,316.86",
+      "total_vat": "₹33,758.02",
+      "total_gross_worth": "₹315,074.88",
+      "total_cgst": "₹16,879.01",
+      "total_sgst": "₹16,879.01",
+      "total_igst": "₹0.00"
+    }
+  }
+}

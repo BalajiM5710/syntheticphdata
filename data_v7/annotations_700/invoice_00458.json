@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/315",
+      "invoice_date": "30/08/2025",
+      "seller": "GADGET GALAXY 703, Shere, Hindupur 051594",
+      "client": "UNNI DHINGRA 32, Edwin Ganj, Chandrapur 005197",
+      "shipping_address": "32, Edwin Ganj, Chandrapur 005197",
+      "seller_tax_id": "08VDCCI4716T1ZV",
+      "client_tax_id": "03WHFBW0722E1ZX",
+      "client_phone": "4834208204"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-412U",
+        "item_qty": "1",
+        "item_net_price": "37,684.01",
+        "item_net_worth": "37,684.01",
+        "item_vat": "28%",
+        "item_gross_worth": "48,235.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹37,684.01",
+      "total_vat": "₹10,551.52",
+      "total_gross_worth": "₹48,235.53",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,551.52"
+    }
+  }
+}

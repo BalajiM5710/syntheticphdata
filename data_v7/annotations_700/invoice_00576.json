@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6787",
+      "invoice_date": "08/08/2025",
+      "seller": "METRO TECH STORE H.No. 208, Baria Ganj, Panchkula 568869",
+      "client": "OLIVER SHUKLA 28/65, Subramaniam, Allahabad-179922",
+      "shipping_address": "28/65, Subramaniam, Allahabad-179922",
+      "seller_tax_id": "10KWDYU8445M1Z0",
+      "client_tax_id": "18HIOGW8345T1ZX",
+      "client_phone": "+913813363493"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-471S",
+        "item_qty": "2",
+        "item_net_price": "53,826.68",
+        "item_net_worth": "107,653.36",
+        "item_vat": "18%",
+        "item_gross_worth": "127,030.96"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-309Y",
+        "item_qty": "1",
+        "item_net_price": "60,950.09",
+        "item_net_worth": "60,950.09",
+        "item_vat": "18%",
+        "item_gross_worth": "71,921.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹168,603.45",
+      "total_vat": "₹30,348.62",
+      "total_gross_worth": "₹198,952.07",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,348.62"
+    }
+  }
+}

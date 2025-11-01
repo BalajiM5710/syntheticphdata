@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/609",
+      "invoice_date": "16/08/2025",
+      "seller": "GADGET GALAXY 77, Krish Circle, Bhopal 621973",
+      "client": "FRADO MISRA 83/55, Kale, Gaya 783535",
+      "shipping_address": "83/55, Kale, Gaya 783535",
+      "seller_tax_id": "14RXWMM0643J1Z0",
+      "client_tax_id": "23IHRLS4671S1ZQ",
+      "client_phone": "9955541841"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-349B",
+        "item_qty": "1",
+        "item_net_price": "79,965.32",
+        "item_net_worth": "79,965.32",
+        "item_vat": "12%",
+        "item_gross_worth": "89,561.16"
+      },
+      {
+        "item_desc": "Sony Camera SON-393U",
+        "item_qty": "1",
+        "item_net_price": "91,152.44",
+        "item_net_worth": "91,152.44",
+        "item_vat": "12%",
+        "item_gross_worth": "102,090.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹171,117.76",
+      "total_vat": "₹20,534.13",
+      "total_gross_worth": "₹191,651.89",
+      "total_cgst": "₹10,267.07",
+      "total_sgst": "₹10,267.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

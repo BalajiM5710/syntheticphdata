@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3070",
+      "invoice_date": "16/10/2025",
+      "seller": "TECH BAZAAR H.No. 564, Tiwari Chowk, Dindigul 713376",
+      "client": "AMAIRA SWAMINATHAN 69, Bhatti Path, Bihar Sharif-642563",
+      "shipping_address": "69, Bhatti Path, Bihar Sharif-642563",
+      "seller_tax_id": "08CDWBY4639M1ZK",
+      "client_tax_id": "07MJJFA9623Z1ZX",
+      "client_phone": "01288340072"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-536P",
+        "item_qty": "1",
+        "item_net_price": "88,099.26",
+        "item_net_worth": "88,099.26",
+        "item_vat": "12%",
+        "item_gross_worth": "98,671.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,099.26",
+      "total_vat": "₹10,571.91",
+      "total_gross_worth": "₹98,671.17",
+      "total_cgst": "₹5,285.96",
+      "total_sgst": "₹5,285.96",
+      "total_igst": "₹0.00"
+    }
+  }
+}

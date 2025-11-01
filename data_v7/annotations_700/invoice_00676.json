@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/424",
+      "invoice_date": "20/03/2025",
+      "seller": "FUTURE TECH H.No. 044, Walia Chowk, Salem 814464",
+      "client": "UNNATI ARORA H.No. 519, Bath Nagar, Nagercoil-357422",
+      "shipping_address": "H.No. 519, Bath Nagar, Nagercoil-357422",
+      "seller_tax_id": "34XYDZS3517Y1ZP",
+      "client_tax_id": "06ANNFM9954K1Z2",
+      "client_phone": "00038815809"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-907J",
+        "item_qty": "2",
+        "item_net_price": "89,176.02",
+        "item_net_worth": "178,352.04",
+        "item_vat": "12%",
+        "item_gross_worth": "199,754.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹178,352.04",
+      "total_vat": "₹21,402.24",
+      "total_gross_worth": "₹199,754.28",
+      "total_cgst": "₹10,701.12",
+      "total_sgst": "₹10,701.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

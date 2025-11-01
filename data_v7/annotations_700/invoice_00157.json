@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4642",
+      "invoice_date": "16/05/2025",
+      "seller": "VISHWA ELECTRONICS 92/958, Chopra Path, Pudukkottai 420330",
+      "client": "BRIJESH LUTHRA H.No. 817, Bhakta Road, Madanapalle 950032",
+      "shipping_address": "H.No. 817, Bhakta Road, Madanapalle 950032",
+      "seller_tax_id": "02STUAW5409W1ZH",
+      "client_tax_id": "19QGQVM0343B1ZA",
+      "client_phone": "03436400624"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-721I",
+        "item_qty": "2",
+        "item_net_price": "80,489.53",
+        "item_net_worth": "160,979.06",
+        "item_vat": "12%",
+        "item_gross_worth": "180,296.55"
+      },
+      {
+        "item_desc": "Canon Camera CAN-361K",
+        "item_qty": "2",
+        "item_net_price": "41,046.85",
+        "item_net_worth": "82,093.70",
+        "item_vat": "12%",
+        "item_gross_worth": "91,944.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹243,072.76",
+      "total_vat": "₹29,168.73",
+      "total_gross_worth": "₹272,241.49",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,168.73"
+    }
+  }
+}

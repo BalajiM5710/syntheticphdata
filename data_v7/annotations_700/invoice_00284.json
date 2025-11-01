@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1884",
+      "invoice_date": "16/04/2025",
+      "seller": "ELECTRONICS WORLD 143, Luthra Ganj, Sirsa-537135",
+      "client": "WARJAS VARKEY 11/320, Deshmukh Road, Guwahati 052338",
+      "shipping_address": "11/320, Deshmukh Road, Guwahati 052338",
+      "seller_tax_id": "37AGYPR5254O1ZF",
+      "client_tax_id": "29WMJJM0967G1Z8",
+      "client_phone": "04468881957"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-929B",
+        "item_qty": "1",
+        "item_net_price": "71,619.08",
+        "item_net_worth": "71,619.08",
+        "item_vat": "28%",
+        "item_gross_worth": "91,672.42"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-605M",
+        "item_qty": "2",
+        "item_net_price": "38,620.03",
+        "item_net_worth": "77,240.06",
+        "item_vat": "28%",
+        "item_gross_worth": "98,867.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹148,859.14",
+      "total_vat": "₹41,680.56",
+      "total_gross_worth": "₹190,539.70",
+      "total_cgst": "₹20,840.28",
+      "total_sgst": "₹20,840.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

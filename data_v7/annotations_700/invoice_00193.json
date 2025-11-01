@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2984",
+      "invoice_date": "06/02/2025",
+      "seller": "GADGET GALAXY 506, Bajaj Ganj, Nanded-230322",
+      "client": "EKBAL RATTA 53, Prakash Street, Kottayam 001759",
+      "shipping_address": "53, Prakash Street, Kottayam 001759",
+      "seller_tax_id": "07WNORX5488K1ZG",
+      "client_tax_id": "19KFYKF1716C1ZZ",
+      "client_phone": "3111796771"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-596J",
+        "item_qty": "1",
+        "item_net_price": "75,649.58",
+        "item_net_worth": "75,649.58",
+        "item_vat": "18%",
+        "item_gross_worth": "89,266.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,649.58",
+      "total_vat": "₹13,616.92",
+      "total_gross_worth": "₹89,266.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,616.92"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HCH/263",
+      "invoice_date": "02/05/2025",
+      "seller": "PATEL MOBILES 006, Bhatt Path, Amroha-630103",
+      "client": "WRIDESH CHANA 66/12, Kaul Chowk, Vellore 683589",
+      "shipping_address": "66/12, Kaul Chowk, Vellore 683589",
+      "seller_tax_id": "02REKQG3800P1Z2",
+      "client_tax_id": "34NMWWX3483W1ZY",
+      "client_phone": "01601808419"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-410P",
+        "item_qty": "1",
+        "item_net_price": "22,046.41",
+        "item_net_worth": "22,046.41",
+        "item_vat": "28%",
+        "item_gross_worth": "28,219.40"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-760R",
+        "item_qty": "1",
+        "item_net_price": "83,073.47",
+        "item_net_worth": "83,073.47",
+        "item_vat": "28%",
+        "item_gross_worth": "106,334.04"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-271Q",
+        "item_qty": "2",
+        "item_net_price": "66,741.23",
+        "item_net_worth": "133,482.46",
+        "item_vat": "28%",
+        "item_gross_worth": "170,857.55"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-302K",
+        "item_qty": "1",
+        "item_net_price": "94,020.29",
+        "item_net_worth": "94,020.29",
+        "item_vat": "28%",
+        "item_gross_worth": "120,345.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹332,622.63",
+      "total_vat": "₹93,134.34",
+      "total_gross_worth": "₹425,756.97",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹93,134.34"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/737",
+      "invoice_date": "29/04/2025",
+      "seller": "FUTURE TECH H.No. 223, Dhaliwal Zila, Satna 356336",
+      "client": "YASTI PATHAK 139, Choudhary, Noida-098550",
+      "shipping_address": "H.No. 775, Kothari Zila, Kamarhati 626787",
+      "seller_tax_id": "06JTCGV4958W1ZN",
+      "client_tax_id": "15KXPVA3691E1ZX",
+      "client_phone": "09154068573"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-153U",
+        "item_qty": "1",
+        "item_net_price": "25,319.39",
+        "item_net_worth": "25,319.39",
+        "item_vat": "28%",
+        "item_gross_worth": "32,408.82"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-353S",
+        "item_qty": "2",
+        "item_net_price": "33,526.20",
+        "item_net_worth": "67,052.40",
+        "item_vat": "28%",
+        "item_gross_worth": "85,827.07"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-702G IMEI: 430444960219974",
+        "item_qty": "1",
+        "item_net_price": "44,540.82",
+        "item_net_worth": "44,540.82",
+        "item_vat": "28%",
+        "item_gross_worth": "57,012.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹136,912.61",
+      "total_vat": "₹38,335.53",
+      "total_gross_worth": "₹175,248.14",
+      "total_cgst": "₹19,167.77",
+      "total_sgst": "₹19,167.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

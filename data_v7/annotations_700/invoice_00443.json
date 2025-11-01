@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/420",
+      "invoice_date": "16/01/2025",
+      "seller": "STAR ELECTRONICS H.No. 404, Dhaliwal Road, Gulbarga 746215",
+      "client": "FALAK BISWAS 00/515, Krishnan Circle, Bilaspur-536628",
+      "shipping_address": "00/515, Krishnan Circle, Bilaspur-536628",
+      "seller_tax_id": "30FJWRM3364X1ZY",
+      "client_tax_id": "11GPTEQ2966B1ZV",
+      "client_phone": "+919978890925"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-392A",
+        "item_qty": "2",
+        "item_net_price": "84,620.53",
+        "item_net_worth": "169,241.06",
+        "item_vat": "18%",
+        "item_gross_worth": "199,704.45"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-252R",
+        "item_qty": "1",
+        "item_net_price": "64,008.51",
+        "item_net_worth": "64,008.51",
+        "item_vat": "18%",
+        "item_gross_worth": "75,530.04"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-591T",
+        "item_qty": "1",
+        "item_net_price": "31,973.22",
+        "item_net_worth": "31,973.22",
+        "item_vat": "18%",
+        "item_gross_worth": "37,728.40"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-643M",
+        "item_qty": "1",
+        "item_net_price": "90,690.07",
+        "item_net_worth": "90,690.07",
+        "item_vat": "18%",
+        "item_gross_worth": "107,014.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹355,912.86",
+      "total_vat": "₹64,064.31",
+      "total_gross_worth": "₹419,977.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹64,064.31"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7226",
+      "invoice_date": "09/02/2025",
+      "seller": "ROYAL MOBILES 88/33, Chaudhuri Road, Davanagere 004146",
+      "client": "OSCAR NAGY H.No. 133, Roy Zila, Nagaon 671496",
+      "shipping_address": "H.No. 133, Roy Zila, Nagaon 671496",
+      "seller_tax_id": "05EVPOZ7445B1Z6",
+      "client_tax_id": "14JDFPT3816T1Z1",
+      "client_phone": "01509373115"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-595Y",
+        "item_qty": "1",
+        "item_net_price": "40,621.90",
+        "item_net_worth": "40,621.90",
+        "item_vat": "12%",
+        "item_gross_worth": "45,496.53"
+      },
+      {
+        "item_desc": "Sony Headphones SON-921Z",
+        "item_qty": "1",
+        "item_net_price": "93,723.88",
+        "item_net_worth": "93,723.88",
+        "item_vat": "12%",
+        "item_gross_worth": "104,970.75"
+      },
+      {
+        "item_desc": "Mi Television MI-721B",
+        "item_qty": "1",
+        "item_net_price": "28,918.38",
+        "item_net_worth": "28,918.38",
+        "item_vat": "12%",
+        "item_gross_worth": "32,388.59"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-911R",
+        "item_qty": "2",
+        "item_net_price": "67,022.83",
+        "item_net_worth": "134,045.66",
+        "item_vat": "12%",
+        "item_gross_worth": "150,131.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹297,309.82",
+      "total_vat": "₹35,677.18",
+      "total_gross_worth": "₹332,987.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹35,677.18"
+    }
+  }
+}

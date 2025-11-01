@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/103",
+      "invoice_date": "09/09/2025",
+      "seller": "METRO TECH STORE 50, Ramaswamy Street, Nagercoil 097165",
+      "client": "HARSH LOYAL 117, Agate Path, Chandigarh 895860",
+      "shipping_address": "117, Agate Path, Chandigarh 895860",
+      "seller_tax_id": "07BNVPI6637E1ZM",
+      "client_tax_id": "05ZZFJG0932S1ZB",
+      "client_phone": "8745871855"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-900W",
+        "item_qty": "1",
+        "item_net_price": "89,004.64",
+        "item_net_worth": "89,004.64",
+        "item_vat": "18%",
+        "item_gross_worth": "105,025.48"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-706D",
+        "item_qty": "1",
+        "item_net_price": "75,599.66",
+        "item_net_worth": "75,599.66",
+        "item_vat": "18%",
+        "item_gross_worth": "89,207.60"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-441M",
+        "item_qty": "2",
+        "item_net_price": "66,417.92",
+        "item_net_worth": "132,835.84",
+        "item_vat": "18%",
+        "item_gross_worth": "156,746.29"
+      },
+      {
+        "item_desc": "Sony Television SON-497N",
+        "item_qty": "1",
+        "item_net_price": "47,095.79",
+        "item_net_worth": "47,095.79",
+        "item_vat": "18%",
+        "item_gross_worth": "55,573.03"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹344,535.93",
+      "total_vat": "₹62,016.47",
+      "total_gross_worth": "₹406,552.40",
+      "total_cgst": "₹31,008.23",
+      "total_sgst": "₹31,008.23",
+      "total_igst": "₹0.00"
+    }
+  }
+}

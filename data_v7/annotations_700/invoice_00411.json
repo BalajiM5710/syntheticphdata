@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6042",
+      "invoice_date": "19/07/2025",
+      "seller": "MOBILE POINT H.No. 500, Agarwal Chowk, Deoghar-018053",
+      "client": "MAANAS DESAI H.No. 552, Venkatesh Nagar, Gurgaon-042653",
+      "shipping_address": "H.No. 552, Venkatesh Nagar, Gurgaon-042653",
+      "seller_tax_id": "31KGNEC8426F1ZA",
+      "client_tax_id": "25AOTVC7897U1Z8",
+      "client_phone": "+916816309752"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-541I",
+        "item_qty": "1",
+        "item_net_price": "8,934.51",
+        "item_net_worth": "8,934.51",
+        "item_vat": "18%",
+        "item_gross_worth": "10,542.72"
+      },
+      {
+        "item_desc": "LG Television LG-947I",
+        "item_qty": "1",
+        "item_net_price": "30,096.81",
+        "item_net_worth": "30,096.81",
+        "item_vat": "18%",
+        "item_gross_worth": "35,514.24"
+      },
+      {
+        "item_desc": "TCL Television TCL-793T",
+        "item_qty": "2",
+        "item_net_price": "66,220.20",
+        "item_net_worth": "132,440.40",
+        "item_vat": "18%",
+        "item_gross_worth": "156,279.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹171,471.72",
+      "total_vat": "₹30,864.91",
+      "total_gross_worth": "₹202,336.63",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,864.91"
+    }
+  }
+}

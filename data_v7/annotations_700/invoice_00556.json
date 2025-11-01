@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "CQM/185",
+      "invoice_date": "13/08/2025",
+      "seller": "METRO TECH STORE 16/279, Bhakta Zila, Fatehpur 424055",
+      "client": "JONATHAN MAND H.No. 67, Kapoor, Muzaffarpur 416550",
+      "shipping_address": "H.No. 67, Kapoor, Muzaffarpur 416550",
+      "seller_tax_id": "19EQPXQ6059H1ZA",
+      "client_tax_id": "15KDBSP7073K1ZZ",
+      "client_phone": "+915476859753"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-152U",
+        "item_qty": "1",
+        "item_net_price": "30,407.19",
+        "item_net_worth": "30,407.19",
+        "item_vat": "18%",
+        "item_gross_worth": "35,880.48"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-732P",
+        "item_qty": "2",
+        "item_net_price": "85,638.27",
+        "item_net_worth": "171,276.54",
+        "item_vat": "18%",
+        "item_gross_worth": "202,106.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹201,683.73",
+      "total_vat": "₹36,303.07",
+      "total_gross_worth": "₹237,986.80",
+      "total_cgst": "₹18,151.54",
+      "total_sgst": "₹18,151.54",
+      "total_igst": "₹0.00"
+    }
+  }
+}

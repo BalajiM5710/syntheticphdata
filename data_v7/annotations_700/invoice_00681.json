@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/866",
+      "invoice_date": "30/07/2025",
+      "seller": "STAR ELECTRONICS H.No. 25, Prabhakar Zila, Surendranagar Dudhrej-216704",
+      "client": "NILIMA GOKHALE H.No. 06, Sachdeva Circle, Jamalpur 154681",
+      "shipping_address": "H.No. 06, Sachdeva Circle, Jamalpur 154681",
+      "seller_tax_id": "11MKRBV9218S1ZM",
+      "client_tax_id": "03XKSDZ9526C1ZH",
+      "client_phone": "+914821281971"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-496F",
+        "item_qty": "1",
+        "item_net_price": "80,042.15",
+        "item_net_worth": "80,042.15",
+        "item_vat": "12%",
+        "item_gross_worth": "89,647.21"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-757N",
+        "item_qty": "2",
+        "item_net_price": "12,282.34",
+        "item_net_worth": "24,564.68",
+        "item_vat": "12%",
+        "item_gross_worth": "27,512.44"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-428T",
+        "item_qty": "2",
+        "item_net_price": "67,235.81",
+        "item_net_worth": "134,471.62",
+        "item_vat": "12%",
+        "item_gross_worth": "150,608.21"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-265Z",
+        "item_qty": "2",
+        "item_net_price": "37,552.71",
+        "item_net_worth": "75,105.42",
+        "item_vat": "12%",
+        "item_gross_worth": "84,118.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹314,183.87",
+      "total_vat": "₹37,702.06",
+      "total_gross_worth": "₹351,885.93",
+      "total_cgst": "₹18,851.03",
+      "total_sgst": "₹18,851.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

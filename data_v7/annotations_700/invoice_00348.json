@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/791",
+      "invoice_date": "30/01/2025",
+      "seller": "SMART ELECTRONICS 21, Saha Marg, Cuttack-018547",
+      "client": "TANISH ANNE 29/667, Dhingra Zila, Ramagundam 069249",
+      "shipping_address": "29/667, Dhingra Zila, Ramagundam 069249",
+      "seller_tax_id": "30ZNBIC8448F1ZB",
+      "client_tax_id": "27NXLBI6316O1ZD",
+      "client_phone": "02581401653"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-953U",
+        "item_qty": "2",
+        "item_net_price": "83,566.83",
+        "item_net_worth": "167,133.66",
+        "item_vat": "18%",
+        "item_gross_worth": "197,217.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,133.66",
+      "total_vat": "₹30,084.06",
+      "total_gross_worth": "₹197,217.72",
+      "total_cgst": "₹15,042.03",
+      "total_sgst": "₹15,042.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NRA/765",
+      "invoice_date": "04/07/2025",
+      "seller": "MOBILE POINT 20/52, Parsa Street, Jalandhar-757967",
+      "client": "NATHAN KANDA 93, Nagarajan Circle, Tiruppur-100226",
+      "shipping_address": "93, Nagarajan Circle, Tiruppur-100226",
+      "seller_tax_id": "07OYWRF2091Z1ZL",
+      "client_tax_id": "33QIWKI3037U1ZK",
+      "client_phone": "5975109690"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-879G IMEI: 607926083415740",
+        "item_qty": "2",
+        "item_net_price": "30,816.75",
+        "item_net_worth": "61,633.50",
+        "item_vat": "28%",
+        "item_gross_worth": "78,890.88"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-855T",
+        "item_qty": "1",
+        "item_net_price": "71,598.82",
+        "item_net_worth": "71,598.82",
+        "item_vat": "28%",
+        "item_gross_worth": "91,646.49"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-499D",
+        "item_qty": "2",
+        "item_net_price": "41,880.12",
+        "item_net_worth": "83,760.24",
+        "item_vat": "28%",
+        "item_gross_worth": "107,213.11"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-174M",
+        "item_qty": "1",
+        "item_net_price": "85,146.41",
+        "item_net_worth": "85,146.41",
+        "item_vat": "28%",
+        "item_gross_worth": "108,987.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹302,138.97",
+      "total_vat": "₹84,598.91",
+      "total_gross_worth": "₹386,737.88",
+      "total_cgst": "₹42,299.46",
+      "total_sgst": "₹42,299.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

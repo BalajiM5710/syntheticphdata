@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SYX/703",
+      "invoice_date": "10/06/2025",
+      "seller": "PRADHAN MOBILE SHOP 04, Dhingra Marg, Arrah 395780",
+      "client": "SAMESH BHARDWAJ 58, Saraf Ganj, Udupi 052574",
+      "shipping_address": "58, Saraf Ganj, Udupi 052574",
+      "seller_tax_id": "15VKOTE8462M1ZS",
+      "client_tax_id": "34EQRDL8090O1ZF",
+      "client_phone": "+912246967599"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-188A IMEI: 396923591005310",
+        "item_qty": "2",
+        "item_net_price": "87,993.17",
+        "item_net_worth": "175,986.34",
+        "item_vat": "18%",
+        "item_gross_worth": "207,663.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹175,986.34",
+      "total_vat": "₹31,677.54",
+      "total_gross_worth": "₹207,663.88",
+      "total_cgst": "₹15,838.77",
+      "total_sgst": "₹15,838.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

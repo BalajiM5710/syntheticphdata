@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PST/889",
+      "invoice_date": "17/09/2025",
+      "seller": "GADGET GALAXY 96, Batta Marg, Mangalore-830664",
+      "client": "SANYA GULATI 81/156, Arya Chowk, Kozhikode 084106",
+      "shipping_address": "81/156, Arya Chowk, Kozhikode 084106",
+      "seller_tax_id": "21SXMGB1522H1ZR",
+      "client_tax_id": "31FIPTQ5961P1Z7",
+      "client_phone": "09999716934"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-936B",
+        "item_qty": "1",
+        "item_net_price": "13,871.41",
+        "item_net_worth": "13,871.41",
+        "item_vat": "12%",
+        "item_gross_worth": "15,535.98"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-754R IMEI: 046669476276602",
+        "item_qty": "1",
+        "item_net_price": "9,497.23",
+        "item_net_worth": "9,497.23",
+        "item_vat": "12%",
+        "item_gross_worth": "10,636.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹23,368.64",
+      "total_vat": "₹2,804.24",
+      "total_gross_worth": "₹26,172.88",
+      "total_cgst": "₹1,402.12",
+      "total_sgst": "₹1,402.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

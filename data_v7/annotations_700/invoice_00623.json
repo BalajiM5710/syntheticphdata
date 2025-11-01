@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "UJB/178",
+      "invoice_date": "16/01/2025",
+      "seller": "GADGET GALAXY 980, Sant Nagar, Bahraich 061952",
+      "client": "AARINI SRINIVAS 24, Kapadia Circle, Phagwara 733394",
+      "shipping_address": "24, Kapadia Circle, Phagwara 733394",
+      "seller_tax_id": "26AXVEM2438G1ZE",
+      "client_tax_id": "21QSPTF5267L1ZU",
+      "client_phone": "3755699597"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-246G",
+        "item_qty": "2",
+        "item_net_price": "66,799.14",
+        "item_net_worth": "133,598.28",
+        "item_vat": "28%",
+        "item_gross_worth": "171,005.80"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-771S",
+        "item_qty": "1",
+        "item_net_price": "92,450.57",
+        "item_net_worth": "92,450.57",
+        "item_vat": "28%",
+        "item_gross_worth": "118,336.73"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-466A",
+        "item_qty": "2",
+        "item_net_price": "45,889.67",
+        "item_net_worth": "91,779.34",
+        "item_vat": "28%",
+        "item_gross_worth": "117,477.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹317,828.19",
+      "total_vat": "₹88,991.89",
+      "total_gross_worth": "₹406,820.08",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹88,991.89"
+    }
+  }
+}

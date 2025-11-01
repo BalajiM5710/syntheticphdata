@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/762",
+      "invoice_date": "04/03/2025",
+      "seller": "SINGH ELECTRONICS 97/75, Amble Road, Munger-368262",
+      "client": "FITAN LOKE 899, Dugal Nagar, Dhanbad-433079",
+      "shipping_address": "899, Dugal Nagar, Dhanbad-433079",
+      "seller_tax_id": "36IBHZW3213S1ZT",
+      "client_tax_id": "16NZECS9471R1ZT",
+      "client_phone": "4644156006"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-334Q IMEI: 328019191740624",
+        "item_qty": "1",
+        "item_net_price": "37,124.34",
+        "item_net_worth": "37,124.34",
+        "item_vat": "12%",
+        "item_gross_worth": "41,579.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹37,124.34",
+      "total_vat": "₹4,454.92",
+      "total_gross_worth": "₹41,579.26",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹4,454.92"
+    }
+  }
+}

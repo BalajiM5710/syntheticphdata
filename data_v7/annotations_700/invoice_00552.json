@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/534",
+      "invoice_date": "04/02/2025",
+      "seller": "MOBILE POINT H.No. 10, Pau Zila, Kadapa 274427",
+      "client": "ETA DALAL 65/76, Rastogi, Jamalpur 601578",
+      "shipping_address": "65/76, Rastogi, Jamalpur 601578",
+      "seller_tax_id": "37XNFPS9904B1ZD",
+      "client_tax_id": "18IBVIQ7698G1ZF",
+      "client_phone": "00253929804"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-986E",
+        "item_qty": "1",
+        "item_net_price": "63,828.64",
+        "item_net_worth": "63,828.64",
+        "item_vat": "18%",
+        "item_gross_worth": "75,317.80"
+      },
+      {
+        "item_desc": "Canon Camera CAN-655Z",
+        "item_qty": "2",
+        "item_net_price": "21,359.13",
+        "item_net_worth": "42,718.26",
+        "item_vat": "18%",
+        "item_gross_worth": "50,407.55"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-645D",
+        "item_qty": "1",
+        "item_net_price": "86,958.75",
+        "item_net_worth": "86,958.75",
+        "item_vat": "18%",
+        "item_gross_worth": "102,611.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹193,505.65",
+      "total_vat": "₹34,831.02",
+      "total_gross_worth": "₹228,336.67",
+      "total_cgst": "₹17,415.51",
+      "total_sgst": "₹17,415.51",
+      "total_igst": "₹0.00"
+    }
+  }
+}

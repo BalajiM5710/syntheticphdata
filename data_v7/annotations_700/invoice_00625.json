@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/366",
+      "invoice_date": "02/03/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 390, Nath Chowk, Visakhapatnam-936189",
+      "client": "LIAM CHAR 92, Chaudhuri Zila, Kulti 124712",
+      "shipping_address": "92, Chaudhuri Zila, Kulti 124712",
+      "seller_tax_id": "26NIOKJ6961X1ZK",
+      "client_tax_id": "18PJEPA9746X1ZJ",
+      "client_phone": "09920690715"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-746L",
+        "item_qty": "2",
+        "item_net_price": "12,866.56",
+        "item_net_worth": "25,733.12",
+        "item_vat": "18%",
+        "item_gross_worth": "30,365.08"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-874N",
+        "item_qty": "1",
+        "item_net_price": "32,236.38",
+        "item_net_worth": "32,236.38",
+        "item_vat": "18%",
+        "item_gross_worth": "38,038.93"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-385W",
+        "item_qty": "1",
+        "item_net_price": "15,103.58",
+        "item_net_worth": "15,103.58",
+        "item_vat": "18%",
+        "item_gross_worth": "17,822.22"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-974M IMEI: 739479887378257",
+        "item_qty": "2",
+        "item_net_price": "92,889.57",
+        "item_net_worth": "185,779.14",
+        "item_vat": "18%",
+        "item_gross_worth": "219,219.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹258,852.22",
+      "total_vat": "₹46,593.40",
+      "total_gross_worth": "₹305,445.62",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,593.40"
+    }
+  }
+}

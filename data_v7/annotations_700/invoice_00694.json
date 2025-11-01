@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4411",
+      "invoice_date": "13/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 991, D’Alia Marg, Amravati 658074",
+      "client": "FIYAZ LAL H.No. 712, Choudhry, Chapra 148441",
+      "shipping_address": "H.No. 712, Choudhry, Chapra 148441",
+      "seller_tax_id": "30QDKYN2599M1ZG",
+      "client_tax_id": "18PAJVV0967P1Z1",
+      "client_phone": "+914883283765"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-269W",
+        "item_qty": "1",
+        "item_net_price": "27,574.76",
+        "item_net_worth": "27,574.76",
+        "item_vat": "28%",
+        "item_gross_worth": "35,295.69"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹27,574.76",
+      "total_vat": "₹7,720.93",
+      "total_gross_worth": "₹35,295.69",
+      "total_cgst": "₹3,860.47",
+      "total_sgst": "₹3,860.47",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/683",
+      "invoice_date": "20/09/2025",
+      "seller": "DIGITAL STORE 65/285, Shanker Circle, Adoni 915287",
+      "client": "MAX WALI 31/144, Sule Street, Gwalior 004025",
+      "shipping_address": "31/144, Sule Street, Gwalior 004025",
+      "seller_tax_id": "22THYNV2719P1ZQ",
+      "client_tax_id": "29PQQJW3323H1ZC",
+      "client_phone": "+911096057585"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-916I",
+        "item_qty": "1",
+        "item_net_price": "89,393.38",
+        "item_net_worth": "89,393.38",
+        "item_vat": "12%",
+        "item_gross_worth": "100,120.59"
+      },
+      {
+        "item_desc": "HP Laptops HP-629A",
+        "item_qty": "2",
+        "item_net_price": "9,432.23",
+        "item_net_worth": "18,864.46",
+        "item_vat": "12%",
+        "item_gross_worth": "21,128.20"
+      },
+      {
+        "item_desc": "Sony Camera SON-287V",
+        "item_qty": "1",
+        "item_net_price": "43,223.43",
+        "item_net_worth": "43,223.43",
+        "item_vat": "12%",
+        "item_gross_worth": "48,410.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹151,481.27",
+      "total_vat": "₹18,177.75",
+      "total_gross_worth": "₹169,659.02",
+      "total_cgst": "₹9,088.88",
+      "total_sgst": "₹9,088.88",
+      "total_igst": "₹0.00"
+    }
+  }
+}

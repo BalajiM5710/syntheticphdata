@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/101",
+      "invoice_date": "26/01/2025",
+      "seller": "RAM ELECTRONICS 27/658, Sachar Chowk, Lucknow 726533",
+      "client": "TANVEER BHAT 71/69, Batta Marg, Pudukkottai 921956",
+      "shipping_address": "40/102, Nayar Circle, Aurangabad 027921",
+      "seller_tax_id": "25OYCAE2462H1ZW",
+      "client_tax_id": "06LNQJF4682K1ZA",
+      "client_phone": "+912234949969"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-844O IMEI: 227624529143882",
+        "item_qty": "2",
+        "item_net_price": "14,541.62",
+        "item_net_worth": "29,083.24",
+        "item_vat": "12%",
+        "item_gross_worth": "32,573.23"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-278B",
+        "item_qty": "2",
+        "item_net_price": "49,723.89",
+        "item_net_worth": "99,447.78",
+        "item_vat": "12%",
+        "item_gross_worth": "111,381.51"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-302B",
+        "item_qty": "1",
+        "item_net_price": "86,716.30",
+        "item_net_worth": "86,716.30",
+        "item_vat": "12%",
+        "item_gross_worth": "97,122.26"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-839A",
+        "item_qty": "2",
+        "item_net_price": "59,053.70",
+        "item_net_worth": "118,107.40",
+        "item_vat": "12%",
+        "item_gross_worth": "132,280.29"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹333,354.72",
+      "total_vat": "₹40,002.57",
+      "total_gross_worth": "₹373,357.29",
+      "total_cgst": "₹20,001.28",
+      "total_sgst": "₹20,001.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

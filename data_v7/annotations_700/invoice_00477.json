@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5243",
+      "invoice_date": "26/03/2025",
+      "seller": "PATEL MOBILES 70/063, Ganguly Street, Gurgaon-976531",
+      "client": "TRIPTI NAYAK H.No. 195, Palla Chowk, Vijayanagaram-762791",
+      "shipping_address": "H.No. 756, Dixit Ganj, Vijayawada 988997",
+      "seller_tax_id": "24YBKDY3981R1ZB",
+      "client_tax_id": "19KYBWM3039Y1Z1",
+      "client_phone": "6855600778"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Microwave BAJ-212A",
+        "item_qty": "2",
+        "item_net_price": "70,611.57",
+        "item_net_worth": "141,223.14",
+        "item_vat": "28%",
+        "item_gross_worth": "180,765.62"
+      },
+      {
+        "item_desc": "LG Television LG-255C",
+        "item_qty": "1",
+        "item_net_price": "13,820.70",
+        "item_net_worth": "13,820.70",
+        "item_vat": "28%",
+        "item_gross_worth": "17,690.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹155,043.84",
+      "total_vat": "₹43,412.28",
+      "total_gross_worth": "₹198,456.12",
+      "total_cgst": "₹21,706.14",
+      "total_sgst": "₹21,706.14",
+      "total_igst": "₹0.00"
+    }
+  }
+}

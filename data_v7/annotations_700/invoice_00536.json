@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/926",
+      "invoice_date": "24/03/2025",
+      "seller": "SINGH ELECTRONICS H.No. 14, Ratta Road, Davanagere-717968",
+      "client": "TANVI PAI 62/385, Raj, Pudukkottai-525488",
+      "shipping_address": "62/385, Raj, Pudukkottai-525488",
+      "seller_tax_id": "25APMYP6106S1ZS",
+      "client_tax_id": "26OTMQU5478W1ZT",
+      "client_phone": "5263072446"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-978D",
+        "item_qty": "2",
+        "item_net_price": "42,471.10",
+        "item_net_worth": "84,942.20",
+        "item_vat": "28%",
+        "item_gross_worth": "108,726.02"
+      },
+      {
+        "item_desc": "LG Microwave LG-715L",
+        "item_qty": "1",
+        "item_net_price": "55,668.72",
+        "item_net_worth": "55,668.72",
+        "item_vat": "28%",
+        "item_gross_worth": "71,255.96"
+      },
+      {
+        "item_desc": "LG Microwave LG-433J",
+        "item_qty": "1",
+        "item_net_price": "85,936.25",
+        "item_net_worth": "85,936.25",
+        "item_vat": "28%",
+        "item_gross_worth": "109,998.40"
+      },
+      {
+        "item_desc": "Apple Laptops APP-263T",
+        "item_qty": "1",
+        "item_net_price": "66,081.19",
+        "item_net_worth": "66,081.19",
+        "item_vat": "28%",
+        "item_gross_worth": "84,583.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹292,628.36",
+      "total_vat": "₹81,935.94",
+      "total_gross_worth": "₹374,564.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹81,935.94"
+    }
+  }
+}

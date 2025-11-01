@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5050",
+      "invoice_date": "13/08/2025",
+      "seller": "CITY ELECTRONICS 82/62, Ahuja Ganj, Bihar Sharif-206681",
+      "client": "LUKE MANN H.No. 062, Manne Road, Latur-061094",
+      "shipping_address": "H.No. 062, Manne Road, Latur-061094",
+      "seller_tax_id": "35XISYX7473K1ZW",
+      "client_tax_id": "15GBBPZ5788U1ZT",
+      "client_phone": "+916502650835"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-116H",
+        "item_qty": "1",
+        "item_net_price": "55,142.37",
+        "item_net_worth": "55,142.37",
+        "item_vat": "18%",
+        "item_gross_worth": "65,068.00"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-162U",
+        "item_qty": "2",
+        "item_net_price": "38,999.12",
+        "item_net_worth": "77,998.24",
+        "item_vat": "18%",
+        "item_gross_worth": "92,037.92"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-248L",
+        "item_qty": "2",
+        "item_net_price": "41,695.00",
+        "item_net_worth": "83,390.00",
+        "item_vat": "18%",
+        "item_gross_worth": "98,400.20"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹216,530.61",
+      "total_vat": "₹38,975.51",
+      "total_gross_worth": "₹255,506.12",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹38,975.51"
+    }
+  }
+}

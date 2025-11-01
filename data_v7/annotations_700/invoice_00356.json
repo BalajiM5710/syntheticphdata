@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/434",
+      "invoice_date": "02/03/2025",
+      "seller": "VISHWA ELECTRONICS 743, Amble Path, Serampore-606637",
+      "client": "BRIJESH LALL 80/804, Atwal, Kalyan-Dombivli 704758",
+      "shipping_address": "80/804, Atwal, Kalyan-Dombivli 704758",
+      "seller_tax_id": "30OBGSE4361S1ZP",
+      "client_tax_id": "24DRKGS1582V1Z2",
+      "client_phone": "02630165535"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-894B",
+        "item_qty": "2",
+        "item_net_price": "50,421.65",
+        "item_net_worth": "100,843.30",
+        "item_vat": "18%",
+        "item_gross_worth": "118,995.09"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-537U",
+        "item_qty": "1",
+        "item_net_price": "70,006.74",
+        "item_net_worth": "70,006.74",
+        "item_vat": "18%",
+        "item_gross_worth": "82,607.95"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-944A",
+        "item_qty": "2",
+        "item_net_price": "15,776.35",
+        "item_net_worth": "31,552.70",
+        "item_vat": "18%",
+        "item_gross_worth": "37,232.19"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-775T",
+        "item_qty": "2",
+        "item_net_price": "9,372.90",
+        "item_net_worth": "18,745.80",
+        "item_vat": "18%",
+        "item_gross_worth": "22,120.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹221,148.54",
+      "total_vat": "₹39,806.74",
+      "total_gross_worth": "₹260,955.28",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,806.74"
+    }
+  }
+}

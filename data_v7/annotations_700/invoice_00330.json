@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HFM/251",
+      "invoice_date": "04/08/2025",
+      "seller": "DIGITAL STORE H.No. 10, Bir Zila, Mumbai-520097",
+      "client": "IMARAN HALDER 92/87, Chakraborty Road, Bahraich 856464",
+      "shipping_address": "92/87, Chakraborty Road, Bahraich 856464",
+      "seller_tax_id": "25RDZOL5090Z1ZJ",
+      "client_tax_id": "03BZWRT1686S1ZP",
+      "client_phone": "6593383307"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-277K",
+        "item_qty": "2",
+        "item_net_price": "14,081.98",
+        "item_net_worth": "28,163.96",
+        "item_vat": "18%",
+        "item_gross_worth": "33,233.47"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-870X",
+        "item_qty": "2",
+        "item_net_price": "57,000.07",
+        "item_net_worth": "114,000.14",
+        "item_vat": "18%",
+        "item_gross_worth": "134,520.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹142,164.10",
+      "total_vat": "₹25,589.54",
+      "total_gross_worth": "₹167,753.64",
+      "total_cgst": "₹12,794.77",
+      "total_sgst": "₹12,794.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

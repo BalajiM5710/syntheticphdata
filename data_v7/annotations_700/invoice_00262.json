@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XKM/665",
+      "invoice_date": "28/03/2025",
+      "seller": "METRO TECH STORE 71, Reddy Nagar, Nagercoil-811836",
+      "client": "ANUSHA SINHA 48/57, Loyal Road, Mysore-693810",
+      "shipping_address": "749, Mand Circle, Ichalkaranji 087179",
+      "seller_tax_id": "28AUAYV7856A1ZG",
+      "client_tax_id": "32QEAIF2444L1ZK",
+      "client_phone": "06369145416"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-302N",
+        "item_qty": "1",
+        "item_net_price": "20,829.67",
+        "item_net_worth": "20,829.67",
+        "item_vat": "18%",
+        "item_gross_worth": "24,579.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹20,829.67",
+      "total_vat": "₹3,749.34",
+      "total_gross_worth": "₹24,579.01",
+      "total_cgst": "₹1,874.67",
+      "total_sgst": "₹1,874.67",
+      "total_igst": "₹0.00"
+    }
+  }
+}

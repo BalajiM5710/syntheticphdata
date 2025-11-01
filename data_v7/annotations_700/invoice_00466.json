@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5993",
+      "invoice_date": "23/08/2025",
+      "seller": "STAR ELECTRONICS 815, Singhal, Jalgaon 508058",
+      "client": "RADHIKA SARIN 047, Kanda Chowk, Parbhani-271187",
+      "shipping_address": "047, Kanda Chowk, Parbhani-271187",
+      "seller_tax_id": "05DXKUE9369G1ZL",
+      "client_tax_id": "28CORIW0918W1ZU",
+      "client_phone": "8967114959"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-166Y",
+        "item_qty": "2",
+        "item_net_price": "89,884.52",
+        "item_net_worth": "179,769.04",
+        "item_vat": "12%",
+        "item_gross_worth": "201,341.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹179,769.04",
+      "total_vat": "₹21,572.28",
+      "total_gross_worth": "₹201,341.32",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹21,572.28"
+    }
+  }
+}

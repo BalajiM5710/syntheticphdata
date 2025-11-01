@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AKR/680",
+      "invoice_date": "07/05/2025",
+      "seller": "FUTURE TECH 80, Dayal Chowk, Cuttack 101073",
+      "client": "PRANIT DUBE 84, Chander Ganj, Jaunpur 011451",
+      "shipping_address": "84, Chander Ganj, Jaunpur 011451",
+      "seller_tax_id": "33MAKEZ2256H1ZY",
+      "client_tax_id": "30MSEWS8835H1ZF",
+      "client_phone": "+914693572645"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-754I",
+        "item_qty": "1",
+        "item_net_price": "64,546.81",
+        "item_net_worth": "64,546.81",
+        "item_vat": "28%",
+        "item_gross_worth": "82,619.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹64,546.81",
+      "total_vat": "₹18,073.11",
+      "total_gross_worth": "₹82,619.92",
+      "total_cgst": "₹9,036.55",
+      "total_sgst": "₹9,036.55",
+      "total_igst": "₹0.00"
+    }
+  }
+}

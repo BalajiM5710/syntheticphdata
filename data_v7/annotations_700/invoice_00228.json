@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ATR/541",
+      "invoice_date": "07/02/2025",
+      "seller": "ROYAL MOBILES 518, Arora, Purnia-496591",
+      "client": "EKIYA RAMAKRISHNAN H.No. 10, Luthra, Mangalore-032809",
+      "shipping_address": "H.No. 10, Luthra, Mangalore-032809",
+      "seller_tax_id": "14SPKND1871L1ZM",
+      "client_tax_id": "11XRQUJ0527Z1ZQ",
+      "client_phone": "6831015913"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-974L",
+        "item_qty": "1",
+        "item_net_price": "77,175.62",
+        "item_net_worth": "77,175.62",
+        "item_vat": "28%",
+        "item_gross_worth": "98,784.79"
+      },
+      {
+        "item_desc": "Apple Tablets APP-885E",
+        "item_qty": "2",
+        "item_net_price": "91,715.51",
+        "item_net_worth": "183,431.02",
+        "item_vat": "28%",
+        "item_gross_worth": "234,791.71"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-321X",
+        "item_qty": "1",
+        "item_net_price": "52,490.13",
+        "item_net_worth": "52,490.13",
+        "item_vat": "28%",
+        "item_gross_worth": "67,187.37"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹313,096.77",
+      "total_vat": "₹87,667.10",
+      "total_gross_worth": "₹400,763.87",
+      "total_cgst": "₹43,833.55",
+      "total_sgst": "₹43,833.55",
+      "total_igst": "₹0.00"
+    }
+  }
+}

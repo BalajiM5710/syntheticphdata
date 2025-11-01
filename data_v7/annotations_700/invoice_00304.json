@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5847",
+      "invoice_date": "09/10/2025",
+      "seller": "ROYAL MOBILES 495, Dutta Circle, Panvel 756677",
+      "client": "WAIDA GOSWAMI 66/283, Sidhu Ganj, Narasaraopet-095523",
+      "shipping_address": "07/670, Kaul Street, Aurangabad-047003",
+      "seller_tax_id": "09IAMIT7122D1ZR",
+      "client_tax_id": "28EYMQE9217U1ZR",
+      "client_phone": "9749848075"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-596J IMEI: 136873110725206",
+        "item_qty": "1",
+        "item_net_price": "68,256.89",
+        "item_net_worth": "68,256.89",
+        "item_vat": "12%",
+        "item_gross_worth": "76,447.72"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-615O",
+        "item_qty": "1",
+        "item_net_price": "32,685.22",
+        "item_net_worth": "32,685.22",
+        "item_vat": "12%",
+        "item_gross_worth": "36,607.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹100,942.11",
+      "total_vat": "₹12,113.05",
+      "total_gross_worth": "₹113,055.16",
+      "total_cgst": "₹6,056.53",
+      "total_sgst": "₹6,056.53",
+      "total_igst": "₹0.00"
+    }
+  }
+}

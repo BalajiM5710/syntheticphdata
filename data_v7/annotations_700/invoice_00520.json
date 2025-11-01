@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5578",
+      "invoice_date": "13/07/2025",
+      "seller": "FUTURE TECH 27/937, Sankaran Path, Raurkela Industrial Township 007817",
+      "client": "AMOL KALA 41, Varghese Street, Rourkela-054718",
+      "shipping_address": "H.No. 788, Narayanan Nagar, Kozhikode 131070",
+      "seller_tax_id": "26GTZIC7693E1ZY",
+      "client_tax_id": "04ILYDM0637I1Z3",
+      "client_phone": "9343457127"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-453R",
+        "item_qty": "1",
+        "item_net_price": "55,301.41",
+        "item_net_worth": "55,301.41",
+        "item_vat": "28%",
+        "item_gross_worth": "70,785.80"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-660B",
+        "item_qty": "2",
+        "item_net_price": "32,119.54",
+        "item_net_worth": "64,239.08",
+        "item_vat": "28%",
+        "item_gross_worth": "82,226.02"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-932A",
+        "item_qty": "2",
+        "item_net_price": "34,080.54",
+        "item_net_worth": "68,161.08",
+        "item_vat": "28%",
+        "item_gross_worth": "87,246.18"
+      },
+      {
+        "item_desc": "Sony Headphones SON-129N",
+        "item_qty": "1",
+        "item_net_price": "93,804.69",
+        "item_net_worth": "93,804.69",
+        "item_vat": "28%",
+        "item_gross_worth": "120,070.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹281,506.26",
+      "total_vat": "₹78,821.75",
+      "total_gross_worth": "₹360,328.01",
+      "total_cgst": "₹39,410.88",
+      "total_sgst": "₹39,410.88",
+      "total_igst": "₹0.00"
+    }
+  }
+}

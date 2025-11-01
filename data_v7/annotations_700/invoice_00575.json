@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LHB/192",
+      "invoice_date": "04/03/2025",
+      "seller": "MOBILE POINT 93/905, Choudhary Ganj, Kadapa 240319",
+      "client": "JEET VERMA 84, Mistry Path, Jodhpur 280829",
+      "shipping_address": "84, Mistry Path, Jodhpur 280829",
+      "seller_tax_id": "13TCDDQ2282F1ZE",
+      "client_tax_id": "22YYILB0253L1ZY",
+      "client_phone": "3714910646"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-928C",
+        "item_qty": "2",
+        "item_net_price": "8,767.61",
+        "item_net_worth": "17,535.22",
+        "item_vat": "28%",
+        "item_gross_worth": "22,445.08"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-613D",
+        "item_qty": "1",
+        "item_net_price": "13,341.47",
+        "item_net_worth": "13,341.47",
+        "item_vat": "28%",
+        "item_gross_worth": "17,077.08"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-954Z",
+        "item_qty": "2",
+        "item_net_price": "36,120.24",
+        "item_net_worth": "72,240.48",
+        "item_vat": "28%",
+        "item_gross_worth": "92,467.81"
+      },
+      {
+        "item_desc": "Sony Speaker SON-622N",
+        "item_qty": "1",
+        "item_net_price": "83,351.55",
+        "item_net_worth": "83,351.55",
+        "item_vat": "28%",
+        "item_gross_worth": "106,689.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹186,468.72",
+      "total_vat": "₹52,211.24",
+      "total_gross_worth": "₹238,679.96",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹52,211.24"
+    }
+  }
+}

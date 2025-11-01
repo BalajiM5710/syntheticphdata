@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "SNG/915",
+      "invoice_date": "22/07/2025",
+      "seller": "STAR ELECTRONICS 00, Upadhyay Road, Dharmavaram 976557",
+      "client": "MAX SIBAL 690, Dash Zila, Davanagere 829845",
+      "shipping_address": "690, Dash Zila, Davanagere 829845",
+      "seller_tax_id": "19OHJYM2862K1Z1",
+      "client_tax_id": "26EFBRB8954S1ZE",
+      "client_phone": "+914049976013"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-238A",
+        "item_qty": "2",
+        "item_net_price": "56,959.50",
+        "item_net_worth": "113,919.00",
+        "item_vat": "18%",
+        "item_gross_worth": "134,424.42"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-709V",
+        "item_qty": "2",
+        "item_net_price": "24,229.84",
+        "item_net_worth": "48,459.68",
+        "item_vat": "18%",
+        "item_gross_worth": "57,182.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹162,378.68",
+      "total_vat": "₹29,228.16",
+      "total_gross_worth": "₹191,606.84",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,228.16"
+    }
+  }
+}

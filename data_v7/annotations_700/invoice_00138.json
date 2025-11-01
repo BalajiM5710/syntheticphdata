@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2000",
+      "invoice_date": "21/02/2025",
+      "seller": "METRO TECH STORE H.No. 58, Dave Nagar, Suryapet 436019",
+      "client": "ETHAN SHROFF H.No. 08, Thakur Nagar, Tiruvottiyur 789936",
+      "shipping_address": "H.No. 424, Virk, Suryapet 413736",
+      "seller_tax_id": "10TKJVB4608M1ZX",
+      "client_tax_id": "28DTIUJ0665P1Z8",
+      "client_phone": "02842375031"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-723M",
+        "item_qty": "1",
+        "item_net_price": "17,771.82",
+        "item_net_worth": "17,771.82",
+        "item_vat": "28%",
+        "item_gross_worth": "22,747.93"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-663H",
+        "item_qty": "1",
+        "item_net_price": "77,097.10",
+        "item_net_worth": "77,097.10",
+        "item_vat": "28%",
+        "item_gross_worth": "98,684.29"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-996D",
+        "item_qty": "2",
+        "item_net_price": "76,044.09",
+        "item_net_worth": "152,088.18",
+        "item_vat": "28%",
+        "item_gross_worth": "194,672.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹246,957.10",
+      "total_vat": "₹69,147.99",
+      "total_gross_worth": "₹316,105.09",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹69,147.99"
+    }
+  }
+}

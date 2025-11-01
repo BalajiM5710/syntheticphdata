@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/825",
+      "invoice_date": "04/03/2025",
+      "seller": "STAR ELECTRONICS 56/08, Butala Road, Amroha 282266",
+      "client": "UDANT DADA 244, Bhardwaj Ganj, Berhampur-292127",
+      "shipping_address": "244, Bhardwaj Ganj, Berhampur-292127",
+      "seller_tax_id": "26YIWVH4930G1Z9",
+      "client_tax_id": "17QXYTD6307O1ZP",
+      "client_phone": "04303524127"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-309G",
+        "item_qty": "1",
+        "item_net_price": "11,161.10",
+        "item_net_worth": "11,161.10",
+        "item_vat": "28%",
+        "item_gross_worth": "14,286.21"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-619I IMEI: 108652614353438",
+        "item_qty": "2",
+        "item_net_price": "9,131.38",
+        "item_net_worth": "18,262.76",
+        "item_vat": "28%",
+        "item_gross_worth": "23,376.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹29,423.86",
+      "total_vat": "₹8,238.68",
+      "total_gross_worth": "₹37,662.54",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,238.68"
+    }
+  }
+}

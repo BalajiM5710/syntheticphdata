@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EUY/350",
+      "invoice_date": "09/10/2025",
+      "seller": "STAR ELECTRONICS 17/94, Pillay Ganj, Noida 059228",
+      "client": "IKSHITA VIRK 341, Mutti Street, Uluberia 406914",
+      "shipping_address": "341, Mutti Street, Uluberia 406914",
+      "seller_tax_id": "05YGNGF4814D1ZG",
+      "client_tax_id": "19EJAVS3886A1ZJ",
+      "client_phone": "+915852250703"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-820D",
+        "item_qty": "2",
+        "item_net_price": "36,882.40",
+        "item_net_worth": "73,764.80",
+        "item_vat": "12%",
+        "item_gross_worth": "82,616.58"
+      },
+      {
+        "item_desc": "Apple Tablets APP-252T",
+        "item_qty": "2",
+        "item_net_price": "85,797.17",
+        "item_net_worth": "171,594.34",
+        "item_vat": "12%",
+        "item_gross_worth": "192,185.66"
+      },
+      {
+        "item_desc": "Sony Camera SON-920R",
+        "item_qty": "2",
+        "item_net_price": "12,031.66",
+        "item_net_worth": "24,063.32",
+        "item_vat": "12%",
+        "item_gross_worth": "26,950.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹269,422.46",
+      "total_vat": "₹32,330.70",
+      "total_gross_worth": "₹301,753.16",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,330.70"
+    }
+  }
+}

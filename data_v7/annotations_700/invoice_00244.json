@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QYY/701",
+      "invoice_date": "16/10/2025",
+      "seller": "SUPREME ELECTRONICS 392, Mammen, Akola 324675",
+      "client": "ARYAN MANN 55/327, Mani Zila, Bhalswa Jahangir Pur-400273",
+      "shipping_address": "55/327, Mani Zila, Bhalswa Jahangir Pur-400273",
+      "seller_tax_id": "35JCULM6094K1ZQ",
+      "client_tax_id": "32IGWXH5250D1Z1",
+      "client_phone": "+915892347820"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-866W",
+        "item_qty": "2",
+        "item_net_price": "79,693.62",
+        "item_net_worth": "159,387.24",
+        "item_vat": "28%",
+        "item_gross_worth": "204,015.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹159,387.24",
+      "total_vat": "₹44,628.43",
+      "total_gross_worth": "₹204,015.67",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹44,628.43"
+    }
+  }
+}

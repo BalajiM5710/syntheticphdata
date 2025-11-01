@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/587",
+      "invoice_date": "27/05/2025",
+      "seller": "MOBILE POINT H.No. 54, Bali Ganj, Kadapa 430103",
+      "client": "WRIDDHISH CHATTERJEE H.No. 709, De Path, Udaipur 764755",
+      "shipping_address": "56/51, Chadha Nagar, Narasaraopet-444451",
+      "seller_tax_id": "33SGJSZ0202T1Z1",
+      "client_tax_id": "04YVPRE9244G1ZT",
+      "client_phone": "+914203986329"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-796B",
+        "item_qty": "1",
+        "item_net_price": "28,890.79",
+        "item_net_worth": "28,890.79",
+        "item_vat": "12%",
+        "item_gross_worth": "32,357.68"
+      },
+      {
+        "item_desc": "Sony Speaker SON-111O",
+        "item_qty": "2",
+        "item_net_price": "36,374.63",
+        "item_net_worth": "72,749.26",
+        "item_vat": "12%",
+        "item_gross_worth": "81,479.17"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-708T IMEI: 942313892861321",
+        "item_qty": "1",
+        "item_net_price": "63,763.40",
+        "item_net_worth": "63,763.40",
+        "item_vat": "12%",
+        "item_gross_worth": "71,415.01"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-140M IMEI: 123529823953818",
+        "item_qty": "1",
+        "item_net_price": "86,196.29",
+        "item_net_worth": "86,196.29",
+        "item_vat": "12%",
+        "item_gross_worth": "96,539.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹251,599.74",
+      "total_vat": "₹30,191.97",
+      "total_gross_worth": "₹281,791.71",
+      "total_cgst": "₹15,095.98",
+      "total_sgst": "₹15,095.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

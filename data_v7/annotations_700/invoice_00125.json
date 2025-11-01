@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/280",
+      "invoice_date": "07/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS 062, Chadha Street, Kamarhati-882068",
+      "client": "INDIRA VARMA 22/243, Biswas Road, Guna 947218",
+      "shipping_address": "22/243, Biswas Road, Guna 947218",
+      "seller_tax_id": "25BYGNI4364U1ZV",
+      "client_tax_id": "36RRBUZ5355M1ZM",
+      "client_phone": "+914123886025"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-747D",
+        "item_qty": "1",
+        "item_net_price": "25,964.95",
+        "item_net_worth": "25,964.95",
+        "item_vat": "28%",
+        "item_gross_worth": "33,235.14"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-759I",
+        "item_qty": "2",
+        "item_net_price": "10,745.06",
+        "item_net_worth": "21,490.12",
+        "item_vat": "28%",
+        "item_gross_worth": "27,507.35"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-629C",
+        "item_qty": "1",
+        "item_net_price": "88,280.84",
+        "item_net_worth": "88,280.84",
+        "item_vat": "28%",
+        "item_gross_worth": "112,999.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹135,735.91",
+      "total_vat": "₹38,006.05",
+      "total_gross_worth": "₹173,741.96",
+      "total_cgst": "₹19,003.03",
+      "total_sgst": "₹19,003.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

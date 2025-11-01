@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5903",
+      "invoice_date": "05/10/2025",
+      "seller": "ROYAL MOBILES 59/905, Hari Chowk, Malegaon 572237",
+      "client": "BALENDRA SEM 59, Kota Street, Nadiad-999941",
+      "shipping_address": "59, Kota Street, Nadiad-999941",
+      "seller_tax_id": "01EUGYA6521I1Z2",
+      "client_tax_id": "09PJZFO5781R1Z1",
+      "client_phone": "8264474006"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-423G",
+        "item_qty": "2",
+        "item_net_price": "51,714.48",
+        "item_net_worth": "103,428.96",
+        "item_vat": "28%",
+        "item_gross_worth": "132,389.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹103,428.96",
+      "total_vat": "₹28,960.11",
+      "total_gross_worth": "₹132,389.07",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,960.11"
+    }
+  }
+}

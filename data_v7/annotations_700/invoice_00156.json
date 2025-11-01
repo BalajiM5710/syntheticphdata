@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JBF/916",
+      "invoice_date": "10/01/2025",
+      "seller": "DIGITAL STORE H.No. 70, Narayan Street, Hospet 950657",
+      "client": "GAVIN PILLAY 72/854, Baral Nagar, Saharsa 390808",
+      "shipping_address": "72/854, Baral Nagar, Saharsa 390808",
+      "seller_tax_id": "22IKHQR3115Z1Z6",
+      "client_tax_id": "27XRMNY2498F1Z3",
+      "client_phone": "0040398606"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-364W",
+        "item_qty": "2",
+        "item_net_price": "24,032.61",
+        "item_net_worth": "48,065.22",
+        "item_vat": "18%",
+        "item_gross_worth": "56,716.96"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-720W",
+        "item_qty": "2",
+        "item_net_price": "86,548.50",
+        "item_net_worth": "173,097.00",
+        "item_vat": "18%",
+        "item_gross_worth": "204,254.46"
+      },
+      {
+        "item_desc": "Sony Headphones SON-847I",
+        "item_qty": "2",
+        "item_net_price": "51,306.25",
+        "item_net_worth": "102,612.50",
+        "item_vat": "18%",
+        "item_gross_worth": "121,082.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹323,774.72",
+      "total_vat": "₹58,279.45",
+      "total_gross_worth": "₹382,054.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹58,279.45"
+    }
+  }
+}

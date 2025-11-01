@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9413",
+      "invoice_date": "05/06/2025",
+      "seller": "GADGET GALAXY 93/070, Dada Ganj, Jammu-310606",
+      "client": "VRINDA VALA H.No. 435, Warrior Nagar, Faridabad-110382",
+      "shipping_address": "H.No. 978, Gara Marg, Ahmednagar-290345",
+      "seller_tax_id": "10JXNYP8141X1ZF",
+      "client_tax_id": "23OHRDO8929H1ZD",
+      "client_phone": "+911424573013"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-322O",
+        "item_qty": "2",
+        "item_net_price": "65,745.61",
+        "item_net_worth": "131,491.22",
+        "item_vat": "12%",
+        "item_gross_worth": "147,270.17"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-164I",
+        "item_qty": "2",
+        "item_net_price": "49,615.12",
+        "item_net_worth": "99,230.24",
+        "item_vat": "12%",
+        "item_gross_worth": "111,137.87"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-258V",
+        "item_qty": "1",
+        "item_net_price": "31,166.05",
+        "item_net_worth": "31,166.05",
+        "item_vat": "12%",
+        "item_gross_worth": "34,905.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹261,887.51",
+      "total_vat": "₹31,426.50",
+      "total_gross_worth": "₹293,314.01",
+      "total_cgst": "₹15,713.25",
+      "total_sgst": "₹15,713.25",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IQR/457",
+      "invoice_date": "05/01/2025",
+      "seller": "ROYAL MOBILES H.No. 90, Sachdeva Road, North Dumdum-404184",
+      "client": "BHAVNA CHAUDHARI 149, Bava Nagar, Rajpur Sonarpur-337734",
+      "shipping_address": "149, Bava Nagar, Rajpur Sonarpur-337734",
+      "seller_tax_id": "28WQIZJ0090Y1ZK",
+      "client_tax_id": "10ZFILM0731M1Z1",
+      "client_phone": "04571464087"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-657B",
+        "item_qty": "2",
+        "item_net_price": "90,738.38",
+        "item_net_worth": "181,476.76",
+        "item_vat": "12%",
+        "item_gross_worth": "203,253.97"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-306Y",
+        "item_qty": "2",
+        "item_net_price": "65,469.93",
+        "item_net_worth": "130,939.86",
+        "item_vat": "12%",
+        "item_gross_worth": "146,652.64"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-772U",
+        "item_qty": "2",
+        "item_net_price": "73,224.43",
+        "item_net_worth": "146,448.86",
+        "item_vat": "12%",
+        "item_gross_worth": "164,022.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹458,865.48",
+      "total_vat": "₹55,063.86",
+      "total_gross_worth": "₹513,929.34",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹55,063.86"
+    }
+  }
+}

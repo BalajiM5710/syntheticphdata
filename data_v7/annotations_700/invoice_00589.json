@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RFP/165",
+      "invoice_date": "31/01/2025",
+      "seller": "ELECTRONICS WORLD 423, Acharya Circle, Arrah 994772",
+      "client": "BAGHYAWATI SETHI H.No. 66, Uppal Chowk, Anantapur-224789",
+      "shipping_address": "H.No. 66, Uppal Chowk, Anantapur-224789",
+      "seller_tax_id": "11XOCQE0207C1ZW",
+      "client_tax_id": "16UBGFK2924F1ZU",
+      "client_phone": "4933431215"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-933X",
+        "item_qty": "1",
+        "item_net_price": "32,691.02",
+        "item_net_worth": "32,691.02",
+        "item_vat": "18%",
+        "item_gross_worth": "38,575.40"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-725C",
+        "item_qty": "2",
+        "item_net_price": "84,009.83",
+        "item_net_worth": "168,019.66",
+        "item_vat": "18%",
+        "item_gross_worth": "198,263.20"
+      },
+      {
+        "item_desc": "Canon Camera CAN-310B",
+        "item_qty": "1",
+        "item_net_price": "27,754.98",
+        "item_net_worth": "27,754.98",
+        "item_vat": "18%",
+        "item_gross_worth": "32,750.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹228,465.66",
+      "total_vat": "₹41,123.82",
+      "total_gross_worth": "₹269,589.48",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹41,123.82"
+    }
+  }
+}

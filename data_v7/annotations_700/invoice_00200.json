@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/623",
+      "invoice_date": "25/06/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 17, Mishra Marg, Khandwa 728545",
+      "client": "AARINI CHACKO H.No. 027, Raman Marg, Hospet-092652",
+      "shipping_address": "H.No. 604, Chaudry Ganj, Aizawl-390622",
+      "seller_tax_id": "37IFVPM4666S1Z1",
+      "client_tax_id": "06CKMRL0891G1ZH",
+      "client_phone": "+914572907771"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-672W IMEI: 614863661123525",
+        "item_qty": "1",
+        "item_net_price": "29,829.54",
+        "item_net_worth": "29,829.54",
+        "item_vat": "12%",
+        "item_gross_worth": "33,409.08"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹29,829.54",
+      "total_vat": "₹3,579.54",
+      "total_gross_worth": "₹33,409.08",
+      "total_cgst": "₹1,789.77",
+      "total_sgst": "₹1,789.77",
+      "total_igst": "₹0.00"
+    }
+  }
+}

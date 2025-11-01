@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/139",
+      "invoice_date": "05/07/2025",
+      "seller": "KUMAR TECH SOLUTIONS 60/86, Ahuja Street, Guna 580974",
+      "client": "HARSH NARASIMHAN 79/53, Prashad Street, Barasat 066762",
+      "shipping_address": "79/53, Prashad Street, Barasat 066762",
+      "seller_tax_id": "28RCSRL2105J1ZT",
+      "client_tax_id": "23GUAOJ9973C1ZV",
+      "client_phone": "09075130456"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-300Q",
+        "item_qty": "2",
+        "item_net_price": "57,295.48",
+        "item_net_worth": "114,590.96",
+        "item_vat": "12%",
+        "item_gross_worth": "128,341.88"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-882C",
+        "item_qty": "1",
+        "item_net_price": "20,360.75",
+        "item_net_worth": "20,360.75",
+        "item_vat": "12%",
+        "item_gross_worth": "22,804.04"
+      },
+      {
+        "item_desc": "Sony Television SON-429A",
+        "item_qty": "2",
+        "item_net_price": "57,899.70",
+        "item_net_worth": "115,799.40",
+        "item_vat": "12%",
+        "item_gross_worth": "129,695.33"
+      },
+      {
+        "item_desc": "TVS Bike TVS-772K",
+        "item_qty": "1",
+        "item_net_price": "52,025.28",
+        "item_net_worth": "52,025.28",
+        "item_vat": "12%",
+        "item_gross_worth": "58,268.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹302,776.39",
+      "total_vat": "₹36,333.17",
+      "total_gross_worth": "₹339,109.56",
+      "total_cgst": "₹18,166.58",
+      "total_sgst": "₹18,166.58",
+      "total_igst": "₹0.00"
+    }
+  }
+}

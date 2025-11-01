@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "FMO/459",
+      "invoice_date": "02/08/2025",
+      "seller": "PATEL MOBILES 131, Chand Street, Amaravati 834968",
+      "client": "XITI KAUL H.No. 765, Chanda Road, Pali 261816",
+      "shipping_address": "H.No. 865, Bora Marg, Madurai-168739",
+      "seller_tax_id": "03GKYNM1116M1ZP",
+      "client_tax_id": "13DACFS4953C1ZY",
+      "client_phone": "03344220148"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-267J",
+        "item_qty": "2",
+        "item_net_price": "14,453.93",
+        "item_net_worth": "28,907.86",
+        "item_vat": "28%",
+        "item_gross_worth": "37,002.06"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-836K",
+        "item_qty": "1",
+        "item_net_price": "91,853.81",
+        "item_net_worth": "91,853.81",
+        "item_vat": "28%",
+        "item_gross_worth": "117,572.88"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹120,761.67",
+      "total_vat": "₹33,813.27",
+      "total_gross_worth": "₹154,574.94",
+      "total_cgst": "₹16,906.63",
+      "total_sgst": "₹16,906.63",
+      "total_igst": "₹0.00"
+    }
+  }
+}

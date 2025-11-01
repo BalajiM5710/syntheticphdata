@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9368",
+      "invoice_date": "11/10/2025",
+      "seller": "PRADHAN MOBILE SHOP 11/393, Doctor Road, Bhind 592643",
+      "client": "VAMAKSHI SANE 00, Din Path, Sasaram-999965",
+      "shipping_address": "00, Din Path, Sasaram-999965",
+      "seller_tax_id": "22RFZFG4207V1ZZ",
+      "client_tax_id": "33MDFIU7824W1Z6",
+      "client_phone": "06168367029"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-588V",
+        "item_qty": "1",
+        "item_net_price": "67,516.09",
+        "item_net_worth": "67,516.09",
+        "item_vat": "28%",
+        "item_gross_worth": "86,420.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹67,516.09",
+      "total_vat": "₹18,904.51",
+      "total_gross_worth": "₹86,420.60",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹18,904.51"
+    }
+  }
+}

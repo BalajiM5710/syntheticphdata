@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JCE/783",
+      "invoice_date": "16/03/2025",
+      "seller": "FUTURE TECH 89/540, Kapoor Zila, Kozhikode-886923",
+      "client": "MITESH KARNIK H.No. 883, Mukhopadhyay Ganj, Berhampur 414664",
+      "shipping_address": "H.No. 883, Mukhopadhyay Ganj, Berhampur 414664",
+      "seller_tax_id": "17CTVJW3638S1ZQ",
+      "client_tax_id": "22GZWKJ7436T1Z7",
+      "client_phone": "+919318802336"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-654O",
+        "item_qty": "2",
+        "item_net_price": "81,245.46",
+        "item_net_worth": "162,490.92",
+        "item_vat": "12%",
+        "item_gross_worth": "181,989.83"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹162,490.92",
+      "total_vat": "₹19,498.91",
+      "total_gross_worth": "₹181,989.83",
+      "total_cgst": "₹9,749.46",
+      "total_sgst": "₹9,749.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

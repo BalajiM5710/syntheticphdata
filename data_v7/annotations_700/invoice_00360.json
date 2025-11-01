@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/969",
+      "invoice_date": "19/08/2025",
+      "seller": "STAR ELECTRONICS H.No. 25, Varty Path, Ghaziabad 954651",
+      "client": "SACHI BHATT 097, Mangal, Bhilwara 860658",
+      "shipping_address": "097, Mangal, Bhilwara 860658",
+      "seller_tax_id": "19QITUI8544E1ZN",
+      "client_tax_id": "37HEIJX8453F1ZB",
+      "client_phone": "+918255705913"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-438A",
+        "item_qty": "2",
+        "item_net_price": "72,142.54",
+        "item_net_worth": "144,285.08",
+        "item_vat": "18%",
+        "item_gross_worth": "170,256.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹144,285.08",
+      "total_vat": "₹25,971.31",
+      "total_gross_worth": "₹170,256.39",
+      "total_cgst": "₹12,985.66",
+      "total_sgst": "₹12,985.66",
+      "total_igst": "₹0.00"
+    }
+  }
+}

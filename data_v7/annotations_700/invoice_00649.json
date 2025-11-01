@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/352",
+      "invoice_date": "28/02/2025",
+      "seller": "GADGET GALAXY 54/400, Lalla Path, Bahraich 574427",
+      "client": "ARYA MISRA 02/744, Bera Zila, Gudivada-856959",
+      "shipping_address": "02/744, Bera Zila, Gudivada-856959",
+      "seller_tax_id": "12SCLYD0518C1ZS",
+      "client_tax_id": "05POVGL3472B1ZW",
+      "client_phone": "02224077681"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-837R",
+        "item_qty": "2",
+        "item_net_price": "62,331.42",
+        "item_net_worth": "124,662.84",
+        "item_vat": "28%",
+        "item_gross_worth": "159,568.44"
+      },
+      {
+        "item_desc": "Hero Bike HER-416Z",
+        "item_qty": "2",
+        "item_net_price": "54,526.14",
+        "item_net_worth": "109,052.28",
+        "item_vat": "28%",
+        "item_gross_worth": "139,586.92"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-507Y",
+        "item_qty": "1",
+        "item_net_price": "30,274.72",
+        "item_net_worth": "30,274.72",
+        "item_vat": "28%",
+        "item_gross_worth": "38,751.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹263,989.84",
+      "total_vat": "₹73,917.16",
+      "total_gross_worth": "₹337,907.00",
+      "total_cgst": "₹36,958.58",
+      "total_sgst": "₹36,958.58",
+      "total_igst": "₹0.00"
+    }
+  }
+}

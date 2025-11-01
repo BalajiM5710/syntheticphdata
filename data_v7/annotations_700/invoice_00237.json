@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PEI/666",
+      "invoice_date": "28/03/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 799, Dugar Chowk, Giridih 466376",
+      "client": "VEDIKA ANNE 16, Mittal Path, Muzaffarnagar 371059",
+      "shipping_address": "16, Mittal Path, Muzaffarnagar 371059",
+      "seller_tax_id": "30NYQPX8069M1ZE",
+      "client_tax_id": "13IIAIF6532A1Z5",
+      "client_phone": "+913411346229"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-944D",
+        "item_qty": "2",
+        "item_net_price": "70,752.09",
+        "item_net_worth": "141,504.18",
+        "item_vat": "18%",
+        "item_gross_worth": "166,974.93"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-620A",
+        "item_qty": "2",
+        "item_net_price": "69,338.91",
+        "item_net_worth": "138,677.82",
+        "item_vat": "18%",
+        "item_gross_worth": "163,639.83"
+      },
+      {
+        "item_desc": "TCL Television TCL-559F",
+        "item_qty": "2",
+        "item_net_price": "83,209.68",
+        "item_net_worth": "166,419.36",
+        "item_vat": "18%",
+        "item_gross_worth": "196,374.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹446,601.36",
+      "total_vat": "₹80,388.24",
+      "total_gross_worth": "₹526,989.60",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹80,388.24"
+    }
+  }
+}

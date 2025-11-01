@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8663",
+      "invoice_date": "06/06/2025",
+      "seller": "CITY ELECTRONICS 12, Setty Road, Satara 636677",
+      "client": "GANGA SOM H.No. 62, Gour Ganj, Sirsa-356639",
+      "shipping_address": "H.No. 62, Gour Ganj, Sirsa-356639",
+      "seller_tax_id": "23ZHORC8283Y1ZH",
+      "client_tax_id": "18IKXVL8443U1ZN",
+      "client_phone": "+918340837794"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Television SAM-492J",
+        "item_qty": "1",
+        "item_net_price": "89,762.66",
+        "item_net_worth": "89,762.66",
+        "item_vat": "12%",
+        "item_gross_worth": "100,534.18"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-210T",
+        "item_qty": "2",
+        "item_net_price": "9,644.08",
+        "item_net_worth": "19,288.16",
+        "item_vat": "12%",
+        "item_gross_worth": "21,602.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹109,050.82",
+      "total_vat": "₹13,086.10",
+      "total_gross_worth": "₹122,136.92",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,086.10"
+    }
+  }
+}

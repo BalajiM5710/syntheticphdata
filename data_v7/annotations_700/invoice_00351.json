@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/800",
+      "invoice_date": "26/07/2025",
+      "seller": "CITY ELECTRONICS H.No. 53, Bhakta Circle, Medininagar-532289",
+      "client": "FINN MALHOTRA 75/03, Nanda Marg, Munger 798551",
+      "shipping_address": "75/03, Nanda Marg, Munger 798551",
+      "seller_tax_id": "32JOZQM9710D1ZM",
+      "client_tax_id": "09ERMZX1745X1ZR",
+      "client_phone": "00368175866"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-333C",
+        "item_qty": "1",
+        "item_net_price": "66,770.42",
+        "item_net_worth": "66,770.42",
+        "item_vat": "12%",
+        "item_gross_worth": "74,782.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹66,770.42",
+      "total_vat": "₹8,012.45",
+      "total_gross_worth": "₹74,782.87",
+      "total_cgst": "₹4,006.23",
+      "total_sgst": "₹4,006.23",
+      "total_igst": "₹0.00"
+    }
+  }
+}

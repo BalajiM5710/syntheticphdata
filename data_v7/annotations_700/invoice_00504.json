@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PGU/501",
+      "invoice_date": "26/06/2025",
+      "seller": "MOBILE POINT 981, Chopra Nagar, Jamnagar 761416",
+      "client": "OSCAR VARTY 16/715, Lata Chowk, Singrauli-438540",
+      "shipping_address": "16/715, Lata Chowk, Singrauli-438540",
+      "seller_tax_id": "29SHMOP6333N1ZG",
+      "client_tax_id": "32YUQEB2394P1ZT",
+      "client_phone": "+914123362981"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-921R",
+        "item_qty": "1",
+        "item_net_price": "90,413.47",
+        "item_net_worth": "90,413.47",
+        "item_vat": "28%",
+        "item_gross_worth": "115,729.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹90,413.47",
+      "total_vat": "₹25,315.77",
+      "total_gross_worth": "₹115,729.24",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,315.77"
+    }
+  }
+}

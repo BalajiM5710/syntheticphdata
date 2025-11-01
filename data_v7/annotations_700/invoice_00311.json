@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/530",
+      "invoice_date": "25/04/2025",
+      "seller": "CITY ELECTRONICS 97/99, Bhatnagar Marg, Nangloi Jat-122303",
+      "client": "YASHODHARA MUKHERJEE 79/48, Chand Chowk, Secunderabad-619192",
+      "shipping_address": "134, Dhawan Chowk, Jaunpur-512772",
+      "seller_tax_id": "17FHCCB1877K1ZC",
+      "client_tax_id": "04YBXDR4804B1Z3",
+      "client_phone": "+912973013414"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-807A",
+        "item_qty": "2",
+        "item_net_price": "62,353.80",
+        "item_net_worth": "124,707.60",
+        "item_vat": "28%",
+        "item_gross_worth": "159,625.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹124,707.60",
+      "total_vat": "₹34,918.13",
+      "total_gross_worth": "₹159,625.73",
+      "total_cgst": "₹17,459.06",
+      "total_sgst": "₹17,459.06",
+      "total_igst": "₹0.00"
+    }
+  }
+}

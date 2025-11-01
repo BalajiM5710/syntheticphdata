@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/650",
+      "invoice_date": "10/01/2025",
+      "seller": "STAR ELECTRONICS 20/903, Purohit Zila, Medininagar-719350",
+      "client": "ZANSI DUGAR 62/61, Parekh Zila, Tadipatri-419175",
+      "shipping_address": "62/61, Parekh Zila, Tadipatri-419175",
+      "seller_tax_id": "21MUHKO2633P1Z9",
+      "client_tax_id": "18BZSGX7706R1ZC",
+      "client_phone": "03418261349"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-297Y",
+        "item_qty": "2",
+        "item_net_price": "82,819.23",
+        "item_net_worth": "165,638.46",
+        "item_vat": "28%",
+        "item_gross_worth": "212,017.23"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-500I",
+        "item_qty": "2",
+        "item_net_price": "58,814.25",
+        "item_net_worth": "117,628.50",
+        "item_vat": "28%",
+        "item_gross_worth": "150,564.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹283,266.96",
+      "total_vat": "₹79,314.75",
+      "total_gross_worth": "₹362,581.71",
+      "total_cgst": "₹39,657.37",
+      "total_sgst": "₹39,657.37",
+      "total_igst": "₹0.00"
+    }
+  }
+}

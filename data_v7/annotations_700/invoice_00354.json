@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/125",
+      "invoice_date": "10/08/2025",
+      "seller": "SMART ELECTRONICS 61/62, Chaudhry Zila, Cuttack 628466",
+      "client": "SHIVANSH BHATIA 58, Khanna Road, Deoghar-597812",
+      "shipping_address": "H.No. 580, Sharaf Ganj, Suryapet 086951",
+      "seller_tax_id": "21ZTJYV3899J1ZQ",
+      "client_tax_id": "22DNWGR1660Q1ZD",
+      "client_phone": "+915649273048"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-728T",
+        "item_qty": "2",
+        "item_net_price": "71,962.26",
+        "item_net_worth": "143,924.52",
+        "item_vat": "12%",
+        "item_gross_worth": "161,195.46"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-821S",
+        "item_qty": "2",
+        "item_net_price": "62,791.78",
+        "item_net_worth": "125,583.56",
+        "item_vat": "12%",
+        "item_gross_worth": "140,653.59"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-383K",
+        "item_qty": "1",
+        "item_net_price": "51,429.92",
+        "item_net_worth": "51,429.92",
+        "item_vat": "12%",
+        "item_gross_worth": "57,601.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹320,938.00",
+      "total_vat": "₹38,512.56",
+      "total_gross_worth": "₹359,450.56",
+      "total_cgst": "₹19,256.28",
+      "total_sgst": "₹19,256.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

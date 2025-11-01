@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/855",
+      "invoice_date": "17/06/2025",
+      "seller": "SMART ELECTRONICS H.No. 869, Chauhan Marg, Ujjain-403528",
+      "client": "YACHANA TAK 79, Rajagopalan Zila, Raurkela Industrial Township-396549",
+      "shipping_address": "79, Rajagopalan Zila, Raurkela Industrial Township-396549",
+      "seller_tax_id": "12ZHQBX0607B1ZB",
+      "client_tax_id": "34PJPQT0788K1ZS",
+      "client_phone": "+916183869933"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-899E",
+        "item_qty": "1",
+        "item_net_price": "89,297.25",
+        "item_net_worth": "89,297.25",
+        "item_vat": "18%",
+        "item_gross_worth": "105,370.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,297.25",
+      "total_vat": "₹16,073.50",
+      "total_gross_worth": "₹105,370.76",
+      "total_cgst": "₹8,036.75",
+      "total_sgst": "₹8,036.75",
+      "total_igst": "₹0.00"
+    }
+  }
+}

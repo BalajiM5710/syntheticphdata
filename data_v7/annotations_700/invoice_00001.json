@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9371",
+      "invoice_date": "16/04/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 51, Hayre Circle, Hubli–Dharwad 571514",
+      "client": "OSHA NARULA 72, Shanker, Dhanbad 744367",
+      "shipping_address": "08/281, Gara, Bhagalpur 207024",
+      "seller_tax_id": "12KREYF9410A1Z2",
+      "client_tax_id": "05JLAIV8270N1ZM",
+      "client_phone": "+915122674614"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-275M",
+        "item_qty": "2",
+        "item_net_price": "77,594.43",
+        "item_net_worth": "155,188.86",
+        "item_vat": "12%",
+        "item_gross_worth": "173,811.52"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-789X",
+        "item_qty": "2",
+        "item_net_price": "24,904.64",
+        "item_net_worth": "49,809.28",
+        "item_vat": "12%",
+        "item_gross_worth": "55,786.39"
+      },
+      {
+        "item_desc": "Apple Tablets APP-180B",
+        "item_qty": "1",
+        "item_net_price": "62,405.53",
+        "item_net_worth": "62,405.53",
+        "item_vat": "12%",
+        "item_gross_worth": "69,894.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹267,403.67",
+      "total_vat": "₹32,088.44",
+      "total_gross_worth": "₹299,492.11",
+      "total_cgst": "₹16,044.22",
+      "total_sgst": "₹16,044.22",
+      "total_igst": "₹0.00"
+    }
+  }
+}

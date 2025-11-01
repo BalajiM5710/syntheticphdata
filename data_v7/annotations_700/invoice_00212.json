@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9478",
+      "invoice_date": "07/09/2025",
+      "seller": "GADGET GALAXY H.No. 919, Dugar Circle, Lucknow-588978",
+      "client": "YACHANA BOSE 43/091, Master Street, Ranchi-820030",
+      "shipping_address": "43/091, Master Street, Ranchi-820030",
+      "seller_tax_id": "25NKAOD1921I1ZX",
+      "client_tax_id": "35SCHTS2242U1ZS",
+      "client_phone": "08747851693"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-187W",
+        "item_qty": "2",
+        "item_net_price": "72,837.46",
+        "item_net_worth": "145,674.92",
+        "item_vat": "28%",
+        "item_gross_worth": "186,463.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹145,674.92",
+      "total_vat": "₹40,788.98",
+      "total_gross_worth": "₹186,463.90",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,788.98"
+    }
+  }
+}

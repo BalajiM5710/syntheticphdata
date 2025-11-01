@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YZG/875",
+      "invoice_date": "23/05/2025",
+      "seller": "SUPREME ELECTRONICS 74, Gara Ganj, Secunderabad 416271",
+      "client": "REYANSH PERI 22/296, Divan Ganj, Mahbubnagar 289001",
+      "shipping_address": "H.No. 935, Jha Ganj, Bongaigaon 037126",
+      "seller_tax_id": "26GONTM4730F1ZW",
+      "client_tax_id": "20PSLHQ3356H1Z8",
+      "client_phone": "05446006508"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-329W",
+        "item_qty": "2",
+        "item_net_price": "20,103.34",
+        "item_net_worth": "40,206.68",
+        "item_vat": "12%",
+        "item_gross_worth": "45,031.48"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹40,206.68",
+      "total_vat": "₹4,824.80",
+      "total_gross_worth": "₹45,031.48",
+      "total_cgst": "₹2,412.40",
+      "total_sgst": "₹2,412.40",
+      "total_igst": "₹0.00"
+    }
+  }
+}

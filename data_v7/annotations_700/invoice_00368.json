@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6664",
+      "invoice_date": "15/05/2025",
+      "seller": "FUTURE TECH H.No. 049, Khare Street, Jalna 369248",
+      "client": "VYANJANA SUBRAMANIAN H.No. 69, Prasad Chowk, Chittoor 880159",
+      "shipping_address": "35, Vasa Path, Dehri 582070",
+      "seller_tax_id": "20VOIXP5391J1ZC",
+      "client_tax_id": "20DSTJA9159D1Z2",
+      "client_phone": "+914428015490"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-333B",
+        "item_qty": "2",
+        "item_net_price": "39,134.40",
+        "item_net_worth": "78,268.80",
+        "item_vat": "18%",
+        "item_gross_worth": "92,357.18"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-419K IMEI: 990285338659452",
+        "item_qty": "2",
+        "item_net_price": "68,252.94",
+        "item_net_worth": "136,505.88",
+        "item_vat": "18%",
+        "item_gross_worth": "161,076.94"
+      },
+      {
+        "item_desc": "Mi Television MI-317T",
+        "item_qty": "1",
+        "item_net_price": "82,409.36",
+        "item_net_worth": "82,409.36",
+        "item_vat": "18%",
+        "item_gross_worth": "97,243.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹297,184.04",
+      "total_vat": "₹53,493.13",
+      "total_gross_worth": "₹350,677.17",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹53,493.13"
+    }
+  }
+}

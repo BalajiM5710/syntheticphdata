@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HJE/547",
+      "invoice_date": "23/07/2025",
+      "seller": "CITY ELECTRONICS H.No. 84, Lad Marg, Katni-849719",
+      "client": "BALJIWAN MALHOTRA 39, Krish Path, Rampur-378816",
+      "shipping_address": "39, Krish Path, Rampur-378816",
+      "seller_tax_id": "03UUGDC1606R1ZK",
+      "client_tax_id": "08GEMUH2091L1ZA",
+      "client_phone": "+919036481986"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-498F",
+        "item_qty": "1",
+        "item_net_price": "67,666.11",
+        "item_net_worth": "67,666.11",
+        "item_vat": "28%",
+        "item_gross_worth": "86,612.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹67,666.11",
+      "total_vat": "₹18,946.51",
+      "total_gross_worth": "₹86,612.62",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹18,946.51"
+    }
+  }
+}

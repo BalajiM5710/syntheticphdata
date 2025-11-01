@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/982",
+      "invoice_date": "16/08/2025",
+      "seller": "TECH BAZAAR H.No. 618, Chaudhry Road, Satara-227894",
+      "client": "WARJAS BAWA 22/066, Singh Road, Morbi-625386",
+      "shipping_address": "22/066, Singh Road, Morbi-625386",
+      "seller_tax_id": "12INTGO6457F1ZC",
+      "client_tax_id": "14NHWMO9164W1Z6",
+      "client_phone": "09654201522"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-650M",
+        "item_qty": "2",
+        "item_net_price": "94,853.77",
+        "item_net_worth": "189,707.54",
+        "item_vat": "18%",
+        "item_gross_worth": "223,854.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹189,707.54",
+      "total_vat": "₹34,147.36",
+      "total_gross_worth": "₹223,854.90",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹34,147.36"
+    }
+  }
+}

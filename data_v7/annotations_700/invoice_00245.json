@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7007",
+      "invoice_date": "15/07/2025",
+      "seller": "ELECTRONICS WORLD 53/28, Vohra Street, Thrissur 140335",
+      "client": "BALVEER GILL 017, Sampath Path, Sasaram-361572",
+      "shipping_address": "16/11, Sodhi Marg, Aligarh-715502",
+      "seller_tax_id": "03ZRJOC6363J1ZM",
+      "client_tax_id": "06NPKGD0479K1ZP",
+      "client_phone": "09494086607"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-247R",
+        "item_qty": "1",
+        "item_net_price": "89,970.50",
+        "item_net_worth": "89,970.50",
+        "item_vat": "18%",
+        "item_gross_worth": "106,165.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,970.50",
+      "total_vat": "₹16,194.69",
+      "total_gross_worth": "₹106,165.19",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹16,194.69"
+    }
+  }
+}

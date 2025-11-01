@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OVL/795",
+      "invoice_date": "22/01/2025",
+      "seller": "STAR ELECTRONICS H.No. 54, Brahmbhatt, Baranagar 420435",
+      "client": "BAHADURJIT SANGHVI 561, Hari Marg, Ambala-479586",
+      "shipping_address": "561, Hari Marg, Ambala-479586",
+      "seller_tax_id": "08IQQFV5344G1ZC",
+      "client_tax_id": "09IQKQA1095T1ZV",
+      "client_phone": "07762093996"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-632O",
+        "item_qty": "1",
+        "item_net_price": "59,907.84",
+        "item_net_worth": "59,907.84",
+        "item_vat": "28%",
+        "item_gross_worth": "76,682.04"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-637T",
+        "item_qty": "2",
+        "item_net_price": "17,898.46",
+        "item_net_worth": "35,796.92",
+        "item_vat": "28%",
+        "item_gross_worth": "45,820.06"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-798V",
+        "item_qty": "1",
+        "item_net_price": "57,826.42",
+        "item_net_worth": "57,826.42",
+        "item_vat": "28%",
+        "item_gross_worth": "74,017.82"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-562O",
+        "item_qty": "2",
+        "item_net_price": "40,917.16",
+        "item_net_worth": "81,834.32",
+        "item_vat": "28%",
+        "item_gross_worth": "104,747.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹235,365.50",
+      "total_vat": "₹65,902.34",
+      "total_gross_worth": "₹301,267.84",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹65,902.34"
+    }
+  }
+}

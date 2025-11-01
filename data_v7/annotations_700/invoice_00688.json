@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MRA/248",
+      "invoice_date": "15/05/2025",
+      "seller": "DIGITAL STORE 27/494, Dixit Ganj, Mirzapur-103866",
+      "client": "ESHANA RAMA 94/704, Sehgal Ganj, Ghaziabad 978120",
+      "shipping_address": "195, Jha, Cuttack-761171",
+      "seller_tax_id": "11RKWZW2134Y1ZJ",
+      "client_tax_id": "11JKMRZ6549E1Z9",
+      "client_phone": "2248449742"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-846T IMEI: 902403987380729",
+        "item_qty": "1",
+        "item_net_price": "8,708.12",
+        "item_net_worth": "8,708.12",
+        "item_vat": "18%",
+        "item_gross_worth": "10,275.58"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-998X",
+        "item_qty": "2",
+        "item_net_price": "81,250.94",
+        "item_net_worth": "162,501.88",
+        "item_vat": "18%",
+        "item_gross_worth": "191,752.22"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-999I",
+        "item_qty": "2",
+        "item_net_price": "33,142.95",
+        "item_net_worth": "66,285.90",
+        "item_vat": "18%",
+        "item_gross_worth": "78,217.36"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-756Y",
+        "item_qty": "2",
+        "item_net_price": "18,794.56",
+        "item_net_worth": "37,589.12",
+        "item_vat": "18%",
+        "item_gross_worth": "44,355.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹275,085.02",
+      "total_vat": "₹49,515.30",
+      "total_gross_worth": "₹324,600.32",
+      "total_cgst": "₹24,757.65",
+      "total_sgst": "₹24,757.65",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QBW/758",
+      "invoice_date": "08/02/2025",
+      "seller": "METRO TECH STORE H.No. 16, Dada Ganj, Bahraich-777377",
+      "client": "NIDHI WASON 07/20, Madan Street, Hindupur 837837",
+      "shipping_address": "07/20, Madan Street, Hindupur 837837",
+      "seller_tax_id": "36RSVPR4986D1ZS",
+      "client_tax_id": "24SPKEP4717C1ZV",
+      "client_phone": "+915677501968"
+    },
+    "items": [
+      {
+        "item_desc": "Dell Laptops DEL-145L",
+        "item_qty": "2",
+        "item_net_price": "41,222.76",
+        "item_net_worth": "82,445.52",
+        "item_vat": "28%",
+        "item_gross_worth": "105,530.27"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-297J",
+        "item_qty": "1",
+        "item_net_price": "62,039.92",
+        "item_net_worth": "62,039.92",
+        "item_vat": "28%",
+        "item_gross_worth": "79,411.10"
+      },
+      {
+        "item_desc": "Sony Headphones SON-913L",
+        "item_qty": "1",
+        "item_net_price": "9,227.11",
+        "item_net_worth": "9,227.11",
+        "item_vat": "28%",
+        "item_gross_worth": "11,810.70"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-634B",
+        "item_qty": "2",
+        "item_net_price": "72,178.77",
+        "item_net_worth": "144,357.54",
+        "item_vat": "28%",
+        "item_gross_worth": "184,777.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹298,070.09",
+      "total_vat": "₹83,459.63",
+      "total_gross_worth": "₹381,529.72",
+      "total_cgst": "₹41,729.81",
+      "total_sgst": "₹41,729.81",
+      "total_igst": "₹0.00"
+    }
+  }
+}

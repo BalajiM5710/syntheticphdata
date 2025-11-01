@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9108",
+      "invoice_date": "29/10/2025",
+      "seller": "SINGH ELECTRONICS H.No. 221, Sidhu Ganj, Hapur 369011",
+      "client": "ISHITA TANK H.No. 08, Parsa Path, Hubli–Dharwad-764878",
+      "shipping_address": "H.No. 08, Parsa Path, Hubli–Dharwad-764878",
+      "seller_tax_id": "10SOXNZ9766Q1ZG",
+      "client_tax_id": "31HBMKY3636Q1ZK",
+      "client_phone": "06508300954"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-155C",
+        "item_qty": "2",
+        "item_net_price": "47,549.81",
+        "item_net_worth": "95,099.62",
+        "item_vat": "28%",
+        "item_gross_worth": "121,727.51"
+      },
+      {
+        "item_desc": "Apple Laptops APP-132N",
+        "item_qty": "2",
+        "item_net_price": "25,565.47",
+        "item_net_worth": "51,130.94",
+        "item_vat": "28%",
+        "item_gross_worth": "65,447.60"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-951Y",
+        "item_qty": "1",
+        "item_net_price": "73,113.23",
+        "item_net_worth": "73,113.23",
+        "item_vat": "28%",
+        "item_gross_worth": "93,584.93"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-160O",
+        "item_qty": "1",
+        "item_net_price": "90,293.99",
+        "item_net_worth": "90,293.99",
+        "item_vat": "28%",
+        "item_gross_worth": "115,576.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹309,637.78",
+      "total_vat": "₹86,698.58",
+      "total_gross_worth": "₹396,336.36",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹86,698.58"
+    }
+  }
+}

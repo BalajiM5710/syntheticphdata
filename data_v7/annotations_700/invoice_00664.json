@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "TBV/955",
+      "invoice_date": "15/07/2025",
+      "seller": "METRO TECH STORE 75, Ganguly Road, Indore-945189",
+      "client": "UDANT DARA 87, Hayer Chowk, Sikar 245306",
+      "shipping_address": "87, Hayer Chowk, Sikar 245306",
+      "seller_tax_id": "10IVVTN9175Y1ZJ",
+      "client_tax_id": "34HBAEH9158R1ZU",
+      "client_phone": "2043020345"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-659S",
+        "item_qty": "1",
+        "item_net_price": "61,001.91",
+        "item_net_worth": "61,001.91",
+        "item_vat": "18%",
+        "item_gross_worth": "71,982.25"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-257R",
+        "item_qty": "2",
+        "item_net_price": "73,167.05",
+        "item_net_worth": "146,334.10",
+        "item_vat": "18%",
+        "item_gross_worth": "172,674.24"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-924A",
+        "item_qty": "1",
+        "item_net_price": "80,824.08",
+        "item_net_worth": "80,824.08",
+        "item_vat": "18%",
+        "item_gross_worth": "95,372.41"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹288,160.09",
+      "total_vat": "₹51,868.82",
+      "total_gross_worth": "₹340,028.91",
+      "total_cgst": "₹25,934.41",
+      "total_sgst": "₹25,934.41",
+      "total_igst": "₹0.00"
+    }
+  }
+}

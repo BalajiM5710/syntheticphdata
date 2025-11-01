@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/885",
+      "invoice_date": "19/07/2025",
+      "seller": "PRADHAN MOBILE SHOP 70/744, Balan Ganj, Rourkela-641874",
+      "client": "VIRAJ SURA 88/015, Sachdev Nagar, Lucknow-726484",
+      "shipping_address": "88/015, Sachdev Nagar, Lucknow-726484",
+      "seller_tax_id": "23NOYCG2587X1Z0",
+      "client_tax_id": "15JZANK3006O1ZE",
+      "client_phone": "1972201960"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-767Z",
+        "item_qty": "1",
+        "item_net_price": "68,674.91",
+        "item_net_worth": "68,674.91",
+        "item_vat": "18%",
+        "item_gross_worth": "81,036.39"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-595D",
+        "item_qty": "1",
+        "item_net_price": "90,347.35",
+        "item_net_worth": "90,347.35",
+        "item_vat": "18%",
+        "item_gross_worth": "106,609.87"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-359X IMEI: 301232821627756",
+        "item_qty": "1",
+        "item_net_price": "9,831.61",
+        "item_net_worth": "9,831.61",
+        "item_vat": "18%",
+        "item_gross_worth": "11,601.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹168,853.87",
+      "total_vat": "₹30,393.70",
+      "total_gross_worth": "₹199,247.57",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,393.70"
+    }
+  }
+}

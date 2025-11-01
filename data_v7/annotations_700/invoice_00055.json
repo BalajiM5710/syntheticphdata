@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MKQ/380",
+      "invoice_date": "11/04/2025",
+      "seller": "DIGITAL STORE H.No. 867, Dhar Road, Allahabad-301739",
+      "client": "FALAK SHAN 70, Borah Road, Karaikudi-354439",
+      "shipping_address": "889, Jain Zila, Aligarh 910630",
+      "seller_tax_id": "20OGAPR3499N1Z4",
+      "client_tax_id": "13UJZVS3036B1ZW",
+      "client_phone": "+913648876027"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-902D",
+        "item_qty": "1",
+        "item_net_price": "57,761.62",
+        "item_net_worth": "57,761.62",
+        "item_vat": "18%",
+        "item_gross_worth": "68,158.71"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-217C",
+        "item_qty": "2",
+        "item_net_price": "28,197.93",
+        "item_net_worth": "56,395.86",
+        "item_vat": "18%",
+        "item_gross_worth": "66,547.11"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-768B",
+        "item_qty": "2",
+        "item_net_price": "22,230.35",
+        "item_net_worth": "44,460.70",
+        "item_vat": "18%",
+        "item_gross_worth": "52,463.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹158,618.18",
+      "total_vat": "₹28,551.27",
+      "total_gross_worth": "₹187,169.45",
+      "total_cgst": "₹14,275.64",
+      "total_sgst": "₹14,275.64",
+      "total_igst": "₹0.00"
+    }
+  }
+}

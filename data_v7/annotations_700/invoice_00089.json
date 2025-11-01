@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VAA/211",
+      "invoice_date": "05/03/2025",
+      "seller": "DIGITAL STORE 81, Lanka Path, Pudukkottai 682278",
+      "client": "JAI DUTT 80, Barman Circle, Mirzapur-533742",
+      "shipping_address": "80, Barman Circle, Mirzapur-533742",
+      "seller_tax_id": "37QXOAL1691J1ZA",
+      "client_tax_id": "13SYRQE7062U1ZW",
+      "client_phone": "09540665914"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-697N",
+        "item_qty": "2",
+        "item_net_price": "41,297.54",
+        "item_net_worth": "82,595.08",
+        "item_vat": "18%",
+        "item_gross_worth": "97,462.19"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹82,595.08",
+      "total_vat": "₹14,867.11",
+      "total_gross_worth": "₹97,462.19",
+      "total_cgst": "₹7,433.56",
+      "total_sgst": "₹7,433.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

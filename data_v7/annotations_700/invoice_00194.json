@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1364",
+      "invoice_date": "25/05/2025",
+      "seller": "PRADHAN MOBILE SHOP 72/012, Kurian, Raichur-948322",
+      "client": "OLIVER RAY 05/351, Chad Marg, Ballia 458542",
+      "shipping_address": "05/351, Chad Marg, Ballia 458542",
+      "seller_tax_id": "18NWZFN2578B1ZA",
+      "client_tax_id": "01TTOAR5848Q1ZB",
+      "client_phone": "9517341260"
+    },
+    "items": [
+      {
+        "item_desc": "Amazfit Smartwatch AMA-540Q",
+        "item_qty": "2",
+        "item_net_price": "39,305.45",
+        "item_net_worth": "78,610.90",
+        "item_vat": "28%",
+        "item_gross_worth": "100,621.95"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-142H",
+        "item_qty": "1",
+        "item_net_price": "72,686.27",
+        "item_net_worth": "72,686.27",
+        "item_vat": "28%",
+        "item_gross_worth": "93,038.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹151,297.17",
+      "total_vat": "₹42,363.21",
+      "total_gross_worth": "₹193,660.38",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹42,363.21"
+    }
+  }
+}

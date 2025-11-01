@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "MCC/893",
+      "invoice_date": "29/08/2025",
+      "seller": "CITY ELECTRONICS H.No. 78, Buch Path, Deoghar 644905",
+      "client": "JASON SAVANT H.No. 15, Palan Chowk, Jamalpur-472383",
+      "shipping_address": "H.No. 15, Palan Chowk, Jamalpur-472383",
+      "seller_tax_id": "20ZAHSH6966O1ZX",
+      "client_tax_id": "02JGNBF1924X1ZM",
+      "client_phone": "04943814703"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-105F",
+        "item_qty": "1",
+        "item_net_price": "90,177.73",
+        "item_net_worth": "90,177.73",
+        "item_vat": "28%",
+        "item_gross_worth": "115,427.49"
+      },
+      {
+        "item_desc": "Apple Tablets APP-189T",
+        "item_qty": "2",
+        "item_net_price": "48,187.08",
+        "item_net_worth": "96,374.16",
+        "item_vat": "28%",
+        "item_gross_worth": "123,358.92"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-926N IMEI: 659057576253639",
+        "item_qty": "1",
+        "item_net_price": "68,119.73",
+        "item_net_worth": "68,119.73",
+        "item_vat": "28%",
+        "item_gross_worth": "87,193.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,671.62",
+      "total_vat": "₹71,308.05",
+      "total_gross_worth": "₹325,979.67",
+      "total_cgst": "₹35,654.03",
+      "total_sgst": "₹35,654.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

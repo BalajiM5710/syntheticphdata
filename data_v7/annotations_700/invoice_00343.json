@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QDO/503",
+      "invoice_date": "13/02/2025",
+      "seller": "VISHWA ELECTRONICS 07/780, Bains Chowk, Thanjavur-337105",
+      "client": "ISAAC REDDY 31/63, Sekhon, Siliguri 460319",
+      "shipping_address": "31/63, Sekhon, Siliguri 460319",
+      "seller_tax_id": "20QGSXO2708I1ZN",
+      "client_tax_id": "37IPUUB0044Y1ZN",
+      "client_phone": "8053578724"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-561J",
+        "item_qty": "2",
+        "item_net_price": "83,083.85",
+        "item_net_worth": "166,167.70",
+        "item_vat": "28%",
+        "item_gross_worth": "212,694.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹166,167.70",
+      "total_vat": "₹46,526.96",
+      "total_gross_worth": "₹212,694.66",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,526.96"
+    }
+  }
+}

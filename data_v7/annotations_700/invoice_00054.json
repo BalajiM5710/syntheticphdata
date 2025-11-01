@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6187",
+      "invoice_date": "22/02/2025",
+      "seller": "GADGET GALAXY 895, Kant Zila, Mangalore 199142",
+      "client": "JONATHAN RAJAN H.No. 475, Sami Circle, Chandigarh-625686",
+      "shipping_address": "H.No. 475, Sami Circle, Chandigarh-625686",
+      "seller_tax_id": "20MPZPD7914B1ZU",
+      "client_tax_id": "30XRCFD7151Q1ZJ",
+      "client_phone": "09456383821"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-402P",
+        "item_qty": "2",
+        "item_net_price": "88,993.15",
+        "item_net_worth": "177,986.30",
+        "item_vat": "28%",
+        "item_gross_worth": "227,822.46"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-123U",
+        "item_qty": "1",
+        "item_net_price": "93,795.21",
+        "item_net_worth": "93,795.21",
+        "item_vat": "28%",
+        "item_gross_worth": "120,057.87"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-579J",
+        "item_qty": "1",
+        "item_net_price": "43,589.56",
+        "item_net_worth": "43,589.56",
+        "item_vat": "28%",
+        "item_gross_worth": "55,794.64"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-232R",
+        "item_qty": "2",
+        "item_net_price": "28,239.33",
+        "item_net_worth": "56,478.66",
+        "item_vat": "28%",
+        "item_gross_worth": "72,292.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹371,849.73",
+      "total_vat": "₹104,117.92",
+      "total_gross_worth": "₹475,967.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹104,117.92"
+    }
+  }
+}

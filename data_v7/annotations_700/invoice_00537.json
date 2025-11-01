@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/538",
+      "invoice_date": "19/07/2025",
+      "seller": "RAM ELECTRONICS H.No. 969, Puri Nagar, Salem 747753",
+      "client": "DIVYA MENON 182, Nagy Nagar, Latur-599038",
+      "shipping_address": "250, Kari Ganj, Mira-Bhayandar-959608",
+      "seller_tax_id": "36FNYVB5746G1ZB",
+      "client_tax_id": "01PHTGG1784V1ZV",
+      "client_phone": "6077479872"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-381T",
+        "item_qty": "1",
+        "item_net_price": "18,672.78",
+        "item_net_worth": "18,672.78",
+        "item_vat": "28%",
+        "item_gross_worth": "23,901.16"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-671I",
+        "item_qty": "2",
+        "item_net_price": "65,189.63",
+        "item_net_worth": "130,379.26",
+        "item_vat": "28%",
+        "item_gross_worth": "166,885.45"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-839B",
+        "item_qty": "1",
+        "item_net_price": "18,424.36",
+        "item_net_worth": "18,424.36",
+        "item_vat": "28%",
+        "item_gross_worth": "23,583.18"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-193H",
+        "item_qty": "2",
+        "item_net_price": "44,215.84",
+        "item_net_worth": "88,431.68",
+        "item_vat": "28%",
+        "item_gross_worth": "113,192.55"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹255,908.08",
+      "total_vat": "₹71,654.26",
+      "total_gross_worth": "₹327,562.34",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹71,654.26"
+    }
+  }
+}

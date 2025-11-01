@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/778",
+      "invoice_date": "29/10/2025",
+      "seller": "RAM ELECTRONICS 02/56, Sibal Ganj, Karaikudi-326128",
+      "client": "IKBAL DIXIT 762, Datta Ganj, Sultan Pur Majra-842080",
+      "shipping_address": "27/10, Hora Path, Etawah 302162",
+      "seller_tax_id": "31PIVDX1724R1Z7",
+      "client_tax_id": "02PIJCK6220W1ZX",
+      "client_phone": "+910521339262"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-281O",
+        "item_qty": "1",
+        "item_net_price": "41,603.35",
+        "item_net_worth": "41,603.35",
+        "item_vat": "28%",
+        "item_gross_worth": "53,252.29"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-694O",
+        "item_qty": "2",
+        "item_net_price": "17,463.71",
+        "item_net_worth": "34,927.42",
+        "item_vat": "28%",
+        "item_gross_worth": "44,707.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹76,530.77",
+      "total_vat": "₹21,428.62",
+      "total_gross_worth": "₹97,959.39",
+      "total_cgst": "₹10,714.31",
+      "total_sgst": "₹10,714.31",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/644",
+      "invoice_date": "21/05/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 222, Nagy Nagar, Maheshtala-950160",
+      "client": "ISAAC SAWHNEY 51, Sabharwal Street, Etawah 714862",
+      "shipping_address": "51, Sabharwal Street, Etawah 714862",
+      "seller_tax_id": "08OENGY8158A1Z3",
+      "client_tax_id": "14YQABA1444J1ZZ",
+      "client_phone": "9152814819"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-146H",
+        "item_qty": "1",
+        "item_net_price": "37,575.27",
+        "item_net_worth": "37,575.27",
+        "item_vat": "28%",
+        "item_gross_worth": "48,096.35"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-468B",
+        "item_qty": "1",
+        "item_net_price": "17,719.42",
+        "item_net_worth": "17,719.42",
+        "item_vat": "28%",
+        "item_gross_worth": "22,680.86"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-671N",
+        "item_qty": "1",
+        "item_net_price": "47,523.07",
+        "item_net_worth": "47,523.07",
+        "item_vat": "28%",
+        "item_gross_worth": "60,829.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹102,817.76",
+      "total_vat": "₹28,788.97",
+      "total_gross_worth": "₹131,606.73",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,788.97"
+    }
+  }
+}

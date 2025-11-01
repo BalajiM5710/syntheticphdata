@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HFF/167",
+      "invoice_date": "06/03/2025",
+      "seller": "DIGITAL STORE 75, Bahl Marg, Giridih-551957",
+      "client": "EKAJA CHERIAN 034, Jani Chowk, Raipur-822898",
+      "shipping_address": "H.No. 89, Yohannan Marg, Nizamabad 746244",
+      "seller_tax_id": "03PZCJX3307M1ZD",
+      "client_tax_id": "30PNYXT5640C1ZZ",
+      "client_phone": "+915675219814"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-755X",
+        "item_qty": "2",
+        "item_net_price": "43,044.90",
+        "item_net_worth": "86,089.80",
+        "item_vat": "12%",
+        "item_gross_worth": "96,420.58"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-176T",
+        "item_qty": "2",
+        "item_net_price": "8,125.42",
+        "item_net_worth": "16,250.84",
+        "item_vat": "12%",
+        "item_gross_worth": "18,200.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹102,340.64",
+      "total_vat": "₹12,280.88",
+      "total_gross_worth": "₹114,621.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹12,280.88"
+    }
+  }
+}

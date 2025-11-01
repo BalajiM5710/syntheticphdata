@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1293",
+      "invoice_date": "04/05/2025",
+      "seller": "DIGITAL STORE 08, Yadav Circle, Noida-758343",
+      "client": "NILIMA BAINS 801, Chaudhary, Ahmednagar 456208",
+      "shipping_address": "801, Chaudhary, Ahmednagar 456208",
+      "seller_tax_id": "09SXSBA6211G1Z0",
+      "client_tax_id": "33MLNAM8810O1Z6",
+      "client_phone": "05528421770"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-647P",
+        "item_qty": "1",
+        "item_net_price": "37,229.94",
+        "item_net_worth": "37,229.94",
+        "item_vat": "12%",
+        "item_gross_worth": "41,697.53"
+      },
+      {
+        "item_desc": "Apple Laptops APP-722I",
+        "item_qty": "1",
+        "item_net_price": "27,475.83",
+        "item_net_worth": "27,475.83",
+        "item_vat": "12%",
+        "item_gross_worth": "30,772.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹64,705.77",
+      "total_vat": "₹7,764.69",
+      "total_gross_worth": "₹72,470.46",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹7,764.69"
+    }
+  }
+}

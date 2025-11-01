@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4435",
+      "invoice_date": "07/01/2025",
+      "seller": "ELECTRONICS WORLD H.No. 22, Bawa, Davanagere 169658",
+      "client": "VINCENT MODY 729, Narain Chowk, New Delhi 270148",
+      "shipping_address": "729, Narain Chowk, New Delhi 270148",
+      "seller_tax_id": "37WQEOH3518I1Z4",
+      "client_tax_id": "08SRODS8428V1ZU",
+      "client_phone": "+915570500098"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-968U",
+        "item_qty": "2",
+        "item_net_price": "87,008.49",
+        "item_net_worth": "174,016.98",
+        "item_vat": "18%",
+        "item_gross_worth": "205,340.04"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-801Y",
+        "item_qty": "2",
+        "item_net_price": "66,805.29",
+        "item_net_worth": "133,610.58",
+        "item_vat": "18%",
+        "item_gross_worth": "157,660.48"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-766W",
+        "item_qty": "1",
+        "item_net_price": "31,404.72",
+        "item_net_worth": "31,404.72",
+        "item_vat": "18%",
+        "item_gross_worth": "37,057.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹339,032.28",
+      "total_vat": "₹61,025.81",
+      "total_gross_worth": "₹400,058.09",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹61,025.81"
+    }
+  }
+}

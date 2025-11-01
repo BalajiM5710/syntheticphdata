@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VXP/413",
+      "invoice_date": "05/05/2025",
+      "seller": "MOBILE POINT H.No. 950, Wadhwa Zila, Ratlam 691952",
+      "client": "EKAVIR PALLA 07/776, Srinivas Chowk, Udupi 877410",
+      "shipping_address": "00/087, Kalla Road, Pali 302036",
+      "seller_tax_id": "07MBTAP1958E1ZJ",
+      "client_tax_id": "07XCHUK2808Z1ZY",
+      "client_phone": "02087687833"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-359R",
+        "item_qty": "2",
+        "item_net_price": "46,754.90",
+        "item_net_worth": "93,509.80",
+        "item_vat": "12%",
+        "item_gross_worth": "104,730.98"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-758S",
+        "item_qty": "2",
+        "item_net_price": "45,739.73",
+        "item_net_worth": "91,479.46",
+        "item_vat": "12%",
+        "item_gross_worth": "102,457.00"
+      },
+      {
+        "item_desc": "Sony Camera SON-913P",
+        "item_qty": "1",
+        "item_net_price": "27,995.42",
+        "item_net_worth": "27,995.42",
+        "item_vat": "12%",
+        "item_gross_worth": "31,354.87"
+      },
+      {
+        "item_desc": "Apple Laptops APP-946B",
+        "item_qty": "1",
+        "item_net_price": "20,793.67",
+        "item_net_worth": "20,793.67",
+        "item_vat": "12%",
+        "item_gross_worth": "23,288.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹233,778.35",
+      "total_vat": "₹28,053.40",
+      "total_gross_worth": "₹261,831.75",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,053.40"
+    }
+  }
+}

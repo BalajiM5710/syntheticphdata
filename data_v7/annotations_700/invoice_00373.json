@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6801",
+      "invoice_date": "28/10/2025",
+      "seller": "PATEL MOBILES 275, Nanda Street, Karnal-694891",
+      "client": "MAX ROY H.No. 308, Tara, Tirupati-118261",
+      "shipping_address": "44, Joshi Zila, Bongaigaon 501896",
+      "seller_tax_id": "32TLDKV2678Z1ZY",
+      "client_tax_id": "14TRQKS6426D1ZW",
+      "client_phone": "+914637511719"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-598Q IMEI: 515658461286995",
+        "item_qty": "2",
+        "item_net_price": "42,530.89",
+        "item_net_worth": "85,061.78",
+        "item_vat": "12%",
+        "item_gross_worth": "95,269.19"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-868W",
+        "item_qty": "2",
+        "item_net_price": "67,452.74",
+        "item_net_worth": "134,905.48",
+        "item_vat": "12%",
+        "item_gross_worth": "151,094.14"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-695I",
+        "item_qty": "2",
+        "item_net_price": "29,142.22",
+        "item_net_worth": "58,284.44",
+        "item_vat": "12%",
+        "item_gross_worth": "65,278.57"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-415P",
+        "item_qty": "1",
+        "item_net_price": "57,911.07",
+        "item_net_worth": "57,911.07",
+        "item_vat": "12%",
+        "item_gross_worth": "64,860.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹336,162.77",
+      "total_vat": "₹40,339.53",
+      "total_gross_worth": "₹376,502.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,339.53"
+    }
+  }
+}

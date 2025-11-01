@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ETY/378",
+      "invoice_date": "10/10/2025",
+      "seller": "VISHWA ELECTRONICS 08/45, Malhotra Marg, Karaikudi-571166",
+      "client": "PRATYUSH HANS 79/77, Palla Path, Ambala 971008",
+      "shipping_address": "79/77, Palla Path, Ambala 971008",
+      "seller_tax_id": "04VMXNW3486Z1Z4",
+      "client_tax_id": "04IQGCQ8598N1ZE",
+      "client_phone": "+914020303213"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-394O",
+        "item_qty": "1",
+        "item_net_price": "59,909.09",
+        "item_net_worth": "59,909.09",
+        "item_vat": "12%",
+        "item_gross_worth": "67,098.18"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-563J",
+        "item_qty": "1",
+        "item_net_price": "63,395.86",
+        "item_net_worth": "63,395.86",
+        "item_vat": "12%",
+        "item_gross_worth": "71,003.36"
+      },
+      {
+        "item_desc": "Sony Television SON-891V",
+        "item_qty": "1",
+        "item_net_price": "15,792.06",
+        "item_net_worth": "15,792.06",
+        "item_vat": "12%",
+        "item_gross_worth": "17,687.11"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-427E",
+        "item_qty": "1",
+        "item_net_price": "14,726.98",
+        "item_net_worth": "14,726.98",
+        "item_vat": "12%",
+        "item_gross_worth": "16,494.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹153,823.99",
+      "total_vat": "₹18,458.88",
+      "total_gross_worth": "₹172,282.87",
+      "total_cgst": "₹9,229.44",
+      "total_sgst": "₹9,229.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

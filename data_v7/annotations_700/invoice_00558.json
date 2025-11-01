@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YNG/230",
+      "invoice_date": "19/04/2025",
+      "seller": "STAR ELECTRONICS H.No. 30, Bail Marg, Dhanbad-431963",
+      "client": "RACHANA GREWAL 15/288, Dayal Nagar, Bahraich-184698",
+      "shipping_address": "15/288, Dayal Nagar, Bahraich-184698",
+      "seller_tax_id": "04VDZME2264C1Z6",
+      "client_tax_id": "17KUYQK7497D1Z4",
+      "client_phone": "+919879195227"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-661X IMEI: 818046604934200",
+        "item_qty": "1",
+        "item_net_price": "75,206.45",
+        "item_net_worth": "75,206.45",
+        "item_vat": "18%",
+        "item_gross_worth": "88,743.61"
+      },
+      {
+        "item_desc": "Bajaj Bike BAJ-419Q",
+        "item_qty": "2",
+        "item_net_price": "74,770.89",
+        "item_net_worth": "149,541.78",
+        "item_vat": "18%",
+        "item_gross_worth": "176,459.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹224,748.23",
+      "total_vat": "₹40,454.68",
+      "total_gross_worth": "₹265,202.91",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹40,454.68"
+    }
+  }
+}

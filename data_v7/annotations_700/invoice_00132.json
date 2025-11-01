@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/919",
+      "invoice_date": "03/04/2025",
+      "seller": "SINGH ELECTRONICS 785, Patel Circle, Fatehpur-061085",
+      "client": "LOPA SRIVASTAVA H.No. 657, Mishra, Jamshedpur 372438",
+      "shipping_address": "H.No. 657, Mishra, Jamshedpur 372438",
+      "seller_tax_id": "20IXUYA1141T1Z6",
+      "client_tax_id": "31VPHOU7405V1ZG",
+      "client_phone": "5161085176"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Television ONE-817I",
+        "item_qty": "2",
+        "item_net_price": "66,407.40",
+        "item_net_worth": "132,814.80",
+        "item_vat": "18%",
+        "item_gross_worth": "156,721.46"
+      },
+      {
+        "item_desc": "TVS Bike TVS-673M",
+        "item_qty": "2",
+        "item_net_price": "50,953.89",
+        "item_net_worth": "101,907.78",
+        "item_vat": "18%",
+        "item_gross_worth": "120,251.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹234,722.58",
+      "total_vat": "₹42,250.06",
+      "total_gross_worth": "₹276,972.64",
+      "total_cgst": "₹21,125.03",
+      "total_sgst": "₹21,125.03",
+      "total_igst": "₹0.00"
+    }
+  }
+}

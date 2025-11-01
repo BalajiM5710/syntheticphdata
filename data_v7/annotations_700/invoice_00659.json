@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/601",
+      "invoice_date": "04/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 93, Lad Road, Kurnool 268359",
+      "client": "JATIN SONI H.No. 117, Pant Ganj, Burhanpur-887866",
+      "shipping_address": "63/45, Goswami Nagar, Thane-775121",
+      "seller_tax_id": "28JUFZE8356P1Z6",
+      "client_tax_id": "20QLPYI4195Q1ZY",
+      "client_phone": "0493846458"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-368I",
+        "item_qty": "1",
+        "item_net_price": "87,252.65",
+        "item_net_worth": "87,252.65",
+        "item_vat": "18%",
+        "item_gross_worth": "102,958.13"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-820T",
+        "item_qty": "2",
+        "item_net_price": "39,001.36",
+        "item_net_worth": "78,002.72",
+        "item_vat": "18%",
+        "item_gross_worth": "92,043.21"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-963V",
+        "item_qty": "1",
+        "item_net_price": "75,646.39",
+        "item_net_worth": "75,646.39",
+        "item_vat": "18%",
+        "item_gross_worth": "89,262.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹240,901.76",
+      "total_vat": "₹43,362.32",
+      "total_gross_worth": "₹284,264.08",
+      "total_cgst": "₹21,681.16",
+      "total_sgst": "₹21,681.16",
+      "total_igst": "₹0.00"
+    }
+  }
+}

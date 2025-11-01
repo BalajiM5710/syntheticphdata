@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9755",
+      "invoice_date": "08/03/2025",
+      "seller": "STAR ELECTRONICS 03/740, Misra Path, Bellary-209415",
+      "client": "FALGUNI KANT 68/405, Sachar Nagar, Yamunanagar 651630",
+      "shipping_address": "68/405, Sachar Nagar, Yamunanagar 651630",
+      "seller_tax_id": "16EAIZZ4917F1ZU",
+      "client_tax_id": "19IIUGK9725Z1ZQ",
+      "client_phone": "+918439842598"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-844L",
+        "item_qty": "1",
+        "item_net_price": "21,526.50",
+        "item_net_worth": "21,526.50",
+        "item_vat": "18%",
+        "item_gross_worth": "25,401.27"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹21,526.50",
+      "total_vat": "₹3,874.77",
+      "total_gross_worth": "₹25,401.27",
+      "total_cgst": "₹1,937.38",
+      "total_sgst": "₹1,937.38",
+      "total_igst": "₹0.00"
+    }
+  }
+}

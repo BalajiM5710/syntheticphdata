@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8734",
+      "invoice_date": "25/05/2025",
+      "seller": "PATEL MOBILES 58/282, Shukla Marg, Shahjahanpur 225486",
+      "client": "ANITA CHAUDRY 87/202, Datta, Jaunpur-409960",
+      "shipping_address": "87/202, Datta, Jaunpur-409960",
+      "seller_tax_id": "26QRWTV7121C1ZF",
+      "client_tax_id": "26CPTCI8428O1ZU",
+      "client_phone": "+915158661535"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-879K",
+        "item_qty": "2",
+        "item_net_price": "89,092.36",
+        "item_net_worth": "178,184.72",
+        "item_vat": "18%",
+        "item_gross_worth": "210,257.97"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-149R",
+        "item_qty": "1",
+        "item_net_price": "58,240.71",
+        "item_net_worth": "58,240.71",
+        "item_vat": "18%",
+        "item_gross_worth": "68,724.04"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-866L",
+        "item_qty": "1",
+        "item_net_price": "78,866.07",
+        "item_net_worth": "78,866.07",
+        "item_vat": "18%",
+        "item_gross_worth": "93,061.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹315,291.50",
+      "total_vat": "₹56,752.47",
+      "total_gross_worth": "₹372,043.97",
+      "total_cgst": "₹28,376.24",
+      "total_sgst": "₹28,376.24",
+      "total_igst": "₹0.00"
+    }
+  }
+}

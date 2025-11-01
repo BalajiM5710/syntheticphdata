@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/550",
+      "invoice_date": "04/02/2025",
+      "seller": "MOBILE POINT 66, Sachdev Road, Tinsukia 423098",
+      "client": "ADVAY YADAV 42, Sahota Zila, Rajkot 509486",
+      "shipping_address": "42, Sahota Zila, Rajkot 509486",
+      "seller_tax_id": "22DBDSR6762D1ZL",
+      "client_tax_id": "09RQUAS0060P1ZX",
+      "client_phone": "9530326500"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-955D",
+        "item_qty": "1",
+        "item_net_price": "94,588.70",
+        "item_net_worth": "94,588.70",
+        "item_vat": "28%",
+        "item_gross_worth": "121,073.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹94,588.70",
+      "total_vat": "₹26,484.84",
+      "total_gross_worth": "₹121,073.54",
+      "total_cgst": "₹13,242.42",
+      "total_sgst": "₹13,242.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

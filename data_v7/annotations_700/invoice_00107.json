@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5955",
+      "invoice_date": "25/06/2025",
+      "seller": "PATEL MOBILES H.No. 37, Bava Nagar, Chandrapur-230539",
+      "client": "JAI PANDEY 87/092, Sant Ganj, Unnao-290976",
+      "shipping_address": "87/092, Sant Ganj, Unnao-290976",
+      "seller_tax_id": "09GCZDA7793F1ZS",
+      "client_tax_id": "18HOFQZ6805M1ZD",
+      "client_phone": "+914461557292"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-125T",
+        "item_qty": "2",
+        "item_net_price": "82,111.77",
+        "item_net_worth": "164,223.54",
+        "item_vat": "12%",
+        "item_gross_worth": "183,930.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹164,223.54",
+      "total_vat": "₹19,706.82",
+      "total_gross_worth": "₹183,930.36",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹19,706.82"
+    }
+  }
+}

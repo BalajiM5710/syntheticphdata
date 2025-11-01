@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/197",
+      "invoice_date": "28/02/2025",
+      "seller": "PATEL MOBILES H.No. 294, Savant Marg, Bulandshahr 074345",
+      "client": "NISHA CONTRACTOR 10/300, Dash Zila, Kavali 132932",
+      "shipping_address": "10/300, Dash Zila, Kavali 132932",
+      "seller_tax_id": "27XUZTJ8048U1Z4",
+      "client_tax_id": "06XSNRY3870X1ZM",
+      "client_phone": "+917700701679"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-164N",
+        "item_qty": "1",
+        "item_net_price": "26,054.86",
+        "item_net_worth": "26,054.86",
+        "item_vat": "28%",
+        "item_gross_worth": "33,350.22"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-896P",
+        "item_qty": "2",
+        "item_net_price": "61,947.63",
+        "item_net_worth": "123,895.26",
+        "item_vat": "28%",
+        "item_gross_worth": "158,585.93"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹149,950.12",
+      "total_vat": "₹41,986.03",
+      "total_gross_worth": "₹191,936.15",
+      "total_cgst": "₹20,993.02",
+      "total_sgst": "₹20,993.02",
+      "total_igst": "₹0.00"
+    }
+  }
+}

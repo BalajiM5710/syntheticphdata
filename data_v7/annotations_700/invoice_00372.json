@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/701",
+      "invoice_date": "08/02/2025",
+      "seller": "MOBILE POINT 21/18, Pal Marg, Ujjain-838092",
+      "client": "PRIYA BARAL H.No. 31, Solanki Nagar, Jamalpur-730188",
+      "shipping_address": "H.No. 31, Solanki Nagar, Jamalpur-730188",
+      "seller_tax_id": "35SBUTB2092I1ZL",
+      "client_tax_id": "09HSLYU4082I1ZX",
+      "client_phone": "7371819785"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-332S",
+        "item_qty": "1",
+        "item_net_price": "44,825.38",
+        "item_net_worth": "44,825.38",
+        "item_vat": "18%",
+        "item_gross_worth": "52,893.95"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-352E",
+        "item_qty": "1",
+        "item_net_price": "82,927.64",
+        "item_net_worth": "82,927.64",
+        "item_vat": "18%",
+        "item_gross_worth": "97,854.62"
+      },
+      {
+        "item_desc": "LG Microwave LG-135D",
+        "item_qty": "1",
+        "item_net_price": "8,240.28",
+        "item_net_worth": "8,240.28",
+        "item_vat": "18%",
+        "item_gross_worth": "9,723.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹135,993.30",
+      "total_vat": "₹24,478.79",
+      "total_gross_worth": "₹160,472.09",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,478.79"
+    }
+  }
+}

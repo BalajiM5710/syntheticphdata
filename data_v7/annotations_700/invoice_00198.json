@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/326",
+      "invoice_date": "03/01/2025",
+      "seller": "ELECTRONICS WORLD H.No. 938, Bumb Road, Rewa-585959",
+      "client": "PRISHA LAD H.No. 37, Deo Circle, Rajkot 670079",
+      "shipping_address": "H.No. 37, Deo Circle, Rajkot 670079",
+      "seller_tax_id": "37JARQX4755S1ZK",
+      "client_tax_id": "24PNPKD5492V1ZH",
+      "client_phone": "05170231351"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-634S",
+        "item_qty": "2",
+        "item_net_price": "36,475.88",
+        "item_net_worth": "72,951.76",
+        "item_vat": "18%",
+        "item_gross_worth": "86,083.08"
+      },
+      {
+        "item_desc": "Sony Camera SON-631L",
+        "item_qty": "1",
+        "item_net_price": "25,700.42",
+        "item_net_worth": "25,700.42",
+        "item_vat": "18%",
+        "item_gross_worth": "30,326.50"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-803P",
+        "item_qty": "1",
+        "item_net_price": "46,114.88",
+        "item_net_worth": "46,114.88",
+        "item_vat": "18%",
+        "item_gross_worth": "54,415.56"
+      },
+      {
+        "item_desc": "Mi Television MI-328N",
+        "item_qty": "2",
+        "item_net_price": "48,570.52",
+        "item_net_worth": "97,141.04",
+        "item_vat": "18%",
+        "item_gross_worth": "114,626.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹241,908.10",
+      "total_vat": "₹43,543.46",
+      "total_gross_worth": "₹285,451.56",
+      "total_cgst": "₹21,771.73",
+      "total_sgst": "₹21,771.73",
+      "total_igst": "₹0.00"
+    }
+  }
+}

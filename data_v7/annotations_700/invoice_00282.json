@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/731",
+      "invoice_date": "01/01/2025",
+      "seller": "CITY ELECTRONICS H.No. 33, Nath Ganj, Aurangabad-530083",
+      "client": "JAGDISH KOTA 99/77, Deshmukh Nagar, Kottayam 969761",
+      "shipping_address": "99/77, Deshmukh Nagar, Kottayam 969761",
+      "seller_tax_id": "34BEODY8191Z1Z2",
+      "client_tax_id": "36XYZKO5911A1ZR",
+      "client_phone": "4444800003"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-156E",
+        "item_qty": "2",
+        "item_net_price": "41,572.22",
+        "item_net_worth": "83,144.44",
+        "item_vat": "12%",
+        "item_gross_worth": "93,121.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹83,144.44",
+      "total_vat": "₹9,977.33",
+      "total_gross_worth": "₹93,121.77",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,977.33"
+    }
+  }
+}

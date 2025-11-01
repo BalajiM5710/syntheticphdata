@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3724",
+      "invoice_date": "11/03/2025",
+      "seller": "DIGITAL STORE 38/53, Bedi Road, Malda 419281",
+      "client": "WAKEETA ANNE 232, Muni Ganj, Gopalpur-252951",
+      "shipping_address": "232, Muni Ganj, Gopalpur-252951",
+      "seller_tax_id": "03LTKBL9217X1ZP",
+      "client_tax_id": "06QBIUR0942O1ZR",
+      "client_phone": "4740052597"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-437V",
+        "item_qty": "1",
+        "item_net_price": "40,026.32",
+        "item_net_worth": "40,026.32",
+        "item_vat": "18%",
+        "item_gross_worth": "47,231.06"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-653Z IMEI: 167542077433908",
+        "item_qty": "2",
+        "item_net_price": "58,090.30",
+        "item_net_worth": "116,180.60",
+        "item_vat": "18%",
+        "item_gross_worth": "137,093.11"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹156,206.92",
+      "total_vat": "₹28,117.25",
+      "total_gross_worth": "₹184,324.17",
+      "total_cgst": "₹14,058.62",
+      "total_sgst": "₹14,058.62",
+      "total_igst": "₹0.00"
+    }
+  }
+}

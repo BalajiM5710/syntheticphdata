@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/589",
+      "invoice_date": "09/04/2025",
+      "seller": "ROYAL MOBILES H.No. 780, Pau, Kurnool 544980",
+      "client": "WARINDER REGE 68/500, Naidu Marg, Hospet 121937",
+      "shipping_address": "68/500, Naidu Marg, Hospet 121937",
+      "seller_tax_id": "13HLBGX3585S1Z7",
+      "client_tax_id": "15TKAXV3841O1ZP",
+      "client_phone": "+910023458862"
+    },
+    "items": [
+      {
+        "item_desc": "Mi Television MI-321N",
+        "item_qty": "1",
+        "item_net_price": "79,531.84",
+        "item_net_worth": "79,531.84",
+        "item_vat": "12%",
+        "item_gross_worth": "89,075.66"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-178O",
+        "item_qty": "1",
+        "item_net_price": "72,386.31",
+        "item_net_worth": "72,386.31",
+        "item_vat": "12%",
+        "item_gross_worth": "81,072.67"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-128U",
+        "item_qty": "2",
+        "item_net_price": "91,281.15",
+        "item_net_worth": "182,562.30",
+        "item_vat": "12%",
+        "item_gross_worth": "204,469.78"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-718O",
+        "item_qty": "1",
+        "item_net_price": "51,949.14",
+        "item_net_worth": "51,949.14",
+        "item_vat": "12%",
+        "item_gross_worth": "58,183.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹386,429.59",
+      "total_vat": "₹46,371.55",
+      "total_gross_worth": "₹432,801.14",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,371.55"
+    }
+  }
+}

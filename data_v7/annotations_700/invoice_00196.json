@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RBK/910",
+      "invoice_date": "21/07/2025",
+      "seller": "RAM ELECTRONICS 73/72, Ratta Nagar, Bhilai-668062",
+      "client": "VEER PRAKASH H.No. 654, Shan Zila, Tirupati-489433",
+      "shipping_address": "H.No. 654, Shan Zila, Tirupati-489433",
+      "seller_tax_id": "24LTSGY9187D1Z7",
+      "client_tax_id": "17ZUPLR0683U1Z2",
+      "client_phone": "2068971102"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartphones APP-323D IMEI: 769290655817247",
+        "item_qty": "2",
+        "item_net_price": "45,674.89",
+        "item_net_worth": "91,349.78",
+        "item_vat": "18%",
+        "item_gross_worth": "107,792.74"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-913E",
+        "item_qty": "1",
+        "item_net_price": "27,228.43",
+        "item_net_worth": "27,228.43",
+        "item_vat": "18%",
+        "item_gross_worth": "32,129.55"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-642E IMEI: 312056442244755",
+        "item_qty": "2",
+        "item_net_price": "12,697.99",
+        "item_net_worth": "25,395.98",
+        "item_vat": "18%",
+        "item_gross_worth": "29,967.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹143,974.19",
+      "total_vat": "₹25,915.35",
+      "total_gross_worth": "₹169,889.54",
+      "total_cgst": "₹12,957.68",
+      "total_sgst": "₹12,957.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

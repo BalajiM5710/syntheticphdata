@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HJL/380",
+      "invoice_date": "02/08/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 79, Rana Ganj, Burhanpur-185419",
+      "client": "HAMSINI LAD 60/90, Karpe Road, Guntakal 272159",
+      "shipping_address": "678, Salvi Path, Dehradun-117915",
+      "seller_tax_id": "06RRGIY6660B1ZF",
+      "client_tax_id": "07JQZFK3750I1Z3",
+      "client_phone": "+915569267929"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-692H IMEI: 939282923221510",
+        "item_qty": "2",
+        "item_net_price": "93,494.79",
+        "item_net_worth": "186,989.58",
+        "item_vat": "12%",
+        "item_gross_worth": "209,428.33"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-307F",
+        "item_qty": "2",
+        "item_net_price": "54,754.22",
+        "item_net_worth": "109,508.44",
+        "item_vat": "12%",
+        "item_gross_worth": "122,649.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,498.02",
+      "total_vat": "₹35,579.76",
+      "total_gross_worth": "₹332,077.78",
+      "total_cgst": "₹17,789.88",
+      "total_sgst": "₹17,789.88",
+      "total_igst": "₹0.00"
+    }
+  }
+}

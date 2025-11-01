@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8278",
+      "invoice_date": "20/03/2025",
+      "seller": "GADGET GALAXY H.No. 16, Yadav Chowk, Bharatpur 452455",
+      "client": "PETER RAJA H.No. 869, Nair, Chittoor-394162",
+      "shipping_address": "H.No. 869, Nair, Chittoor-394162",
+      "seller_tax_id": "24QCIBD5203B1ZL",
+      "client_tax_id": "37JAANA5497N1ZF",
+      "client_phone": "+917649142136"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-232U",
+        "item_qty": "1",
+        "item_net_price": "51,939.84",
+        "item_net_worth": "51,939.84",
+        "item_vat": "18%",
+        "item_gross_worth": "61,289.01"
+      },
+      {
+        "item_desc": "Haier Refrigerator HAI-975Z",
+        "item_qty": "2",
+        "item_net_price": "76,009.19",
+        "item_net_worth": "152,018.38",
+        "item_vat": "18%",
+        "item_gross_worth": "179,381.69"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-435B IMEI: 360411730716524",
+        "item_qty": "1",
+        "item_net_price": "32,904.57",
+        "item_net_worth": "32,904.57",
+        "item_vat": "18%",
+        "item_gross_worth": "38,827.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹236,862.79",
+      "total_vat": "₹42,635.30",
+      "total_gross_worth": "₹279,498.09",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹42,635.30"
+    }
+  }
+}

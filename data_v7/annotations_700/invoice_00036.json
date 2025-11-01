@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/514",
+      "invoice_date": "14/04/2025",
+      "seller": "KUMAR TECH SOLUTIONS 33/74, Rout Chowk, Mau 586314",
+      "client": "UDARSH GOLLA 864, Om Chowk, Bhimavaram 639416",
+      "shipping_address": "864, Om Chowk, Bhimavaram 639416",
+      "seller_tax_id": "04IDGEA0668U1ZA",
+      "client_tax_id": "37JNTPQ8638V1Z1",
+      "client_phone": "+919541767204"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-147O",
+        "item_qty": "1",
+        "item_net_price": "15,409.90",
+        "item_net_worth": "15,409.90",
+        "item_vat": "28%",
+        "item_gross_worth": "19,724.67"
+      },
+      {
+        "item_desc": "Apple Tablets APP-571E",
+        "item_qty": "2",
+        "item_net_price": "79,065.16",
+        "item_net_worth": "158,130.32",
+        "item_vat": "28%",
+        "item_gross_worth": "202,406.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹173,540.22",
+      "total_vat": "₹48,591.26",
+      "total_gross_worth": "₹222,131.48",
+      "total_cgst": "₹24,295.63",
+      "total_sgst": "₹24,295.63",
+      "total_igst": "₹0.00"
+    }
+  }
+}

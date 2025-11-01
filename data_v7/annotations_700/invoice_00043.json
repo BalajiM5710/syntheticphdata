@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3699",
+      "invoice_date": "20/02/2025",
+      "seller": "ELECTRONICS WORLD H.No. 441, Lall Zila, Guntakal-649949",
+      "client": "BALVEER SARRAF 37/518, Comar Marg, Dehradun-696934",
+      "shipping_address": "37/518, Comar Marg, Dehradun-696934",
+      "seller_tax_id": "36SIUTS9213I1Z4",
+      "client_tax_id": "04RHDJI4652D1ZA",
+      "client_phone": "00623508181"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-529Z",
+        "item_qty": "2",
+        "item_net_price": "11,916.29",
+        "item_net_worth": "23,832.58",
+        "item_vat": "12%",
+        "item_gross_worth": "26,692.49"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-353U",
+        "item_qty": "1",
+        "item_net_price": "43,439.52",
+        "item_net_worth": "43,439.52",
+        "item_vat": "12%",
+        "item_gross_worth": "48,652.26"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-346N",
+        "item_qty": "1",
+        "item_net_price": "29,809.13",
+        "item_net_worth": "29,809.13",
+        "item_vat": "12%",
+        "item_gross_worth": "33,386.23"
+      },
+      {
+        "item_desc": "Sony Headphones SON-241Y",
+        "item_qty": "2",
+        "item_net_price": "28,299.35",
+        "item_net_worth": "56,598.70",
+        "item_vat": "12%",
+        "item_gross_worth": "63,390.54"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹153,679.93",
+      "total_vat": "₹18,441.59",
+      "total_gross_worth": "₹172,121.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹18,441.59"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/166",
+      "invoice_date": "13/04/2025",
+      "seller": "SMART ELECTRONICS H.No. 005, Karan Chowk, Bidhannagar 425481",
+      "client": "BHANUMATI BHAVSAR 455, Kapur Marg, Jaunpur 092837",
+      "shipping_address": "455, Kapur Marg, Jaunpur 092837",
+      "seller_tax_id": "24BJHGR5994Y1ZF",
+      "client_tax_id": "06IPHOD3886H1ZY",
+      "client_phone": "00563588098"
+    },
+    "items": [
+      {
+        "item_desc": "Noise Smartwatch NOI-571W",
+        "item_qty": "1",
+        "item_net_price": "58,207.60",
+        "item_net_worth": "58,207.60",
+        "item_vat": "28%",
+        "item_gross_worth": "74,505.73"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-808Z IMEI: 883458841751539",
+        "item_qty": "2",
+        "item_net_price": "12,893.24",
+        "item_net_worth": "25,786.48",
+        "item_vat": "28%",
+        "item_gross_worth": "33,006.69"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹83,994.08",
+      "total_vat": "₹23,518.34",
+      "total_gross_worth": "₹107,512.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,518.34"
+    }
+  }
+}

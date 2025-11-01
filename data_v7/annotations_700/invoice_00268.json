@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PPL/780",
+      "invoice_date": "09/03/2025",
+      "seller": "ROYAL MOBILES H.No. 87, Ramachandran Ganj, Bhubaneswar 275728",
+      "client": "REYANSH NANDA H.No. 77, Tripathi Chowk, Madhyamgram-939247",
+      "shipping_address": "H.No. 47, Pau Circle, Katni-011904",
+      "seller_tax_id": "33NPXWG0757S1Z5",
+      "client_tax_id": "29RYNIC5504H1ZY",
+      "client_phone": "+918613071810"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-221C",
+        "item_qty": "1",
+        "item_net_price": "70,775.12",
+        "item_net_worth": "70,775.12",
+        "item_vat": "18%",
+        "item_gross_worth": "83,514.64"
+      },
+      {
+        "item_desc": "Apple Laptops APP-814K",
+        "item_qty": "1",
+        "item_net_price": "90,742.06",
+        "item_net_worth": "90,742.06",
+        "item_vat": "18%",
+        "item_gross_worth": "107,075.63"
+      },
+      {
+        "item_desc": "TCL Television TCL-395F",
+        "item_qty": "2",
+        "item_net_price": "49,215.18",
+        "item_net_worth": "98,430.36",
+        "item_vat": "18%",
+        "item_gross_worth": "116,147.82"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹259,947.54",
+      "total_vat": "₹46,790.56",
+      "total_gross_worth": "₹306,738.10",
+      "total_cgst": "₹23,395.28",
+      "total_sgst": "₹23,395.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

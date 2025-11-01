@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4987",
+      "invoice_date": "13/10/2025",
+      "seller": "DIGITAL STORE 13, Anne Street, Rourkela-521566",
+      "client": "EESHA SHAH 85/62, Rai Road, Adoni 527965",
+      "shipping_address": "85/62, Rai Road, Adoni 527965",
+      "seller_tax_id": "29UYJIE8640J1Z9",
+      "client_tax_id": "28HCJIG7818Y1ZP",
+      "client_phone": "+912157346873"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-699E",
+        "item_qty": "1",
+        "item_net_price": "54,055.07",
+        "item_net_worth": "54,055.07",
+        "item_vat": "28%",
+        "item_gross_worth": "69,190.49"
+      },
+      {
+        "item_desc": "Apple Tablets APP-405K",
+        "item_qty": "2",
+        "item_net_price": "66,513.00",
+        "item_net_worth": "133,026.00",
+        "item_vat": "28%",
+        "item_gross_worth": "170,273.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹187,081.07",
+      "total_vat": "₹52,382.70",
+      "total_gross_worth": "₹239,463.77",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹52,382.70"
+    }
+  }
+}

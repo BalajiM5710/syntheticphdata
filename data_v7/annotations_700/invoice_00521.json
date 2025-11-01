@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4869",
+      "invoice_date": "03/09/2025",
+      "seller": "SINGH ELECTRONICS 568, Kakar Zila, Shimla 137634",
+      "client": "INDALI BANIK 34/33, Sinha Zila, Moradabad 079705",
+      "shipping_address": "34/33, Sinha Zila, Moradabad 079705",
+      "seller_tax_id": "03LDBQU7378B1Z5",
+      "client_tax_id": "05DWYTU4365L1ZD",
+      "client_phone": "09969221299"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-877R IMEI: 465954533105196",
+        "item_qty": "1",
+        "item_net_price": "22,113.92",
+        "item_net_worth": "22,113.92",
+        "item_vat": "12%",
+        "item_gross_worth": "24,767.59"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-171S",
+        "item_qty": "2",
+        "item_net_price": "30,935.03",
+        "item_net_worth": "61,870.06",
+        "item_vat": "12%",
+        "item_gross_worth": "69,294.47"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-400T IMEI: 816298898607716",
+        "item_qty": "2",
+        "item_net_price": "44,427.71",
+        "item_net_worth": "88,855.42",
+        "item_vat": "12%",
+        "item_gross_worth": "99,518.07"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹172,839.40",
+      "total_vat": "₹20,740.73",
+      "total_gross_worth": "₹193,580.13",
+      "total_cgst": "₹10,370.36",
+      "total_sgst": "₹10,370.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

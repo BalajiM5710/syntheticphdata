@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3687",
+      "invoice_date": "02/09/2025",
+      "seller": "GADGET GALAXY H.No. 49, Bajaj Nagar, Udaipur 994075",
+      "client": "ZANSI PUROHIT 77/729, Char, Pudukkottai-059804",
+      "shipping_address": "77/729, Char, Pudukkottai-059804",
+      "seller_tax_id": "08IXVYX8486P1ZK",
+      "client_tax_id": "25GKFPR9305W1ZG",
+      "client_phone": "07658984761"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-515D",
+        "item_qty": "2",
+        "item_net_price": "40,923.93",
+        "item_net_worth": "81,847.86",
+        "item_vat": "18%",
+        "item_gross_worth": "96,580.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹81,847.86",
+      "total_vat": "₹14,732.61",
+      "total_gross_worth": "₹96,580.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹14,732.61"
+    }
+  }
+}

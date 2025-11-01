@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3533",
+      "invoice_date": "24/07/2025",
+      "seller": "SMART ELECTRONICS 32/026, Dyal Ganj, Thrissur-002141",
+      "client": "NACHIKET THAMAN H.No. 92, Hora Chowk, Dhule-326198",
+      "shipping_address": "H.No. 92, Hora Chowk, Dhule-326198",
+      "seller_tax_id": "29AYUOO4784A1ZV",
+      "client_tax_id": "17EAVYY0643F1Z0",
+      "client_phone": "00073999874"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-335X",
+        "item_qty": "1",
+        "item_net_price": "42,921.98",
+        "item_net_worth": "42,921.98",
+        "item_vat": "18%",
+        "item_gross_worth": "50,647.94"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-542L IMEI: 067883247359895",
+        "item_qty": "1",
+        "item_net_price": "28,430.98",
+        "item_net_worth": "28,430.98",
+        "item_vat": "18%",
+        "item_gross_worth": "33,548.56"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-668I",
+        "item_qty": "1",
+        "item_net_price": "56,366.28",
+        "item_net_worth": "56,366.28",
+        "item_vat": "18%",
+        "item_gross_worth": "66,512.21"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-442I",
+        "item_qty": "2",
+        "item_net_price": "63,394.14",
+        "item_net_worth": "126,788.28",
+        "item_vat": "18%",
+        "item_gross_worth": "149,610.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,507.52",
+      "total_vat": "₹45,811.35",
+      "total_gross_worth": "₹300,318.87",
+      "total_cgst": "₹22,905.68",
+      "total_sgst": "₹22,905.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

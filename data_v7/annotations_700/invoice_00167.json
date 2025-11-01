@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/360",
+      "invoice_date": "22/10/2025",
+      "seller": "TECH BAZAAR 20/857, Talwar Ganj, Gandhinagar 057416",
+      "client": "PATRICK MANN 37/79, Rana Chowk, Ratlam-943750",
+      "shipping_address": "37/79, Rana Chowk, Ratlam-943750",
+      "seller_tax_id": "23LLIGV1901V1ZS",
+      "client_tax_id": "12MGCJT4344U1Z5",
+      "client_phone": "3876196733"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-758Q",
+        "item_qty": "1",
+        "item_net_price": "89,723.98",
+        "item_net_worth": "89,723.98",
+        "item_vat": "12%",
+        "item_gross_worth": "100,490.86"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-435P",
+        "item_qty": "1",
+        "item_net_price": "74,809.14",
+        "item_net_worth": "74,809.14",
+        "item_vat": "12%",
+        "item_gross_worth": "83,786.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹164,533.12",
+      "total_vat": "₹19,743.97",
+      "total_gross_worth": "₹184,277.09",
+      "total_cgst": "₹9,871.99",
+      "total_sgst": "₹9,871.99",
+      "total_igst": "₹0.00"
+    }
+  }
+}

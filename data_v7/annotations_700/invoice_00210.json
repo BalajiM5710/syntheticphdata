@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8897",
+      "invoice_date": "23/10/2025",
+      "seller": "FUTURE TECH H.No. 422, Srinivas Road, Thoothukudi-243241",
+      "client": "DAMINI GOEL 45/845, Singh Marg, Rewa 929100",
+      "shipping_address": "H.No. 598, Rege Zila, Srikakulam-681518",
+      "seller_tax_id": "20RYKXG8355U1ZR",
+      "client_tax_id": "36RCIBC3053P1ZV",
+      "client_phone": "1576915691"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-929B",
+        "item_qty": "1",
+        "item_net_price": "16,446.88",
+        "item_net_worth": "16,446.88",
+        "item_vat": "18%",
+        "item_gross_worth": "19,407.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹16,446.88",
+      "total_vat": "₹2,960.44",
+      "total_gross_worth": "₹19,407.32",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹2,960.44"
+    }
+  }
+}

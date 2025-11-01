@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/172",
+      "invoice_date": "11/03/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 64, Murty Path, Dibrugarh 759696",
+      "client": "LEKHA NAGI H.No. 346, Maharaj Road, Medininagar 635996",
+      "shipping_address": "H.No. 346, Maharaj Road, Medininagar 635996",
+      "seller_tax_id": "07CMVSX7990B1ZZ",
+      "client_tax_id": "25CDAPD5115P1ZE",
+      "client_phone": "02985287207"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-466N",
+        "item_qty": "1",
+        "item_net_price": "67,910.76",
+        "item_net_worth": "67,910.76",
+        "item_vat": "28%",
+        "item_gross_worth": "86,925.77"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-740W",
+        "item_qty": "2",
+        "item_net_price": "80,080.93",
+        "item_net_worth": "160,161.86",
+        "item_vat": "28%",
+        "item_gross_worth": "205,007.18"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹228,072.62",
+      "total_vat": "₹63,860.33",
+      "total_gross_worth": "₹291,932.95",
+      "total_cgst": "₹31,930.17",
+      "total_sgst": "₹31,930.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

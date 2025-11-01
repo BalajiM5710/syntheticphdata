@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7995",
+      "invoice_date": "15/04/2025",
+      "seller": "METRO TECH STORE H.No. 80, Babu Road, Amroha-026868",
+      "client": "DANIEL BHAGAT 27/47, Ghosh Zila, Panihati-013064",
+      "shipping_address": "27/47, Ghosh Zila, Panihati-013064",
+      "seller_tax_id": "17EPTWY6602E1Z5",
+      "client_tax_id": "14NHACS7424B1ZX",
+      "client_phone": "+917837810370"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-138P",
+        "item_qty": "1",
+        "item_net_price": "32,002.17",
+        "item_net_worth": "32,002.17",
+        "item_vat": "28%",
+        "item_gross_worth": "40,962.78"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-910L",
+        "item_qty": "2",
+        "item_net_price": "27,072.62",
+        "item_net_worth": "54,145.24",
+        "item_vat": "28%",
+        "item_gross_worth": "69,305.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹86,147.41",
+      "total_vat": "₹24,121.27",
+      "total_gross_worth": "₹110,268.68",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,121.27"
+    }
+  }
+}

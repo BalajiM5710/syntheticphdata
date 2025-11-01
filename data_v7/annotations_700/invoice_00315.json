@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/886",
+      "invoice_date": "24/09/2025",
+      "seller": "RAM ELECTRONICS H.No. 61, Kala Circle, Tadepalligudem-717661",
+      "client": "VAISHNAVI VASA H.No. 61, Hari Path, Vasai-Virar 630052",
+      "shipping_address": "H.No. 61, Hari Path, Vasai-Virar 630052",
+      "seller_tax_id": "23DKTPK9533M1ZV",
+      "client_tax_id": "26THCNX8544A1ZX",
+      "client_phone": "5278931447"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-124A",
+        "item_qty": "1",
+        "item_net_price": "11,367.47",
+        "item_net_worth": "11,367.47",
+        "item_vat": "12%",
+        "item_gross_worth": "12,731.57"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹11,367.47",
+      "total_vat": "₹1,364.10",
+      "total_gross_worth": "₹12,731.57",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹1,364.10"
+    }
+  }
+}

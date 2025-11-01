@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VCN/939",
+      "invoice_date": "22/10/2025",
+      "seller": "RAM ELECTRONICS 895, Ben, Aligarh-766664",
+      "client": "MAHIKA SEM 08, Jain Ganj, Tumkur 650577",
+      "shipping_address": "H.No. 07, Lall Marg, Sambhal 851208",
+      "seller_tax_id": "37AIPJG1276F1ZD",
+      "client_tax_id": "01BBKVP3351I1ZS",
+      "client_phone": "08639762545"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-124Y",
+        "item_qty": "2",
+        "item_net_price": "68,278.12",
+        "item_net_worth": "136,556.24",
+        "item_vat": "18%",
+        "item_gross_worth": "161,136.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹136,556.24",
+      "total_vat": "₹24,580.12",
+      "total_gross_worth": "₹161,136.36",
+      "total_cgst": "₹12,290.06",
+      "total_sgst": "₹12,290.06",
+      "total_igst": "₹0.00"
+    }
+  }
+}

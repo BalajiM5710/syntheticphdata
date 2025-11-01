@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6245",
+      "invoice_date": "10/09/2025",
+      "seller": "SINGH ELECTRONICS 17, Hayer Nagar, Medininagar 103003",
+      "client": "AMRITA SUNDER 742, Baria, Avadi-710710",
+      "shipping_address": "742, Baria, Avadi-710710",
+      "seller_tax_id": "26XNWST7169U1ZP",
+      "client_tax_id": "11JMRIE9861F1ZK",
+      "client_phone": "00488407609"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-259L IMEI: 714610353980725",
+        "item_qty": "2",
+        "item_net_price": "39,399.49",
+        "item_net_worth": "78,798.98",
+        "item_vat": "28%",
+        "item_gross_worth": "100,862.69"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-525D",
+        "item_qty": "2",
+        "item_net_price": "84,255.54",
+        "item_net_worth": "168,511.08",
+        "item_vat": "28%",
+        "item_gross_worth": "215,694.18"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-545N",
+        "item_qty": "1",
+        "item_net_price": "43,316.12",
+        "item_net_worth": "43,316.12",
+        "item_vat": "28%",
+        "item_gross_worth": "55,444.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹290,626.18",
+      "total_vat": "₹81,375.33",
+      "total_gross_worth": "₹372,001.51",
+      "total_cgst": "₹40,687.67",
+      "total_sgst": "₹40,687.67",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IXC/454",
+      "invoice_date": "27/05/2025",
+      "seller": "MOBILE POINT 98/238, Rattan Street, Imphal-756198",
+      "client": "AMARA ZACHARIA 660, Wali Circle, Srinagar 297232",
+      "shipping_address": "89, Bath, Sonipat-025572",
+      "seller_tax_id": "10KQIMP1537S1Z6",
+      "client_tax_id": "35URAKR0286U1ZV",
+      "client_phone": "+919428026079"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-815G",
+        "item_qty": "1",
+        "item_net_price": "72,245.58",
+        "item_net_worth": "72,245.58",
+        "item_vat": "28%",
+        "item_gross_worth": "92,474.34"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-161G",
+        "item_qty": "1",
+        "item_net_price": "21,350.49",
+        "item_net_worth": "21,350.49",
+        "item_vat": "28%",
+        "item_gross_worth": "27,328.63"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹93,596.07",
+      "total_vat": "₹26,206.90",
+      "total_gross_worth": "₹119,802.97",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,206.90"
+    }
+  }
+}

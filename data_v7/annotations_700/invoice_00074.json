@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EVA/903",
+      "invoice_date": "25/05/2025",
+      "seller": "ELECTRONICS WORLD H.No. 75, Dhawan Path, Jamnagar 161315",
+      "client": "HRITIK MISTRY 620, Dhar Street, Serampore 497128",
+      "shipping_address": "41/07, Johal Ganj, Aligarh 205421",
+      "seller_tax_id": "24PJDPZ6136J1Z2",
+      "client_tax_id": "19FSCGZ3661N1ZB",
+      "client_phone": "4952736831"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-939I",
+        "item_qty": "2",
+        "item_net_price": "29,309.69",
+        "item_net_worth": "58,619.38",
+        "item_vat": "12%",
+        "item_gross_worth": "65,653.71"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹58,619.38",
+      "total_vat": "₹7,034.33",
+      "total_gross_worth": "₹65,653.71",
+      "total_cgst": "₹3,517.16",
+      "total_sgst": "₹3,517.16",
+      "total_igst": "₹0.00"
+    }
+  }
+}

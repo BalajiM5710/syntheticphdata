@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HYC/856",
+      "invoice_date": "09/09/2025",
+      "seller": "FUTURE TECH 12/132, Nadig Road, Anantapuram-241665",
+      "client": "YOCHANA SARAF 06, Amble Chowk, Nellore 021055",
+      "shipping_address": "06, Amble Chowk, Nellore 021055",
+      "seller_tax_id": "04NCWHS9212P1ZC",
+      "client_tax_id": "27KIBDL0757A1ZA",
+      "client_phone": "04407552856"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-193E",
+        "item_qty": "2",
+        "item_net_price": "84,773.24",
+        "item_net_worth": "169,546.48",
+        "item_vat": "12%",
+        "item_gross_worth": "189,892.06"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-732T",
+        "item_qty": "2",
+        "item_net_price": "39,582.27",
+        "item_net_worth": "79,164.54",
+        "item_vat": "12%",
+        "item_gross_worth": "88,664.28"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-391E",
+        "item_qty": "1",
+        "item_net_price": "71,987.68",
+        "item_net_worth": "71,987.68",
+        "item_vat": "12%",
+        "item_gross_worth": "80,626.20"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-999B",
+        "item_qty": "1",
+        "item_net_price": "46,754.87",
+        "item_net_worth": "46,754.87",
+        "item_vat": "12%",
+        "item_gross_worth": "52,365.45"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹367,453.57",
+      "total_vat": "₹44,094.43",
+      "total_gross_worth": "₹411,548.00",
+      "total_cgst": "₹22,047.21",
+      "total_sgst": "₹22,047.21",
+      "total_igst": "₹0.00"
+    }
+  }
+}

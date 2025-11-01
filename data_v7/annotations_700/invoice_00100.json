@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/597",
+      "invoice_date": "12/10/2025",
+      "seller": "SUPREME ELECTRONICS 58, Dutta Ganj, Phusro-475168",
+      "client": "HEMAL GOEL H.No. 82, Chopra Zila, Kirari Suleman Nagar 965989",
+      "shipping_address": "14/963, Solanki, Ghaziabad 210040",
+      "seller_tax_id": "23VDEPH3445N1Z0",
+      "client_tax_id": "05KPTTC6919L1Z9",
+      "client_phone": "1930182775"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-828J",
+        "item_qty": "2",
+        "item_net_price": "41,876.81",
+        "item_net_worth": "83,753.62",
+        "item_vat": "28%",
+        "item_gross_worth": "107,204.63"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-128M",
+        "item_qty": "1",
+        "item_net_price": "84,349.95",
+        "item_net_worth": "84,349.95",
+        "item_vat": "28%",
+        "item_gross_worth": "107,967.94"
+      },
+      {
+        "item_desc": "TVS Bike TVS-605X",
+        "item_qty": "2",
+        "item_net_price": "69,449.66",
+        "item_net_worth": "138,899.32",
+        "item_vat": "28%",
+        "item_gross_worth": "177,791.13"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-564E",
+        "item_qty": "1",
+        "item_net_price": "65,609.49",
+        "item_net_worth": "65,609.49",
+        "item_vat": "28%",
+        "item_gross_worth": "83,980.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹372,612.38",
+      "total_vat": "₹104,331.47",
+      "total_gross_worth": "₹476,943.85",
+      "total_cgst": "₹52,165.73",
+      "total_sgst": "₹52,165.73",
+      "total_igst": "₹0.00"
+    }
+  }
+}

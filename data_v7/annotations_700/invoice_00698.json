@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5378",
+      "invoice_date": "17/07/2025",
+      "seller": "GADGET GALAXY H.No. 55, Nagar Path, Mira-Bhayandar 003603",
+      "client": "RACHANA NAGAR 66, Chauhan Chowk, Haldia 812808",
+      "shipping_address": "22/200, Ramakrishnan Circle, Bhusawal-423491",
+      "seller_tax_id": "07XIYLD8549L1ZL",
+      "client_tax_id": "37JSLFB0928J1ZU",
+      "client_phone": "0867649474"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-723L",
+        "item_qty": "1",
+        "item_net_price": "13,198.21",
+        "item_net_worth": "13,198.21",
+        "item_vat": "12%",
+        "item_gross_worth": "14,782.00"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-838M",
+        "item_qty": "1",
+        "item_net_price": "13,644.39",
+        "item_net_worth": "13,644.39",
+        "item_vat": "12%",
+        "item_gross_worth": "15,281.72"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹26,842.60",
+      "total_vat": "₹3,221.11",
+      "total_gross_worth": "₹30,063.71",
+      "total_cgst": "₹1,610.56",
+      "total_sgst": "₹1,610.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

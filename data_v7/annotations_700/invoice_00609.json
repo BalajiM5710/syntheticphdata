@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BIV/861",
+      "invoice_date": "28/09/2025",
+      "seller": "MOBILE POINT H.No. 59, Sathe Circle, Bangalore-026836",
+      "client": "REHAAN IYENGAR 64, Bhakta Zila, Bhavnagar 228292",
+      "shipping_address": "64, Bhakta Zila, Bhavnagar 228292",
+      "seller_tax_id": "25AWISH7943K1ZG",
+      "client_tax_id": "04YBBWF1831Y1ZL",
+      "client_phone": "0649748888"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-877B",
+        "item_qty": "2",
+        "item_net_price": "33,053.72",
+        "item_net_worth": "66,107.44",
+        "item_vat": "12%",
+        "item_gross_worth": "74,040.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹66,107.44",
+      "total_vat": "₹7,932.89",
+      "total_gross_worth": "₹74,040.33",
+      "total_cgst": "₹3,966.45",
+      "total_sgst": "₹3,966.45",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9576",
+      "invoice_date": "01/03/2025",
+      "seller": "SINGH ELECTRONICS 29/53, Oza Marg, Gaya 451627",
+      "client": "JOSHUA HANS 64/604, Kunda Zila, Berhampore-036251",
+      "shipping_address": "64/604, Kunda Zila, Berhampore-036251",
+      "seller_tax_id": "22CIZXU7801B1Z5",
+      "client_tax_id": "03XAYOB9954N1ZD",
+      "client_phone": "07360239014"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-644O",
+        "item_qty": "1",
+        "item_net_price": "57,135.70",
+        "item_net_worth": "57,135.70",
+        "item_vat": "12%",
+        "item_gross_worth": "63,991.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹57,135.70",
+      "total_vat": "₹6,856.28",
+      "total_gross_worth": "₹63,991.98",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,856.28"
+    }
+  }
+}

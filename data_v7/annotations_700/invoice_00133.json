@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ETZ/100",
+      "invoice_date": "09/10/2025",
+      "seller": "PATEL MOBILES H.No. 166, Dani Zila, Jorhat-062441",
+      "client": "PAVANI CHANDRAN H.No. 107, Kumer Chowk, Nangloi Jat 798717",
+      "shipping_address": "H.No. 107, Kumer Chowk, Nangloi Jat 798717",
+      "seller_tax_id": "34YYCWO8462V1Z9",
+      "client_tax_id": "11EMYHL6454Q1ZE",
+      "client_phone": "2005561794"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-776U",
+        "item_qty": "1",
+        "item_net_price": "74,968.05",
+        "item_net_worth": "74,968.05",
+        "item_vat": "12%",
+        "item_gross_worth": "83,964.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,968.05",
+      "total_vat": "₹8,996.17",
+      "total_gross_worth": "₹83,964.22",
+      "total_cgst": "₹4,498.08",
+      "total_sgst": "₹4,498.08",
+      "total_igst": "₹0.00"
+    }
+  }
+}

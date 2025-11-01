@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1520",
+      "invoice_date": "11/04/2025",
+      "seller": "MOBILE POINT H.No. 434, Nair Path, Vadodara-683360",
+      "client": "NIKITA KALA H.No. 127, Buch Path, Kadapa-081264",
+      "shipping_address": "H.No. 127, Buch Path, Kadapa-081264",
+      "seller_tax_id": "02RVUQM8250P1Z8",
+      "client_tax_id": "18MXUVM6612F1ZK",
+      "client_phone": "06208307281"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-870F",
+        "item_qty": "2",
+        "item_net_price": "32,190.26",
+        "item_net_worth": "64,380.52",
+        "item_vat": "18%",
+        "item_gross_worth": "75,969.01"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-814S",
+        "item_qty": "2",
+        "item_net_price": "82,530.85",
+        "item_net_worth": "165,061.70",
+        "item_vat": "18%",
+        "item_gross_worth": "194,772.81"
+      },
+      {
+        "item_desc": "LG Microwave LG-777Q",
+        "item_qty": "2",
+        "item_net_price": "69,482.64",
+        "item_net_worth": "138,965.28",
+        "item_vat": "18%",
+        "item_gross_worth": "163,979.03"
+      },
+      {
+        "item_desc": "OnePlus Television ONE-739N",
+        "item_qty": "1",
+        "item_net_price": "67,948.03",
+        "item_net_worth": "67,948.03",
+        "item_vat": "18%",
+        "item_gross_worth": "80,178.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹436,355.53",
+      "total_vat": "₹78,544.00",
+      "total_gross_worth": "₹514,899.53",
+      "total_cgst": "₹39,272.00",
+      "total_sgst": "₹39,272.00",
+      "total_igst": "₹0.00"
+    }
+  }
+}

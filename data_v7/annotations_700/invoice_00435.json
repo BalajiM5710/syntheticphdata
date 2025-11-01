@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/956",
+      "invoice_date": "17/06/2025",
+      "seller": "PATEL MOBILES H.No. 820, Gill Circle, Srinagar-906600",
+      "client": "LUKE KONDA H.No. 737, Rajan Path, Tinsukia-606158",
+      "shipping_address": "H.No. 737, Rajan Path, Tinsukia-606158",
+      "seller_tax_id": "25KHTXF9948W1ZM",
+      "client_tax_id": "12GQVVL3625E1ZR",
+      "client_phone": "+916207861148"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-754J",
+        "item_qty": "2",
+        "item_net_price": "77,652.72",
+        "item_net_worth": "155,305.44",
+        "item_vat": "28%",
+        "item_gross_worth": "198,790.96"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹155,305.44",
+      "total_vat": "₹43,485.52",
+      "total_gross_worth": "₹198,790.96",
+      "total_cgst": "₹21,742.76",
+      "total_sgst": "₹21,742.76",
+      "total_igst": "₹0.00"
+    }
+  }
+}

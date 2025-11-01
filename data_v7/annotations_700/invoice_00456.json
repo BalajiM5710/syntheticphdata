@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/768",
+      "invoice_date": "21/05/2025",
+      "seller": "DIGITAL STORE H.No. 581, Bobal Ganj, Khandwa-048212",
+      "client": "NAKSH PILLAI 70, Bora Chowk, Tezpur 927747",
+      "shipping_address": "H.No. 01, Natt Chowk, Chennai 615313",
+      "seller_tax_id": "18SUZJH8852H1Z9",
+      "client_tax_id": "05AZXAH8152F1ZU",
+      "client_phone": "06402824062"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-110O",
+        "item_qty": "1",
+        "item_net_price": "77,153.04",
+        "item_net_worth": "77,153.04",
+        "item_vat": "12%",
+        "item_gross_worth": "86,411.40"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-262B",
+        "item_qty": "2",
+        "item_net_price": "49,296.32",
+        "item_net_worth": "98,592.64",
+        "item_vat": "12%",
+        "item_gross_worth": "110,423.76"
+      },
+      {
+        "item_desc": "Sony Speaker SON-476R",
+        "item_qty": "2",
+        "item_net_price": "41,399.61",
+        "item_net_worth": "82,799.22",
+        "item_vat": "12%",
+        "item_gross_worth": "92,735.13"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹258,544.90",
+      "total_vat": "₹31,025.39",
+      "total_gross_worth": "₹289,570.29",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹31,025.39"
+    }
+  }
+}

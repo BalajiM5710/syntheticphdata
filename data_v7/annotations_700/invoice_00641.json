@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9988",
+      "invoice_date": "12/01/2025",
+      "seller": "SINGH ELECTRONICS 71, Bir Ganj, Khora  623540",
+      "client": "VEDHIKA DESHPANDE 68/407, Bali Nagar, Warangal 770315",
+      "shipping_address": "230, Zachariah Street, Ichalkaranji 021913",
+      "seller_tax_id": "35FYBSS6002L1ZW",
+      "client_tax_id": "27KUAGI8555B1ZC",
+      "client_phone": "07025287702"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-748N",
+        "item_qty": "1",
+        "item_net_price": "35,152.09",
+        "item_net_worth": "35,152.09",
+        "item_vat": "12%",
+        "item_gross_worth": "39,370.34"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-546K",
+        "item_qty": "2",
+        "item_net_price": "66,605.71",
+        "item_net_worth": "133,211.42",
+        "item_vat": "12%",
+        "item_gross_worth": "149,196.79"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹168,363.51",
+      "total_vat": "₹20,203.62",
+      "total_gross_worth": "₹188,567.13",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹20,203.62"
+    }
+  }
+}

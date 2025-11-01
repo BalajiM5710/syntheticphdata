@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "GYI/715",
+      "invoice_date": "18/10/2025",
+      "seller": "VISHWA ELECTRONICS H.No. 447, Bhardwaj Marg, Nagpur 060141",
+      "client": "NETRA BALA H.No. 80, Bhardwaj Chowk, Jalandhar-182478",
+      "shipping_address": "78/98, Gupta Road, Ambala 015430",
+      "seller_tax_id": "16ILJJY8559M1ZX",
+      "client_tax_id": "23SGZHP3251Z1ZM",
+      "client_phone": "5096188626"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-529U",
+        "item_qty": "1",
+        "item_net_price": "27,037.85",
+        "item_net_worth": "27,037.85",
+        "item_vat": "18%",
+        "item_gross_worth": "31,904.66"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹27,037.85",
+      "total_vat": "₹4,866.81",
+      "total_gross_worth": "₹31,904.66",
+      "total_cgst": "₹2,433.41",
+      "total_sgst": "₹2,433.41",
+      "total_igst": "₹0.00"
+    }
+  }
+}

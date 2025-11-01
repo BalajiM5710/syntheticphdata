@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7622",
+      "invoice_date": "16/03/2025",
+      "seller": "PRADHAN MOBILE SHOP 521, Grover Path, Nagercoil-457595",
+      "client": "ANUSHA SUNDER 929, Johal Path, Vijayawada-039057",
+      "shipping_address": "929, Johal Path, Vijayawada-039057",
+      "seller_tax_id": "25OGKUQ0978R1ZT",
+      "client_tax_id": "15UVNQE8066K1Z3",
+      "client_phone": "3293657654"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-370Y",
+        "item_qty": "1",
+        "item_net_price": "10,602.92",
+        "item_net_worth": "10,602.92",
+        "item_vat": "28%",
+        "item_gross_worth": "13,571.74"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-624V",
+        "item_qty": "2",
+        "item_net_price": "10,171.77",
+        "item_net_worth": "20,343.54",
+        "item_vat": "28%",
+        "item_gross_worth": "26,039.73"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹30,946.46",
+      "total_vat": "₹8,665.01",
+      "total_gross_worth": "₹39,611.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹8,665.01"
+    }
+  }
+}

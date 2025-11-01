@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7410",
+      "invoice_date": "03/10/2025",
+      "seller": "DIGITAL STORE 065, Krish Chowk, Kishanganj 577303",
+      "client": "JAGDISH SWAMINATHAN 68/12, Tella Zila, Ujjain-195812",
+      "shipping_address": "68/12, Tella Zila, Ujjain-195812",
+      "seller_tax_id": "14NELJK3227I1ZU",
+      "client_tax_id": "09VOYLU2162H1ZU",
+      "client_phone": "+914377655731"
+    },
+    "items": [
+      {
+        "item_desc": "TVS Bike TVS-745B",
+        "item_qty": "2",
+        "item_net_price": "49,563.06",
+        "item_net_worth": "99,126.12",
+        "item_vat": "18%",
+        "item_gross_worth": "116,968.82"
+      },
+      {
+        "item_desc": "Apple Laptops APP-152C",
+        "item_qty": "2",
+        "item_net_price": "23,131.41",
+        "item_net_worth": "46,262.82",
+        "item_vat": "18%",
+        "item_gross_worth": "54,590.13"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-999I",
+        "item_qty": "1",
+        "item_net_price": "11,411.85",
+        "item_net_worth": "11,411.85",
+        "item_vat": "18%",
+        "item_gross_worth": "13,465.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹156,800.79",
+      "total_vat": "₹28,224.14",
+      "total_gross_worth": "₹185,024.93",
+      "total_cgst": "₹14,112.07",
+      "total_sgst": "₹14,112.07",
+      "total_igst": "₹0.00"
+    }
+  }
+}

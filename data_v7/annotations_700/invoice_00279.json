@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/744",
+      "invoice_date": "30/05/2025",
+      "seller": "CITY ELECTRONICS H.No. 47, Kant Nagar, Uluberia-352556",
+      "client": "TRISTAN CHAWLA H.No. 981, Wali Zila, Junagadh 570544",
+      "shipping_address": "H.No. 981, Wali Zila, Junagadh 570544",
+      "seller_tax_id": "25VZTFW3176A1ZP",
+      "client_tax_id": "25SODWB1667S1ZX",
+      "client_phone": "+913211357788"
+    },
+    "items": [
+      {
+        "item_desc": "LG Refrigerator LG-325I",
+        "item_qty": "2",
+        "item_net_price": "56,570.27",
+        "item_net_worth": "113,140.54",
+        "item_vat": "12%",
+        "item_gross_worth": "126,717.40"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-582A",
+        "item_qty": "1",
+        "item_net_price": "68,443.47",
+        "item_net_worth": "68,443.47",
+        "item_vat": "12%",
+        "item_gross_worth": "76,656.69"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-980C",
+        "item_qty": "1",
+        "item_net_price": "65,494.42",
+        "item_net_worth": "65,494.42",
+        "item_vat": "12%",
+        "item_gross_worth": "73,353.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹247,078.43",
+      "total_vat": "₹29,649.41",
+      "total_gross_worth": "₹276,727.84",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,649.41"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EWC/500",
+      "invoice_date": "21/08/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 99, Pall Zila, Karawal Nagar-470569",
+      "client": "MITESH NADKARNI 53/644, Bala, Nandyal 876380",
+      "shipping_address": "53/644, Bala, Nandyal 876380",
+      "seller_tax_id": "02SBEXH4711R1ZH",
+      "client_tax_id": "06FZVYJ6322L1ZV",
+      "client_phone": "08728730804"
+    },
+    "items": [
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-308Q",
+        "item_qty": "2",
+        "item_net_price": "42,614.82",
+        "item_net_worth": "85,229.64",
+        "item_vat": "12%",
+        "item_gross_worth": "95,457.20"
+      },
+      {
+        "item_desc": "Sony Television SON-846R",
+        "item_qty": "2",
+        "item_net_price": "17,221.40",
+        "item_net_worth": "34,442.80",
+        "item_vat": "12%",
+        "item_gross_worth": "38,575.94"
+      },
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-307G",
+        "item_qty": "1",
+        "item_net_price": "13,129.24",
+        "item_net_worth": "13,129.24",
+        "item_vat": "12%",
+        "item_gross_worth": "14,704.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹132,801.68",
+      "total_vat": "₹15,936.20",
+      "total_gross_worth": "₹148,737.88",
+      "total_cgst": "₹7,968.10",
+      "total_sgst": "₹7,968.10",
+      "total_igst": "₹0.00"
+    }
+  }
+}

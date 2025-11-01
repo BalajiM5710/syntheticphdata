@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "PBV/162",
+      "invoice_date": "03/01/2025",
+      "seller": "RAM ELECTRONICS H.No. 93, Verma Circle, Ghaziabad-545438",
+      "client": "ORINDER PRASAD 36/89, Trivedi Zila, Deoghar-751441",
+      "shipping_address": "36/89, Trivedi Zila, Deoghar-751441",
+      "seller_tax_id": "11UQDCV4217Q1ZL",
+      "client_tax_id": "26GVDIQ3284S1ZM",
+      "client_phone": "07280434983"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-703H",
+        "item_qty": "1",
+        "item_net_price": "88,350.53",
+        "item_net_worth": "88,350.53",
+        "item_vat": "12%",
+        "item_gross_worth": "98,952.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,350.53",
+      "total_vat": "₹10,602.06",
+      "total_gross_worth": "₹98,952.59",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,602.06"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/455",
+      "invoice_date": "08/03/2025",
+      "seller": "ELECTRONICS WORLD 439, Kadakia Circle, Bathinda 627822",
+      "client": "URVI DIXIT 399, Grover Path, Lucknow-254223",
+      "shipping_address": "46/569, Vohra Nagar, Parbhani 455227",
+      "seller_tax_id": "25DWPLF5366J1ZZ",
+      "client_tax_id": "32FMIAO9483A1Z2",
+      "client_phone": "09439128525"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-934I IMEI: 832670129587793",
+        "item_qty": "2",
+        "item_net_price": "54,688.06",
+        "item_net_worth": "109,376.12",
+        "item_vat": "12%",
+        "item_gross_worth": "122,501.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹109,376.12",
+      "total_vat": "₹13,125.13",
+      "total_gross_worth": "₹122,501.25",
+      "total_cgst": "₹6,562.57",
+      "total_sgst": "₹6,562.57",
+      "total_igst": "₹0.00"
+    }
+  }
+}

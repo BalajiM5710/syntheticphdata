@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZFQ/751",
+      "invoice_date": "22/08/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 65, Batra Nagar, Raiganj 007128",
+      "client": "DEVANSH DHAWAN 603, Nanda, Bardhaman-147381",
+      "shipping_address": "62/04, Anand Street, Kochi 465189",
+      "seller_tax_id": "35BURJZ2967U1Z8",
+      "client_tax_id": "10EYJDS1402S1ZJ",
+      "client_phone": "+914646774021"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-563Q",
+        "item_qty": "2",
+        "item_net_price": "8,329.02",
+        "item_net_worth": "16,658.04",
+        "item_vat": "18%",
+        "item_gross_worth": "19,656.49"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-750Q",
+        "item_qty": "2",
+        "item_net_price": "19,767.73",
+        "item_net_worth": "39,535.46",
+        "item_vat": "18%",
+        "item_gross_worth": "46,651.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹56,193.50",
+      "total_vat": "₹10,114.83",
+      "total_gross_worth": "₹66,308.33",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,114.83"
+    }
+  }
+}

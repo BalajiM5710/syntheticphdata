@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/929",
+      "invoice_date": "10/03/2025",
+      "seller": "SINGH ELECTRONICS 96/56, Sem Marg, Mumbai 927107",
+      "client": "AACHAL RAMANATHAN 647, Sekhon Ganj, Udupi-457281",
+      "shipping_address": "647, Sekhon Ganj, Udupi-457281",
+      "seller_tax_id": "07UMGUB3395D1ZM",
+      "client_tax_id": "12FYFSK0060Z1ZH",
+      "client_phone": "8420226482"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-695I",
+        "item_qty": "1",
+        "item_net_price": "93,125.47",
+        "item_net_worth": "93,125.47",
+        "item_vat": "18%",
+        "item_gross_worth": "109,888.05"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-309L IMEI: 559287846739536",
+        "item_qty": "2",
+        "item_net_price": "9,850.73",
+        "item_net_worth": "19,701.46",
+        "item_vat": "18%",
+        "item_gross_worth": "23,247.72"
+      },
+      {
+        "item_desc": "LG Washing Machine LG-344P",
+        "item_qty": "2",
+        "item_net_price": "32,058.89",
+        "item_net_worth": "64,117.78",
+        "item_vat": "18%",
+        "item_gross_worth": "75,658.98"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-158M",
+        "item_qty": "1",
+        "item_net_price": "71,360.80",
+        "item_net_worth": "71,360.80",
+        "item_vat": "18%",
+        "item_gross_worth": "84,205.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹248,305.51",
+      "total_vat": "₹44,694.99",
+      "total_gross_worth": "₹293,000.50",
+      "total_cgst": "₹22,347.50",
+      "total_sgst": "₹22,347.50",
+      "total_igst": "₹0.00"
+    }
+  }
+}

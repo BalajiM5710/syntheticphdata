@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/397",
+      "invoice_date": "28/07/2025",
+      "seller": "FUTURE TECH 82/885, Gaba Marg, Kirari Suleman Nagar 521174",
+      "client": "CHATRESH BORA 05/64, Choudhary Ganj, Davanagere 146836",
+      "shipping_address": "05/64, Choudhary Ganj, Davanagere 146836",
+      "seller_tax_id": "21UIKNK3203Q1ZS",
+      "client_tax_id": "36USTHF4215A1ZV",
+      "client_phone": "1518392415"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-220I",
+        "item_qty": "2",
+        "item_net_price": "50,573.56",
+        "item_net_worth": "101,147.12",
+        "item_vat": "18%",
+        "item_gross_worth": "119,353.60"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-384U",
+        "item_qty": "2",
+        "item_net_price": "85,934.15",
+        "item_net_worth": "171,868.30",
+        "item_vat": "18%",
+        "item_gross_worth": "202,804.59"
+      },
+      {
+        "item_desc": "Hero Bike HER-815S",
+        "item_qty": "1",
+        "item_net_price": "10,503.42",
+        "item_net_worth": "10,503.42",
+        "item_vat": "18%",
+        "item_gross_worth": "12,394.04"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-815G",
+        "item_qty": "1",
+        "item_net_price": "58,607.04",
+        "item_net_worth": "58,607.04",
+        "item_vat": "18%",
+        "item_gross_worth": "69,156.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹342,125.88",
+      "total_vat": "₹61,582.66",
+      "total_gross_worth": "₹403,708.54",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹61,582.66"
+    }
+  }
+}

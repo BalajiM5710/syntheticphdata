@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5551",
+      "invoice_date": "05/10/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 179, Solanki Ganj, Dhule 954924",
+      "client": "BENJAMIN PANDEY 289, Mann Circle, Uluberia 766000",
+      "shipping_address": "289, Mann Circle, Uluberia 766000",
+      "seller_tax_id": "20GWRKT6433P1Z7",
+      "client_tax_id": "30ZQZXO9569E1Z0",
+      "client_phone": "1325286016"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-508H IMEI: 490433265112552",
+        "item_qty": "1",
+        "item_net_price": "59,202.50",
+        "item_net_worth": "59,202.50",
+        "item_vat": "12%",
+        "item_gross_worth": "66,306.80"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-537D",
+        "item_qty": "1",
+        "item_net_price": "49,202.05",
+        "item_net_worth": "49,202.05",
+        "item_vat": "12%",
+        "item_gross_worth": "55,106.30"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-181R",
+        "item_qty": "1",
+        "item_net_price": "43,176.59",
+        "item_net_worth": "43,176.59",
+        "item_vat": "12%",
+        "item_gross_worth": "48,357.78"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹151,581.14",
+      "total_vat": "₹18,189.74",
+      "total_gross_worth": "₹169,770.88",
+      "total_cgst": "₹9,094.87",
+      "total_sgst": "₹9,094.87",
+      "total_igst": "₹0.00"
+    }
+  }
+}

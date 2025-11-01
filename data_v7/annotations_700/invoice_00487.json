@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/941",
+      "invoice_date": "17/03/2025",
+      "seller": "ELECTRONICS WORLD 58, Hegde Chowk, Katihar-960647",
+      "client": "KRISH RAMANATHAN 72/951, Hari Nagar, Srinagar-643237",
+      "shipping_address": "72/951, Hari Nagar, Srinagar-643237",
+      "seller_tax_id": "16TCVVI4861S1ZB",
+      "client_tax_id": "10EMOWD0733Z1ZG",
+      "client_phone": "5753526569"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-494R",
+        "item_qty": "2",
+        "item_net_price": "48,825.38",
+        "item_net_worth": "97,650.76",
+        "item_vat": "12%",
+        "item_gross_worth": "109,368.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹97,650.76",
+      "total_vat": "₹11,718.09",
+      "total_gross_worth": "₹109,368.85",
+      "total_cgst": "₹5,859.05",
+      "total_sgst": "₹5,859.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

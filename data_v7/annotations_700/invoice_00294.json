@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/546",
+      "invoice_date": "26/05/2025",
+      "seller": "GADGET GALAXY H.No. 897, Sachdev Chowk, Vellore-138355",
+      "client": "INDALI KURIAN 46/30, Sridhar Ganj, Bulandshahr 870517",
+      "shipping_address": "46/30, Sridhar Ganj, Bulandshahr 870517",
+      "seller_tax_id": "10FMRKL9707S1ZD",
+      "client_tax_id": "18FDHMK2678V1ZQ",
+      "client_phone": "6922480529"
+    },
+    "items": [
+      {
+        "item_desc": "LG Washing Machine LG-124D",
+        "item_qty": "1",
+        "item_net_price": "46,016.65",
+        "item_net_worth": "46,016.65",
+        "item_vat": "28%",
+        "item_gross_worth": "58,901.31"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-627C",
+        "item_qty": "2",
+        "item_net_price": "55,347.09",
+        "item_net_worth": "110,694.18",
+        "item_vat": "28%",
+        "item_gross_worth": "141,688.55"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-560J",
+        "item_qty": "1",
+        "item_net_price": "13,075.24",
+        "item_net_worth": "13,075.24",
+        "item_vat": "28%",
+        "item_gross_worth": "16,736.31"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-174M",
+        "item_qty": "2",
+        "item_net_price": "38,210.90",
+        "item_net_worth": "76,421.80",
+        "item_vat": "28%",
+        "item_gross_worth": "97,819.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹246,207.87",
+      "total_vat": "₹68,938.20",
+      "total_gross_worth": "₹315,146.07",
+      "total_cgst": "₹34,469.10",
+      "total_sgst": "₹34,469.10",
+      "total_igst": "₹0.00"
+    }
+  }
+}

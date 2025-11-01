@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/276",
+      "invoice_date": "22/07/2025",
+      "seller": "ROYAL MOBILES H.No. 368, Bora Marg, Kakinada-510559",
+      "client": "SARTHAK MANGAT H.No. 367, Madan Nagar, Farrukhabad 521816",
+      "shipping_address": "H.No. 367, Madan Nagar, Farrukhabad 521816",
+      "seller_tax_id": "36KSYNG2175R1ZD",
+      "client_tax_id": "04TKCPY8855U1Z4",
+      "client_phone": "+916019094389"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-676G",
+        "item_qty": "2",
+        "item_net_price": "93,623.32",
+        "item_net_worth": "187,246.64",
+        "item_vat": "12%",
+        "item_gross_worth": "209,716.24"
+      },
+      {
+        "item_desc": "TVS Bike TVS-123F",
+        "item_qty": "1",
+        "item_net_price": "78,955.64",
+        "item_net_worth": "78,955.64",
+        "item_vat": "12%",
+        "item_gross_worth": "88,430.32"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹266,202.28",
+      "total_vat": "₹31,944.27",
+      "total_gross_worth": "₹298,146.55",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹31,944.27"
+    }
+  }
+}

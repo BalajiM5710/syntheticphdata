@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9240",
+      "invoice_date": "24/07/2025",
+      "seller": "CITY ELECTRONICS H.No. 57, Sharaf, Tirupati-935835",
+      "client": "MASON GADE H.No. 321, Nagar Road, Chapra-460448",
+      "shipping_address": "37, Sheth Street, Korba-649691",
+      "seller_tax_id": "16AVGGV5971X1Z7",
+      "client_tax_id": "10JMDOT3057O1Z7",
+      "client_phone": "2811183816"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-556N",
+        "item_qty": "1",
+        "item_net_price": "40,862.92",
+        "item_net_worth": "40,862.92",
+        "item_vat": "12%",
+        "item_gross_worth": "45,766.47"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹40,862.92",
+      "total_vat": "₹4,903.55",
+      "total_gross_worth": "₹45,766.47",
+      "total_cgst": "₹2,451.78",
+      "total_sgst": "₹2,451.78",
+      "total_igst": "₹0.00"
+    }
+  }
+}

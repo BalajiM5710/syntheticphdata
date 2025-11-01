@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "BSR/787",
+      "invoice_date": "12/04/2025",
+      "seller": "TECH BAZAAR 00/61, Devan Street, Sri Ganganagar 432678",
+      "client": "MANYA SOOD 626, Parikh Nagar, Vijayawada 086590",
+      "shipping_address": "626, Parikh Nagar, Vijayawada 086590",
+      "seller_tax_id": "33JCCYY7457H1Z7",
+      "client_tax_id": "37LJSOU9371Y1ZE",
+      "client_phone": "8489354958"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-194A",
+        "item_qty": "2",
+        "item_net_price": "63,111.26",
+        "item_net_worth": "126,222.52",
+        "item_vat": "12%",
+        "item_gross_worth": "141,369.22"
+      },
+      {
+        "item_desc": "Samsung Refrigerator SAM-687Y",
+        "item_qty": "2",
+        "item_net_price": "78,354.41",
+        "item_net_worth": "156,708.82",
+        "item_vat": "12%",
+        "item_gross_worth": "175,513.88"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-556F IMEI: 147023032812944",
+        "item_qty": "2",
+        "item_net_price": "68,975.27",
+        "item_net_worth": "137,950.54",
+        "item_vat": "12%",
+        "item_gross_worth": "154,504.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹420,881.88",
+      "total_vat": "₹50,505.83",
+      "total_gross_worth": "₹471,387.71",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹50,505.83"
+    }
+  }
+}

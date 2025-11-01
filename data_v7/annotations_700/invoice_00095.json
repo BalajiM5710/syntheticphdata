@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "QIS/391",
+      "invoice_date": "26/03/2025",
+      "seller": "GADGET GALAXY 69/70, Singhal Marg, Bathinda-239596",
+      "client": "GANGA LANKA 07/29, Sachar Zila, Chittoor 878215",
+      "shipping_address": "07/29, Sachar Zila, Chittoor 878215",
+      "seller_tax_id": "36LKWTY0889B1Z6",
+      "client_tax_id": "32HYMKS9189R1ZH",
+      "client_phone": "+911571186358"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-150T",
+        "item_qty": "1",
+        "item_net_price": "91,104.09",
+        "item_net_worth": "91,104.09",
+        "item_vat": "12%",
+        "item_gross_worth": "102,036.58"
+      },
+      {
+        "item_desc": "TVS Bike TVS-588U",
+        "item_qty": "1",
+        "item_net_price": "10,677.41",
+        "item_net_worth": "10,677.41",
+        "item_vat": "12%",
+        "item_gross_worth": "11,958.70"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-393D",
+        "item_qty": "1",
+        "item_net_price": "23,675.84",
+        "item_net_worth": "23,675.84",
+        "item_vat": "12%",
+        "item_gross_worth": "26,516.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹125,457.34",
+      "total_vat": "₹15,054.88",
+      "total_gross_worth": "₹140,512.22",
+      "total_cgst": "₹7,527.44",
+      "total_sgst": "₹7,527.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

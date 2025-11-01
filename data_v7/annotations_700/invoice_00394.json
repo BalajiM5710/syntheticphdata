@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/108",
+      "invoice_date": "22/10/2025",
+      "seller": "SINGH ELECTRONICS H.No. 51, Palan Road, Madurai-060235",
+      "client": "NAKUL NAGARAJAN 51, Date Nagar, Baranagar-404317",
+      "shipping_address": "340, Banik Marg, South Dumdum 130137",
+      "seller_tax_id": "10NQXTP7795C1ZT",
+      "client_tax_id": "21SZMVK0615R1ZV",
+      "client_phone": "+910191773692"
+    },
+    "items": [
+      {
+        "item_desc": "Sennheiser Headphones SEN-656Q",
+        "item_qty": "2",
+        "item_net_price": "46,323.36",
+        "item_net_worth": "92,646.72",
+        "item_vat": "12%",
+        "item_gross_worth": "103,764.33"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-725T IMEI: 986258096094239",
+        "item_qty": "2",
+        "item_net_price": "20,334.01",
+        "item_net_worth": "40,668.02",
+        "item_vat": "12%",
+        "item_gross_worth": "45,548.18"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-484W",
+        "item_qty": "2",
+        "item_net_price": "42,313.04",
+        "item_net_worth": "84,626.08",
+        "item_vat": "12%",
+        "item_gross_worth": "94,781.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹217,940.82",
+      "total_vat": "₹26,152.90",
+      "total_gross_worth": "₹244,093.72",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,152.90"
+    }
+  }
+}

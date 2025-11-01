@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VPO/824",
+      "invoice_date": "04/04/2025",
+      "seller": "CITY ELECTRONICS 83/651, Sachdeva Marg, Hubli–Dharwad-074576",
+      "client": "NEEL BHAT H.No. 03, Subramaniam Path, New Delhi 877382",
+      "shipping_address": "H.No. 03, Subramaniam Path, New Delhi 877382",
+      "seller_tax_id": "05EZRSN2579N1Z7",
+      "client_tax_id": "17JZIBO1709L1Z0",
+      "client_phone": "+918465610948"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-806O IMEI: 525684854547001",
+        "item_qty": "1",
+        "item_net_price": "69,629.52",
+        "item_net_worth": "69,629.52",
+        "item_vat": "18%",
+        "item_gross_worth": "82,162.83"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-496Z",
+        "item_qty": "2",
+        "item_net_price": "57,165.21",
+        "item_net_worth": "114,330.42",
+        "item_vat": "18%",
+        "item_gross_worth": "134,909.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹183,959.94",
+      "total_vat": "₹33,112.79",
+      "total_gross_worth": "₹217,072.73",
+      "total_cgst": "₹16,556.39",
+      "total_sgst": "₹16,556.39",
+      "total_igst": "₹0.00"
+    }
+  }
+}

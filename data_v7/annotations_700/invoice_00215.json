@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KIQ/653",
+      "invoice_date": "16/04/2025",
+      "seller": "PATEL MOBILES 798, Bali Chowk, Mathura-046853",
+      "client": "PRANAV VISWANATHAN H.No. 998, Yogi Zila, Gaya-950532",
+      "shipping_address": "60, Kala Street, Jammu 061952",
+      "seller_tax_id": "10EFNPL8639G1ZN",
+      "client_tax_id": "28MJGRD1380O1ZG",
+      "client_phone": "09710125426"
+    },
+    "items": [
+      {
+        "item_desc": "Oppo Smartphones OPP-239J IMEI: 103888202944100",
+        "item_qty": "1",
+        "item_net_price": "14,352.65",
+        "item_net_worth": "14,352.65",
+        "item_vat": "12%",
+        "item_gross_worth": "16,074.97"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-945S",
+        "item_qty": "1",
+        "item_net_price": "60,262.34",
+        "item_net_worth": "60,262.34",
+        "item_vat": "12%",
+        "item_gross_worth": "67,493.82"
+      },
+      {
+        "item_desc": "Mi Television MI-270Z",
+        "item_qty": "2",
+        "item_net_price": "63,592.91",
+        "item_net_worth": "127,185.82",
+        "item_vat": "12%",
+        "item_gross_worth": "142,448.12"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-691U",
+        "item_qty": "1",
+        "item_net_price": "8,813.99",
+        "item_net_worth": "8,813.99",
+        "item_vat": "12%",
+        "item_gross_worth": "9,871.67"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹210,614.80",
+      "total_vat": "₹25,273.78",
+      "total_gross_worth": "₹235,888.58",
+      "total_cgst": "₹12,636.89",
+      "total_sgst": "₹12,636.89",
+      "total_igst": "₹0.00"
+    }
+  }
+}

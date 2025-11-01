@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1021",
+      "invoice_date": "21/01/2025",
+      "seller": "STAR ELECTRONICS H.No. 18, Deshmukh Nagar, Ongole 189518",
+      "client": "KASHVI CHAKRABORTY 89/975, Solanki Nagar, Nellore 798589",
+      "shipping_address": "89/975, Solanki Nagar, Nellore 798589",
+      "seller_tax_id": "11CRWDC6285D1ZF",
+      "client_tax_id": "06OVBBT7308F1ZH",
+      "client_phone": "+911636365365"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-380Q",
+        "item_qty": "1",
+        "item_net_price": "21,618.94",
+        "item_net_worth": "21,618.94",
+        "item_vat": "12%",
+        "item_gross_worth": "24,213.21"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-905M IMEI: 559826336671808",
+        "item_qty": "2",
+        "item_net_price": "76,487.71",
+        "item_net_worth": "152,975.42",
+        "item_vat": "12%",
+        "item_gross_worth": "171,332.47"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-960E",
+        "item_qty": "1",
+        "item_net_price": "51,399.28",
+        "item_net_worth": "51,399.28",
+        "item_vat": "12%",
+        "item_gross_worth": "57,567.19"
+      },
+      {
+        "item_desc": "Apple Tablets APP-719P",
+        "item_qty": "1",
+        "item_net_price": "71,487.81",
+        "item_net_worth": "71,487.81",
+        "item_vat": "12%",
+        "item_gross_worth": "80,066.35"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹297,481.45",
+      "total_vat": "₹35,697.77",
+      "total_gross_worth": "₹333,179.22",
+      "total_cgst": "₹17,848.89",
+      "total_sgst": "₹17,848.89",
+      "total_igst": "₹0.00"
+    }
+  }
+}

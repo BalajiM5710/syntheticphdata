@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "XUK/494",
+      "invoice_date": "07/04/2025",
+      "seller": "VISHWA ELECTRONICS 62/543, Sathe Nagar, Howrah-929251",
+      "client": "BHAVIKA GOKHALE H.No. 517, Mangal Marg, Khora -160516",
+      "shipping_address": "H.No. 517, Mangal Marg, Khora -160516",
+      "seller_tax_id": "34FPEQG8567R1ZU",
+      "client_tax_id": "25WSKVN2577V1Z1",
+      "client_phone": "+919059034294"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-677R",
+        "item_qty": "2",
+        "item_net_price": "46,676.40",
+        "item_net_worth": "93,352.80",
+        "item_vat": "28%",
+        "item_gross_worth": "119,491.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹93,352.80",
+      "total_vat": "₹26,138.78",
+      "total_gross_worth": "₹119,491.58",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹26,138.78"
+    }
+  }
+}

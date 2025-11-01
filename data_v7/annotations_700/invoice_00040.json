@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1464",
+      "invoice_date": "24/05/2025",
+      "seller": "SMART ELECTRONICS H.No. 090, Devan Marg, Munger-624578",
+      "client": "GOPAL SAGAR H.No. 272, Kannan, Bikaner-622160",
+      "shipping_address": "73/149, Pathak, Mysore 404295",
+      "seller_tax_id": "01ZXSVV0230C1ZY",
+      "client_tax_id": "04AREFM1643M1ZV",
+      "client_phone": "04750337028"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-135M",
+        "item_qty": "1",
+        "item_net_price": "9,283.66",
+        "item_net_worth": "9,283.66",
+        "item_vat": "12%",
+        "item_gross_worth": "10,397.70"
+      },
+      {
+        "item_desc": "Apple Tablets APP-510Q",
+        "item_qty": "2",
+        "item_net_price": "23,980.52",
+        "item_net_worth": "47,961.04",
+        "item_vat": "12%",
+        "item_gross_worth": "53,716.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹57,244.70",
+      "total_vat": "₹6,869.36",
+      "total_gross_worth": "₹64,114.06",
+      "total_cgst": "₹3,434.68",
+      "total_sgst": "₹3,434.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

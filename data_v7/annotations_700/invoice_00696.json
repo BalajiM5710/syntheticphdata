@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VDZ/540",
+      "invoice_date": "11/07/2025",
+      "seller": "STAR ELECTRONICS H.No. 178, Ramanathan Street, Jorhat 367298",
+      "client": "DAYAMAI SOM H.No. 44, Bhandari, Nangloi Jat 476290",
+      "shipping_address": "H.No. 44, Bhandari, Nangloi Jat 476290",
+      "seller_tax_id": "25JZDVV6345V1ZJ",
+      "client_tax_id": "02EATJM8674U1ZH",
+      "client_phone": "+911796089783"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-467U",
+        "item_qty": "2",
+        "item_net_price": "74,624.30",
+        "item_net_worth": "149,248.60",
+        "item_vat": "12%",
+        "item_gross_worth": "167,158.43"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-564J",
+        "item_qty": "1",
+        "item_net_price": "72,246.73",
+        "item_net_worth": "72,246.73",
+        "item_vat": "12%",
+        "item_gross_worth": "80,916.34"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹221,495.33",
+      "total_vat": "₹26,579.44",
+      "total_gross_worth": "₹248,074.77",
+      "total_cgst": "₹13,289.72",
+      "total_sgst": "₹13,289.72",
+      "total_igst": "₹0.00"
+    }
+  }
+}

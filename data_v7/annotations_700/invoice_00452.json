@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6413",
+      "invoice_date": "17/03/2025",
+      "seller": "ELECTRONICS WORLD 26/631, Palla Chowk, Motihari 621694",
+      "client": "GEETIKA TANDON 11/736, Kaul Zila, Kumbakonam-446037",
+      "shipping_address": "11/736, Kaul Zila, Kumbakonam-446037",
+      "seller_tax_id": "34XFVVL7550X1ZN",
+      "client_tax_id": "22UFZSM2256J1ZE",
+      "client_phone": "+914408261056"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-708M",
+        "item_qty": "2",
+        "item_net_price": "85,631.28",
+        "item_net_worth": "171,262.56",
+        "item_vat": "18%",
+        "item_gross_worth": "202,089.82"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-816L",
+        "item_qty": "2",
+        "item_net_price": "89,709.72",
+        "item_net_worth": "179,419.44",
+        "item_vat": "18%",
+        "item_gross_worth": "211,714.94"
+      },
+      {
+        "item_desc": "HP Laptops HP-412E",
+        "item_qty": "2",
+        "item_net_price": "32,890.95",
+        "item_net_worth": "65,781.90",
+        "item_vat": "18%",
+        "item_gross_worth": "77,622.64"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-325I",
+        "item_qty": "1",
+        "item_net_price": "24,596.52",
+        "item_net_worth": "24,596.52",
+        "item_vat": "18%",
+        "item_gross_worth": "29,023.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹441,060.42",
+      "total_vat": "₹79,390.88",
+      "total_gross_worth": "₹520,451.30",
+      "total_cgst": "₹39,695.44",
+      "total_sgst": "₹39,695.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

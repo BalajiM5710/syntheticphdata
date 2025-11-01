@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KGD/981",
+      "invoice_date": "11/08/2025",
+      "seller": "MOBILE POINT 08, Babu Chowk, Darbhanga-461788",
+      "client": "JAGDISH GALA 88/747, Nagar Street, North Dumdum-863908",
+      "shipping_address": "H.No. 651, Shan Zila, Chittoor-191204",
+      "seller_tax_id": "19GCOGK4987Q1ZG",
+      "client_tax_id": "10UTVNB5612U1ZY",
+      "client_phone": "0053704568"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-792Y IMEI: 888942981250313",
+        "item_qty": "2",
+        "item_net_price": "53,910.89",
+        "item_net_worth": "107,821.78",
+        "item_vat": "18%",
+        "item_gross_worth": "127,229.70"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-620O",
+        "item_qty": "1",
+        "item_net_price": "51,510.08",
+        "item_net_worth": "51,510.08",
+        "item_vat": "18%",
+        "item_gross_worth": "60,781.89"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹159,331.86",
+      "total_vat": "₹28,679.73",
+      "total_gross_worth": "₹188,011.59",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹28,679.73"
+    }
+  }
+}

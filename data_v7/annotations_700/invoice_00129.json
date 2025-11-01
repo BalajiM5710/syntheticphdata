@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YIW/879",
+      "invoice_date": "19/08/2025",
+      "seller": "MOBILE POINT 657, Bakshi, Narasaraopet 739543",
+      "client": "ONVEER RAMAKRISHNAN H.No. 40, Rastogi Nagar, Farrukhabad 523838",
+      "shipping_address": "H.No. 40, Rastogi Nagar, Farrukhabad 523838",
+      "seller_tax_id": "29EFKQL5794N1ZQ",
+      "client_tax_id": "11NBFDV8538E1Z7",
+      "client_phone": "00855389904"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-461O",
+        "item_qty": "1",
+        "item_net_price": "35,643.25",
+        "item_net_worth": "35,643.25",
+        "item_vat": "28%",
+        "item_gross_worth": "45,623.36"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-473G",
+        "item_qty": "2",
+        "item_net_price": "50,675.95",
+        "item_net_worth": "101,351.90",
+        "item_vat": "28%",
+        "item_gross_worth": "129,730.43"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-844M",
+        "item_qty": "2",
+        "item_net_price": "19,516.43",
+        "item_net_worth": "39,032.86",
+        "item_vat": "28%",
+        "item_gross_worth": "49,962.06"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-220A",
+        "item_qty": "1",
+        "item_net_price": "19,251.76",
+        "item_net_worth": "19,251.76",
+        "item_vat": "28%",
+        "item_gross_worth": "24,642.25"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹195,279.77",
+      "total_vat": "₹54,678.34",
+      "total_gross_worth": "₹249,958.11",
+      "total_cgst": "₹27,339.17",
+      "total_sgst": "₹27,339.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

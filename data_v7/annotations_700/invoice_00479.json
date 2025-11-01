@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "THH/935",
+      "invoice_date": "06/04/2025",
+      "seller": "VISHWA ELECTRONICS 35/38, Loyal Path, Delhi-792424",
+      "client": "URVASHI JHA H.No. 37, Panchal Street, Vellore-774065",
+      "shipping_address": "H.No. 37, Panchal Street, Vellore-774065",
+      "seller_tax_id": "02UKZFA9573W1ZM",
+      "client_tax_id": "17JDIMY9421P1Z2",
+      "client_phone": "+917309312151"
+    },
+    "items": [
+      {
+        "item_desc": "Royal Enfield Bike ROY-927D",
+        "item_qty": "2",
+        "item_net_price": "28,677.24",
+        "item_net_worth": "57,354.48",
+        "item_vat": "12%",
+        "item_gross_worth": "64,237.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹57,354.48",
+      "total_vat": "₹6,882.54",
+      "total_gross_worth": "₹64,237.02",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,882.54"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AHU/642",
+      "invoice_date": "05/02/2025",
+      "seller": "SMART ELECTRONICS 616, Master Zila, Katni-299653",
+      "client": "FARAS DEO 159, Sahota Street, Hospet 969382",
+      "shipping_address": "159, Sahota Street, Hospet 969382",
+      "seller_tax_id": "03FLUDF1421E1Z5",
+      "client_tax_id": "14YJAER5099U1ZD",
+      "client_phone": "+919225086987"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-556T",
+        "item_qty": "1",
+        "item_net_price": "31,010.11",
+        "item_net_worth": "31,010.11",
+        "item_vat": "28%",
+        "item_gross_worth": "39,692.94"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹31,010.11",
+      "total_vat": "₹8,682.83",
+      "total_gross_worth": "₹39,692.94",
+      "total_cgst": "₹4,341.42",
+      "total_sgst": "₹4,341.42",
+      "total_igst": "₹0.00"
+    }
+  }
+}

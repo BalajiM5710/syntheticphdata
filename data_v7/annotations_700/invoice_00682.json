@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/865",
+      "invoice_date": "23/07/2025",
+      "seller": "PRADHAN MOBILE SHOP 68/97, Sachdeva Ganj, Mumbai 803684",
+      "client": "AYUSH MAJUMDAR 48/31, Kadakia Road, Morena 195621",
+      "shipping_address": "48/31, Kadakia Road, Morena 195621",
+      "seller_tax_id": "35STVDP2195J1ZG",
+      "client_tax_id": "01VBOOF7403Y1Z8",
+      "client_phone": "01826464234"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-908K",
+        "item_qty": "1",
+        "item_net_price": "34,787.53",
+        "item_net_worth": "34,787.53",
+        "item_vat": "28%",
+        "item_gross_worth": "44,528.04"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹34,787.53",
+      "total_vat": "₹9,740.51",
+      "total_gross_worth": "₹44,528.04",
+      "total_cgst": "₹4,870.25",
+      "total_sgst": "₹4,870.25",
+      "total_igst": "₹0.00"
+    }
+  }
+}

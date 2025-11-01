@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/484",
+      "invoice_date": "15/04/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 02, Kala Chowk, Alappuzha-547833",
+      "client": "VIRAJ BORDE H.No. 816, Jain Chowk, Jalandhar 558130",
+      "shipping_address": "31/508, Chadha Marg, Imphal 716439",
+      "seller_tax_id": "13KNNTP5617I1Z0",
+      "client_tax_id": "33UGOWF6573Z1ZH",
+      "client_phone": "01875605309"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-795C",
+        "item_qty": "2",
+        "item_net_price": "73,046.94",
+        "item_net_worth": "146,093.88",
+        "item_vat": "28%",
+        "item_gross_worth": "187,000.17"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-138F",
+        "item_qty": "1",
+        "item_net_price": "65,197.83",
+        "item_net_worth": "65,197.83",
+        "item_vat": "28%",
+        "item_gross_worth": "83,453.22"
+      },
+      {
+        "item_desc": "Motorola Smartphones MOT-183R IMEI: 653483409470743",
+        "item_qty": "1",
+        "item_net_price": "15,381.00",
+        "item_net_worth": "15,381.00",
+        "item_vat": "28%",
+        "item_gross_worth": "19,687.68"
+      },
+      {
+        "item_desc": "Sony Camera SON-115G",
+        "item_qty": "2",
+        "item_net_price": "56,993.69",
+        "item_net_worth": "113,987.38",
+        "item_vat": "28%",
+        "item_gross_worth": "145,903.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹340,660.09",
+      "total_vat": "₹95,384.83",
+      "total_gross_worth": "₹436,044.92",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹95,384.83"
+    }
+  }
+}

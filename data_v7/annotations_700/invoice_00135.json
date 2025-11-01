@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RNR/386",
+      "invoice_date": "03/03/2025",
+      "seller": "GADGET GALAXY 64/58, Joshi Marg, Bidhannagar 115109",
+      "client": "CHAMAN VIG 98/543, Kothari Marg, Gorakhpur-322138",
+      "shipping_address": "98/543, Kothari Marg, Gorakhpur-322138",
+      "seller_tax_id": "22YXXBA7253P1ZA",
+      "client_tax_id": "11WLSBG5694J1ZE",
+      "client_phone": "2838070860"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-497C IMEI: 001074308816926",
+        "item_qty": "2",
+        "item_net_price": "37,023.34",
+        "item_net_worth": "74,046.68",
+        "item_vat": "28%",
+        "item_gross_worth": "94,779.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹74,046.68",
+      "total_vat": "₹20,733.07",
+      "total_gross_worth": "₹94,779.75",
+      "total_cgst": "₹10,366.54",
+      "total_sgst": "₹10,366.54",
+      "total_igst": "₹0.00"
+    }
+  }
+}

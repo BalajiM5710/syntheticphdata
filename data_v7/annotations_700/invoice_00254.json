@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VZK/709",
+      "invoice_date": "27/09/2025",
+      "seller": "RAM ELECTRONICS 31/671, Banerjee Street, Sagar 917086",
+      "client": "URVASHI MISRA 12, Divan Marg, Nanded-083002",
+      "shipping_address": "12, Divan Marg, Nanded-083002",
+      "seller_tax_id": "30JVTSC3000Y1ZL",
+      "client_tax_id": "13AHKMF0198L1ZL",
+      "client_phone": "+913337791530"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-261K",
+        "item_qty": "2",
+        "item_net_price": "58,005.40",
+        "item_net_worth": "116,010.80",
+        "item_vat": "12%",
+        "item_gross_worth": "129,932.10"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-203B",
+        "item_qty": "1",
+        "item_net_price": "47,614.76",
+        "item_net_worth": "47,614.76",
+        "item_vat": "12%",
+        "item_gross_worth": "53,328.53"
+      },
+      {
+        "item_desc": "LG Television LG-800N",
+        "item_qty": "2",
+        "item_net_price": "35,545.56",
+        "item_net_worth": "71,091.12",
+        "item_vat": "12%",
+        "item_gross_worth": "79,622.05"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-352V",
+        "item_qty": "2",
+        "item_net_price": "81,701.56",
+        "item_net_worth": "163,403.12",
+        "item_vat": "12%",
+        "item_gross_worth": "183,011.49"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹398,119.80",
+      "total_vat": "₹47,774.38",
+      "total_gross_worth": "₹445,894.18",
+      "total_cgst": "₹23,887.19",
+      "total_sgst": "₹23,887.19",
+      "total_igst": "₹0.00"
+    }
+  }
+}

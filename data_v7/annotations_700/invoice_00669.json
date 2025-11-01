@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EUJ/395",
+      "invoice_date": "08/06/2025",
+      "seller": "SUPREME ELECTRONICS 35/00, Doshi Ganj, Chandrapur 339632",
+      "client": "PRATYUSH MUNI H.No. 066, Mody Ganj, Bikaner-621431",
+      "shipping_address": "H.No. 066, Mody Ganj, Bikaner-621431",
+      "seller_tax_id": "34BGQLH0514N1Z5",
+      "client_tax_id": "11XCQRN1134L1ZB",
+      "client_phone": "2643436766"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Refrigerator SAM-878O",
+        "item_qty": "1",
+        "item_net_price": "13,429.30",
+        "item_net_worth": "13,429.30",
+        "item_vat": "28%",
+        "item_gross_worth": "17,189.50"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹13,429.30",
+      "total_vat": "₹3,760.20",
+      "total_gross_worth": "₹17,189.50",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹3,760.20"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7160",
+      "invoice_date": "23/03/2025",
+      "seller": "CITY ELECTRONICS 78, Parsa Nagar, Raiganj-730701",
+      "client": "MEKHALA MOHAN 02/281, Dhar Nagar, Bharatpur-340665",
+      "shipping_address": "02/281, Dhar Nagar, Bharatpur-340665",
+      "seller_tax_id": "10TIMWQ0323J1Z8",
+      "client_tax_id": "12KWQZA7665I1Z5",
+      "client_phone": "05004088154"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Washing Machine IFB-168N",
+        "item_qty": "1",
+        "item_net_price": "29,404.83",
+        "item_net_worth": "29,404.83",
+        "item_vat": "18%",
+        "item_gross_worth": "34,697.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹29,404.83",
+      "total_vat": "₹5,292.87",
+      "total_gross_worth": "₹34,697.70",
+      "total_cgst": "₹2,646.43",
+      "total_sgst": "₹2,646.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

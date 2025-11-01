@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1139",
+      "invoice_date": "02/02/2025",
+      "seller": "SMART ELECTRONICS 91/59, Kakar Street, Gandhidham-881001",
+      "client": "ZAYYAN BRAHMBHATT 63, Gala Road, Ludhiana 410012",
+      "shipping_address": "63, Gala Road, Ludhiana 410012",
+      "seller_tax_id": "10KZUHC8454J1ZS",
+      "client_tax_id": "36MRRZK4318M1Z4",
+      "client_phone": "+915013645280"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-785K",
+        "item_qty": "2",
+        "item_net_price": "14,812.64",
+        "item_net_worth": "29,625.28",
+        "item_vat": "12%",
+        "item_gross_worth": "33,180.31"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-984K",
+        "item_qty": "1",
+        "item_net_price": "42,827.95",
+        "item_net_worth": "42,827.95",
+        "item_vat": "12%",
+        "item_gross_worth": "47,967.30"
+      },
+      {
+        "item_desc": "OnePlus Smartphones ONE-245B IMEI: 245778556903990",
+        "item_qty": "1",
+        "item_net_price": "17,481.03",
+        "item_net_worth": "17,481.03",
+        "item_vat": "12%",
+        "item_gross_worth": "19,578.75"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹89,934.26",
+      "total_vat": "₹10,792.11",
+      "total_gross_worth": "₹100,726.37",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,792.11"
+    }
+  }
+}

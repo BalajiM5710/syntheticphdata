@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2170",
+      "invoice_date": "04/03/2025",
+      "seller": "ROYAL MOBILES H.No. 898, Bala Road, Tiruvottiyur-482802",
+      "client": "VIRAJ PATLA H.No. 389, Banik, Bhubaneswar 568477",
+      "shipping_address": "H.No. 389, Banik, Bhubaneswar 568477",
+      "seller_tax_id": "12RAWHM8165R1ZT",
+      "client_tax_id": "21RHOII5535F1ZB",
+      "client_phone": "+918187596766"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-800A",
+        "item_qty": "1",
+        "item_net_price": "15,493.56",
+        "item_net_worth": "15,493.56",
+        "item_vat": "12%",
+        "item_gross_worth": "17,352.79"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-177M IMEI: 213299772712987",
+        "item_qty": "1",
+        "item_net_price": "49,507.36",
+        "item_net_worth": "49,507.36",
+        "item_vat": "12%",
+        "item_gross_worth": "55,448.24"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹65,000.92",
+      "total_vat": "₹7,800.11",
+      "total_gross_worth": "₹72,801.03",
+      "total_cgst": "₹3,900.06",
+      "total_sgst": "₹3,900.06",
+      "total_igst": "₹0.00"
+    }
+  }
+}

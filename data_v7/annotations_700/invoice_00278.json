@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-9603",
+      "invoice_date": "16/08/2025",
+      "seller": "VISHWA ELECTRONICS 97/090, Deol Ganj, Imphal-011207",
+      "client": "SAKSHAM NIGAM H.No. 247, Arora Path, Gorakhpur-021803",
+      "shipping_address": "33/34, Rajagopal Nagar, Bellary 555217",
+      "seller_tax_id": "15AFROX1703C1Z1",
+      "client_tax_id": "15XNLUD2647J1ZW",
+      "client_phone": "+917599264526"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-627B",
+        "item_qty": "1",
+        "item_net_price": "83,353.95",
+        "item_net_worth": "83,353.95",
+        "item_vat": "12%",
+        "item_gross_worth": "93,356.42"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-533I",
+        "item_qty": "1",
+        "item_net_price": "33,424.13",
+        "item_net_worth": "33,424.13",
+        "item_vat": "12%",
+        "item_gross_worth": "37,435.03"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-477W",
+        "item_qty": "1",
+        "item_net_price": "89,869.08",
+        "item_net_worth": "89,869.08",
+        "item_vat": "12%",
+        "item_gross_worth": "100,653.37"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-370X",
+        "item_qty": "2",
+        "item_net_price": "30,630.42",
+        "item_net_worth": "61,260.84",
+        "item_vat": "12%",
+        "item_gross_worth": "68,612.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹267,908.00",
+      "total_vat": "₹32,148.96",
+      "total_gross_worth": "₹300,056.96",
+      "total_cgst": "₹16,074.48",
+      "total_sgst": "₹16,074.48",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/177",
+      "invoice_date": "06/09/2025",
+      "seller": "SMART ELECTRONICS 92/969, Desai Street, Patna 231918",
+      "client": "NICHOLAS SARNA 32/139, Sabharwal Circle, Ongole-109558",
+      "shipping_address": "H.No. 57, Oommen Circle, Burhanpur 681695",
+      "seller_tax_id": "11FWJGH5392R1Z4",
+      "client_tax_id": "28BTOBU7679N1Z2",
+      "client_phone": "+918309874019"
+    },
+    "items": [
+      {
+        "item_desc": "LG Air Conditioner LG-937A",
+        "item_qty": "1",
+        "item_net_price": "14,045.97",
+        "item_net_worth": "14,045.97",
+        "item_vat": "28%",
+        "item_gross_worth": "17,978.84"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹14,045.97",
+      "total_vat": "₹3,932.87",
+      "total_gross_worth": "₹17,978.84",
+      "total_cgst": "₹1,966.44",
+      "total_sgst": "₹1,966.44",
+      "total_igst": "₹0.00"
+    }
+  }
+}

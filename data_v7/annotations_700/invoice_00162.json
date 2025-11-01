@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/432",
+      "invoice_date": "15/06/2025",
+      "seller": "MOBILE POINT 07, Talwar Chowk, Nangloi Jat-016407",
+      "client": "AMRUTA AHUJA H.No. 36, Master Marg, Bhopal 940512",
+      "shipping_address": "H.No. 36, Master Marg, Bhopal 940512",
+      "seller_tax_id": "34ETNPA8466L1Z0",
+      "client_tax_id": "26HCUTP8010E1ZT",
+      "client_phone": "+919012286995"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-798V IMEI: 070507236585950",
+        "item_qty": "1",
+        "item_net_price": "54,417.66",
+        "item_net_worth": "54,417.66",
+        "item_vat": "28%",
+        "item_gross_worth": "69,654.60"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-172R",
+        "item_qty": "2",
+        "item_net_price": "42,196.65",
+        "item_net_worth": "84,393.30",
+        "item_vat": "28%",
+        "item_gross_worth": "108,023.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹138,810.96",
+      "total_vat": "₹38,867.07",
+      "total_gross_worth": "₹177,678.03",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹38,867.07"
+    }
+  }
+}

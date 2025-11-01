@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "KKY/663",
+      "invoice_date": "18/05/2025",
+      "seller": "PRADHAN MOBILE SHOP 45/872, Bhattacharyya Circle, Kamarhati-451017",
+      "client": "YASH VAIDYA 546, Bawa Chowk, Haldia 145850",
+      "shipping_address": "22/904, Walia Zila, Indore-061273",
+      "seller_tax_id": "11YRQGH3219F1Z8",
+      "client_tax_id": "08POSEL7681E1ZK",
+      "client_phone": "01216269778"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-366J",
+        "item_qty": "2",
+        "item_net_price": "82,106.43",
+        "item_net_worth": "164,212.86",
+        "item_vat": "28%",
+        "item_gross_worth": "210,192.46"
+      },
+      {
+        "item_desc": "Sony Television SON-165D",
+        "item_qty": "2",
+        "item_net_price": "20,004.78",
+        "item_net_worth": "40,009.56",
+        "item_vat": "28%",
+        "item_gross_worth": "51,212.24"
+      },
+      {
+        "item_desc": "Sony Television SON-158Y",
+        "item_qty": "2",
+        "item_net_price": "84,872.04",
+        "item_net_worth": "169,744.08",
+        "item_vat": "28%",
+        "item_gross_worth": "217,272.42"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹373,966.50",
+      "total_vat": "₹104,710.62",
+      "total_gross_worth": "₹478,677.12",
+      "total_cgst": "₹52,355.31",
+      "total_sgst": "₹52,355.31",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/138",
+      "invoice_date": "03/02/2025",
+      "seller": "SINGH ELECTRONICS H.No. 48, Mody Nagar, Latur-066064",
+      "client": "DIVYA RAU 27/78, Trivedi, Nagercoil 166705",
+      "shipping_address": "27/78, Trivedi, Nagercoil 166705",
+      "seller_tax_id": "01JOIXN6168E1ZW",
+      "client_tax_id": "01OWFQU3758R1ZX",
+      "client_phone": "+911921475674"
+    },
+    "items": [
+      {
+        "item_desc": "Vivo Smartphones VIV-594D IMEI: 699384683393829",
+        "item_qty": "2",
+        "item_net_price": "79,110.54",
+        "item_net_worth": "158,221.08",
+        "item_vat": "12%",
+        "item_gross_worth": "177,207.61"
+      },
+      {
+        "item_desc": "LG Microwave LG-640V",
+        "item_qty": "1",
+        "item_net_price": "57,840.28",
+        "item_net_worth": "57,840.28",
+        "item_vat": "12%",
+        "item_gross_worth": "64,781.11"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-906H",
+        "item_qty": "2",
+        "item_net_price": "50,159.45",
+        "item_net_worth": "100,318.90",
+        "item_vat": "12%",
+        "item_gross_worth": "112,357.17"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹316,380.26",
+      "total_vat": "₹37,965.63",
+      "total_gross_worth": "₹354,345.89",
+      "total_cgst": "₹18,982.82",
+      "total_sgst": "₹18,982.82",
+      "total_igst": "₹0.00"
+    }
+  }
+}

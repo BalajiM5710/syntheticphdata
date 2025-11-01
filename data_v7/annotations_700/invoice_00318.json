@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/329",
+      "invoice_date": "28/08/2025",
+      "seller": "PRADHAN MOBILE SHOP 076, Dada, Deoghar 927276",
+      "client": "CHARVI JHA H.No. 72, Choudhury Road, Kharagpur-870317",
+      "shipping_address": "H.No. 72, Choudhury Road, Kharagpur-870317",
+      "seller_tax_id": "18CXTED3743X1Z3",
+      "client_tax_id": "28KOZEF6680R1ZV",
+      "client_phone": "2223594168"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Tablets APP-322T",
+        "item_qty": "2",
+        "item_net_price": "84,929.73",
+        "item_net_worth": "169,859.46",
+        "item_vat": "12%",
+        "item_gross_worth": "190,242.60"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-408N",
+        "item_qty": "1",
+        "item_net_price": "91,411.62",
+        "item_net_worth": "91,411.62",
+        "item_vat": "12%",
+        "item_gross_worth": "102,381.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹261,271.08",
+      "total_vat": "₹31,352.53",
+      "total_gross_worth": "₹292,623.61",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹31,352.53"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/537",
+      "invoice_date": "19/02/2025",
+      "seller": "ELECTRONICS WORLD 106, Kari, Tiruvottiyur-305546",
+      "client": "KAI PALL 73/580, Sandhu Street, Alappuzha 614037",
+      "shipping_address": "73/580, Sandhu Street, Alappuzha 614037",
+      "seller_tax_id": "24AKVCO9454L1ZM",
+      "client_tax_id": "17DYJDC5205L1ZF",
+      "client_phone": "1953865508"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-275D",
+        "item_qty": "1",
+        "item_net_price": "81,405.75",
+        "item_net_worth": "81,405.75",
+        "item_vat": "28%",
+        "item_gross_worth": "104,199.36"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-833Q",
+        "item_qty": "1",
+        "item_net_price": "41,809.93",
+        "item_net_worth": "41,809.93",
+        "item_vat": "28%",
+        "item_gross_worth": "53,516.71"
+      },
+      {
+        "item_desc": "Realme Smartphones REA-523Q IMEI: 336536908522323",
+        "item_qty": "1",
+        "item_net_price": "70,327.96",
+        "item_net_worth": "70,327.96",
+        "item_vat": "28%",
+        "item_gross_worth": "90,019.79"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-616M",
+        "item_qty": "1",
+        "item_net_price": "65,372.35",
+        "item_net_worth": "65,372.35",
+        "item_vat": "28%",
+        "item_gross_worth": "83,676.61"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹258,915.99",
+      "total_vat": "₹72,496.48",
+      "total_gross_worth": "₹331,412.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹72,496.48"
+    }
+  }
+}

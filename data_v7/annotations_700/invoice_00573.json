@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7428",
+      "invoice_date": "03/03/2025",
+      "seller": "ELECTRONICS WORLD 92/236, Hayer Road, Bokaro 451140",
+      "client": "ONVEER MEMON 22, Chanda Chowk, Sambhal 107834",
+      "shipping_address": "22, Chanda Chowk, Sambhal 107834",
+      "seller_tax_id": "30FWZXY2797K1ZK",
+      "client_tax_id": "13SMXWO0947B1ZU",
+      "client_phone": "6396435487"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-153T",
+        "item_qty": "1",
+        "item_net_price": "63,246.81",
+        "item_net_worth": "63,246.81",
+        "item_vat": "28%",
+        "item_gross_worth": "80,955.92"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-989V",
+        "item_qty": "1",
+        "item_net_price": "93,287.09",
+        "item_net_worth": "93,287.09",
+        "item_vat": "28%",
+        "item_gross_worth": "119,407.48"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-255N",
+        "item_qty": "1",
+        "item_net_price": "78,087.34",
+        "item_net_worth": "78,087.34",
+        "item_vat": "28%",
+        "item_gross_worth": "99,951.80"
+      },
+      {
+        "item_desc": "Sony Television SON-801A",
+        "item_qty": "1",
+        "item_net_price": "60,306.37",
+        "item_net_worth": "60,306.37",
+        "item_vat": "28%",
+        "item_gross_worth": "77,192.15"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹294,927.61",
+      "total_vat": "₹82,579.73",
+      "total_gross_worth": "₹377,507.34",
+      "total_cgst": "₹41,289.87",
+      "total_sgst": "₹41,289.87",
+      "total_igst": "₹0.00"
+    }
+  }
+}

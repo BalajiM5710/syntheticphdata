@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/450",
+      "invoice_date": "10/02/2025",
+      "seller": "GADGET GALAXY 86, Mall Nagar, Ahmednagar-111887",
+      "client": "AKSHAY BARMAN 09, Mutti Zila, Kottayam 331303",
+      "shipping_address": "197, Singhal Circle, Jhansi 811466",
+      "seller_tax_id": "22BZNSP8854G1ZT",
+      "client_tax_id": "17GWSHM3690N1Z7",
+      "client_phone": "+919279231042"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-174N",
+        "item_qty": "1",
+        "item_net_price": "26,423.79",
+        "item_net_worth": "26,423.79",
+        "item_vat": "12%",
+        "item_gross_worth": "29,594.64"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-168Z",
+        "item_qty": "1",
+        "item_net_price": "78,500.63",
+        "item_net_worth": "78,500.63",
+        "item_vat": "12%",
+        "item_gross_worth": "87,920.71"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-807H",
+        "item_qty": "2",
+        "item_net_price": "22,076.39",
+        "item_net_worth": "44,152.78",
+        "item_vat": "12%",
+        "item_gross_worth": "49,451.11"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-136Z",
+        "item_qty": "1",
+        "item_net_price": "66,359.31",
+        "item_net_worth": "66,359.31",
+        "item_vat": "12%",
+        "item_gross_worth": "74,322.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹215,436.51",
+      "total_vat": "₹25,852.38",
+      "total_gross_worth": "₹241,288.89",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,852.38"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8618",
+      "invoice_date": "29/03/2025",
+      "seller": "GADGET GALAXY 39/256, Datta Nagar, Rourkela 380222",
+      "client": "ADWETA KADAKIA 793, Chandra Zila, Ahmednagar 363934",
+      "shipping_address": "32, Magar Zila, Singrauli-029088",
+      "seller_tax_id": "26RVCXZ8175R1ZV",
+      "client_tax_id": "06QUPXE9706G1ZU",
+      "client_phone": "5391560297"
+    },
+    "items": [
+      {
+        "item_desc": "Realme Smartphones REA-304M IMEI: 236331638492788",
+        "item_qty": "1",
+        "item_net_price": "30,765.09",
+        "item_net_worth": "30,765.09",
+        "item_vat": "12%",
+        "item_gross_worth": "34,456.90"
+      },
+      {
+        "item_desc": "LG Television LG-468L",
+        "item_qty": "2",
+        "item_net_price": "22,504.51",
+        "item_net_worth": "45,009.02",
+        "item_vat": "12%",
+        "item_gross_worth": "50,410.10"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹75,774.11",
+      "total_vat": "₹9,092.89",
+      "total_gross_worth": "₹84,867.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹9,092.89"
+    }
+  }
+}

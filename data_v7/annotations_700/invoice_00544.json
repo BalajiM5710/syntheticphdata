@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/167",
+      "invoice_date": "13/05/2025",
+      "seller": "TECH BAZAAR H.No. 75, Bhakta Marg, Chandrapur-267503",
+      "client": "WARDA SAMPATH 48, Bhasin Path, Jammu 102667",
+      "shipping_address": "48, Bhasin Path, Jammu 102667",
+      "seller_tax_id": "16RGHTN1976K1Z7",
+      "client_tax_id": "03AVUHM4139X1ZX",
+      "client_phone": "+913174568998"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-781N",
+        "item_qty": "1",
+        "item_net_price": "23,179.64",
+        "item_net_worth": "23,179.64",
+        "item_vat": "18%",
+        "item_gross_worth": "27,351.98"
+      },
+      {
+        "item_desc": "Canon Camera CAN-102W",
+        "item_qty": "2",
+        "item_net_price": "29,322.34",
+        "item_net_worth": "58,644.68",
+        "item_vat": "18%",
+        "item_gross_worth": "69,200.72"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-344X",
+        "item_qty": "1",
+        "item_net_price": "65,121.47",
+        "item_net_worth": "65,121.47",
+        "item_vat": "18%",
+        "item_gross_worth": "76,843.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹146,945.79",
+      "total_vat": "₹26,450.24",
+      "total_gross_worth": "₹173,396.03",
+      "total_cgst": "₹13,225.12",
+      "total_sgst": "₹13,225.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

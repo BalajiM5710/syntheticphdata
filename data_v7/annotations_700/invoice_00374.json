@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ICO/429",
+      "invoice_date": "03/08/2025",
+      "seller": "SINGH ELECTRONICS 07, Majumdar Zila, Karimnagar-689796",
+      "client": "VIVAAN SUNDER 323, Chanda Nagar, Mira-Bhayandar 925164",
+      "shipping_address": "323, Chanda Nagar, Mira-Bhayandar 925164",
+      "seller_tax_id": "20AGSQY5708L1Z2",
+      "client_tax_id": "31TDJPI2244M1ZR",
+      "client_phone": "+918122960422"
+    },
+    "items": [
+      {
+        "item_desc": "Acer Laptops ACE-438I",
+        "item_qty": "1",
+        "item_net_price": "68,283.14",
+        "item_net_worth": "68,283.14",
+        "item_vat": "28%",
+        "item_gross_worth": "87,402.42"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-780J",
+        "item_qty": "2",
+        "item_net_price": "24,504.26",
+        "item_net_worth": "49,008.52",
+        "item_vat": "28%",
+        "item_gross_worth": "62,730.91"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹117,291.66",
+      "total_vat": "₹32,841.66",
+      "total_gross_worth": "₹150,133.32",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹32,841.66"
+    }
+  }
+}

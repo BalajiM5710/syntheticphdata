@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-8289",
+      "invoice_date": "01/10/2025",
+      "seller": "SINGH ELECTRONICS 281, Bawa Zila, Ghaziabad 414528",
+      "client": "RADHIKA TANDON H.No. 55, Shah Nagar, Danapur-736088",
+      "shipping_address": "H.No. 55, Shah Nagar, Danapur-736088",
+      "seller_tax_id": "06PGIDJ8897D1Z7",
+      "client_tax_id": "07ZTXXC7179X1ZB",
+      "client_phone": "5318826565"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-198L",
+        "item_qty": "2",
+        "item_net_price": "25,238.14",
+        "item_net_worth": "50,476.28",
+        "item_vat": "28%",
+        "item_gross_worth": "64,609.64"
+      },
+      {
+        "item_desc": "IFB Microwave IFB-848C",
+        "item_qty": "1",
+        "item_net_price": "67,308.39",
+        "item_net_worth": "67,308.39",
+        "item_vat": "28%",
+        "item_gross_worth": "86,154.74"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹117,784.67",
+      "total_vat": "₹32,979.71",
+      "total_gross_worth": "₹150,764.38",
+      "total_cgst": "₹16,489.85",
+      "total_sgst": "₹16,489.85",
+      "total_igst": "₹0.00"
+    }
+  }
+}

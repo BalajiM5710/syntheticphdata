@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/414",
+      "invoice_date": "26/09/2025",
+      "seller": "KUMAR TECH SOLUTIONS 46, Doctor Chowk, Sri Ganganagar 241947",
+      "client": "QADIM EDWIN 92, Dhar Chowk, Thrissur 048183",
+      "shipping_address": "92, Dhar Chowk, Thrissur 048183",
+      "seller_tax_id": "06MNJQH6109V1ZU",
+      "client_tax_id": "01WBQIM2959L1ZL",
+      "client_phone": "+910939281157"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-282Y",
+        "item_qty": "2",
+        "item_net_price": "65,459.71",
+        "item_net_worth": "130,919.42",
+        "item_vat": "18%",
+        "item_gross_worth": "154,484.92"
+      },
+      {
+        "item_desc": "Hero Bike HER-892O",
+        "item_qty": "1",
+        "item_net_price": "39,784.02",
+        "item_net_worth": "39,784.02",
+        "item_vat": "18%",
+        "item_gross_worth": "46,945.14"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-937V",
+        "item_qty": "2",
+        "item_net_price": "90,771.86",
+        "item_net_worth": "181,543.72",
+        "item_vat": "18%",
+        "item_gross_worth": "214,221.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹352,247.16",
+      "total_vat": "₹63,404.49",
+      "total_gross_worth": "₹415,651.65",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹63,404.49"
+    }
+  }
+}

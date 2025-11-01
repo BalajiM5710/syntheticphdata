@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/168",
+      "invoice_date": "25/06/2025",
+      "seller": "VISHWA ELECTRONICS 96/353, Ramesh Circle, Rewa-386140",
+      "client": "GANGA MANDER 16/07, Srinivasan Zila, Ranchi 591512",
+      "shipping_address": "H.No. 77, Saraf Road, Mira-Bhayandar 389860",
+      "seller_tax_id": "05FITYD0049L1ZS",
+      "client_tax_id": "08OSRVD5998F1ZM",
+      "client_phone": "03859675481"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-300A",
+        "item_qty": "2",
+        "item_net_price": "57,759.80",
+        "item_net_worth": "115,519.60",
+        "item_vat": "28%",
+        "item_gross_worth": "147,865.09"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-737N",
+        "item_qty": "1",
+        "item_net_price": "72,042.54",
+        "item_net_worth": "72,042.54",
+        "item_vat": "28%",
+        "item_gross_worth": "92,214.45"
+      },
+      {
+        "item_desc": "LG Microwave LG-623F",
+        "item_qty": "2",
+        "item_net_price": "43,538.06",
+        "item_net_worth": "87,076.12",
+        "item_vat": "28%",
+        "item_gross_worth": "111,457.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹274,638.26",
+      "total_vat": "₹76,898.71",
+      "total_gross_worth": "₹351,536.97",
+      "total_cgst": "₹38,449.36",
+      "total_sgst": "₹38,449.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

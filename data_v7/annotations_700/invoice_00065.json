@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4885",
+      "invoice_date": "02/05/2025",
+      "seller": "DIGITAL STORE 83/38, Gole Marg, New Delhi-937386",
+      "client": "MANTHAN SARNA 85, Date Zila, Nanded-920986",
+      "shipping_address": "85, Date Zila, Nanded-920986",
+      "seller_tax_id": "27DFWYD2312W1ZU",
+      "client_tax_id": "16HSSOA2978S1ZC",
+      "client_phone": "04688620535"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-813L",
+        "item_qty": "1",
+        "item_net_price": "19,567.18",
+        "item_net_worth": "19,567.18",
+        "item_vat": "18%",
+        "item_gross_worth": "23,089.27"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹19,567.18",
+      "total_vat": "₹3,522.09",
+      "total_gross_worth": "₹23,089.27",
+      "total_cgst": "₹1,761.05",
+      "total_sgst": "₹1,761.05",
+      "total_igst": "₹0.00"
+    }
+  }
+}

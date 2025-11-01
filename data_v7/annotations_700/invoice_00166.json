@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "NRI/152",
+      "invoice_date": "20/02/2025",
+      "seller": "VISHWA ELECTRONICS 86/55, Shah Zila, Kollam 455659",
+      "client": "ANIKA CHAUDHARI H.No. 128, Sankaran Nagar, Maheshtala-995773",
+      "shipping_address": "H.No. 128, Sankaran Nagar, Maheshtala-995773",
+      "seller_tax_id": "16THLHC7823B1ZE",
+      "client_tax_id": "20PPDEU3288L1ZH",
+      "client_phone": "+918809095736"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-283R",
+        "item_qty": "1",
+        "item_net_price": "11,741.13",
+        "item_net_worth": "11,741.13",
+        "item_vat": "28%",
+        "item_gross_worth": "15,028.65"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-867F",
+        "item_qty": "2",
+        "item_net_price": "17,982.96",
+        "item_net_worth": "35,965.92",
+        "item_vat": "28%",
+        "item_gross_worth": "46,036.38"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-477K",
+        "item_qty": "1",
+        "item_net_price": "41,395.91",
+        "item_net_worth": "41,395.91",
+        "item_vat": "28%",
+        "item_gross_worth": "52,986.76"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-450N",
+        "item_qty": "2",
+        "item_net_price": "84,455.43",
+        "item_net_worth": "168,910.86",
+        "item_vat": "28%",
+        "item_gross_worth": "216,205.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹258,013.82",
+      "total_vat": "₹72,243.87",
+      "total_gross_worth": "₹330,257.69",
+      "total_cgst": "₹36,121.93",
+      "total_sgst": "₹36,121.93",
+      "total_igst": "₹0.00"
+    }
+  }
+}

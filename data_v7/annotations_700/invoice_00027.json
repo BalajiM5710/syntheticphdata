@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/784",
+      "invoice_date": "01/07/2025",
+      "seller": "RAM ELECTRONICS 01/58, Merchant Path, Arrah 887583",
+      "client": "ANTHONY WALLA 93/65, Parmar Chowk, New Delhi 453929",
+      "shipping_address": "93/65, Parmar Chowk, New Delhi 453929",
+      "seller_tax_id": "12OWETL4942L1ZS",
+      "client_tax_id": "19PTYJB5228Y1ZG",
+      "client_phone": "0290256379"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Tablets SAM-314T",
+        "item_qty": "2",
+        "item_net_price": "58,017.31",
+        "item_net_worth": "116,034.62",
+        "item_vat": "12%",
+        "item_gross_worth": "129,958.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹116,034.62",
+      "total_vat": "₹13,924.15",
+      "total_gross_worth": "₹129,958.77",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,924.15"
+    }
+  }
+}

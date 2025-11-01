@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/300",
+      "invoice_date": "15/10/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 89, Bains Path, Allahabad 910367",
+      "client": "CHAMPAK RAVEL 080, Parmer Marg, Nagercoil 251218",
+      "shipping_address": "H.No. 01, Mitra Path, Aligarh-915857",
+      "seller_tax_id": "28GCDLX2358X1Z6",
+      "client_tax_id": "06XEBVR6800V1Z1",
+      "client_phone": "+910509575785"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-834J",
+        "item_qty": "2",
+        "item_net_price": "84,494.54",
+        "item_net_worth": "168,989.08",
+        "item_vat": "12%",
+        "item_gross_worth": "189,267.77"
+      },
+      {
+        "item_desc": "Sony Headphones SON-417H",
+        "item_qty": "2",
+        "item_net_price": "71,028.39",
+        "item_net_worth": "142,056.78",
+        "item_vat": "12%",
+        "item_gross_worth": "159,103.59"
+      },
+      {
+        "item_desc": "LG Microwave LG-210L",
+        "item_qty": "1",
+        "item_net_price": "79,044.51",
+        "item_net_worth": "79,044.51",
+        "item_vat": "12%",
+        "item_gross_worth": "88,529.85"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹390,090.37",
+      "total_vat": "₹46,810.84",
+      "total_gross_worth": "₹436,901.21",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,810.84"
+    }
+  }
+}

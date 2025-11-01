@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7982",
+      "invoice_date": "30/03/2025",
+      "seller": "SINGH ELECTRONICS 099, Kaur Circle, Shimla-070075",
+      "client": "DALAJA BHATIA 15/432, Tailor Path, New Delhi 230640",
+      "shipping_address": "H.No. 897, Tripathi Street, Machilipatnam-882884",
+      "seller_tax_id": "05ASARJ9121A1ZT",
+      "client_tax_id": "03YGXBN9805Z1ZK",
+      "client_phone": "1801711663"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-612T",
+        "item_qty": "2",
+        "item_net_price": "87,104.69",
+        "item_net_worth": "174,209.38",
+        "item_vat": "18%",
+        "item_gross_worth": "205,567.07"
+      },
+      {
+        "item_desc": "Bose Speaker BOS-239U",
+        "item_qty": "1",
+        "item_net_price": "47,500.16",
+        "item_net_worth": "47,500.16",
+        "item_vat": "18%",
+        "item_gross_worth": "56,050.19"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-759D",
+        "item_qty": "2",
+        "item_net_price": "9,153.61",
+        "item_net_worth": "18,307.22",
+        "item_vat": "18%",
+        "item_gross_worth": "21,602.52"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-969H",
+        "item_qty": "2",
+        "item_net_price": "28,109.77",
+        "item_net_worth": "56,219.54",
+        "item_vat": "18%",
+        "item_gross_worth": "66,339.06"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹296,236.30",
+      "total_vat": "₹53,322.53",
+      "total_gross_worth": "₹349,558.83",
+      "total_cgst": "₹26,661.27",
+      "total_sgst": "₹26,661.27",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-8678",
+      "invoice_date": "03/07/2025",
+      "seller": "RAM ELECTRONICS H.No. 063, Muni Circle, Arrah 276714",
+      "client": "OJASVI PRASHAD 90/097, Bhagat Ganj, Panihati-017972",
+      "shipping_address": "90/097, Bhagat Ganj, Panihati-017972",
+      "seller_tax_id": "09BEBHY0625C1ZA",
+      "client_tax_id": "37LAOKT9702W1Z6",
+      "client_phone": "6589175229"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-205J",
+        "item_qty": "1",
+        "item_net_price": "70,551.60",
+        "item_net_worth": "70,551.60",
+        "item_vat": "18%",
+        "item_gross_worth": "83,250.89"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-912C",
+        "item_qty": "1",
+        "item_net_price": "22,389.22",
+        "item_net_worth": "22,389.22",
+        "item_vat": "18%",
+        "item_gross_worth": "26,419.28"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-152G",
+        "item_qty": "1",
+        "item_net_price": "87,724.35",
+        "item_net_worth": "87,724.35",
+        "item_vat": "18%",
+        "item_gross_worth": "103,514.73"
+      },
+      {
+        "item_desc": "Sony Speaker SON-376O",
+        "item_qty": "2",
+        "item_net_price": "78,873.60",
+        "item_net_worth": "157,747.20",
+        "item_vat": "18%",
+        "item_gross_worth": "186,141.70"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹338,412.37",
+      "total_vat": "₹60,914.23",
+      "total_gross_worth": "₹399,326.60",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹60,914.23"
+    }
+  }
+}

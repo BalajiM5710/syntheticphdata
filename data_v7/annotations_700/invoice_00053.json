@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-1423",
+      "invoice_date": "27/04/2025",
+      "seller": "SMART ELECTRONICS H.No. 075, Raman Street, Durg-815378",
+      "client": "YASHODHARA SANE 836, Chada Ganj, Guntakal 419892",
+      "shipping_address": "836, Chada Ganj, Guntakal 419892",
+      "seller_tax_id": "02VXGTX6257I1ZW",
+      "client_tax_id": "04NOPGT7257P1Z5",
+      "client_phone": "5121068927"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Headphones JBL-744E",
+        "item_qty": "2",
+        "item_net_price": "17,471.25",
+        "item_net_worth": "34,942.50",
+        "item_vat": "28%",
+        "item_gross_worth": "44,726.40"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-226K",
+        "item_qty": "2",
+        "item_net_price": "40,205.07",
+        "item_net_worth": "80,410.14",
+        "item_vat": "28%",
+        "item_gross_worth": "102,924.98"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-220G",
+        "item_qty": "1",
+        "item_net_price": "15,008.95",
+        "item_net_worth": "15,008.95",
+        "item_vat": "28%",
+        "item_gross_worth": "19,211.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹130,361.59",
+      "total_vat": "₹36,501.25",
+      "total_gross_worth": "₹166,862.84",
+      "total_cgst": "₹18,250.62",
+      "total_sgst": "₹18,250.62",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "RLS/456",
+      "invoice_date": "06/05/2025",
+      "seller": "FUTURE TECH 41/35, Bhasin Ganj, Jalandhar-685357",
+      "client": "QUSHI AGATE H.No. 96, Sibal Nagar, Satna-949901",
+      "shipping_address": "H.No. 96, Sibal Nagar, Satna-949901",
+      "seller_tax_id": "18FFAAH9687N1ZR",
+      "client_tax_id": "31BXYMT6465B1ZD",
+      "client_phone": "+910988452123"
+    },
+    "items": [
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-633A",
+        "item_qty": "1",
+        "item_net_price": "56,955.51",
+        "item_net_worth": "56,955.51",
+        "item_vat": "18%",
+        "item_gross_worth": "67,207.50"
+      },
+      {
+        "item_desc": "Nikon Camera NIK-295D",
+        "item_qty": "2",
+        "item_net_price": "69,301.71",
+        "item_net_worth": "138,603.42",
+        "item_vat": "18%",
+        "item_gross_worth": "163,552.04"
+      },
+      {
+        "item_desc": "Canon Camera CAN-574T",
+        "item_qty": "2",
+        "item_net_price": "14,238.30",
+        "item_net_worth": "28,476.60",
+        "item_vat": "18%",
+        "item_gross_worth": "33,602.39"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹224,035.53",
+      "total_vat": "₹40,326.40",
+      "total_gross_worth": "₹264,361.93",
+      "total_cgst": "₹20,163.20",
+      "total_sgst": "₹20,163.20",
+      "total_igst": "₹0.00"
+    }
+  }
+}

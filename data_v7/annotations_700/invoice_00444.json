@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/765",
+      "invoice_date": "27/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 85, Thaker Nagar, Udupi-434278",
+      "client": "ANUSHA BUMB 715, Batta Street, Kurnool-221284",
+      "shipping_address": "H.No. 22, Kothari Road, Bijapur 388429",
+      "seller_tax_id": "21JPJJO3551M1ZQ",
+      "client_tax_id": "17HANVS6909C1ZE",
+      "client_phone": "6620338121"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-943Z",
+        "item_qty": "1",
+        "item_net_price": "87,224.37",
+        "item_net_worth": "87,224.37",
+        "item_vat": "18%",
+        "item_gross_worth": "102,924.76"
+      },
+      {
+        "item_desc": "Sony Speaker SON-753A",
+        "item_qty": "2",
+        "item_net_price": "22,333.81",
+        "item_net_worth": "44,667.62",
+        "item_vat": "18%",
+        "item_gross_worth": "52,707.79"
+      },
+      {
+        "item_desc": "Voltas Air Conditioner VOL-382Z",
+        "item_qty": "2",
+        "item_net_price": "27,139.06",
+        "item_net_worth": "54,278.12",
+        "item_vat": "18%",
+        "item_gross_worth": "64,048.18"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-146V",
+        "item_qty": "2",
+        "item_net_price": "77,413.13",
+        "item_net_worth": "154,826.26",
+        "item_vat": "18%",
+        "item_gross_worth": "182,694.99"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹340,996.37",
+      "total_vat": "₹61,379.35",
+      "total_gross_worth": "₹402,375.72",
+      "total_cgst": "₹30,689.67",
+      "total_sgst": "₹30,689.67",
+      "total_igst": "₹0.00"
+    }
+  }
+}

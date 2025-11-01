@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-7082",
+      "invoice_date": "21/02/2025",
+      "seller": "ELECTRONICS WORLD 18/49, Bhatnagar Path, Raipur 252806",
+      "client": "JANYA CHHABRA 45, Kumer Path, Khora  828121",
+      "shipping_address": "45, Kumer Path, Khora  828121",
+      "seller_tax_id": "09LYLYP3579N1Z8",
+      "client_tax_id": "16DEOIA9695J1ZY",
+      "client_phone": "5125900861"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Laptops LEN-737K",
+        "item_qty": "2",
+        "item_net_price": "89,796.43",
+        "item_net_worth": "179,592.86",
+        "item_vat": "18%",
+        "item_gross_worth": "211,919.57"
+      },
+      {
+        "item_desc": "HP Laptops HP-492X",
+        "item_qty": "2",
+        "item_net_price": "76,528.85",
+        "item_net_worth": "153,057.70",
+        "item_vat": "18%",
+        "item_gross_worth": "180,608.09"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-244X",
+        "item_qty": "1",
+        "item_net_price": "50,170.36",
+        "item_net_worth": "50,170.36",
+        "item_vat": "18%",
+        "item_gross_worth": "59,201.02"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹382,820.92",
+      "total_vat": "₹68,907.77",
+      "total_gross_worth": "₹451,728.69",
+      "total_cgst": "₹34,453.88",
+      "total_sgst": "₹34,453.88",
+      "total_igst": "₹0.00"
+    }
+  }
+}

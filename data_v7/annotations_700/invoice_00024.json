@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IZT/309",
+      "invoice_date": "14/06/2025",
+      "seller": "METRO TECH STORE H.No. 45, Sen Nagar, Motihari-566537",
+      "client": "YASHICA ISSAC H.No. 778, Dubey Ganj, Siwan 857631",
+      "shipping_address": "H.No. 778, Dubey Ganj, Siwan 857631",
+      "seller_tax_id": "14BXNSB3077M1ZG",
+      "client_tax_id": "18ZGIUA5375D1ZH",
+      "client_phone": "+915000585198"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-732K",
+        "item_qty": "2",
+        "item_net_price": "9,457.17",
+        "item_net_worth": "18,914.34",
+        "item_vat": "28%",
+        "item_gross_worth": "24,210.36"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-452O",
+        "item_qty": "1",
+        "item_net_price": "71,483.58",
+        "item_net_worth": "71,483.58",
+        "item_vat": "28%",
+        "item_gross_worth": "91,498.98"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-188E",
+        "item_qty": "1",
+        "item_net_price": "80,887.97",
+        "item_net_worth": "80,887.97",
+        "item_vat": "28%",
+        "item_gross_worth": "103,536.60"
+      },
+      {
+        "item_desc": "Whirlpool Microwave WHI-215B",
+        "item_qty": "1",
+        "item_net_price": "65,301.88",
+        "item_net_worth": "65,301.88",
+        "item_vat": "28%",
+        "item_gross_worth": "83,586.41"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹236,587.77",
+      "total_vat": "₹66,244.58",
+      "total_gross_worth": "₹302,832.35",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹66,244.58"
+    }
+  }
+}

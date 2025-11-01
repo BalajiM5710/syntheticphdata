@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/742",
+      "invoice_date": "25/08/2025",
+      "seller": "METRO TECH STORE 53/36, Bassi Road, Moradabad-513950",
+      "client": "DAKSHESH RADHAKRISHNAN H.No. 56, Khanna, Tinsukia 072715",
+      "shipping_address": "H.No. 56, Khanna, Tinsukia 072715",
+      "seller_tax_id": "36DCRBH7866X1ZT",
+      "client_tax_id": "05UZOGU6729S1Z8",
+      "client_phone": "02144794623"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Speaker BOA-670T",
+        "item_qty": "2",
+        "item_net_price": "10,386.85",
+        "item_net_worth": "20,773.70",
+        "item_vat": "12%",
+        "item_gross_worth": "23,266.54"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-987B",
+        "item_qty": "2",
+        "item_net_price": "85,561.02",
+        "item_net_worth": "171,122.04",
+        "item_vat": "12%",
+        "item_gross_worth": "191,656.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹191,895.74",
+      "total_vat": "₹23,027.49",
+      "total_gross_worth": "₹214,923.23",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹23,027.49"
+    }
+  }
+}

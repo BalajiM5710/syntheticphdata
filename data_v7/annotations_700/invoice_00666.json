@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZMP/200",
+      "invoice_date": "10/04/2025",
+      "seller": "VISHWA ELECTRONICS 377, Sanghvi Zila, Bharatpur-411429",
+      "client": "CHAKRADEV VARMA H.No. 703, Kannan Street, Pallavaram 215669",
+      "shipping_address": "H.No. 832, Srinivasan Nagar, Chapra 397381",
+      "seller_tax_id": "18EIWLM8159Q1ZG",
+      "client_tax_id": "18WXMFR7053T1ZF",
+      "client_phone": "09576729633"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-354J",
+        "item_qty": "1",
+        "item_net_price": "84,777.24",
+        "item_net_worth": "84,777.24",
+        "item_vat": "18%",
+        "item_gross_worth": "100,037.14"
+      },
+      {
+        "item_desc": "LG Television LG-611Q",
+        "item_qty": "2",
+        "item_net_price": "42,190.10",
+        "item_net_worth": "84,380.20",
+        "item_vat": "18%",
+        "item_gross_worth": "99,568.64"
+      },
+      {
+        "item_desc": "Sony Headphones SON-174K",
+        "item_qty": "1",
+        "item_net_price": "47,496.15",
+        "item_net_worth": "47,496.15",
+        "item_vat": "18%",
+        "item_gross_worth": "56,045.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹216,653.59",
+      "total_vat": "₹38,997.65",
+      "total_gross_worth": "₹255,651.24",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹38,997.65"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/517",
+      "invoice_date": "17/03/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 467, Keer Street, Tirupati 113986",
+      "client": "TURVI RAJ 40/70, Ramaswamy Street, Vadodara-421649",
+      "shipping_address": "40/70, Ramaswamy Street, Vadodara-421649",
+      "seller_tax_id": "05LTLBW6922V1ZZ",
+      "client_tax_id": "16HMMNT5393H1ZX",
+      "client_phone": "+913601906783"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartphones SAM-651K IMEI: 131265688455929",
+        "item_qty": "1",
+        "item_net_price": "73,077.86",
+        "item_net_worth": "73,077.86",
+        "item_vat": "18%",
+        "item_gross_worth": "86,231.87"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-197L",
+        "item_qty": "2",
+        "item_net_price": "68,862.34",
+        "item_net_worth": "137,724.68",
+        "item_vat": "18%",
+        "item_gross_worth": "162,515.12"
+      },
+      {
+        "item_desc": "Bajaj Microwave BAJ-752K",
+        "item_qty": "2",
+        "item_net_price": "15,301.07",
+        "item_net_worth": "30,602.14",
+        "item_vat": "18%",
+        "item_gross_worth": "36,110.53"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹241,404.68",
+      "total_vat": "₹43,452.84",
+      "total_gross_worth": "₹284,857.52",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹43,452.84"
+    }
+  }
+}

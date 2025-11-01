@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/678",
+      "invoice_date": "26/07/2025",
+      "seller": "CITY ELECTRONICS H.No. 385, Toor Marg, Sirsa 812648",
+      "client": "YAUVANI NATARAJAN H.No. 88, Dixit Nagar, North Dumdum 348698",
+      "shipping_address": "H.No. 88, Dixit Nagar, North Dumdum 348698",
+      "seller_tax_id": "33QJUVV2061E1ZT",
+      "client_tax_id": "07XLAAD2820R1ZG",
+      "client_phone": "+917926735062"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-141T",
+        "item_qty": "1",
+        "item_net_price": "38,137.46",
+        "item_net_worth": "38,137.46",
+        "item_vat": "12%",
+        "item_gross_worth": "42,713.96"
+      },
+      {
+        "item_desc": "HP Laptops HP-180A",
+        "item_qty": "1",
+        "item_net_price": "45,719.91",
+        "item_net_worth": "45,719.91",
+        "item_vat": "12%",
+        "item_gross_worth": "51,206.30"
+      },
+      {
+        "item_desc": "Sony Speaker SON-904E",
+        "item_qty": "1",
+        "item_net_price": "89,772.53",
+        "item_net_worth": "89,772.53",
+        "item_vat": "12%",
+        "item_gross_worth": "100,545.23"
+      },
+      {
+        "item_desc": "Amazfit Smartwatch AMA-377D",
+        "item_qty": "2",
+        "item_net_price": "69,716.51",
+        "item_net_worth": "139,433.02",
+        "item_vat": "12%",
+        "item_gross_worth": "156,164.98"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹313,062.92",
+      "total_vat": "₹37,567.55",
+      "total_gross_worth": "₹350,630.47",
+      "total_cgst": "₹18,783.78",
+      "total_sgst": "₹18,783.78",
+      "total_igst": "₹0.00"
+    }
+  }
+}

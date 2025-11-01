@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6861",
+      "invoice_date": "29/07/2025",
+      "seller": "SMART ELECTRONICS 81/50, Tak Ganj, Kanpur 467095",
+      "client": "NATHAN RAM 29, Barad Marg, Maheshtala 605879",
+      "shipping_address": "29, Barad Marg, Maheshtala 605879",
+      "seller_tax_id": "14OOTDJ5037E1ZK",
+      "client_tax_id": "18FZAXL9017B1ZK",
+      "client_phone": "1550280235"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-198X",
+        "item_qty": "2",
+        "item_net_price": "31,180.46",
+        "item_net_worth": "62,360.92",
+        "item_vat": "12%",
+        "item_gross_worth": "69,844.23"
+      },
+      {
+        "item_desc": "Boat Headphones BOA-638Z",
+        "item_qty": "1",
+        "item_net_price": "92,542.74",
+        "item_net_worth": "92,542.74",
+        "item_vat": "12%",
+        "item_gross_worth": "103,647.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹154,903.66",
+      "total_vat": "₹18,588.44",
+      "total_gross_worth": "₹173,492.10",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹18,588.44"
+    }
+  }
+}

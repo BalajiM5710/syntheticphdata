@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VWJ/364",
+      "invoice_date": "12/01/2025",
+      "seller": "PRADHAN MOBILE SHOP 80/814, Wali Ganj, Jhansi-364424",
+      "client": "MANYA SAMPATH 92, Pal Path, Amritsar-044823",
+      "shipping_address": "425, Balasubramanian Circle, Bhimavaram 898497",
+      "seller_tax_id": "28LMJLW0477E1ZG",
+      "client_tax_id": "26UECOJ7435R1Z2",
+      "client_phone": "6777762183"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-840S",
+        "item_qty": "1",
+        "item_net_price": "39,310.35",
+        "item_net_worth": "39,310.35",
+        "item_vat": "28%",
+        "item_gross_worth": "50,317.25"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-696D",
+        "item_qty": "1",
+        "item_net_price": "90,281.03",
+        "item_net_worth": "90,281.03",
+        "item_vat": "28%",
+        "item_gross_worth": "115,559.72"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-876E",
+        "item_qty": "2",
+        "item_net_price": "52,877.94",
+        "item_net_worth": "105,755.88",
+        "item_vat": "28%",
+        "item_gross_worth": "135,367.53"
+      },
+      {
+        "item_desc": "Hero Bike HER-972N",
+        "item_qty": "1",
+        "item_net_price": "55,253.59",
+        "item_net_worth": "55,253.59",
+        "item_vat": "28%",
+        "item_gross_worth": "70,724.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹290,600.85",
+      "total_vat": "₹81,368.24",
+      "total_gross_worth": "₹371,969.09",
+      "total_cgst": "₹40,684.12",
+      "total_sgst": "₹40,684.12",
+      "total_igst": "₹0.00"
+    }
+  }
+}

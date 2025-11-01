@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-3232",
+      "invoice_date": "27/08/2025",
+      "seller": "ELECTRONICS WORLD H.No. 46, Char, Sangli-Miraj & Kupwad-059024",
+      "client": "KAMALA BAJWA 543, Natarajan Marg, Salem 564558",
+      "shipping_address": "543, Natarajan Marg, Salem 564558",
+      "seller_tax_id": "08BKUSA5486O1ZR",
+      "client_tax_id": "37QXWMI6876G1ZH",
+      "client_phone": "1569523687"
+    },
+    "items": [
+      {
+        "item_desc": "Xiaomi Tablets XIA-158S",
+        "item_qty": "2",
+        "item_net_price": "12,897.41",
+        "item_net_worth": "25,794.82",
+        "item_vat": "18%",
+        "item_gross_worth": "30,437.89"
+      },
+      {
+        "item_desc": "LG Air Conditioner LG-389R",
+        "item_qty": "2",
+        "item_net_price": "68,686.40",
+        "item_net_worth": "137,372.80",
+        "item_vat": "18%",
+        "item_gross_worth": "162,099.90"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-783R",
+        "item_qty": "1",
+        "item_net_price": "27,628.93",
+        "item_net_worth": "27,628.93",
+        "item_vat": "18%",
+        "item_gross_worth": "32,602.14"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-800X",
+        "item_qty": "2",
+        "item_net_price": "29,787.71",
+        "item_net_worth": "59,575.42",
+        "item_vat": "18%",
+        "item_gross_worth": "70,299.00"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹250,371.97",
+      "total_vat": "₹45,066.95",
+      "total_gross_worth": "₹295,438.92",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹45,066.95"
+    }
+  }
+}

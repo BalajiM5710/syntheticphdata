@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/974",
+      "invoice_date": "24/03/2025",
+      "seller": "PRADHAN MOBILE SHOP 89/97, Rana Nagar, Satara 826593",
+      "client": "NAVEEN SHUKLA 00, Mital Zila, Bardhaman-831881",
+      "shipping_address": "00, Mital Zila, Bardhaman-831881",
+      "seller_tax_id": "04JEXJZ8475I1ZP",
+      "client_tax_id": "10EQAXZ1878M1ZB",
+      "client_phone": "+916153299804"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-788J",
+        "item_qty": "2",
+        "item_net_price": "15,922.94",
+        "item_net_worth": "31,845.88",
+        "item_vat": "12%",
+        "item_gross_worth": "35,667.39"
+      },
+      {
+        "item_desc": "Noise Smartwatch NOI-971D",
+        "item_qty": "1",
+        "item_net_price": "88,357.58",
+        "item_net_worth": "88,357.58",
+        "item_vat": "12%",
+        "item_gross_worth": "98,960.49"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-259A",
+        "item_qty": "2",
+        "item_net_price": "87,911.12",
+        "item_net_worth": "175,822.24",
+        "item_vat": "12%",
+        "item_gross_worth": "196,920.91"
+      },
+      {
+        "item_desc": "LG Television LG-986L",
+        "item_qty": "1",
+        "item_net_price": "18,450.32",
+        "item_net_worth": "18,450.32",
+        "item_vat": "12%",
+        "item_gross_worth": "20,664.36"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹314,476.02",
+      "total_vat": "₹37,737.12",
+      "total_gross_worth": "₹352,213.14",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹37,737.12"
+    }
+  }
+}

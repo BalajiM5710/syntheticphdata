@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5450",
+      "invoice_date": "02/02/2025",
+      "seller": "DIGITAL STORE 57/82, Bora Ganj, Muzaffarnagar 048266",
+      "client": "NEHA CHAUDRY H.No. 969, Bala Nagar, Madurai 943034",
+      "shipping_address": "H.No. 969, Bala Nagar, Madurai 943034",
+      "seller_tax_id": "32BRLGD4375H1ZQ",
+      "client_tax_id": "07RUCYJ0100M1ZB",
+      "client_phone": "07803484915"
+    },
+    "items": [
+      {
+        "item_desc": "Asus Laptops ASU-882E",
+        "item_qty": "2",
+        "item_net_price": "71,107.56",
+        "item_net_worth": "142,215.12",
+        "item_vat": "28%",
+        "item_gross_worth": "182,035.35"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-462S",
+        "item_qty": "1",
+        "item_net_price": "61,190.45",
+        "item_net_worth": "61,190.45",
+        "item_vat": "28%",
+        "item_gross_worth": "78,323.78"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-360V",
+        "item_qty": "1",
+        "item_net_price": "52,944.63",
+        "item_net_worth": "52,944.63",
+        "item_vat": "28%",
+        "item_gross_worth": "67,769.13"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-582I",
+        "item_qty": "1",
+        "item_net_price": "78,628.52",
+        "item_net_worth": "78,628.52",
+        "item_vat": "28%",
+        "item_gross_worth": "100,644.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹334,978.72",
+      "total_vat": "₹93,794.04",
+      "total_gross_worth": "₹428,772.76",
+      "total_cgst": "₹46,897.02",
+      "total_sgst": "₹46,897.02",
+      "total_igst": "₹0.00"
+    }
+  }
+}

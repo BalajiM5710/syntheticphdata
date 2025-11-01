@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-7640",
+      "invoice_date": "30/06/2025",
+      "seller": "SMART ELECTRONICS 75/172, Morar Marg, Ambala-274113",
+      "client": "BARKHA OOMMEN 47/289, Hayre Marg, Allahabad-624023",
+      "shipping_address": "47/289, Hayre Marg, Allahabad-624023",
+      "seller_tax_id": "30NRKBN6956B1ZH",
+      "client_tax_id": "25HTTGI4536Y1Z7",
+      "client_phone": "1883337408"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-972R",
+        "item_qty": "1",
+        "item_net_price": "38,078.66",
+        "item_net_worth": "38,078.66",
+        "item_vat": "28%",
+        "item_gross_worth": "48,740.68"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-575Y",
+        "item_qty": "2",
+        "item_net_price": "25,238.97",
+        "item_net_worth": "50,477.94",
+        "item_vat": "28%",
+        "item_gross_worth": "64,611.76"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹88,556.60",
+      "total_vat": "₹24,795.85",
+      "total_gross_worth": "₹113,352.45",
+      "total_cgst": "₹12,397.92",
+      "total_sgst": "₹12,397.92",
+      "total_igst": "₹0.00"
+    }
+  }
+}

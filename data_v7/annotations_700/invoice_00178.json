@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "LEA/554",
+      "invoice_date": "16/02/2025",
+      "seller": "SMART ELECTRONICS H.No. 617, Patla, Surendranagar Dudhrej 213069",
+      "client": "SACHI ARYA 71/30, Tank Path, Ichalkaranji 113547",
+      "shipping_address": "16/95, Seth Road, Thiruvananthapuram 066558",
+      "seller_tax_id": "12GPOKV1692H1ZL",
+      "client_tax_id": "14OGHAE0016P1ZS",
+      "client_phone": "3118809212"
+    },
+    "items": [
+      {
+        "item_desc": "IFB Microwave IFB-491P",
+        "item_qty": "1",
+        "item_net_price": "19,042.88",
+        "item_net_worth": "19,042.88",
+        "item_vat": "12%",
+        "item_gross_worth": "21,328.03"
+      },
+      {
+        "item_desc": "Apple Tablets APP-366A",
+        "item_qty": "2",
+        "item_net_price": "58,384.67",
+        "item_net_worth": "116,769.34",
+        "item_vat": "12%",
+        "item_gross_worth": "130,781.66"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-996F",
+        "item_qty": "1",
+        "item_net_price": "80,475.14",
+        "item_net_worth": "80,475.14",
+        "item_vat": "12%",
+        "item_gross_worth": "90,132.16"
+      },
+      {
+        "item_desc": "Apple Smartwatch APP-316K",
+        "item_qty": "1",
+        "item_net_price": "27,939.47",
+        "item_net_worth": "27,939.47",
+        "item_vat": "12%",
+        "item_gross_worth": "31,292.21"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹244,226.83",
+      "total_vat": "₹29,307.22",
+      "total_gross_worth": "₹273,534.05",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹29,307.22"
+    }
+  }
+}

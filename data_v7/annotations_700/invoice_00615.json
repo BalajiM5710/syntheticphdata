@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6622",
+      "invoice_date": "06/05/2025",
+      "seller": "SMART ELECTRONICS 94/197, Shroff, Anand 358669",
+      "client": "SHRAVYA JOSHI 04, Bakshi Marg, Mango-180563",
+      "shipping_address": "04, Bakshi Marg, Mango-180563",
+      "seller_tax_id": "03ZYEXW8999Q1ZC",
+      "client_tax_id": "36BBKNR6354J1ZG",
+      "client_phone": "08640677802"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-321P",
+        "item_qty": "2",
+        "item_net_price": "8,069.72",
+        "item_net_worth": "16,139.44",
+        "item_vat": "18%",
+        "item_gross_worth": "19,044.54"
+      },
+      {
+        "item_desc": "Acer Laptops ACE-478K",
+        "item_qty": "1",
+        "item_net_price": "42,692.90",
+        "item_net_worth": "42,692.90",
+        "item_vat": "18%",
+        "item_gross_worth": "50,377.62"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹58,832.34",
+      "total_vat": "₹10,589.82",
+      "total_gross_worth": "₹69,422.16",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹10,589.82"
+    }
+  }
+}

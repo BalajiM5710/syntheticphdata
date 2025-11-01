@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1132",
+      "invoice_date": "21/04/2025",
+      "seller": "ELECTRONICS WORLD 746, Dhingra Ganj, Proddatur 109364",
+      "client": "JYOTI GOKHALE 526, Naik Marg, Agra-248880",
+      "shipping_address": "526, Naik Marg, Agra-248880",
+      "seller_tax_id": "08UUFJQ7246T1Z6",
+      "client_tax_id": "18ACGZX9567L1Z9",
+      "client_phone": "5678057826"
+    },
+    "items": [
+      {
+        "item_desc": "Haier Refrigerator HAI-172P",
+        "item_qty": "2",
+        "item_net_price": "92,177.38",
+        "item_net_worth": "184,354.76",
+        "item_vat": "28%",
+        "item_gross_worth": "235,974.09"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-482P",
+        "item_qty": "2",
+        "item_net_price": "8,936.83",
+        "item_net_worth": "17,873.66",
+        "item_vat": "28%",
+        "item_gross_worth": "22,878.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹202,228.42",
+      "total_vat": "₹56,623.96",
+      "total_gross_worth": "₹258,852.38",
+      "total_cgst": "₹28,311.98",
+      "total_sgst": "₹28,311.98",
+      "total_igst": "₹0.00"
+    }
+  }
+}

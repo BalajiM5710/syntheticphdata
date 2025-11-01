@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4251",
+      "invoice_date": "17/04/2025",
+      "seller": "DIGITAL STORE 856, Nadkarni Zila, Dehradun-957312",
+      "client": "ZAITRA DEWAN 664, Tailor, Kurnool 890078",
+      "shipping_address": "664, Tailor, Kurnool 890078",
+      "seller_tax_id": "10EHUKA8464I1ZL",
+      "client_tax_id": "16ACVWP1786O1Z9",
+      "client_phone": "7053268253"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Microwave WHI-833B",
+        "item_qty": "1",
+        "item_net_price": "11,711.54",
+        "item_net_worth": "11,711.54",
+        "item_vat": "12%",
+        "item_gross_worth": "13,116.92"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-563O",
+        "item_qty": "1",
+        "item_net_price": "51,346.73",
+        "item_net_worth": "51,346.73",
+        "item_vat": "12%",
+        "item_gross_worth": "57,508.34"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-622K IMEI: 241837343607839",
+        "item_qty": "1",
+        "item_net_price": "64,886.39",
+        "item_net_worth": "64,886.39",
+        "item_vat": "12%",
+        "item_gross_worth": "72,672.76"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,944.66",
+      "total_vat": "₹15,353.36",
+      "total_gross_worth": "₹143,298.02",
+      "total_cgst": "₹7,676.68",
+      "total_sgst": "₹7,676.68",
+      "total_igst": "₹0.00"
+    }
+  }
+}

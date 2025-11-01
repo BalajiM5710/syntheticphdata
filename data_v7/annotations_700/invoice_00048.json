@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3520",
+      "invoice_date": "28/06/2025",
+      "seller": "MOBILE POINT 15/806, Shankar, Ulhasnagar 669031",
+      "client": "RAKSHA SANGHA 10/282, Muni Path, Noida-891191",
+      "shipping_address": "10/282, Muni Path, Noida-891191",
+      "seller_tax_id": "06BQTTX6534U1ZF",
+      "client_tax_id": "35BRUNK2408E1Z2",
+      "client_phone": "02877021668"
+    },
+    "items": [
+      {
+        "item_desc": "Fujifilm Camera FUJ-751X",
+        "item_qty": "2",
+        "item_net_price": "62,044.31",
+        "item_net_worth": "124,088.62",
+        "item_vat": "28%",
+        "item_gross_worth": "158,833.43"
+      },
+      {
+        "item_desc": "Sony Television SON-589I",
+        "item_qty": "1",
+        "item_net_price": "35,933.92",
+        "item_net_worth": "35,933.92",
+        "item_vat": "28%",
+        "item_gross_worth": "45,995.42"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-738T",
+        "item_qty": "1",
+        "item_net_price": "18,630.43",
+        "item_net_worth": "18,630.43",
+        "item_vat": "28%",
+        "item_gross_worth": "23,846.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹178,652.97",
+      "total_vat": "₹50,022.83",
+      "total_gross_worth": "₹228,675.80",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹50,022.83"
+    }
+  }
+}

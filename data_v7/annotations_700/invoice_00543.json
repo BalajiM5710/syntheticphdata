@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/863",
+      "invoice_date": "28/05/2025",
+      "seller": "FUTURE TECH 41, Aggarwal Ganj, Tezpur-891042",
+      "client": "ARYA BHAT 248, Khurana Ganj, Sasaram 111795",
+      "shipping_address": "248, Khurana Ganj, Sasaram 111795",
+      "seller_tax_id": "04UYHMM0897P1Z3",
+      "client_tax_id": "32NLVIW1534A1Z4",
+      "client_phone": "5911118316"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-332V",
+        "item_qty": "2",
+        "item_net_price": "85,444.36",
+        "item_net_worth": "170,888.72",
+        "item_vat": "28%",
+        "item_gross_worth": "218,737.56"
+      },
+      {
+        "item_desc": "Apple Laptops APP-387S",
+        "item_qty": "1",
+        "item_net_price": "77,390.77",
+        "item_net_worth": "77,390.77",
+        "item_vat": "28%",
+        "item_gross_worth": "99,060.19"
+      },
+      {
+        "item_desc": "LG Refrigerator LG-924S",
+        "item_qty": "1",
+        "item_net_price": "65,219.05",
+        "item_net_worth": "65,219.05",
+        "item_vat": "28%",
+        "item_gross_worth": "83,480.38"
+      },
+      {
+        "item_desc": "Apple Smartphones APP-672M IMEI: 273155183851965",
+        "item_qty": "2",
+        "item_net_price": "26,520.58",
+        "item_net_worth": "53,041.16",
+        "item_vat": "28%",
+        "item_gross_worth": "67,892.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹366,539.70",
+      "total_vat": "₹102,631.12",
+      "total_gross_worth": "₹469,170.82",
+      "total_cgst": "₹51,315.56",
+      "total_sgst": "₹51,315.56",
+      "total_igst": "₹0.00"
+    }
+  }
+}

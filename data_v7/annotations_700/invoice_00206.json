@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/458",
+      "invoice_date": "29/08/2025",
+      "seller": "SUPREME ELECTRONICS 11/20, Dash Ganj, Sikar-882416",
+      "client": "RACHIT LALLA H.No. 42, Dhawan Circle, Madanapalle-795274",
+      "shipping_address": "H.No. 42, Dhawan Circle, Madanapalle-795274",
+      "seller_tax_id": "20WOART5689I1ZJ",
+      "client_tax_id": "27MFLVY4839C1ZR",
+      "client_phone": "0329628770"
+    },
+    "items": [
+      {
+        "item_desc": "Godrej Refrigerator GOD-164P",
+        "item_qty": "2",
+        "item_net_price": "59,051.11",
+        "item_net_worth": "118,102.22",
+        "item_vat": "18%",
+        "item_gross_worth": "139,360.62"
+      },
+      {
+        "item_desc": "Hero Bike HER-994Q",
+        "item_qty": "1",
+        "item_net_price": "81,037.45",
+        "item_net_worth": "81,037.45",
+        "item_vat": "18%",
+        "item_gross_worth": "95,624.19"
+      },
+      {
+        "item_desc": "Daikin Air Conditioner DAI-301K",
+        "item_qty": "1",
+        "item_net_price": "11,110.14",
+        "item_net_worth": "11,110.14",
+        "item_vat": "18%",
+        "item_gross_worth": "13,109.97"
+      },
+      {
+        "item_desc": "Sony Headphones SON-217X",
+        "item_qty": "1",
+        "item_net_price": "47,718.62",
+        "item_net_worth": "47,718.62",
+        "item_vat": "18%",
+        "item_gross_worth": "56,307.97"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹257,968.43",
+      "total_vat": "₹46,434.32",
+      "total_gross_worth": "₹304,402.75",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹46,434.32"
+    }
+  }
+}

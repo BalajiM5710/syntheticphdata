@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-5906",
+      "invoice_date": "28/04/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 99, Suresh, Jalna-754047",
+      "client": "TIMOTHY DUGAL 48/37, Maharaj Circle, Indore 804640",
+      "shipping_address": "48/37, Maharaj Circle, Indore 804640",
+      "seller_tax_id": "20NMUHU3337A1ZF",
+      "client_tax_id": "16BMCKV8688T1ZT",
+      "client_phone": "9837535867"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-587B",
+        "item_qty": "2",
+        "item_net_price": "14,489.38",
+        "item_net_worth": "28,978.76",
+        "item_vat": "28%",
+        "item_gross_worth": "37,092.81"
+      },
+      {
+        "item_desc": "Royal Enfield Bike ROY-598O",
+        "item_qty": "1",
+        "item_net_price": "71,179.04",
+        "item_net_worth": "71,179.04",
+        "item_vat": "28%",
+        "item_gross_worth": "91,109.17"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-386F",
+        "item_qty": "1",
+        "item_net_price": "88,167.37",
+        "item_net_worth": "88,167.37",
+        "item_vat": "28%",
+        "item_gross_worth": "112,854.23"
+      },
+      {
+        "item_desc": "Samsung Smartwatch SAM-113G",
+        "item_qty": "2",
+        "item_net_price": "76,910.03",
+        "item_net_worth": "153,820.06",
+        "item_vat": "28%",
+        "item_gross_worth": "196,889.68"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹342,145.23",
+      "total_vat": "₹95,800.66",
+      "total_gross_worth": "₹437,945.89",
+      "total_cgst": "₹47,900.33",
+      "total_sgst": "₹47,900.33",
+      "total_igst": "₹0.00"
+    }
+  }
+}

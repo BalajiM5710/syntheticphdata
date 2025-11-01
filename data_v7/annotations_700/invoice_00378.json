@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2647",
+      "invoice_date": "02/01/2025",
+      "seller": "FUTURE TECH H.No. 616, Soni Path, Jalna 360450",
+      "client": "JEREMIAH DIXIT 28/45, Tandon Ganj, Rourkela 182480",
+      "shipping_address": "H.No. 23, Singh Street, Katni 232597",
+      "seller_tax_id": "37XIUHD9115T1ZL",
+      "client_tax_id": "02UFCZQ5334J1ZG",
+      "client_phone": "+918059330096"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-913D",
+        "item_qty": "1",
+        "item_net_price": "51,459.43",
+        "item_net_worth": "51,459.43",
+        "item_vat": "12%",
+        "item_gross_worth": "57,634.56"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-961Q",
+        "item_qty": "2",
+        "item_net_price": "21,831.64",
+        "item_net_worth": "43,663.28",
+        "item_vat": "12%",
+        "item_gross_worth": "48,902.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹95,122.71",
+      "total_vat": "₹11,414.73",
+      "total_gross_worth": "₹106,537.44",
+      "total_cgst": "₹5,707.36",
+      "total_sgst": "₹5,707.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

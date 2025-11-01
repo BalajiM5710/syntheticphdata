@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1512",
+      "invoice_date": "21/01/2025",
+      "seller": "SUPREME ELECTRONICS 292, Magar Path, Amaravati 941975",
+      "client": "CHAITANYA AGARWAL H.No. 998, Gala Ganj, Motihari 519551",
+      "shipping_address": "H.No. 998, Gala Ganj, Motihari 519551",
+      "seller_tax_id": "02BHIPP7871H1Z9",
+      "client_tax_id": "28KKNVO9419V1ZH",
+      "client_phone": "00120432905"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-890F",
+        "item_qty": "1",
+        "item_net_price": "72,134.62",
+        "item_net_worth": "72,134.62",
+        "item_vat": "18%",
+        "item_gross_worth": "85,118.85"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-210R IMEI: 680989016043033",
+        "item_qty": "1",
+        "item_net_price": "55,391.18",
+        "item_net_worth": "55,391.18",
+        "item_vat": "18%",
+        "item_gross_worth": "65,361.59"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹127,525.80",
+      "total_vat": "₹22,954.64",
+      "total_gross_worth": "₹150,480.44",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹22,954.64"
+    }
+  }
+}

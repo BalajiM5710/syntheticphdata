@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/407",
+      "invoice_date": "06/09/2025",
+      "seller": "VISHWA ELECTRONICS 42/153, Kakar Ganj, Mumbai 355222",
+      "client": "LOHIT DEVAN 779, Kala Nagar, Rajpur Sonarpur-463866",
+      "shipping_address": "779, Kala Nagar, Rajpur Sonarpur-463866",
+      "seller_tax_id": "05DDOMG7951L1ZY",
+      "client_tax_id": "22MJXNX6581L1Z7",
+      "client_phone": "4615197968"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Speaker SON-331V",
+        "item_qty": "1",
+        "item_net_price": "30,882.52",
+        "item_net_worth": "30,882.52",
+        "item_vat": "28%",
+        "item_gross_worth": "39,529.63"
+      },
+      {
+        "item_desc": "LG Microwave LG-258Q",
+        "item_qty": "2",
+        "item_net_price": "90,935.46",
+        "item_net_worth": "181,870.92",
+        "item_vat": "28%",
+        "item_gross_worth": "232,794.78"
+      },
+      {
+        "item_desc": "TVS Bike TVS-254W",
+        "item_qty": "2",
+        "item_net_price": "53,272.42",
+        "item_net_worth": "106,544.84",
+        "item_vat": "28%",
+        "item_gross_worth": "136,377.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹319,298.28",
+      "total_vat": "₹89,403.52",
+      "total_gross_worth": "₹408,701.80",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹89,403.52"
+    }
+  }
+}

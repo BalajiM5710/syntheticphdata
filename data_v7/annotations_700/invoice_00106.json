@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-2902",
+      "invoice_date": "01/10/2025",
+      "seller": "PRADHAN MOBILE SHOP 231, Mutti Marg, Hapur-932281",
+      "client": "FALGUNI NIGAM 81, Srinivasan Marg, Secunderabad-425483",
+      "shipping_address": "94/28, Hora Marg, Pimpri-Chinchwad 326032",
+      "seller_tax_id": "28EVBLL3934O1Z6",
+      "client_tax_id": "35YROUS8610V1ZY",
+      "client_phone": "08230600718"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-338U",
+        "item_qty": "1",
+        "item_net_price": "53,076.08",
+        "item_net_worth": "53,076.08",
+        "item_vat": "12%",
+        "item_gross_worth": "59,445.21"
+      },
+      {
+        "item_desc": "Oppo Smartphones OPP-495L IMEI: 782899558947335",
+        "item_qty": "2",
+        "item_net_price": "67,482.63",
+        "item_net_worth": "134,965.26",
+        "item_vat": "12%",
+        "item_gross_worth": "151,161.09"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-880M",
+        "item_qty": "1",
+        "item_net_price": "28,597.86",
+        "item_net_worth": "28,597.86",
+        "item_vat": "12%",
+        "item_gross_worth": "32,029.60"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹216,639.20",
+      "total_vat": "₹25,996.70",
+      "total_gross_worth": "₹242,635.90",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹25,996.70"
+    }
+  }
+}

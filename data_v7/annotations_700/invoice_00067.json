@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VCG/929",
+      "invoice_date": "26/08/2025",
+      "seller": "KUMAR TECH SOLUTIONS 04/541, Garg, Thanjavur 775562",
+      "client": "IKSHITA BAL H.No. 437, Mandal Ganj, Meerut 972136",
+      "shipping_address": "595, Dash Path, Sambhal-875623",
+      "seller_tax_id": "33EECVE1961U1Z6",
+      "client_tax_id": "31SNWHS2942W1ZM",
+      "client_phone": "+914328590223"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-243F",
+        "item_qty": "1",
+        "item_net_price": "61,667.31",
+        "item_net_worth": "61,667.31",
+        "item_vat": "18%",
+        "item_gross_worth": "72,767.43"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹61,667.31",
+      "total_vat": "₹11,100.12",
+      "total_gross_worth": "₹72,767.43",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹11,100.12"
+    }
+  }
+}

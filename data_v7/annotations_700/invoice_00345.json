@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/266",
+      "invoice_date": "26/07/2025",
+      "seller": "FUTURE TECH 97/379, Gala Ganj, Faridabad-443187",
+      "client": "VINCENT KALA 848, Merchant Path, Navi Mumbai-378482",
+      "shipping_address": "848, Merchant Path, Navi Mumbai-378482",
+      "seller_tax_id": "09VCUYA3860O1ZA",
+      "client_tax_id": "37MREJT5137E1ZJ",
+      "client_phone": "07810384008"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-239R",
+        "item_qty": "1",
+        "item_net_price": "43,337.43",
+        "item_net_worth": "43,337.43",
+        "item_vat": "18%",
+        "item_gross_worth": "51,138.17"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-939Z IMEI: 318754758642231",
+        "item_qty": "2",
+        "item_net_price": "14,494.60",
+        "item_net_worth": "28,989.20",
+        "item_vat": "18%",
+        "item_gross_worth": "34,207.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹72,326.63",
+      "total_vat": "₹13,018.79",
+      "total_gross_worth": "₹85,345.42",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,018.79"
+    }
+  }
+}

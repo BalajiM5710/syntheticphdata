@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/122",
+      "invoice_date": "25/06/2025",
+      "seller": "ROYAL MOBILES H.No. 09, Deo Chowk, Naihati 630591",
+      "client": "PANINI GANGULY 59, Anne Road, Raebareli 560064",
+      "shipping_address": "59, Anne Road, Raebareli 560064",
+      "seller_tax_id": "27YURAK6987X1ZH",
+      "client_tax_id": "15RLRCI1782W1Z0",
+      "client_phone": "+912161100095"
+    },
+    "items": [
+      {
+        "item_desc": "Voltas Air Conditioner VOL-354A",
+        "item_qty": "2",
+        "item_net_price": "46,710.11",
+        "item_net_worth": "93,420.22",
+        "item_vat": "18%",
+        "item_gross_worth": "110,235.86"
+      },
+      {
+        "item_desc": "HP Laptops HP-589O",
+        "item_qty": "1",
+        "item_net_price": "50,786.93",
+        "item_net_worth": "50,786.93",
+        "item_vat": "18%",
+        "item_gross_worth": "59,928.58"
+      },
+      {
+        "item_desc": "Mi Television MI-460F",
+        "item_qty": "1",
+        "item_net_price": "92,419.88",
+        "item_net_worth": "92,419.88",
+        "item_vat": "18%",
+        "item_gross_worth": "109,055.46"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹236,627.03",
+      "total_vat": "₹42,592.87",
+      "total_gross_worth": "₹279,219.90",
+      "total_cgst": "₹21,296.43",
+      "total_sgst": "₹21,296.43",
+      "total_igst": "₹0.00"
+    }
+  }
+}

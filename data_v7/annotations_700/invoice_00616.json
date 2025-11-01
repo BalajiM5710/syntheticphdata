@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3714",
+      "invoice_date": "11/06/2025",
+      "seller": "CITY ELECTRONICS H.No. 433, Krishnamurthy Zila, Madhyamgram 355664",
+      "client": "UPKAAR WARRIOR H.No. 92, Soman Nagar, Jamalpur 664265",
+      "shipping_address": "H.No. 92, Soman Nagar, Jamalpur 664265",
+      "seller_tax_id": "04GLLIS2253V1ZF",
+      "client_tax_id": "31WAQDU8685A1ZP",
+      "client_phone": "06246047406"
+    },
+    "items": [
+      {
+        "item_desc": "TCL Television TCL-256O",
+        "item_qty": "1",
+        "item_net_price": "52,637.79",
+        "item_net_worth": "52,637.79",
+        "item_vat": "12%",
+        "item_gross_worth": "58,954.32"
+      },
+      {
+        "item_desc": "LG Microwave LG-643U",
+        "item_qty": "2",
+        "item_net_price": "26,148.72",
+        "item_net_worth": "52,297.44",
+        "item_vat": "12%",
+        "item_gross_worth": "58,573.13"
+      },
+      {
+        "item_desc": "LG Microwave LG-356F",
+        "item_qty": "1",
+        "item_net_price": "74,083.45",
+        "item_net_worth": "74,083.45",
+        "item_vat": "12%",
+        "item_gross_worth": "82,973.46"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-570D",
+        "item_qty": "2",
+        "item_net_price": "53,437.86",
+        "item_net_worth": "106,875.72",
+        "item_vat": "12%",
+        "item_gross_worth": "119,700.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹285,894.40",
+      "total_vat": "₹34,307.33",
+      "total_gross_worth": "₹320,201.73",
+      "total_cgst": "₹17,153.66",
+      "total_sgst": "₹17,153.66",
+      "total_igst": "₹0.00"
+    }
+  }
+}

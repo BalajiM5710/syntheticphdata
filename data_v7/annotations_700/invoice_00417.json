@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-1434",
+      "invoice_date": "01/05/2025",
+      "seller": "GADGET GALAXY 03/51, De Chowk, Machilipatnam-821363",
+      "client": "YAHVI SALVI H.No. 30, Pal Zila, Jamalpur 798177",
+      "shipping_address": "H.No. 30, Pal Zila, Jamalpur 798177",
+      "seller_tax_id": "18QOZKT1125J1Z8",
+      "client_tax_id": "09TBYMP2014K1ZP",
+      "client_phone": "02800040359"
+    },
+    "items": [
+      {
+        "item_desc": "Bose Speaker BOS-916R",
+        "item_qty": "1",
+        "item_net_price": "82,432.03",
+        "item_net_worth": "82,432.03",
+        "item_vat": "28%",
+        "item_gross_worth": "105,513.00"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-231C",
+        "item_qty": "1",
+        "item_net_price": "66,884.18",
+        "item_net_worth": "66,884.18",
+        "item_vat": "28%",
+        "item_gross_worth": "85,611.75"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-720G",
+        "item_qty": "2",
+        "item_net_price": "45,112.87",
+        "item_net_worth": "90,225.74",
+        "item_vat": "28%",
+        "item_gross_worth": "115,488.95"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹239,541.95",
+      "total_vat": "₹67,071.75",
+      "total_gross_worth": "₹306,613.70",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹67,071.75"
+    }
+  }
+}

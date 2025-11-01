@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5789",
+      "invoice_date": "02/10/2025",
+      "seller": "FUTURE TECH 804, Pau Marg, Pondicherry 542851",
+      "client": "ANTHONY VALA 56, Nagi Circle, Thiruvananthapuram-596971",
+      "shipping_address": "56, Nagi Circle, Thiruvananthapuram-596971",
+      "seller_tax_id": "30HITEH8312L1ZK",
+      "client_tax_id": "03HIZEN2353I1Z4",
+      "client_phone": "05804264663"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Laptops APP-308V",
+        "item_qty": "1",
+        "item_net_price": "62,635.82",
+        "item_net_worth": "62,635.82",
+        "item_vat": "28%",
+        "item_gross_worth": "80,173.85"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-678Q",
+        "item_qty": "1",
+        "item_net_price": "58,744.06",
+        "item_net_worth": "58,744.06",
+        "item_vat": "28%",
+        "item_gross_worth": "75,192.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹121,379.88",
+      "total_vat": "₹33,986.37",
+      "total_gross_worth": "₹155,366.25",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹33,986.37"
+    }
+  }
+}

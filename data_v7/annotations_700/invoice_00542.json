@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "ZUI/260",
+      "invoice_date": "19/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS 611, Ahluwalia, Miryalaguda-143606",
+      "client": "JACOB VASA 22/804, Bajwa, Agra-243619",
+      "shipping_address": "22/804, Bajwa, Agra-243619",
+      "seller_tax_id": "11EUWQG3297M1Z3",
+      "client_tax_id": "26UGSKU6506K1ZC",
+      "client_phone": "+918468824755"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-730D",
+        "item_qty": "1",
+        "item_net_price": "47,948.76",
+        "item_net_worth": "47,948.76",
+        "item_vat": "28%",
+        "item_gross_worth": "61,374.41"
+      },
+      {
+        "item_desc": "Dell Laptops DEL-239R",
+        "item_qty": "2",
+        "item_net_price": "41,229.37",
+        "item_net_worth": "82,458.74",
+        "item_vat": "28%",
+        "item_gross_worth": "105,547.19"
+      },
+      {
+        "item_desc": "Fujifilm Camera FUJ-732M",
+        "item_qty": "1",
+        "item_net_price": "63,262.77",
+        "item_net_worth": "63,262.77",
+        "item_vat": "28%",
+        "item_gross_worth": "80,976.35"
+      },
+      {
+        "item_desc": "JBL Speaker JBL-624W",
+        "item_qty": "1",
+        "item_net_price": "15,468.79",
+        "item_net_worth": "15,468.79",
+        "item_vat": "28%",
+        "item_gross_worth": "19,800.05"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹209,139.06",
+      "total_vat": "₹58,558.94",
+      "total_gross_worth": "₹267,698.00",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹58,558.94"
+    }
+  }
+}

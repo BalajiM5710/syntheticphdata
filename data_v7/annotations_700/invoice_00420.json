@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "EMV/765",
+      "invoice_date": "17/04/2025",
+      "seller": "ELECTRONICS WORLD H.No. 58, Jha Ganj, Alwar 681573",
+      "client": "NOAH KOTHARI H.No. 96, Bala Road, Haldia-122208",
+      "shipping_address": "H.No. 96, Bala Road, Haldia-122208",
+      "seller_tax_id": "02FPVWM4646V1ZH",
+      "client_tax_id": "25BHTJN7760L1Z1",
+      "client_phone": "+910263267125"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-870G",
+        "item_qty": "2",
+        "item_net_price": "82,996.77",
+        "item_net_worth": "165,993.54",
+        "item_vat": "12%",
+        "item_gross_worth": "185,912.76"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-381H",
+        "item_qty": "1",
+        "item_net_price": "77,131.79",
+        "item_net_worth": "77,131.79",
+        "item_vat": "12%",
+        "item_gross_worth": "86,387.60"
+      },
+      {
+        "item_desc": "Boat Speaker BOA-503X",
+        "item_qty": "1",
+        "item_net_price": "28,634.43",
+        "item_net_worth": "28,634.43",
+        "item_vat": "12%",
+        "item_gross_worth": "32,070.56"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹271,759.76",
+      "total_vat": "₹32,611.17",
+      "total_gross_worth": "₹304,370.93",
+      "total_cgst": "₹16,305.59",
+      "total_sgst": "₹16,305.59",
+      "total_igst": "₹0.00"
+    }
+  }
+}

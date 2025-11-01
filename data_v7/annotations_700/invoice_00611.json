@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4975",
+      "invoice_date": "11/04/2025",
+      "seller": "ELECTRONICS WORLD 60/85, Srinivas Street, Nashik 633725",
+      "client": "URISHILLA BATH 381, Sen Path, Hyderabad-571376",
+      "shipping_address": "381, Sen Path, Hyderabad-571376",
+      "seller_tax_id": "30OSQFY9315K1Z6",
+      "client_tax_id": "34HKKNF0736H1ZX",
+      "client_phone": "08342181840"
+    },
+    "items": [
+      {
+        "item_desc": "Daikin Air Conditioner DAI-339T",
+        "item_qty": "2",
+        "item_net_price": "17,248.39",
+        "item_net_worth": "34,496.78",
+        "item_vat": "18%",
+        "item_gross_worth": "40,706.20"
+      },
+      {
+        "item_desc": "Canon Camera CAN-633G",
+        "item_qty": "1",
+        "item_net_price": "75,293.92",
+        "item_net_worth": "75,293.92",
+        "item_vat": "18%",
+        "item_gross_worth": "88,846.83"
+      },
+      {
+        "item_desc": "Godrej Refrigerator GOD-785P",
+        "item_qty": "1",
+        "item_net_price": "84,618.90",
+        "item_net_worth": "84,618.90",
+        "item_vat": "18%",
+        "item_gross_worth": "99,850.30"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-935T",
+        "item_qty": "1",
+        "item_net_price": "23,345.10",
+        "item_net_worth": "23,345.10",
+        "item_vat": "18%",
+        "item_gross_worth": "27,547.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹217,754.70",
+      "total_vat": "₹39,195.85",
+      "total_gross_worth": "₹256,950.55",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹39,195.85"
+    }
+  }
+}

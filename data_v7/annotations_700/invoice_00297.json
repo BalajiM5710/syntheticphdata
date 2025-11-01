@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/734",
+      "invoice_date": "04/08/2025",
+      "seller": "SUPREME ELECTRONICS 83, Chaudhari Street, Bijapur 604074",
+      "client": "BAHADURJIT NAGARAJAN 61/98, Guha Zila, Jhansi 607494",
+      "shipping_address": "61/98, Guha Zila, Jhansi 607494",
+      "seller_tax_id": "28LMTPE6559W1ZN",
+      "client_tax_id": "11YSZQU9798C1ZD",
+      "client_phone": "+914154790513"
+    },
+    "items": [
+      {
+        "item_desc": "Boat Headphones BOA-264O",
+        "item_qty": "2",
+        "item_net_price": "70,455.43",
+        "item_net_worth": "140,910.86",
+        "item_vat": "12%",
+        "item_gross_worth": "157,820.16"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹140,910.86",
+      "total_vat": "₹16,909.30",
+      "total_gross_worth": "₹157,820.16",
+      "total_cgst": "₹8,454.65",
+      "total_sgst": "₹8,454.65",
+      "total_igst": "₹0.00"
+    }
+  }
+}

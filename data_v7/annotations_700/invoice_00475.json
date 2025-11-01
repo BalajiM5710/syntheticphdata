@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/908",
+      "invoice_date": "09/05/2025",
+      "seller": "GADGET GALAXY 774, Pandey Nagar, Indore 409108",
+      "client": "VIHAAN VARGHESE 98/734, Tak Street, Hospet-799728",
+      "shipping_address": "98/734, Tak Street, Hospet-799728",
+      "seller_tax_id": "02WQHJY3153F1Z1",
+      "client_tax_id": "31NMLAV3781A1ZV",
+      "client_phone": "02994683502"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-221D",
+        "item_qty": "2",
+        "item_net_price": "21,562.28",
+        "item_net_worth": "43,124.56",
+        "item_vat": "28%",
+        "item_gross_worth": "55,199.44"
+      },
+      {
+        "item_desc": "Sennheiser Headphones SEN-826J",
+        "item_qty": "1",
+        "item_net_price": "42,276.50",
+        "item_net_worth": "42,276.50",
+        "item_vat": "28%",
+        "item_gross_worth": "54,113.92"
+      },
+      {
+        "item_desc": "Samsung Microwave SAM-364P",
+        "item_qty": "2",
+        "item_net_price": "46,784.04",
+        "item_net_worth": "93,568.08",
+        "item_vat": "28%",
+        "item_gross_worth": "119,767.14"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-590H",
+        "item_qty": "2",
+        "item_net_price": "8,351.28",
+        "item_net_worth": "16,702.56",
+        "item_vat": "28%",
+        "item_gross_worth": "21,379.28"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹195,671.70",
+      "total_vat": "₹54,788.08",
+      "total_gross_worth": "₹250,459.78",
+      "total_cgst": "₹27,394.04",
+      "total_sgst": "₹27,394.04",
+      "total_igst": "₹0.00"
+    }
+  }
+}

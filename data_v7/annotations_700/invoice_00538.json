@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "HYS/366",
+      "invoice_date": "10/05/2025",
+      "seller": "KUMAR TECH SOLUTIONS 37/76, Sidhu Street, Sultan Pur Majra 216367",
+      "client": "AMAIRA THAMAN H.No. 26, Warrior Circle, Jaipur 932964",
+      "shipping_address": "H.No. 26, Warrior Circle, Jaipur 932964",
+      "seller_tax_id": "01CVSVZ6345V1ZZ",
+      "client_tax_id": "14ZDBHE5237L1Z5",
+      "client_phone": "09259780715"
+    },
+    "items": [
+      {
+        "item_desc": "Bajaj Bike BAJ-372G",
+        "item_qty": "1",
+        "item_net_price": "70,347.53",
+        "item_net_worth": "70,347.53",
+        "item_vat": "18%",
+        "item_gross_worth": "83,010.09"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹70,347.53",
+      "total_vat": "₹12,662.56",
+      "total_gross_worth": "₹83,010.09",
+      "total_cgst": "₹6,331.28",
+      "total_sgst": "₹6,331.28",
+      "total_igst": "₹0.00"
+    }
+  }
+}

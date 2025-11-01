@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-6557",
+      "invoice_date": "09/09/2025",
+      "seller": "SUPREME ELECTRONICS H.No. 44, Keer Circle, Singrauli 646183",
+      "client": "VYANJANA DUGAL H.No. 186, Krishna Circle, Kochi-298418",
+      "shipping_address": "45/269, Agrawal Street, Raiganj 072023",
+      "seller_tax_id": "36DKYQV5006K1ZG",
+      "client_tax_id": "01FEHHB7700U1ZN",
+      "client_phone": "00584986405"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Television SON-931K",
+        "item_qty": "2",
+        "item_net_price": "60,745.98",
+        "item_net_worth": "121,491.96",
+        "item_vat": "12%",
+        "item_gross_worth": "136,071.00"
+      },
+      {
+        "item_desc": "Xiaomi Smartphones XIA-763V IMEI: 470555616756612",
+        "item_qty": "2",
+        "item_net_price": "65,526.36",
+        "item_net_worth": "131,052.72",
+        "item_vat": "12%",
+        "item_gross_worth": "146,779.05"
+      },
+      {
+        "item_desc": "Samsung Tablets SAM-508U",
+        "item_qty": "2",
+        "item_net_price": "37,902.05",
+        "item_net_worth": "75,804.10",
+        "item_vat": "12%",
+        "item_gross_worth": "84,900.59"
+      },
+      {
+        "item_desc": "Sony Speaker SON-561J",
+        "item_qty": "1",
+        "item_net_price": "12,121.55",
+        "item_net_worth": "12,121.55",
+        "item_vat": "12%",
+        "item_gross_worth": "13,576.14"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹340,470.33",
+      "total_vat": "₹40,856.44",
+      "total_gross_worth": "₹381,326.77",
+      "total_cgst": "₹20,428.22",
+      "total_sgst": "₹20,428.22",
+      "total_igst": "₹0.00"
+    }
+  }
+}

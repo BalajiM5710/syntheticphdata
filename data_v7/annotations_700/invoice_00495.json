@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "YIM/178",
+      "invoice_date": "30/03/2025",
+      "seller": "SINGH ELECTRONICS 471, Vyas Ganj, Bhilwara-427986",
+      "client": "KARAN PRABHAKAR H.No. 645, Ramaswamy Street, Raiganj 339319",
+      "shipping_address": "H.No. 645, Ramaswamy Street, Raiganj 339319",
+      "seller_tax_id": "17YGUJZ2853G1ZE",
+      "client_tax_id": "14KLRJM9377F1Z4",
+      "client_phone": "02283547630"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Camera SON-213P",
+        "item_qty": "1",
+        "item_net_price": "61,064.67",
+        "item_net_worth": "61,064.67",
+        "item_vat": "18%",
+        "item_gross_worth": "72,056.31"
+      },
+      {
+        "item_desc": "Blue Star Air Conditioner BLU-522L",
+        "item_qty": "1",
+        "item_net_price": "82,767.56",
+        "item_net_worth": "82,767.56",
+        "item_vat": "18%",
+        "item_gross_worth": "97,665.72"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-622M",
+        "item_qty": "1",
+        "item_net_price": "61,823.27",
+        "item_net_worth": "61,823.27",
+        "item_vat": "18%",
+        "item_gross_worth": "72,951.46"
+      },
+      {
+        "item_desc": "Vivo Smartphones VIV-729P IMEI: 491293055059966",
+        "item_qty": "2",
+        "item_net_price": "51,622.59",
+        "item_net_worth": "103,245.18",
+        "item_vat": "18%",
+        "item_gross_worth": "121,829.31"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹308,900.68",
+      "total_vat": "₹55,602.12",
+      "total_gross_worth": "₹364,502.80",
+      "total_cgst": "₹27,801.06",
+      "total_sgst": "₹27,801.06",
+      "total_igst": "₹0.00"
+    }
+  }
+}

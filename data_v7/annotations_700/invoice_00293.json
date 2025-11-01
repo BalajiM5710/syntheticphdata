@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/913",
+      "invoice_date": "27/05/2025",
+      "seller": "SINGH ELECTRONICS 09/68, Bhandari Chowk, Mangalore 732776",
+      "client": "LOGAN BHATTACHARYYA 80, Zacharia Nagar, Bhagalpur 206103",
+      "shipping_address": "07, Issac Chowk, Baranagar-565213",
+      "seller_tax_id": "17IOGCT4759H1ZS",
+      "client_tax_id": "35QDEIN6175A1ZB",
+      "client_phone": "+917840189796"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Washing Machine WHI-298Y",
+        "item_qty": "1",
+        "item_net_price": "8,137.54",
+        "item_net_worth": "8,137.54",
+        "item_vat": "18%",
+        "item_gross_worth": "9,602.30"
+      },
+      {
+        "item_desc": "TVS Bike TVS-560X",
+        "item_qty": "1",
+        "item_net_price": "60,063.51",
+        "item_net_worth": "60,063.51",
+        "item_vat": "18%",
+        "item_gross_worth": "70,874.94"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-765A",
+        "item_qty": "2",
+        "item_net_price": "9,129.20",
+        "item_net_worth": "18,258.40",
+        "item_vat": "18%",
+        "item_gross_worth": "21,544.91"
+      },
+      {
+        "item_desc": "Sony Headphones SON-998H",
+        "item_qty": "2",
+        "item_net_price": "52,864.26",
+        "item_net_worth": "105,728.52",
+        "item_vat": "18%",
+        "item_gross_worth": "124,759.65"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹192,187.97",
+      "total_vat": "₹34,593.83",
+      "total_gross_worth": "₹226,781.80",
+      "total_cgst": "₹17,296.92",
+      "total_sgst": "₹17,296.92",
+      "total_igst": "₹0.00"
+    }
+  }
+}

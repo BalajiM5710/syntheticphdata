@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VTR/195",
+      "invoice_date": "11/07/2025",
+      "seller": "FUTURE TECH 66, Tank, Ahmednagar-103570",
+      "client": "PATRICK DEWAN 56/40, Varma Road, Berhampore 207276",
+      "shipping_address": "153, Bansal Path, Jehanabad 526640",
+      "seller_tax_id": "01EXRME6018I1ZU",
+      "client_tax_id": "34JNZEL0262A1ZD",
+      "client_phone": "+918073564248"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-214L",
+        "item_qty": "1",
+        "item_net_price": "64,647.79",
+        "item_net_worth": "64,647.79",
+        "item_vat": "12%",
+        "item_gross_worth": "72,405.52"
+      },
+      {
+        "item_desc": "Mi Television MI-637S",
+        "item_qty": "2",
+        "item_net_price": "77,311.85",
+        "item_net_worth": "154,623.70",
+        "item_vat": "12%",
+        "item_gross_worth": "173,178.54"
+      },
+      {
+        "item_desc": "Asus Laptops ASU-957G",
+        "item_qty": "2",
+        "item_net_price": "56,036.73",
+        "item_net_worth": "112,073.46",
+        "item_vat": "12%",
+        "item_gross_worth": "125,522.28"
+      },
+      {
+        "item_desc": "Lenovo Tablets LEN-535P",
+        "item_qty": "2",
+        "item_net_price": "37,924.65",
+        "item_net_worth": "75,849.30",
+        "item_vat": "12%",
+        "item_gross_worth": "84,951.22"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹407,194.25",
+      "total_vat": "₹48,863.31",
+      "total_gross_worth": "₹456,057.56",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹48,863.31"
+    }
+  }
+}

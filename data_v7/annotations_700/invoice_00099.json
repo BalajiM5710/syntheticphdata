@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-4957",
+      "invoice_date": "02/05/2025",
+      "seller": "RAM ELECTRONICS H.No. 16, Dass Marg, Panipat-682440",
+      "client": "DHRITI MUKHOPADHYAY H.No. 35, Parikh Path, Mira-Bhayandar-433080",
+      "shipping_address": "H.No. 35, Parikh Path, Mira-Bhayandar-433080",
+      "seller_tax_id": "05YDOLN4732Z1ZC",
+      "client_tax_id": "19OGUBU9819V1ZX",
+      "client_phone": "3121753541"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Washing Machine SAM-476Q",
+        "item_qty": "2",
+        "item_net_price": "74,617.59",
+        "item_net_worth": "149,235.18",
+        "item_vat": "18%",
+        "item_gross_worth": "176,097.51"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹149,235.18",
+      "total_vat": "₹26,862.33",
+      "total_gross_worth": "₹176,097.51",
+      "total_cgst": "₹13,431.17",
+      "total_sgst": "₹13,431.17",
+      "total_igst": "₹0.00"
+    }
+  }
+}

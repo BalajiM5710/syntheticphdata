@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/561",
+      "invoice_date": "01/03/2025",
+      "seller": "PATEL MOBILES H.No. 95, Chaudhuri Marg, Gangtok-789189",
+      "client": "GUNBIR PATLA 96, Lad Circle, Salem-963910",
+      "shipping_address": "96, Lad Circle, Salem-963910",
+      "seller_tax_id": "12PWXWX8103V1ZN",
+      "client_tax_id": "33DTMVA8010B1ZT",
+      "client_phone": "5994273578"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-554P",
+        "item_qty": "2",
+        "item_net_price": "83,751.19",
+        "item_net_worth": "167,502.38",
+        "item_vat": "18%",
+        "item_gross_worth": "197,652.81"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹167,502.38",
+      "total_vat": "₹30,150.43",
+      "total_gross_worth": "₹197,652.81",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹30,150.43"
+    }
+  }
+}

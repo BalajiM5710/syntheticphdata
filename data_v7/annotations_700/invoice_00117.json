@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "JRT/329",
+      "invoice_date": "03/10/2025",
+      "seller": "KUMAR TECH SOLUTIONS H.No. 948, Soni Chowk, Morbi 501079",
+      "client": "RAJATA SINGHAL 48/84, Kuruvilla Street, Ranchi-715786",
+      "shipping_address": "31/95, Sehgal Road, Ranchi 619917",
+      "seller_tax_id": "32IVDNU2235T1ZA",
+      "client_tax_id": "37OZKTW7500I1ZM",
+      "client_phone": "+916830063277"
+    },
+    "items": [
+      {
+        "item_desc": "Hero Bike HER-179M",
+        "item_qty": "2",
+        "item_net_price": "55,763.50",
+        "item_net_worth": "111,527.00",
+        "item_vat": "18%",
+        "item_gross_worth": "131,601.86"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹111,527.00",
+      "total_vat": "₹20,074.86",
+      "total_gross_worth": "₹131,601.86",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹20,074.86"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-4029",
+      "invoice_date": "14/08/2025",
+      "seller": "ROYAL MOBILES 520, Palla Ganj, Amritsar 027065",
+      "client": "JANYA MOHAN 87, Pall Nagar, Surendranagar Dudhrej 484530",
+      "shipping_address": "87, Pall Nagar, Surendranagar Dudhrej 484530",
+      "seller_tax_id": "25KYIOP3946C1ZR",
+      "client_tax_id": "34KKPVR3906Y1ZR",
+      "client_phone": "02041579338"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Smartwatch SAM-108F",
+        "item_qty": "2",
+        "item_net_price": "80,046.84",
+        "item_net_worth": "160,093.68",
+        "item_vat": "28%",
+        "item_gross_worth": "204,919.91"
+      },
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-759P",
+        "item_qty": "1",
+        "item_net_price": "94,792.79",
+        "item_net_worth": "94,792.79",
+        "item_vat": "28%",
+        "item_gross_worth": "121,334.77"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹254,886.47",
+      "total_vat": "₹71,368.21",
+      "total_gross_worth": "₹326,254.68",
+      "total_cgst": "₹35,684.11",
+      "total_sgst": "₹35,684.11",
+      "total_igst": "₹0.00"
+    }
+  }
+}

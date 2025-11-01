@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "24/758",
+      "invoice_date": "12/02/2025",
+      "seller": "SMART ELECTRONICS H.No. 07, Natarajan Marg, Kanpur-795939",
+      "client": "JALSA SARNA 37/048, Bains Nagar, Karawal Nagar 118830",
+      "shipping_address": "07/417, Chad Chowk, Buxar-380251",
+      "seller_tax_id": "27WUKJH9819P1ZD",
+      "client_tax_id": "20LLVST7512N1Z5",
+      "client_phone": "02689785863"
+    },
+    "items": [
+      {
+        "item_desc": "Apple Smartwatch APP-582H",
+        "item_qty": "1",
+        "item_net_price": "35,929.07",
+        "item_net_worth": "35,929.07",
+        "item_vat": "18%",
+        "item_gross_worth": "42,396.30"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹35,929.07",
+      "total_vat": "₹6,467.23",
+      "total_gross_worth": "₹42,396.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,467.23"
+    }
+  }
+}

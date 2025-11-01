@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6531",
+      "invoice_date": "10/02/2025",
+      "seller": "CITY ELECTRONICS 61, Goel Marg, Guwahati 431567",
+      "client": "YACHANA KOTHARI 18/291, Mahajan Zila, Kishanganj 707622",
+      "shipping_address": "18/291, Mahajan Zila, Kishanganj 707622",
+      "seller_tax_id": "28QZLVH0361E1Z1",
+      "client_tax_id": "02KUFMO0777I1ZS",
+      "client_phone": "+914102075865"
+    },
+    "items": [
+      {
+        "item_desc": "Sony Headphones SON-582C",
+        "item_qty": "2",
+        "item_net_price": "67,482.53",
+        "item_net_worth": "134,965.06",
+        "item_vat": "12%",
+        "item_gross_worth": "151,160.87"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹134,965.06",
+      "total_vat": "₹16,195.81",
+      "total_gross_worth": "₹151,160.87",
+      "total_cgst": "₹8,097.90",
+      "total_sgst": "₹8,097.90",
+      "total_igst": "₹0.00"
+    }
+  }
+}

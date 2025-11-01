@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/877",
+      "invoice_date": "06/03/2025",
+      "seller": "DIGITAL STORE 03, Swamy Circle, Salem 456279",
+      "client": "ALKA THAMAN H.No. 638, Pandit Road, Ambarnath 604158",
+      "shipping_address": "H.No. 242, Behl Circle, Barasat-332277",
+      "seller_tax_id": "07ZYXRO9311X1ZH",
+      "client_tax_id": "33MWDPA9783P1Z6",
+      "client_phone": "04237873621"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Air Conditioner SAM-941U",
+        "item_qty": "1",
+        "item_net_price": "32,072.36",
+        "item_net_worth": "32,072.36",
+        "item_vat": "18%",
+        "item_gross_worth": "37,845.38"
+      },
+      {
+        "item_desc": "Samsung Air Conditioner SAM-873U",
+        "item_qty": "2",
+        "item_net_price": "22,772.00",
+        "item_net_worth": "45,544.00",
+        "item_vat": "18%",
+        "item_gross_worth": "53,741.92"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹77,616.36",
+      "total_vat": "₹13,970.94",
+      "total_gross_worth": "₹91,587.30",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹13,970.94"
+    }
+  }
+}

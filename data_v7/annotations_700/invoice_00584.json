@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-6018",
+      "invoice_date": "30/06/2025",
+      "seller": "PATEL MOBILES 74/453, Nagar Path, Madhyamgram-660214",
+      "client": "LIPIKA SETH 12, Sachdev Street, Kanpur-002078",
+      "shipping_address": "12, Sachdev Street, Kanpur-002078",
+      "seller_tax_id": "28JDJPC0076Y1Z4",
+      "client_tax_id": "17ANKHV7638D1Z3",
+      "client_phone": "05190342061"
+    },
+    "items": [
+      {
+        "item_desc": "Samsung Microwave SAM-897P",
+        "item_qty": "2",
+        "item_net_price": "34,255.23",
+        "item_net_worth": "68,510.46",
+        "item_vat": "12%",
+        "item_gross_worth": "76,731.72"
+      },
+      {
+        "item_desc": "Samsung Smartphones SAM-753E IMEI: 465136329283165",
+        "item_qty": "2",
+        "item_net_price": "68,582.92",
+        "item_net_worth": "137,165.84",
+        "item_vat": "12%",
+        "item_gross_worth": "153,625.74"
+      },
+      {
+        "item_desc": "LG Microwave LG-186Z",
+        "item_qty": "1",
+        "item_net_price": "74,905.37",
+        "item_net_worth": "74,905.37",
+        "item_vat": "12%",
+        "item_gross_worth": "83,894.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹280,581.67",
+      "total_vat": "₹33,669.80",
+      "total_gross_worth": "₹314,251.47",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹33,669.80"
+    }
+  }
+}

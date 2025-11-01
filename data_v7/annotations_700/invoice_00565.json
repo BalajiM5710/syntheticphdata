@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-5718",
+      "invoice_date": "07/05/2025",
+      "seller": "CITY ELECTRONICS H.No. 14, De Path, Siwan 778113",
+      "client": "LIBNI DHAR 73/549, Bhargava Nagar, South Dumdum-416708",
+      "shipping_address": "73/549, Bhargava Nagar, South Dumdum-416708",
+      "seller_tax_id": "37IZRAW4130P1ZY",
+      "client_tax_id": "02BSENN5101F1ZN",
+      "client_phone": "2872545306"
+    },
+    "items": [
+      {
+        "item_desc": "Lenovo Tablets LEN-366D",
+        "item_qty": "1",
+        "item_net_price": "52,521.54",
+        "item_net_worth": "52,521.54",
+        "item_vat": "12%",
+        "item_gross_worth": "58,824.12"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹52,521.54",
+      "total_vat": "₹6,302.58",
+      "total_gross_worth": "₹58,824.12",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,302.58"
+    }
+  }
+}

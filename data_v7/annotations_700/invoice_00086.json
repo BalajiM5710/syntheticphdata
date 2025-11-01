@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-2155",
+      "invoice_date": "22/03/2025",
+      "seller": "GADGET GALAXY H.No. 005, Dua Chowk, Tenali-738550",
+      "client": "TRIYA MALLICK 71/425, Warrior Path, Srikakulam 479528",
+      "shipping_address": "71/425, Warrior Path, Srikakulam 479528",
+      "seller_tax_id": "10OCSRP8120J1ZK",
+      "client_tax_id": "29ZCANS5362R1ZJ",
+      "client_phone": "3215615958"
+    },
+    "items": [
+      {
+        "item_desc": "LG Television LG-674Y",
+        "item_qty": "1",
+        "item_net_price": "19,582.26",
+        "item_net_worth": "19,582.26",
+        "item_vat": "18%",
+        "item_gross_worth": "23,107.07"
+      },
+      {
+        "item_desc": "LG Microwave LG-973U",
+        "item_qty": "1",
+        "item_net_price": "19,039.26",
+        "item_net_worth": "19,039.26",
+        "item_vat": "18%",
+        "item_gross_worth": "22,466.33"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹38,621.52",
+      "total_vat": "₹6,951.87",
+      "total_gross_worth": "₹45,573.39",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹6,951.87"
+    }
+  }
+}

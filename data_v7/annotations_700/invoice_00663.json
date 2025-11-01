@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "AEX/729",
+      "invoice_date": "22/04/2025",
+      "seller": "ELECTRONICS WORLD 400, Salvi Road, Kadapa-808269",
+      "client": "FARHAN GROVER H.No. 432, Handa, Mango 124790",
+      "shipping_address": "H.No. 432, Handa, Mango 124790",
+      "seller_tax_id": "02AEZMA2484R1ZE",
+      "client_tax_id": "09YSEIA4653A1ZK",
+      "client_phone": "7671561218"
+    },
+    "items": [
+      {
+        "item_desc": "Canon Camera CAN-441I",
+        "item_qty": "2",
+        "item_net_price": "93,111.59",
+        "item_net_worth": "186,223.18",
+        "item_vat": "18%",
+        "item_gross_worth": "219,743.35"
+      },
+      {
+        "item_desc": "Sony Television SON-597M",
+        "item_qty": "2",
+        "item_net_price": "92,471.85",
+        "item_net_worth": "184,943.70",
+        "item_vat": "18%",
+        "item_gross_worth": "218,233.57"
+      },
+      {
+        "item_desc": "Samsung Washing Machine SAM-554E",
+        "item_qty": "1",
+        "item_net_price": "65,463.90",
+        "item_net_worth": "65,463.90",
+        "item_vat": "18%",
+        "item_gross_worth": "77,247.40"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹436,630.78",
+      "total_vat": "₹78,593.54",
+      "total_gross_worth": "₹515,224.32",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹78,593.54"
+    }
+  }
+}

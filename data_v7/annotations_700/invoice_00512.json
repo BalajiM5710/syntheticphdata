@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "25/107",
+      "invoice_date": "04/09/2025",
+      "seller": "PRADHAN MOBILE SHOP 38/51, Ahluwalia Chowk, Saharsa-611268",
+      "client": "ALKA SOM H.No. 526, Mallick Nagar, Tumkur-203448",
+      "shipping_address": "H.No. 526, Mallick Nagar, Tumkur-203448",
+      "seller_tax_id": "25VSMMU4532H1ZD",
+      "client_tax_id": "24BPAJA1254M1ZM",
+      "client_phone": "8492533067"
+    },
+    "items": [
+      {
+        "item_desc": "LG Microwave LG-951B",
+        "item_qty": "1",
+        "item_net_price": "31,497.95",
+        "item_net_worth": "31,497.95",
+        "item_vat": "12%",
+        "item_gross_worth": "35,277.70"
+      },
+      {
+        "item_desc": "Xiaomi Tablets XIA-967U",
+        "item_qty": "2",
+        "item_net_price": "52,332.03",
+        "item_net_worth": "104,664.06",
+        "item_vat": "12%",
+        "item_gross_worth": "117,223.75"
+      },
+      {
+        "item_desc": "Lenovo Laptops LEN-167S",
+        "item_qty": "2",
+        "item_net_price": "27,896.99",
+        "item_net_worth": "55,793.98",
+        "item_vat": "12%",
+        "item_gross_worth": "62,489.26"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹191,955.99",
+      "total_vat": "₹23,034.72",
+      "total_gross_worth": "₹214,990.71",
+      "total_cgst": "₹11,517.36",
+      "total_sgst": "₹11,517.36",
+      "total_igst": "₹0.00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2024-9308",
+      "invoice_date": "09/04/2025",
+      "seller": "PRADHAN MOBILE SHOP H.No. 64, Sheth Chowk, Shimla-706323",
+      "client": "LAJITA DHAWAN 251, Salvi Ganj, Nadiad 846219",
+      "shipping_address": "251, Salvi Ganj, Nadiad 846219",
+      "seller_tax_id": "12MUUGF8146P1ZZ",
+      "client_tax_id": "27RTKHJ7660D1ZN",
+      "client_phone": "+915178912054"
+    },
+    "items": [
+      {
+        "item_desc": "OnePlus Smartphones ONE-105A IMEI: 437556657926963",
+        "item_qty": "1",
+        "item_net_price": "58,828.20",
+        "item_net_worth": "58,828.20",
+        "item_vat": "12%",
+        "item_gross_worth": "65,887.58"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹58,828.20",
+      "total_vat": "₹7,059.38",
+      "total_gross_worth": "₹65,887.58",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹7,059.38"
+    }
+  }
+}

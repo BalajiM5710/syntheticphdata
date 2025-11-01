@@ -1,0 +1,32 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "VTO/784",
+      "invoice_date": "23/10/2025",
+      "seller": "SUPREME ELECTRONICS 770, Swamy Ganj, Avadi 530091",
+      "client": "BALVEER CHAUDHRY 97, Brahmbhatt Chowk, Pallavaram-149612",
+      "shipping_address": "97, Brahmbhatt Chowk, Pallavaram-149612",
+      "seller_tax_id": "30KBVHD1284Z1ZN",
+      "client_tax_id": "04IMTFI9784M1ZV",
+      "client_phone": "3928336110"
+    },
+    "items": [
+      {
+        "item_desc": "Bosch Washing Machine BOS-897G",
+        "item_qty": "1",
+        "item_net_price": "84,691.08",
+        "item_net_worth": "84,691.08",
+        "item_vat": "12%",
+        "item_gross_worth": "94,854.01"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹84,691.08",
+      "total_vat": "₹10,162.93",
+      "total_gross_worth": "₹94,854.01",
+      "total_cgst": "₹5,081.46",
+      "total_sgst": "₹5,081.46",
+      "total_igst": "₹0.00"
+    }
+  }
+}

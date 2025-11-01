@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "OYQ/966",
+      "invoice_date": "18/08/2025",
+      "seller": "STAR ELECTRONICS 25/563, Sandal Street, Varanasi-573723",
+      "client": "VANSHA SHUKLA 09/47, Reddy Path, Malegaon-093190",
+      "shipping_address": "09/47, Reddy Path, Malegaon-093190",
+      "seller_tax_id": "27ONZPT7539L1ZW",
+      "client_tax_id": "17BQBJZ6091O1ZL",
+      "client_phone": "+910835225638"
+    },
+    "items": [
+      {
+        "item_desc": "Nikon Camera NIK-978Y",
+        "item_qty": "2",
+        "item_net_price": "15,447.73",
+        "item_net_worth": "30,895.46",
+        "item_vat": "18%",
+        "item_gross_worth": "36,456.64"
+      },
+      {
+        "item_desc": "IFB Washing Machine IFB-976X",
+        "item_qty": "1",
+        "item_net_price": "34,099.50",
+        "item_net_worth": "34,099.50",
+        "item_vat": "18%",
+        "item_gross_worth": "40,237.41"
+      },
+      {
+        "item_desc": "Fire-Boltt Smartwatch FIR-543P",
+        "item_qty": "1",
+        "item_net_price": "44,043.64",
+        "item_net_worth": "44,043.64",
+        "item_vat": "18%",
+        "item_gross_worth": "51,971.50"
+      },
+      {
+        "item_desc": "Bosch Washing Machine BOS-870V",
+        "item_qty": "2",
+        "item_net_price": "82,872.13",
+        "item_net_worth": "165,744.26",
+        "item_vat": "18%",
+        "item_gross_worth": "195,578.23"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹274,782.86",
+      "total_vat": "₹49,460.91",
+      "total_gross_worth": "₹324,243.77",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹49,460.91"
+    }
+  }
+}

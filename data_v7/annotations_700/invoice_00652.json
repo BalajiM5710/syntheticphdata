@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "INV-2023-3740",
+      "invoice_date": "01/06/2025",
+      "seller": "ELECTRONICS WORLD 59, Wali Nagar, Surat 313986",
+      "client": "YAGNESH SRINIVASAN H.No. 19, Prabhakar Road, Hyderabad-688240",
+      "shipping_address": "18, Sastry Nagar, Parbhani-076957",
+      "seller_tax_id": "18FVGQY7366C1Z2",
+      "client_tax_id": "33SRRGG9781C1ZX",
+      "client_phone": "+914744319623"
+    },
+    "items": [
+      {
+        "item_desc": "JBL Speaker JBL-221G",
+        "item_qty": "1",
+        "item_net_price": "79,169.04",
+        "item_net_worth": "79,169.04",
+        "item_vat": "12%",
+        "item_gross_worth": "88,669.32"
+      },
+      {
+        "item_desc": "JBL Headphones JBL-349U",
+        "item_qty": "2",
+        "item_net_price": "61,736.00",
+        "item_net_worth": "123,472.00",
+        "item_vat": "12%",
+        "item_gross_worth": "138,288.64"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹202,641.04",
+      "total_vat": "₹24,316.92",
+      "total_gross_worth": "₹226,957.96",
+      "total_cgst": "₹0.00",
+      "total_sgst": "₹0.00",
+      "total_igst": "₹24,316.92"
+    }
+  }
+}

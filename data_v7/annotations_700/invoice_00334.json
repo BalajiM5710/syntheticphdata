@@ -1,0 +1,40 @@
+{
+  "gt_parse": {
+    "header": {
+      "invoice_number": "IOW/194",
+      "invoice_date": "18/07/2025",
+      "seller": "RAM ELECTRONICS 17, Goyal Road, Avadi-962022",
+      "client": "EKAPAD BHAKTA 20/674, Sridhar Marg, Lucknow-669303",
+      "shipping_address": "20/674, Sridhar Marg, Lucknow-669303",
+      "seller_tax_id": "04OPCNA8131O1Z5",
+      "client_tax_id": "07MIUIX8584T1Z7",
+      "client_phone": "+914545502524"
+    },
+    "items": [
+      {
+        "item_desc": "Whirlpool Refrigerator WHI-758U",
+        "item_qty": "1",
+        "item_net_price": "19,221.59",
+        "item_net_worth": "19,221.59",
+        "item_vat": "28%",
+        "item_gross_worth": "24,603.64"
+      },
+      {
+        "item_desc": "LG Microwave LG-650O",
+        "item_qty": "1",
+        "item_net_price": "24,731.17",
+        "item_net_worth": "24,731.17",
+        "item_vat": "28%",
+        "item_gross_worth": "31,655.90"
+      }
+    ],
+    "summary": {
+      "total_net_worth": "₹43,952.76",
+      "total_vat": "₹12,306.77",
+      "total_gross_worth": "₹56,259.53",
+      "total_cgst": "₹6,153.39",
+      "total_sgst": "₹6,153.39",
+      "total_igst": "₹0.00"
+    }
+  }
+}
